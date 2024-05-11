@@ -3,9 +3,9 @@
   <channel>
     
     <title>知识花园</title>
-    <description>记录 科普+IT 相关知识。</description>
-    <link>https://python.ccsyue.com/</link>
-    <atom:link href="https://python.ccsyue.com/feed_rss_created.xml" rel="self" type="application/rss+xml" />
+    <description>记录和分享 科普+IT 相关知识。</description>
+    <link>https://doc.ccsyue.com/</link>
+    <atom:link href="https://doc.ccsyue.com/feed_rss_created.xml" rel="self" type="application/rss+xml" />
 
     
     <managingEditor>Steven hou</managingEditor>
@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Sat, 11 May 2024 02:59:41 -0000</pubDate>
-    <lastBuildDate>Sat, 11 May 2024 02:59:41 -0000</lastBuildDate>
+    <pubDate>Sat, 11 May 2024 03:33:08 -0000</pubDate>
+    <lastBuildDate>Sat, 11 May 2024 03:33:08 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -25,7 +25,7 @@
     <image>
       <url>https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/128px-Feed-icon.svg.png</url>
       <title>知识花园</title>
-      <link>https://python.ccsyue.com/</link>
+      <link>https://doc.ccsyue.com/</link>
     </image>
     
 
@@ -71,11 +71,11 @@
     crossorigin=&#34;anonymous&#34;
     async&gt;
 &lt;/script&gt;</description>
-      <link>https://python.ccsyue.com/flinks/</link>
+      <link>https://doc.ccsyue.com/flinks/</link>
       <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
-      <source url="https://python.ccsyue.com/feed_rss_created.xml">知识花园</source>
+      <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
       
-      <guid isPermaLink="true">https://python.ccsyue.com/flinks/</guid>
+      <guid isPermaLink="true">https://doc.ccsyue.com/flinks/</guid>
       
     </item>
     
@@ -103,11 +103,11 @@
     crossorigin=&#34;anonymous&#34;
     async&gt;
 &lt;/script&gt;</description>
-      <link>https://python.ccsyue.com/message/</link>
+      <link>https://doc.ccsyue.com/message/</link>
       <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
-      <source url="https://python.ccsyue.com/feed_rss_created.xml">知识花园</source>
+      <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
       
-      <guid isPermaLink="true">https://python.ccsyue.com/message/</guid>
+      <guid isPermaLink="true">https://doc.ccsyue.com/message/</guid>
       
     </item>
     
