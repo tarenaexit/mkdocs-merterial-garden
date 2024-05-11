@@ -1,0 +1,44 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "\u77e5\u8bc6\u82b1\u56ed",
+    "home_page_url": "https://python.ccsyue.com/",
+    "feed_url": "https://python.ccsyue.com/feed_json_updated.json",
+    "description": "\u8bb0\u5f55 \u79d1\u666e+IT \u76f8\u5173\u77e5\u8bc6\u3002",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/128px-Feed-icon.svg.png",
+    "authors": [
+        {
+            "name": "Steven hou"
+        }
+    ],
+    "language": "zh",
+    "items": [
+        {
+            "id": "https://python.ccsyue.com/flinks/",
+            "url": "https://python.ccsyue.com/flinks/",
+            "title": "\u6536\u85cf\u94fe\u63a5",
+            "content_html": "<blockquote>\n<p>\u6536\u96c6\u5173\u6ce8\u7684\u7f51\u7ad9</p>\n</blockquote>\n<h2 id=\"\u5de5\u5177\">\u5de5\u5177<a class=\"headerlink\" href=\"#\u5de5\u5177\" title=\"Permanent link\">&para;</a></h2>\n<ul>\n<li><strong><a href=\"https://picx.ccsyue.com/\">\u56fe\u5e8a</a></strong></li>\n</ul>\n<h2 id=\"\u79d1\u666e\">\u79d1\u666e<a class=\"headerlink\" href=\"#\u79d1\u666e\" title=\"Permanent link\">&para;</a></h2>\n<ul>\n<li><strong><a href=\"http://xys.org\">\u65b0\u8bed\u4e1d</a></strong></li>\n<li><strong><a href=\"https://sciowl.us\">\u79d1\u5b66\u732b\u5934\u9e70</a></strong></li>\n<li><strong><a href=\"https://kids.frontiersin.org/\">frontiersin</a></strong></li>\n</ul>\n<h2 id=\"\u4eba\u6587\">\u4eba\u6587<a class=\"headerlink\" href=\"#\u4eba\u6587\" title=\"Permanent link\">&para;</a></h2>\n<ul>\n<li><strong><a href=\"https://www.gutenberg.org/\">gutenberg</a></strong></li>\n</ul>\n<script src=\"https://giscus.app/client.js\"\n    data-repo=\"tarenaexit/mkdocs-merterial-garden\"\n    data-repo-id=\"RR_kgDOL4wNPw\"\n    data-mapping=\"number\"\n    data-term=\"2\"\n    data-reactions-enabled=\"1\"\n    data-emit-metadata=\"0\"\n    data-input-position=\"bottom\"\n    data-theme=\"light\"\n    data-lang=\"zh-CN\"\n    crossorigin=\"anonymous\"\n    async>\n</script>",
+            "image": null,
+            "date_modified": "2023-07-24T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "\u5929\u8fb9\u98d8\u8fc7\u4e00\u884c\u5b57"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://python.ccsyue.com/message/",
+            "url": "https://python.ccsyue.com/message/",
+            "title": "\u7ed9\u4f5c\u8005\u7559\u8a00",
+            "content_html": "<p>\u5173\u4e8e\u672c\u7ad9\u7684\u7559\u8a00</p>\n<script src=\"https://giscus.app/client.js\"\n    data-repo=\"tarenaexit/mkdocs-merterial-garden\"\n    data-repo-id=\"RR_kgDOL4wNPw\"\n    data-mapping=\"number\"\n    data-term=\"4\"\n    data-reactions-enabled=\"1\"\n    data-emit-metadata=\"0\"\n    data-input-position=\"bottom\"\n    data-theme=\"light\"\n    data-lang=\"zh-CN\"\n    crossorigin=\"anonymous\"\n    async>\n</script>",
+            "image": null,
+            "date_modified": "2023-07-24T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "\u5929\u8fb9\u98d8\u8fc7\u4e00\u884c\u5b57"
+                }
+            ],
+            "tags": null
+        }
+    ]
+}

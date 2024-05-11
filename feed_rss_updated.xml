@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    
+    <title>知识花园</title>
+    <description>记录 科普+IT 相关知识。</description>
+    <link>https://python.ccsyue.com/</link>
+    <atom:link href="https://python.ccsyue.com/feed_rss_updated.xml" rel="self" type="application/rss+xml" />
+
+    
+    <managingEditor>Steven hou</managingEditor>
+    <docs>https://github.com/tarenaexit/mkdocs-merterial-garden/</docs>
+    <language>zh</language>
+
+    
+    <pubDate>Sat, 11 May 2024 02:44:49 -0000</pubDate>
+    <lastBuildDate>Sat, 11 May 2024 02:44:49 -0000</lastBuildDate>
+    <ttl>1440</ttl>
+
+    
+    <generator>MkDocs RSS plugin - v1.12.2</generator>
+
+    
+    
+    <image>
+      <url>https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/128px-Feed-icon.svg.png</url>
+      <title>知识花园</title>
+      <link>https://python.ccsyue.com/</link>
+    </image>
+    
+
+    
+    
+    <item>
+      <title>收藏链接</title>
+      
+      
+        
+      <author>天边飘过一行字</author>
+        
+      
+      
+      
+      <description>&lt;blockquote&gt;
+&lt;p&gt;收集关注的网站&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;工具&#34;&gt;工具&lt;a class=&#34;headerlink&#34; href=&#34;#工具&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://picx.ccsyue.com/&#34;&gt;图床&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;科普&#34;&gt;科普&lt;a class=&#34;headerlink&#34; href=&#34;#科普&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://xys.org&#34;&gt;新语丝&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://sciowl.us&#34;&gt;科学猫头鹰&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://kids.frontiersin.org/&#34;&gt;frontiersin&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;人文&#34;&gt;人文&lt;a class=&#34;headerlink&#34; href=&#34;#人文&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://www.gutenberg.org/&#34;&gt;gutenberg&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;script src=&#34;https://giscus.app/client.js&#34;
+    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
+    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
+    data-mapping=&#34;number&#34;
+    data-term=&#34;2&#34;
+    data-reactions-enabled=&#34;1&#34;
+    data-emit-metadata=&#34;0&#34;
+    data-input-position=&#34;bottom&#34;
+    data-theme=&#34;light&#34;
+    data-lang=&#34;zh-CN&#34;
+    crossorigin=&#34;anonymous&#34;
+    async&gt;
+&lt;/script&gt;</description>
+      <link>https://python.ccsyue.com/flinks/</link>
+      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
+      <source url="https://python.ccsyue.com/feed_rss_updated.xml">知识花园</source>
+      
+      <guid isPermaLink="true">https://python.ccsyue.com/flinks/</guid>
+      
+    </item>
+    
+    <item>
+      <title>给作者留言</title>
+      
+      
+        
+      <author>天边飘过一行字</author>
+        
+      
+      
+      
+      <description>&lt;p&gt;关于本站的留言&lt;/p&gt;
+&lt;script src=&#34;https://giscus.app/client.js&#34;
+    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
+    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
+    data-mapping=&#34;number&#34;
+    data-term=&#34;4&#34;
+    data-reactions-enabled=&#34;1&#34;
+    data-emit-metadata=&#34;0&#34;
+    data-input-position=&#34;bottom&#34;
+    data-theme=&#34;light&#34;
+    data-lang=&#34;zh-CN&#34;
+    crossorigin=&#34;anonymous&#34;
+    async&gt;
+&lt;/script&gt;</description>
+      <link>https://python.ccsyue.com/message/</link>
+      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
+      <source url="https://python.ccsyue.com/feed_rss_updated.xml">知识花园</source>
+      
+      <guid isPermaLink="true">https://python.ccsyue.com/message/</guid>
+      
+    </item>
+    
+  </channel>
+</rss>
