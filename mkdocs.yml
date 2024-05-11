@@ -1,7 +1,7 @@
 site_dir: "site"
-site_url: https://python.ccsyue.com/
+site_url: https://doc.ccsyue.com/
 site_name: 知识花园
-site_description: '记录 科普+IT 相关知识。'
+site_description: '记录和分享 科普+IT 相关知识。'
 
 # Docs 
 docs_dir: "docs"
