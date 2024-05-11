@@ -1,5 +1,5 @@
 ---
-title: 维燕的知识花园
+title: 知识花园
 template: home.html
 ---
 

@@ -102,7 +102,7 @@ def __main__():
                     MMD.write(discussion_body)
                     MMD.write(comments)
             
-            elif int(discussion_number) == 43:
+            elif int(discussion_number) == 3:
                 #关于
                 readme_md  = Path(outputDir).joinpath('readme/index.md')
                 readme_dir = readme_md.parent
