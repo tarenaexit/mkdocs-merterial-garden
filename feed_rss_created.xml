@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Sat, 11 May 2024 19:10:47 -0000</pubDate>
-    <lastBuildDate>Sat, 11 May 2024 19:10:47 -0000</lastBuildDate>
+    <pubDate>Sun, 12 May 2024 05:32:35 -0000</pubDate>
+    <lastBuildDate>Sun, 12 May 2024 05:32:35 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -82,7 +82,7 @@
 &lt;p&gt;国内虽然不少人都在使用 Gitee，但 Gitee 时不时恶心你一下（前不久就无缘无故把我的 oschina 的账号封了，而且要加 QQ 群去申诉，最后我是直接通过邮件反馈解封了），而且有时候有些资源用起来限制太多，很麻烦。&lt;/p&gt;
 &lt;p&gt;极狐从 2024 年 1 月 2 日起要付费才能使用，1898元/人/年的价格估计会劝退 90% 的个人用户吧！&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/readme/res/</link>
-      <pubDate>Sat, 11 May 2024 10:28:57 +0000</pubDate>
+      <pubDate>Sun, 12 May 2024 05:31:57 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/readme/res/</guid>
@@ -121,10 +121,50 @@
     &lt;img style=&#34;max-widrh:600px&#34; src=&#34;https://slab-1251708715.cos.ap-guangzhou.myqcloud.com/website/portfolio/webstack-hugo.jpg&#34; alt=&#34;WebStack-Hugo&#34;&gt;
 &lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/readme/work/</link>
-      <pubDate>Sat, 11 May 2024 10:28:57 +0000</pubDate>
+      <pubDate>Sun, 12 May 2024 05:31:57 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/readme/work/</guid>
+      
+    </item>
+    
+    <item>
+      <title>试卷：高中信息技术学业水平考试</title>
+      
+      
+        
+      <author>tarenaexit</author>
+        
+      
+      
+      
+      <description>&lt;div class=&#34;admonition tip&#34;&gt;
+&lt;p class=&#34;admonition-title&#34;&gt;试卷结构&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;一、考试内容
+必修课程两个模块，知识点以课标【内容要求】为准。客观题占60%，操作题占40%&lt;/p&gt;
+&lt;p&gt;二、题型设计
+单选题15道，30分;填空题10道，20分;判断题10道，10分。
+操作题3道共40分，其中程序设计题1道15分，算法流程题1道15分，
+信息系统题1道10分。&lt;/p&gt;
+&lt;script src=&#34;https://giscus.app/client.js&#34;
+    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
+    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
+    data-mapping=&#34;number&#34;
+    data-term=&#34;8&#34;
+    data-reactions-enabled=&#34;1&#34;
+    data-emit-metadata=&#34;0&#34;
+    data-input-position=&#34;bottom&#34;
+    data-theme=&#34;light&#34;
+    data-lang=&#34;zh-CN&#34;
+    crossorigin=&#34;anonymous&#34;
+    async&gt;
+&lt;/script&gt;</description>
+      <link>https://doc.ccsyue.com/discussions-8/</link>
+      <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
+      <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
+      
+      <guid isPermaLink="true">https://doc.ccsyue.com/discussions-8/</guid>
       
     </item>
     
@@ -144,6 +184,641 @@
 &lt;p&gt;学业要求:掌握一种程序设计语言的基本知识，利用程序设计语言实现简单算法，解决实际问题。&lt;/p&gt;
 &lt;p&gt;命题思路:主要考查学生阅读、修改程序的能力。能读懂Python程序段，明确要解决的问题;能补全其中的空缺，找出并改正其中的错误。&lt;/p&gt;
 &lt;/div&gt;
+&lt;h2 id=&#34;题目1&#34;&gt;题目1&lt;a class=&#34;headerlink&#34; href=&#34;#题目1&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;题目要求&#34;&gt;题目要求&lt;a class=&#34;headerlink&#34; href=&#34;#题目要求&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;编程实现人机互动猜1到100之间整数游戏。
+计算机随机生成一个数，游戏参与人有5次猜数机会，每次在程序界面输入所猜的数，游戏程序会给予相应提示“猜大了！”或“猜小了！”
+猜对游戏直接结束，如5次尝试都不对游戏结束。请你阅读下列程序段，根据题意，实现游戏功能。
+【操作要求】
+1. 补充完善下划线处的内容使程序语句完整。(下划线须删去)
+2. 找出程序中的两处错误并改正。
+3. 运行程序，输入你猜的数字，验证结果是否正确。&lt;/p&gt;
+&lt;h3 id=&#34;代码调试区-在线调试&#34;&gt;代码调试区 &lt;a href=&#34;https://pythontutor.com/visualize.html#code=import%20random%0Anum%20%3D%20random.randint%281,%20100%29%0Aprint%28%22**********%E6%B8%B8%E6%88%8F%E5%BC%80%E5%A7%8B**********%22%29%0Afor%20i%20in%20range%281,%20___%29%3A%0A%20%20%20%20n%20%3D%20___%28input%28%22%E8%AF%B7%E8%BE%93%E5%85%A5%E4%BD%A0%E7%8C%9C%E7%9A%84%E6%95%B0%EF%BC%9A%22%29%29%0A%20%20%20%20if%20n%20%3D%3D%20num%3A%0A%20%20%20%20%20%20%20%20print%28%22%E6%81%AD%E5%96%9C%E4%BD%A0%EF%BC%8C%E7%8C%9C%E5%AF%B9%E4%BA%86%EF%BC%81%22%29%0A%20%20%20%20%20%20%20%20break%0A%20%20%20%20elif%20n%20%3C%20num%3A%0A%20%20%20%20%20%20%20%20print%28%22%E7%8C%9C%E5%B0%8F%E4%BA%86%EF%BC%81%22%29%0A%20%20%20%20elif%3A%0A%20%20%20%20print%28%22%E7%8C%9C%E5%A4%A7%E4%BA%86%EF%BC%81%22%29%0Aprint%28%22******%E6%B8%B8%E6%88%8F%E7%BB%93%E6%9D%9F******%22%29&amp;amp;cumulative=false&amp;amp;heapPrimitives=nevernest&amp;amp;mode=edit&amp;amp;origin=opt-frontend.js&amp;amp;py=3&amp;amp;rawInputLstJSON=%5B%5D&amp;amp;textReferences=false&#34;&gt;在线调试&lt;/a&gt;&lt;a class=&#34;headerlink&#34; href=&#34;#代码调试区-在线调试&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;table class=&#34;highlighttable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;linenos&#34;&gt;&lt;div class=&#34;linenodiv&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&#34;normal&#34;&gt; 1&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 2&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 3&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 4&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 5&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 6&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 7&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 8&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 9&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;10&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;11&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;12&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;13&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;div&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;random&lt;/span&gt;
+&lt;span class=&#34;n&#34;&gt;num&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;random&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;randint&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;100&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;**********游戏开始**********&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt; &lt;span class=&#34;ow&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;range&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;___&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;):&lt;/span&gt;
+    &lt;span class=&#34;n&#34;&gt;n&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;___&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;input&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;请输入你猜的数：&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;))&lt;/span&gt;
+    &lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;n&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;num&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+        &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;恭喜你，猜对了！&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+        &lt;span class=&#34;k&#34;&gt;break&lt;/span&gt;
+    &lt;span class=&#34;k&#34;&gt;elif&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;n&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;num&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+        &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;猜小了！&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+    &lt;span class=&#34;k&#34;&gt;elif&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;猜大了！&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;******游戏结束******&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;h3 id=&#34;提示&#34;&gt;提示&lt;a class=&#34;headerlink&#34; href=&#34;#提示&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;请注意，代码中有一个错误：在elif语句之后应该有一个条件，但是在elif后面没有条件。正确的应该是else，而不是elif。此外，for循环中的____应该被替换为用户希望的尝试次数。例如，如果想让用户有10次机会猜测，就应该写成range(1, 11)
+&lt;div class=&#34;highlight&#34;&gt;&lt;table class=&#34;highlighttable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;linenos&#34;&gt;&lt;div class=&#34;linenodiv&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&#34;normal&#34;&gt; 1&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 2&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 3&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 4&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 5&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 6&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 7&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 8&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 9&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;10&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;11&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;12&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;13&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;14&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;div&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;random&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 导入random模块以使用其函数&lt;/span&gt;
+&lt;span class=&#34;c1&#34;&gt;# 使用random模块的randint函数生成一个1到100之间的随机数，并将其赋值给变量num&lt;/span&gt;
+&lt;span class=&#34;n&#34;&gt;num&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;random&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;randint&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;100&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;**********游戏开始**********&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 打印游戏开始的信息&lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt; &lt;span class=&#34;ow&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;range&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;___&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;):&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 使用for循环，让用户有多次机会猜测数字，____处应填写尝试的次数&lt;/span&gt;
+    &lt;span class=&#34;n&#34;&gt;n&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;___&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;input&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;请输入你猜的数：&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;))&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 获取用户输入的数字，并转换为整数类型&lt;/span&gt;
+    &lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;n&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;num&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 如果用户猜的数字与程序生成的随机数相同&lt;/span&gt;
+        &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;恭喜你，猜对了！&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 打印恭喜信息&lt;/span&gt;
+        &lt;span class=&#34;k&#34;&gt;break&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 退出循环&lt;/span&gt;
+    &lt;span class=&#34;k&#34;&gt;elif&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;n&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;num&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 如果用户猜的数字小于程序生成的随机数&lt;/span&gt;
+        &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;猜小了！&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 提示用户猜小了&lt;/span&gt;
+    &lt;span class=&#34;k&#34;&gt;elif&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 如果用户猜的数字大于程序生成的随机数&lt;/span&gt;
+    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;猜大了！&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 提示用户猜大了&lt;/span&gt;
+&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;******游戏结束******&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 当循环结束时，打印游戏结束的信息&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;答案&#34;&gt;答案&lt;a class=&#34;headerlink&#34; href=&#34;#答案&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;table class=&#34;highlighttable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;linenos&#34;&gt;&lt;div class=&#34;linenodiv&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&#34;normal&#34;&gt; 1&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 2&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 3&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 4&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 5&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 6&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 7&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 8&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 9&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;10&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;11&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;12&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;13&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;14&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;div&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;random&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 导入random模块以使用其函数&lt;/span&gt;
+&lt;span class=&#34;c1&#34;&gt;# 使用random模块的randint函数生成一个1到100之间的随机数，并将其赋值给变量num&lt;/span&gt;
+&lt;span class=&#34;n&#34;&gt;num&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;random&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;randint&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;100&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;**********游戏开始**********&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 打印游戏开始的信息&lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt; &lt;span class=&#34;ow&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;range&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;6&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;):&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 使用for循环，让用户有多次机会猜测数字，____处应填写尝试的次数         #填空1&lt;/span&gt;
+    &lt;span class=&#34;n&#34;&gt;n&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;input&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;请输入你猜的数：&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;))&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 获取用户输入的数字，并转换为整数类型                 #填空2&lt;/span&gt;
+    &lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;n&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;num&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 如果用户猜的数字与程序生成的随机数相同&lt;/span&gt;
+        &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;恭喜你，猜对了！&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 打印恭喜信息&lt;/span&gt;
+        &lt;span class=&#34;k&#34;&gt;break&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 退出循环&lt;/span&gt;
+    &lt;span class=&#34;k&#34;&gt;elif&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;n&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;num&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 如果用户猜的数字小于程序生成的随机数&lt;/span&gt;
+        &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;猜小了！&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 提示用户猜小了&lt;/span&gt;
+    &lt;span class=&#34;k&#34;&gt;else&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 如果用户猜的数字大于程序生成的随机数                                             #错误1&lt;/span&gt;
+        &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;猜大了！&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 提示用户猜大了                                                  #错误2&lt;/span&gt;
+&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;******游戏结束******&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 当循环结束时，打印游戏结束的信息&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;h2 id=&#34;题目2&#34;&gt;题目2&lt;a class=&#34;headerlink&#34; href=&#34;#题目2&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;题目要求_1&#34;&gt;题目要求&lt;a class=&#34;headerlink&#34; href=&#34;#题目要求_1&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;为切实增强学生身体素质，学校每学期进行体质健康测试。其中一个项目为“一分种垫排球”，考核规则为: 每人三次机会，
+需有两次连续垫球次数满35次(包含35)方能通过考核。请你完善程序，输入学生每次的垫球次数，并判断是否通过考核。
+【操作要示】
+(1)补充完善下划线处的内容使程序语句完整
+(2)找出程序中的两处错误并改正
+(3)运行程序，当依次输入每次的垫球次数为36、32、38时，检查输出结果是否为&amp;rdquo;恭喜你，已通过考核!”。&lt;/p&gt;
+&lt;h3 id=&#34;代码调试区-在线调试_1&#34;&gt;代码调试区 &lt;a href=&#34;https://pythontutor.com/visualize.html#code=count%20%3D%200%0Afor%20time%20in%20range%281,%203,%201%29%3A%0A%20%20%20%20dig%20%3D%20int%28input%28%22%E8%AF%B7%E8%BE%93%E5%85%A5%E4%BD%A0%E7%9A%84%E5%9E%AB%E7%90%83%E6%AC%A1%E6%95%B0%22%29%29%0A%20%20%20%20if________%3A%0A%20%20%20%20count%20%3D%20________%0Aif%20count%20%3E%3D%202%3A%0A%20%20%20%20print%28%22%E6%81%AD%E5%96%9C%E4%BD%A0%EF%BC%8C%E9%80%9A%E8%BF%87%E8%80%83%E6%A0%B8%22%29%0Aelse%0A%20%20%20%20print%28%22%E6%8A%B1%E6%AD%89%EF%BC%8C%E6%9C%AA%E9%80%9A%E8%BF%87%E8%80%83%E6%A0%B8%22%29&amp;amp;cumulative=false&amp;amp;heapPrimitives=nevernest&amp;amp;mode=edit&amp;amp;origin=opt-frontend.js&amp;amp;py=3&amp;amp;rawInputLstJSON=%5B%5D&amp;amp;textReferences=false&#34;&gt;在线调试&lt;/a&gt;&lt;a class=&#34;headerlink&#34; href=&#34;#代码调试区-在线调试_1&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;table class=&#34;highlighttable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;linenos&#34;&gt;&lt;div class=&#34;linenodiv&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&#34;normal&#34;&gt;1&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;2&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;3&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;4&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;5&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;6&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;7&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;8&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;9&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;div&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class=&#34;n&#34;&gt;count&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;time&lt;/span&gt; &lt;span class=&#34;ow&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;range&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;):&lt;/span&gt;
+    &lt;span class=&#34;n&#34;&gt;dig&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;input&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;请输入你的垫球次数&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;))&lt;/span&gt;
+    &lt;span class=&#34;n&#34;&gt;if________&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+    &lt;span class=&#34;n&#34;&gt;count&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;________&lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;count&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;gt;=&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;恭喜你，通过考核&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;else&lt;/span&gt;
+    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;抱歉，未通过考核&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;h3 id=&#34;提示_1&#34;&gt;提示&lt;a class=&#34;headerlink&#34; href=&#34;#提示_1&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;请注意，if语句后面的条件和count变量的更新需要根据实际情况来填写。在这个例子中，我假设如果用户输入的垫球次数大于或等于35次，就认为是一次成功的垫球，并更新计数器。如果用户在两次机会中都达到了这个标准，程序就会恭喜他们通过考核。如果没有达到，就会告诉他们未通过考核。这个标准（5次）可以根据实际需要进行调整。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;table class=&#34;highlighttable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;linenos&#34;&gt;&lt;div class=&#34;linenodiv&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&#34;normal&#34;&gt;1&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;2&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;3&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;4&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;5&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;6&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;7&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;8&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;9&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;div&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class=&#34;n&#34;&gt;count&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 初始化计数器为0&lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;time&lt;/span&gt; &lt;span class=&#34;ow&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;range&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;):&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 使用for循环，范围从1到2，每次增加1&lt;/span&gt;
+    &lt;span class=&#34;n&#34;&gt;dig&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;input&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;请输入你的垫球次数&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;))&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 通过input函数获取用户输入的垫球次数，并将其转换为整数类型&lt;/span&gt;
+    &lt;span class=&#34;n&#34;&gt;if________&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 这里应该有一个条件判断语句，例如：如果输入的次数大于等于35，则计数器加1&lt;/span&gt;
+    &lt;span class=&#34;n&#34;&gt;count&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;________&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 如果满足条件，计数器加1&lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;count&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;gt;=&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 如果计数器的值大于或等于2&lt;/span&gt;
+    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;恭喜你，通过考核&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;  &lt;span class=&#34;c1&#34;&gt;# 则打印“恭喜你，通过考核”&lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;else&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 否则&lt;/span&gt;
+    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;抱歉，未通过考核&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;  &lt;span class=&#34;c1&#34;&gt;# 打印“抱歉，未通过考核”&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;h3 id=&#34;答案_1&#34;&gt;答案&lt;a class=&#34;headerlink&#34; href=&#34;#答案_1&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;table class=&#34;highlighttable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;linenos&#34;&gt;&lt;div class=&#34;linenodiv&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&#34;normal&#34;&gt;1&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;2&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;3&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;4&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;5&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;6&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;7&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;8&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;9&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;div&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class=&#34;n&#34;&gt;count&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 初始化计数器为0&lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;time&lt;/span&gt; &lt;span class=&#34;ow&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;range&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;):&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 使用for循环，范围从1到2，每次增加1&lt;/span&gt;
+    &lt;span class=&#34;n&#34;&gt;dig&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;input&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;请输入你的垫球次数&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;))&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 通过input函数获取用户输入的垫球次数，并将其转换为整数类型&lt;/span&gt;
+    &lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;dig&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;=&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;35&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 这里应该有一个条件判断语句，例如：如果输入的次数大于等于35，则计数器加1                 #填空1&lt;/span&gt;
+        &lt;span class=&#34;n&#34;&gt;count&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;count&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 如果满足条件，计数器加1                                                     #填空2  #错误1&lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;count&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;gt;=&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 如果计数器的值大于或等于2&lt;/span&gt;
+    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;恭喜你，通过考核&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;  &lt;span class=&#34;c1&#34;&gt;# 则打印“恭喜你，通过考核”&lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;else&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 否则                                                                                         #错误2&lt;/span&gt;
+    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;抱歉，未通过考核&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;  &lt;span class=&#34;c1&#34;&gt;# 打印“抱歉，未通过考核”&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;h2 id=&#34;题目3&#34;&gt;题目3&lt;a class=&#34;headerlink&#34; href=&#34;#题目3&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;题目要求_2&#34;&gt;题目要求&lt;a class=&#34;headerlink&#34; href=&#34;#题目要求_2&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;某地发生了一起肇事车辆逃追事故，据调查发现如下线索:①车牌号为晋W 652?6，
+其中车牌号后五位全部由数字组成，且倒数第二位数字模糊不清;②这个五位数是53的倍数。
+请你阅读下列程序段，根据上述线索，找出符合条件的车牌号。
+【操作要求】 print(”该事故可能涉及到的车辆车牌共有:&amp;rdquo;count,&amp;rdquo;个&amp;rdquo;) 
+(1)补充完善下划线处的内容使程序语句完整。
+(2)找出程序中的两处惜误并改正。
+(3)运行程序，直至输出正确的结果,以协助交警队事故科快速处理该事故。&lt;/p&gt;
+&lt;h3 id=&#34;代码调试区-在线调试_2&#34;&gt;代码调试区 &lt;a href=&#34;https://pythontutor.com/visualize.html#code=______%0Afor%20i%20in%20range%280,___,%201%29%3A%0A%20%20%20%20t%3D65206%2Bi*100%20%20%20%20%0A%20%20%20%20if%20t%2553%3D0%3A%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20count%2B%3D1%20%20%20%20%20%20%20%23%E7%94%A8count%E8%AE%A1%E6%95%B0%20%0A%20%20%20%20%20%20%20print%28%22%E8%AF%A5%E4%BA%8B%E6%95%85%E5%8F%AF%E8%83%BD%E6%B6%89%E5%8F%8A%E5%88%B0%E7%9A%84%E8%BD%A6%E8%BE%86%E8%BD%A6%E7%89%8C%E5%8F%B7%E7%A0%81%E4%B8%BA%3A%E6%99%8BW%22,t%29%0Aprint%28%22%E8%AF%A5%E4%BA%8B%E6%95%85%E5%8F%AF%E8%83%BD%E6%B6%89%E5%8F%8A%E5%88%B0%E7%9A%84%E8%BD%A6%E8%BE%86%E8%BD%A6%E7%89%8C%E5%85%B1%E6%9C%89%22,count,%22%E4%B8%AA%22%29&amp;amp;cumulative=false&amp;amp;heapPrimitives=nevernest&amp;amp;mode=edit&amp;amp;origin=opt-frontend.js&amp;amp;py=3&amp;amp;rawInputLstJSON=%5B%5D&amp;amp;textReferences=false&#34;&gt;在线调试&lt;/a&gt;&lt;a class=&#34;headerlink&#34; href=&#34;#代码调试区-在线调试_2&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;table class=&#34;highlighttable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;linenos&#34;&gt;&lt;div class=&#34;linenodiv&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&#34;normal&#34;&gt;1&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;2&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;3&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;4&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;5&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;6&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;7&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;div&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class=&#34;n&#34;&gt;______&lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt; &lt;span class=&#34;ow&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;range&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;___&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;):&lt;/span&gt;
+    &lt;span class=&#34;n&#34;&gt;t&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;65206&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;100&lt;/span&gt;    
+    &lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;t&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;%&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;53&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;        
+       &lt;span class=&#34;n&#34;&gt;count&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;+=&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;       &lt;span class=&#34;c1&#34;&gt;#用count计数 &lt;/span&gt;
+       &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;该事故可能涉及到的车辆车牌号码为:晋W&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;t&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;该事故可能涉及到的车辆车牌共有&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;count&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;个&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;h3 id=&#34;提示_2&#34;&gt;提示&lt;a class=&#34;headerlink&#34; href=&#34;#提示_2&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;请注意，代码中的if t%53=0:应该是if t%53 == 0:，因为在Python中，==用于比较操作符，而=用于赋值操作。此外，for循环的范围&lt;strong&gt;&lt;em&gt;需要根据实际情况来确定，例如，如果要检查从65206到65306之间的车牌号码，可以将&lt;/em&gt;&lt;/strong&gt;替换为1。如果要检查更大范围内的车牌号码，可以相应地增加这个数字。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;table class=&#34;highlighttable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;linenos&#34;&gt;&lt;div class=&#34;linenodiv&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&#34;normal&#34;&gt;1&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;2&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;3&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;4&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;5&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;6&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;7&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;div&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class=&#34;n&#34;&gt;______&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 初始化计数器为0&lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt; &lt;span class=&#34;ow&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;range&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;___&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;):&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 使用for循环遍历一个范围内的数字，这里的范围需要根据实际情况填写&lt;/span&gt;
+    &lt;span class=&#34;n&#34;&gt;t&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;65206&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;100&lt;/span&gt;       &lt;span class=&#34;c1&#34;&gt;# 计算可能涉及事故的车牌号码&lt;/span&gt;
+    &lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;t&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;%&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;53&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;           &lt;span class=&#34;c1&#34;&gt;# 如果车牌号码除以53的余数为0，则认为该车牌号码满足条件&lt;/span&gt;
+       &lt;span class=&#34;n&#34;&gt;count&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;+=&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;  &lt;span class=&#34;c1&#34;&gt;# 用count计数    # 满足条件的车牌号码计数加1&lt;/span&gt;
+       &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;该事故可能涉及到的车辆车牌号码为:晋W&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;t&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 打印出满足条件的车牌号码&lt;/span&gt;
+&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;该事故可能涉及到的车辆车牌共有&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;count&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;quot;个&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 最后打印出满足条件的车牌号码总数&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;h3 id=&#34;答案_2&#34;&gt;答案&lt;a class=&#34;headerlink&#34; href=&#34;#答案_2&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;table class=&#34;highlighttable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;linenos&#34;&gt;&lt;div class=&#34;linenodiv&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&#34;normal&#34;&gt;1&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;2&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;3&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;4&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;5&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;6&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;7&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;div&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class=&#34;n&#34;&gt;count&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 初始化计数器为0                                                                         #填空1&lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt; &lt;span class=&#34;ow&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;range&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;10&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;):&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 使用for循环遍历一个范围内的数字，这里的范围需要根据实际情况填写           #填空2&lt;/span&gt;
+    &lt;span class=&#34;n&#34;&gt;t&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;65206&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;10&lt;/span&gt;       &lt;span class=&#34;c1&#34;&gt;# 计算可能涉及事故的车牌号码                                                #错误1&lt;/span&gt;
+    &lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;t&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;%&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;53&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;           &lt;span class=&#34;c1&#34;&gt;# 如果车牌号码除以53的余数为0，则认为该车牌号码满足条件                  #错误2&lt;/span&gt;
+       &lt;span class=&#34;n&#34;&gt;count&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;+=&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;  &lt;span class=&#34;c1&#34;&gt;# 用count计数    # 满足条件的车牌号码计数加1&lt;/span&gt;
+       &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;该事故可能涉及到的车辆车牌号码为:晋W&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;t&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 打印出满足条件的车牌号码&lt;/span&gt;
+&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;该事故可能涉及到的车辆车牌共有&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;count&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;quot;个&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 最后打印出满足条件的车牌号码总数&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;h2 id=&#34;题目4&#34;&gt;题目4&lt;a class=&#34;headerlink&#34; href=&#34;#题目4&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;题目要求_3&#34;&gt;题目要求&lt;a class=&#34;headerlink&#34; href=&#34;#题目要求_3&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;身体质量指数(BMI)是衡量人体肥胖程度的重要标准，其计算方法为身体质量指数等于体重(单位:kg)除以身高(单位:m)的平方。
+下表是高二男生BMI数值对应的等级表。请你根据提供的程序段输入身高和体重，计算BMI的值并判断BMI的等级。
+BMI数值范围 BMI数值范围
+16.7以下(包含16.7)  低体重 
+16.7以上23.7以下(包含23.7)    正常
+23.7以上26.5以下(包含26.5)    超重
+26.5 以上 肥胖
+【操作要求】
+(1)补充完善程序中画线处的内容，使程序语句完整。
+(2)找出程序中的两处错误并改正。
+(3)运行程序，输入身高和体重，测试输出结果是否正确。&lt;/p&gt;
+&lt;h3 id=&#34;代码调试区-在线调试_3&#34;&gt;代码调试区 &lt;a href=&#34;https://pythontutor.com/visualize.html#code=h%3Dfloat%28input%28%22%E8%AF%B7%E8%BE%93%E5%85%A5%E4%BD%A0%E7%9A%84%E8%BA%AB%E9%AB%98%28%E5%8D%95%E4%BD%8D%3Am%29%22%29%29%0A__%3Dfloat%28input%28%22%E8%AF%B7%E8%BE%93%E5%85%A5%E4%BD%A0%E7%9A%84%E4%BD%93%E9%87%8D%28%E5%8D%95%E4%BD%8D%3Akg%29%22%29%29%0ABMI%3Dw/h**2%20%20%23%20%E8%AE%A1%E7%AE%97%E7%9B%B8%E5%BA%94%E7%9A%84BMI%E5%80%BC%0ABMI%3Dround%28BMI,%201%29%20%20%23%20%E5%AF%B9%E5%8F%98%E9%87%8FBMI%E7%9A%84%E5%80%BC%E8%BF%9B%E8%A1%8C%E5%9B%9B%E8%88%8D%E4%BA%94%E5%85%A5%E5%90%8E%EF%BC%8C%E4%BF%9D%E7%95%991%E4%BD%8D%E5%B0%8F%E6%95%B0%0Aprint%28%22%E4%BD%A0%E7%9A%84%E8%BA%AB%E4%BD%93%E8%B4%A8%E9%87%8F%E6%8C%87%E6%95%B0%E6%98%AF%EF%BC%9A%22,BMI%29%0Aif%20BMI___16.7%3A%0A%20%20%20%20print%28%22BMI%E7%AD%89%E7%BA%A7%3A%E4%BD%8E%E4%BD%93%E9%87%8D%22%29%0Aelif%20%20BMI%3C23.7%3A%0A%20%20%20%20print%28%22BMI%E7%AD%89%E7%BA%A7%3A%E6%AD%A3%E5%B8%B8%22%29%0Aelif%20BMI%3E26.5%3A%0A%20%20%20%20print%28%22BMI%20%E7%AD%89%E7%BA%A7%3A%E8%B6%85%E9%87%8D%22%29%0Aelse%3A%0A%20%20%20%20print%28%22BMI%E7%AD%89%E7%BA%A7%3A%E8%82%A5%E8%83%96%22%29&amp;amp;cumulative=false&amp;amp;heapPrimitives=nevernest&amp;amp;mode=edit&amp;amp;origin=opt-frontend.js&amp;amp;py=3&amp;amp;rawInputLstJSON=%5B%5D&amp;amp;textReferences=false&#34;&gt;在线调试&lt;/a&gt;&lt;a class=&#34;headerlink&#34; href=&#34;#代码调试区-在线调试_3&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;table class=&#34;highlighttable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;linenos&#34;&gt;&lt;div class=&#34;linenodiv&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&#34;normal&#34;&gt; 1&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 2&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 3&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 4&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 5&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 6&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 7&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 8&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 9&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;10&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;11&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;12&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;13&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;div&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class=&#34;n&#34;&gt;h&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;float&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;input&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;请输入你的身高(单位:m)&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;))&lt;/span&gt;
+&lt;span class=&#34;n&#34;&gt;__&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;float&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;input&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;请输入你的体重(单位:kg)&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;))&lt;/span&gt;
+&lt;span class=&#34;n&#34;&gt;BMI&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;w&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;h&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;**&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;2&lt;/span&gt;  &lt;span class=&#34;c1&#34;&gt;# 计算相应的BMI值&lt;/span&gt;
+&lt;span class=&#34;n&#34;&gt;BMI&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;round&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;BMI&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;  &lt;span class=&#34;c1&#34;&gt;# 对变量BMI的值进行四舍五入后，保留1位小数&lt;/span&gt;
+&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;你的身体质量指数是：&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;BMI&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;BMI___16&lt;/span&gt;&lt;span class=&#34;mf&#34;&gt;.7&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;BMI等级:低体重&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;elif&lt;/span&gt;  &lt;span class=&#34;n&#34;&gt;BMI&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;mf&#34;&gt;23.7&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;BMI等级:正常&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;elif&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;BMI&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;mf&#34;&gt;26.5&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;BMI 等级:超重&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;else&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;BMI等级:肥胖&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;h3 id=&#34;提示_3&#34;&gt;提示&lt;a class=&#34;headerlink&#34; href=&#34;#提示_3&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;4.请注意，代码中需添了缺失的变量w，它代表用户的体重。此外，要修正if语句中的条件，以确保所有可能的BMI值都被正确分类。&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;table class=&#34;highlighttable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;linenos&#34;&gt;&lt;div class=&#34;linenodiv&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&#34;normal&#34;&gt; 1&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 2&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 3&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 4&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 5&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 6&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 7&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 8&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 9&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;10&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;11&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;12&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;13&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;div&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class=&#34;n&#34;&gt;h&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;float&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;input&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;请输入你的身高(单位:m)&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;))&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 请求用户输入身高（单位：米），并将输入值转换为浮点数&lt;/span&gt;
+&lt;span class=&#34;n&#34;&gt;__&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;float&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;input&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;请输入你的体重(单位:kg)&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;))&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 请求用户输入体重（单位：千克），并将输入值转换为浮点数&lt;/span&gt;
+&lt;span class=&#34;n&#34;&gt;BMI&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;w&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;h&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;**&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;2&lt;/span&gt;  &lt;span class=&#34;c1&#34;&gt;# 计算相应的BMI值   # 使用体重除以身高的平方来计算BMI值&lt;/span&gt;
+&lt;span class=&#34;n&#34;&gt;BMI&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;round&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;BMI&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;  &lt;span class=&#34;c1&#34;&gt;# 对变量BMI的值进行四舍五入后，保留1位小数   # 将BMI值四舍五入到小数点后一位&lt;/span&gt;
+&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;你的身体质量指数是：&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;BMI&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 输出用户的BMI值&lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;BMI___16&lt;/span&gt;&lt;span class=&#34;mf&#34;&gt;.7&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 根据BMI值判断用户的体重等级，如果BMI小于16.7&lt;/span&gt;
+    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;BMI等级:低体重&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;  &lt;span class=&#34;c1&#34;&gt;# 输出低体重等级&lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;elif&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;BMI&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;mf&#34;&gt;23.7&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 如果BMI在16.7到23.7之间（不包含23.7）&lt;/span&gt;
+    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;BMI等级:正常&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;  &lt;span class=&#34;c1&#34;&gt;# 输出正常等级&lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;elif&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;BMI&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&#34;mf&#34;&gt;26.5&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 如果BMI大于26.5&lt;/span&gt;
+    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;BMI 等级:超重&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;  &lt;span class=&#34;c1&#34;&gt;# 输出超重等级&lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;else&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;  &lt;span class=&#34;c1&#34;&gt;# 否则&lt;/span&gt;
+    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;BMI等级:肥胖&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 如果BMI在23.7到26.5之间，输出肥胖等级&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;h3 id=&#34;答案_3&#34;&gt;答案&lt;a class=&#34;headerlink&#34; href=&#34;#答案_3&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;table class=&#34;highlighttable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;linenos&#34;&gt;&lt;div class=&#34;linenodiv&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&#34;normal&#34;&gt; 1&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 2&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 3&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 4&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 5&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 6&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 7&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 8&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 9&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;10&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;11&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;12&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;13&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;div&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class=&#34;n&#34;&gt;h&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;float&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;input&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;请输入你的身高(单位:m)&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;))&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 请求用户输入身高（单位：米），并将输入值转换为浮点数&lt;/span&gt;
+&lt;span class=&#34;n&#34;&gt;w&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;float&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;input&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;请输入你的体重(单位:kg)&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;))&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 请求用户输入体重（单位：千克），并将输入值转换为浮点数          #填空1&lt;/span&gt;
+&lt;span class=&#34;n&#34;&gt;BMI&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;w&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;h&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;**&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;2&lt;/span&gt;  &lt;span class=&#34;c1&#34;&gt;# 计算相应的BMI值   # 使用体重除以身高的平方来计算BMI值&lt;/span&gt;
+&lt;span class=&#34;n&#34;&gt;BMI&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;round&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;BMI&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;  &lt;span class=&#34;c1&#34;&gt;# 对变量BMI的值进行四舍五入后，保留1位小数   # 将BMI值四舍五入到小数点后一位&lt;/span&gt;
+&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;你的身体质量指数是：&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;BMI&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 输出用户的BMI值&lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;BMI&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;=&lt;/span&gt; &lt;span class=&#34;mf&#34;&gt;16.7&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 根据BMI值判断用户的体重等级，如果BMI小于等于16.7                                         #填空2&lt;/span&gt;
+    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;BMI等级:低体重&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;  &lt;span class=&#34;c1&#34;&gt;# 输出低体重等级&lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;elif&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;BMI&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;=&lt;/span&gt; &lt;span class=&#34;mf&#34;&gt;23.7&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 如果BMI在16.7到23.7之间（包含23.7）                                                  #错误1&lt;/span&gt;
+    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;BMI等级:正常&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;  &lt;span class=&#34;c1&#34;&gt;# 输出正常等级&lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;elif&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;BMI&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;=&lt;/span&gt; &lt;span class=&#34;mf&#34;&gt;26.5&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 23.7以上26.5以下(包含26.5)                                                           #错误2&lt;/span&gt;
+    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;BMI 等级:超重&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;  &lt;span class=&#34;c1&#34;&gt;# 输出超重等级&lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;else&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;  &lt;span class=&#34;c1&#34;&gt;# 否则&lt;/span&gt;
+    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;BMI等级:肥胖&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 如果BMI在23.7到26.5之间，输出肥胖等级&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;h2 id=&#34;题目5&#34;&gt;题目5&lt;a class=&#34;headerlink&#34; href=&#34;#题目5&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;题目要求_4&#34;&gt;题目要求&lt;a class=&#34;headerlink&#34; href=&#34;#题目要求_4&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;用户身份认证是各类信息系统的一个重要功能模块，
+现运用Python程序模拟用户登录，
+通过输入用户名和密码，实现用户身份验证。
+即输入用户名和密码，如果正确，显示欢迎信息，否则输出错误信息。
+若连续输入达3次错误，则不能继续登录。程序代码如下:
+【操作要求】
+(1)补充完善程序中画线处的内容，使程序语句完整。(2)找出程序中的两处错误并改正。
+(3)运行程序，输入一组数据，测试输出结果是否正确。
+用户名:张萌，密码:123456，输出:登录成功!
+输人错误信息，
+输出:用户名或密码错误!输入错误信息三次，
+输出:输入错误达3次，不允许登录!&lt;/p&gt;
+&lt;h3 id=&#34;代码调试区-在线调试_4&#34;&gt;代码调试区 &lt;a href=&#34;https://pythontutor.com/visualize.html#code=uname%20%3D%20%22%E5%BC%A0%E8%90%8C%22%20%20%0Aupass%3D%22123456%22%0Acount%3D0%20%20%20%20%0Afor%20i%20in%20range%281,___%29%3A%0A%20%20%20%20sname%3Dinput%28%22%E8%AF%B7%E8%BE%93%E4%BA%BA%E7%94%A8%E6%88%B7%E5%90%8D%3A%22%29%20%0A%20%20%20%20spass%20%3D%20input%28%22%E8%AF%B7%E8%BE%93%E4%BA%BA%E5%AF%86%E7%A0%81%3A%22%29%0A%20%20%20%20if%28sname%20%3D%3D%20uname%20___%20spass%20%3D%3D%20upass%29%3A%20%20%0A%20%20%20%20%20%20%20%20print%28%22%E7%99%BB%E5%BD%95%E6%88%90%E5%8A%9F!%22%29%0A%20%20%20%20%20%20%20%20break%0A%20%20%20%20else%20%0A%20%20%20%20%20%20%20%20print%28%22%E7%94%A8%E6%88%B7%E5%90%8D%E6%88%96%E5%AF%86%E7%A0%81%E9%94%99%E8%AF%AF!%22%29%0A%20%20%20%20%20%20%20%20count%2B%3D%201%0Aif%20count%3E3%3A%20%20%20%0A%20%20%20%20print%28%22%E8%BE%93%E5%85%A5%E9%94%99%E8%AF%AF%E8%BE%BE3%E6%AC%A1,%E4%B8%8D%E5%85%81%E8%AE%B8%E7%99%BB%E5%BD%95!%22%29%20%20&amp;amp;cumulative=false&amp;amp;heapPrimitives=nevernest&amp;amp;mode=edit&amp;amp;origin=opt-frontend.js&amp;amp;py=3&amp;amp;rawInputLstJSON=%5B%5D&amp;amp;textReferences=false&#34;&gt;在线调试&lt;/a&gt;&lt;a class=&#34;headerlink&#34; href=&#34;#代码调试区-在线调试_4&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;table class=&#34;highlighttable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;linenos&#34;&gt;&lt;div class=&#34;linenodiv&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&#34;normal&#34;&gt; 1&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 2&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 3&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 4&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 5&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 6&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 7&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 8&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 9&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;10&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;11&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;12&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;13&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;14&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;div&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class=&#34;n&#34;&gt;uname&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;quot;张萌&amp;quot;&lt;/span&gt;  
+&lt;span class=&#34;n&#34;&gt;upass&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;123456&amp;quot;&lt;/span&gt;
+&lt;span class=&#34;n&#34;&gt;count&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;    
+&lt;span class=&#34;k&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt; &lt;span class=&#34;ow&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;range&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;___&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;):&lt;/span&gt;
+    &lt;span class=&#34;n&#34;&gt;sname&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;input&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;请输人用户名:&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; 
+    &lt;span class=&#34;n&#34;&gt;spass&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;input&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;请输人密码:&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+    &lt;span class=&#34;k&#34;&gt;if&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;sname&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;uname&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;___&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;spass&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;upass&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;):&lt;/span&gt;  
+        &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;登录成功!&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+        &lt;span class=&#34;k&#34;&gt;break&lt;/span&gt;
+    &lt;span class=&#34;k&#34;&gt;else&lt;/span&gt; 
+        &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;用户名或密码错误!&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+        &lt;span class=&#34;n&#34;&gt;count&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;+=&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;count&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;   
+    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;输入错误达3次,不允许登录!&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;  
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;h3 id=&#34;提示_4&#34;&gt;提示&lt;a class=&#34;headerlink&#34; href=&#34;#提示_4&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;请注意，range(1, 4) 表示循环将执行从1到3的数字，总共3次。if 语句中使用 and 来确保用户名和密码都必须正确才能登录成功。如果计数器 count 达到或超过3，表示用户已经连续三次输入错误，程序将输出相应的提示信息。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;table class=&#34;highlighttable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;linenos&#34;&gt;&lt;div class=&#34;linenodiv&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&#34;normal&#34;&gt; 1&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 2&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 3&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 4&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 5&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 6&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 7&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 8&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 9&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;10&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;11&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;12&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;13&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;14&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;div&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class=&#34;n&#34;&gt;uname&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;quot;张萌&amp;quot;&lt;/span&gt;  &lt;span class=&#34;c1&#34;&gt;# 该变量预先保存用户名   # 预设的用户名&lt;/span&gt;
+&lt;span class=&#34;n&#34;&gt;upass&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;quot;123456&amp;quot;&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 预设的密码&lt;/span&gt;
+&lt;span class=&#34;n&#34;&gt;count&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;  &lt;span class=&#34;c1&#34;&gt;# 计数器，记录用户输入错误的次数   # 初始化计数器，用于记录用户输入错误的次数&lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt; &lt;span class=&#34;ow&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;range&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;___&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;):&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 构造一个最多执行3次的循环&lt;/span&gt;
+    &lt;span class=&#34;n&#34;&gt;sname&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;input&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;请输人用户名:&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;    &lt;span class=&#34;c1&#34;&gt;# 请求用户输入用户名&lt;/span&gt;
+    &lt;span class=&#34;n&#34;&gt;spass&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;input&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;请输人密码:&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 请求用户输入密码&lt;/span&gt;
+    &lt;span class=&#34;k&#34;&gt;if&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;sname&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;uname&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;___&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;spass&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;upass&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;):&lt;/span&gt;  &lt;span class=&#34;c1&#34;&gt;# 判断输入的用户名和密码是否与预设的匹配&lt;/span&gt;
+        &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;登录成功!&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 如果匹配打印登录成功&lt;/span&gt;
+        &lt;span class=&#34;k&#34;&gt;break&lt;/span&gt;  &lt;span class=&#34;c1&#34;&gt;# 退出循环&lt;/span&gt;
+    &lt;span class=&#34;k&#34;&gt;else&lt;/span&gt;  &lt;span class=&#34;c1&#34;&gt;# 否则&lt;/span&gt;
+    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;用户名或密码错误!&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 如果不匹配，打印错误信息&lt;/span&gt;
+    &lt;span class=&#34;n&#34;&gt;count&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;+=&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;  &lt;span class=&#34;c1&#34;&gt;# 增加计数器&lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;count&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;      &lt;span class=&#34;c1&#34;&gt;# 如果用户输入错误达到3次，打印不允许登录的信息&lt;/span&gt;
+    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;输入错误达3次,不允许登录!&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;  &lt;span class=&#34;c1&#34;&gt;# 出错3次，退出程序&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;h3 id=&#34;答案_4&#34;&gt;答案&lt;a class=&#34;headerlink&#34; href=&#34;#答案_4&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;table class=&#34;highlighttable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;linenos&#34;&gt;&lt;div class=&#34;linenodiv&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&#34;normal&#34;&gt; 1&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 2&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 3&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 4&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 5&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 6&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 7&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 8&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 9&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;10&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;11&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;12&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;13&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;14&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;div&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class=&#34;n&#34;&gt;uname&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;quot;张萌&amp;quot;&lt;/span&gt;  &lt;span class=&#34;c1&#34;&gt;# 该变量预先保存用户名   # 预设的用户名&lt;/span&gt;
+&lt;span class=&#34;n&#34;&gt;upass&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;quot;123456&amp;quot;&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 预设的密码&lt;/span&gt;
+&lt;span class=&#34;n&#34;&gt;count&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;  &lt;span class=&#34;c1&#34;&gt;# 计数器，记录用户输入错误的次数   # 初始化计数器，用于记录用户输入错误的次数&lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt; &lt;span class=&#34;ow&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;range&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;4&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;):&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 构造一个最多执行3次的循环                                                 #填空1&lt;/span&gt;
+    &lt;span class=&#34;n&#34;&gt;sname&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;input&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;请输人用户名:&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;    &lt;span class=&#34;c1&#34;&gt;# 请求用户输入用户名&lt;/span&gt;
+    &lt;span class=&#34;n&#34;&gt;spass&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;input&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;请输人密码:&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 请求用户输入密码&lt;/span&gt;
+    &lt;span class=&#34;k&#34;&gt;if&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;sname&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;uname&lt;/span&gt; &lt;span class=&#34;ow&#34;&gt;and&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;spass&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;upass&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;):&lt;/span&gt;  &lt;span class=&#34;c1&#34;&gt;# 判断输入的用户名和密码是否与预设的匹配                  #填空2&lt;/span&gt;
+        &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;登录成功!&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 如果匹配打印登录成功&lt;/span&gt;
+        &lt;span class=&#34;k&#34;&gt;break&lt;/span&gt;  &lt;span class=&#34;c1&#34;&gt;# 退出循环&lt;/span&gt;
+    &lt;span class=&#34;k&#34;&gt;else&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;  &lt;span class=&#34;c1&#34;&gt;# 否则                                                                                   #错误1&lt;/span&gt;
+        &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;用户名或密码错误!&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 如果不匹配，打印错误信息                                        #错误2&lt;/span&gt;
+        &lt;span class=&#34;n&#34;&gt;count&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;+=&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;  &lt;span class=&#34;c1&#34;&gt;# 增加计数器                                                                    #错误2?&lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;count&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;      &lt;span class=&#34;c1&#34;&gt;# 如果用户输入错误达到3次，打印不允许登录的信息&lt;/span&gt;
+    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;输入错误达3次,不允许登录!&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;  &lt;span class=&#34;c1&#34;&gt;# 出错3次，退出程序&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;h2 id=&#34;题目6&#34;&gt;题目6&lt;a class=&#34;headerlink&#34; href=&#34;#题目6&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;题目要求_5&#34;&gt;题目要求&lt;a class=&#34;headerlink&#34; href=&#34;#题目要求_5&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;生产厂家现要包装1200个“冰墩墩”送往超市售卖，包装的规格分别是小箱(每箱5个)和大箱(每箱12个)，
+要求每种规格至少有1箱，且每箱都必须装满。厂家需要计算出所有可能的组合方案，
+请你帮忙完善下面的程序，输出所有的方案。
+(1)补充完善程序中画线处的内容，使程序语句完整。
+(2)找出程序中的两处错误并改正。
+(3)运行程序，输出所有的方案。&lt;/p&gt;
+&lt;h3 id=&#34;代码调试区-在线调试_5&#34;&gt;代码调试区 &lt;a href=&#34;https://pythontutor.com/visualize.html#code=c%3D1%0Afor%20x%20in%20range%281,240%29%3A%20%0A%20%20%20%20i%3D%20____%20%20%0A%20%20%20%20if%20___%3D%3D0%3A%20%20%20%20%0A%20%20%20%20%20%20%20%20c*%3D1%0A%20%20%20%20%20%20%20%20y%3Di//12%0A%20%20%20%20%20%20%20%20print%28%22%E6%96%B9%E6%A1%88%22,c,%22%3A%E5%B0%8F%E7%AE%B1%22,%20x,%20%22%3B%E5%A4%A7%E7%AE%B1%22,y%29&amp;amp;cumulative=false&amp;amp;heapPrimitives=nevernest&amp;amp;mode=edit&amp;amp;origin=opt-frontend.js&amp;amp;py=3&amp;amp;rawInputLstJSON=%5B%5D&amp;amp;textReferences=false&#34;&gt;在线调试&lt;/a&gt;&lt;a class=&#34;headerlink&#34; href=&#34;#代码调试区-在线调试_5&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;table class=&#34;highlighttable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;linenos&#34;&gt;&lt;div class=&#34;linenodiv&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&#34;normal&#34;&gt;1&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;2&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;3&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;4&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;5&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;6&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;7&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;div&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class=&#34;n&#34;&gt;c&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;x&lt;/span&gt; &lt;span class=&#34;ow&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;range&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;240&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;):&lt;/span&gt; 
+    &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;____&lt;/span&gt;  
+    &lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;___&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;==&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;    
+        &lt;span class=&#34;n&#34;&gt;c&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*=&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;
+        &lt;span class=&#34;n&#34;&gt;y&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;//&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;12&lt;/span&gt;
+        &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;方案&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;c&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;:小箱&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;quot;;大箱&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;y&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;h3 id=&#34;提示_5&#34;&gt;提示&lt;a class=&#34;headerlink&#34; href=&#34;#提示_5&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;6.请注意，代码中有两个空白____部分需要填写具体的表达式或条件。例如，i可能是根据小箱x的数量来计算的，而if语句中的条件应该是检查i除以12是否没有余数。如果您提供具体的计算方法或条件&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;table class=&#34;highlighttable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;linenos&#34;&gt;&lt;div class=&#34;linenodiv&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&#34;normal&#34;&gt;1&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;2&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;3&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;4&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;5&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;6&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;7&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;div&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class=&#34;n&#34;&gt;c&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 初始化方案计数器为1&lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;x&lt;/span&gt; &lt;span class=&#34;ow&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;range&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;240&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;):&lt;/span&gt;    &lt;span class=&#34;c1&#34;&gt;# 开始一个循环，x代表小箱的数量，从1到239&lt;/span&gt;
+    &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;____&lt;/span&gt;     &lt;span class=&#34;c1&#34;&gt;# 这里应该是一个表达式，计算出大箱中“冰墩墩”的总数&lt;/span&gt;
+    &lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;___&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;       &lt;span class=&#34;c1&#34;&gt;# 如果i除以12的余数为0，说明大箱正好装满&lt;/span&gt;
+        &lt;span class=&#34;n&#34;&gt;c&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;*=&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 这里的操作实际上没有改变c的值，可能是要做其他操作，其等价于c=c*1&lt;/span&gt;
+        &lt;span class=&#34;n&#34;&gt;y&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;//&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;12&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 计算大箱的数量，使用整除得到完整的大箱数&lt;/span&gt;
+        &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;方案&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;c&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;quot;:小箱&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;quot;;大箱&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;y&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 打印出当前的方案编号、小箱数量和大箱数量&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;h3 id=&#34;答案_5&#34;&gt;答案&lt;a class=&#34;headerlink&#34; href=&#34;#答案_5&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;table class=&#34;highlighttable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;linenos&#34;&gt;&lt;div class=&#34;linenodiv&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&#34;normal&#34;&gt;1&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;2&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;3&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;4&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;5&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;6&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;7&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;div&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class=&#34;n&#34;&gt;c&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 初始化方案计数器为1&lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;x&lt;/span&gt; &lt;span class=&#34;ow&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;range&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;241&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;):&lt;/span&gt;    &lt;span class=&#34;c1&#34;&gt;# 开始一个循环，x代表小箱的数量，从1到239                                 #错误1&lt;/span&gt;
+    &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;1200&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;5&lt;/span&gt;     &lt;span class=&#34;c1&#34;&gt;# 这里应该是一个表达式，计算出大箱中“冰墩墩”的总数                               #填空1&lt;/span&gt;
+    &lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;%&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;12&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;       &lt;span class=&#34;c1&#34;&gt;# 如果i除以12的余数为0，说明大箱正好装满                                   #填空2&lt;/span&gt;
+        &lt;span class=&#34;n&#34;&gt;c&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;+=&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 这里的操作实际上没有改变c的值，可能是要做其他操作，其等价于c=c*1                    #错误2&lt;/span&gt;
+        &lt;span class=&#34;n&#34;&gt;y&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;//&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;12&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 计算大箱的数量，使用整除得到完整的大箱数&lt;/span&gt;
+        &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;方案&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;c&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;quot;:小箱&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;quot;;大箱&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;y&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;   &lt;span class=&#34;c1&#34;&gt;# 打印出当前的方案编号、小箱数量和大箱数量&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;h2 id=&#34;题目7&#34;&gt;题目7&lt;a class=&#34;headerlink&#34; href=&#34;#题目7&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;题目要求_6&#34;&gt;题目要求&lt;a class=&#34;headerlink&#34; href=&#34;#题目要求_6&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;学校要举行学生演讲比赛，选手分数的计算规则为;去掉最高分和最低分然后计算平均分(至少3个评委，输入的分数保证是0~100之间的整数)即为选手的最后得分。
+请你用Python编写程序实现计算选手最后得分的功能。
+【操作要求】
+(1)补充完善下划线处的内容使程序语句完整;
+(2)找出程序中的两处错误并改正:
+(3)运行程序，输入一组数据，测试输出结果是否正确。&lt;/p&gt;
+&lt;h3 id=&#34;代码调试区-在线调试_6&#34;&gt;代码调试区 &lt;a href=&#34;https://pythontutor.com/visualize.html#code=n%3Dfloat%28input%28%22%E8%AF%B7%E8%BE%93%E5%85%A5%E8%AF%84%E5%A7%94%E6%95%B0%22%29%29%20%20%0As%3Dint%28input%28%22%E8%AF%B7%E8%BE%93%E5%85%A5%E7%AC%AC1%E4%BD%8D%E8%AF%84%E5%A7%94%E7%9A%84%E6%88%90%E7%BB%A9%22%29%29%0Amaxx%3Dminn%3Ds%0Afor%20i%20in%20range%282,____%29%3A%0A%20%20%20%20temp%3Dint%28input%28%22%E8%BE%93%E5%85%A5%E4%B8%80%E4%BD%8D%E8%AF%84%E5%A7%94%E7%9A%84%E6%88%90%E7%BB%A9%22%29%29%0A%20%20%20%20s%3Ds%2Btemp%0A%20%20%20%20if%20temp%3Cminn%3A%0A%20%20%20%20%20%20%20%20__________%0A%20%20%20%20else%20temp%20%3E%20maxx%3A%0A%20%20%20%20%20%20%20maxx%20%3D%20temp%0Aavg%3D%28s-maxx-minn%29/%28n-2%29%0Aprint%28%22%E9%80%89%E6%89%8B%E6%9C%80%E7%BB%88%E7%9A%84%E6%88%90%E7%BB%A9%22,avg%29&amp;amp;cumulative=false&amp;amp;heapPrimitives=nevernest&amp;amp;mode=edit&amp;amp;origin=opt-frontend.js&amp;amp;py=3&amp;amp;rawInputLstJSON=%5B%5D&amp;amp;textReferences=false&#34;&gt;在线调试&lt;/a&gt;&lt;a class=&#34;headerlink&#34; href=&#34;#代码调试区-在线调试_6&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;table class=&#34;highlighttable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;linenos&#34;&gt;&lt;div class=&#34;linenodiv&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&#34;normal&#34;&gt; 1&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 2&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 3&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 4&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 5&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 6&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 7&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 8&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 9&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;10&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;11&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;12&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;div&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class=&#34;n&#34;&gt;n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;float&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;input&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;请输入评委数&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;))&lt;/span&gt;  
+&lt;span class=&#34;n&#34;&gt;s&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;input&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;请输入第1位评委的成绩&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;))&lt;/span&gt;
+&lt;span class=&#34;n&#34;&gt;maxx&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;minn&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;s&lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt; &lt;span class=&#34;ow&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;range&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;____&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;):&lt;/span&gt;
+    &lt;span class=&#34;n&#34;&gt;temp&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;input&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;输入一位评委的成绩&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;))&lt;/span&gt;
+    &lt;span class=&#34;n&#34;&gt;s&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;s&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;temp&lt;/span&gt;
+    &lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;temp&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;minn&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+        &lt;span class=&#34;n&#34;&gt;__________&lt;/span&gt;
+    &lt;span class=&#34;k&#34;&gt;else&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;temp&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;maxx&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+       &lt;span class=&#34;n&#34;&gt;maxx&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;temp&lt;/span&gt;
+&lt;span class=&#34;n&#34;&gt;avg&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;s&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;maxx&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;minn&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;选手最终的成绩&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;avg&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;h2 id=&#34;题目8&#34;&gt;题目8&lt;a class=&#34;headerlink&#34; href=&#34;#题目8&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;题目要求_7&#34;&gt;题目要求&lt;a class=&#34;headerlink&#34; href=&#34;#题目要求_7&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;太原市滨河东路、西路(胜利桥至祥云桥)早晚高峰期实施阶段性机动车辆限行。
+周-至周五限行机动车车牌尾号分别为:1和6，2和7，3和8，4和9，5和0。
+车牌尾号为英文字母的以车牌最后一位数字作为尾号。
+编程实现输入后6位车牌号，即可查询周几限行。【操作要求】
+(1)补充完善程序中画线处的内容，使程序语句完整。联合束(2)找出程序中的两处错误并改正。
+(3)运行程序，输入:AU88CA，测试输出结果是否正确。&lt;/p&gt;
+&lt;h3 id=&#34;代码调试区-在线调试_7&#34;&gt;代码调试区 &lt;a href=&#34;https://pythontutor.com/visualize.html#code=s%3Dinput%28%22%E8%AF%B7%E8%BE%93%E5%85%A5%E5%90%8E6%E4%BD%8D%E8%BD%A6%E7%89%8C%E5%8F%B7%3A%22%29%0An%3D6%20%23%E8%BD%A6%E7%89%8C%E5%8F%B7%E7%9A%84%E9%95%BF%E5%BA%A6%E4%B8%BA6%20%0Ax%3Ds%5B___%5D%0Awhile%20%20x%20%3C%20%220%22%20or%20x%20%3E%20%229%22%3A%20%0A%20%20%20%20n%20%3D%20___%20%20%23%20%E5%8F%96%E4%BD%8D%E5%90%91%E5%89%8D%E7%A7%BB%E4%B8%80%E4%BD%8D%0A%20%20%20%20x%3Ds%5Bn-1%5D%20%23%E5%8F%96%E8%BD%A6%E7%89%8C%E5%8F%B7%E7%9A%84%E7%AC%ACn%E4%B8%AA%E7%AC%A6%E5%8F%B7%20%0Aif%20int%28x%29%255%3D%3D1%3A%0A%20%20%20%20print%28%22%E6%98%9F%E6%9C%9F%E4%B8%80%E9%99%90%E8%A1%8C%22%29%20%0Aelif%20int%28x%29%255%3D%3D2%3A%0A%20%20%20%20print%28%22%E6%98%9F%E6%9C%9F%E4%BA%8C%E9%99%90%E8%A1%8C%22%29%0Aelif%20int%28x%29%255%3D%3D3%3A%0A%20%20%20%20print%28%22%E6%98%9F%E6%9C%9F%E4%B8%89%E9%99%90%E8%A1%8C%22%29%0Aelif%20int%28x%29%255%3D%3D4%3A%0A%20%20%20%20print%28%22%E6%98%9F%E6%9C%9F%E5%9B%9B%E9%99%90%E8%A1%8C%22%29%0Aelif%20int%28x%29%20%25%205%20%3D%3D%205%3A%0Aprint%28%22%E6%98%9F%E6%9C%9F%E4%BA%94%E9%99%90%E8%A1%8C%22%29&amp;amp;cumulative=false&amp;amp;heapPrimitives=nevernest&amp;amp;mode=edit&amp;amp;origin=opt-frontend.js&amp;amp;py=3&amp;amp;rawInputLstJSON=%5B%5D&amp;amp;textReferences=false&#34;&gt;在线调试&lt;/a&gt;&lt;a class=&#34;headerlink&#34; href=&#34;#代码调试区-在线调试_7&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;table class=&#34;highlighttable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;linenos&#34;&gt;&lt;div class=&#34;linenodiv&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&#34;normal&#34;&gt; 1&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 2&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 3&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 4&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 5&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 6&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 7&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 8&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 9&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;10&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;11&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;12&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;13&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;14&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;15&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;16&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;div&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class=&#34;n&#34;&gt;s&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;input&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;请输入后6位车牌号:&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;span class=&#34;n&#34;&gt;n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;6&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;#车牌号的长度为6 &lt;/span&gt;
+&lt;span class=&#34;n&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;s&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;___&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;]&lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;while&lt;/span&gt;  &lt;span class=&#34;n&#34;&gt;x&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;quot;0&amp;quot;&lt;/span&gt; &lt;span class=&#34;ow&#34;&gt;or&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;x&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;quot;9&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; 
+    &lt;span class=&#34;n&#34;&gt;n&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;___&lt;/span&gt;  &lt;span class=&#34;c1&#34;&gt;# 取位向前移一位&lt;/span&gt;
+    &lt;span class=&#34;n&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;s&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;]&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;#取车牌号的第n个符号 &lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;%&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;5&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;==&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;星期一限行&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; 
+&lt;span class=&#34;k&#34;&gt;elif&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;%&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;5&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;==&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;星期二限行&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;elif&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;%&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;5&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;==&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;星期三限行&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;elif&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;%&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;5&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;==&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;4&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;星期四限行&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;elif&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;%&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;5&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;5&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;星期五限行&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;h2 id=&#34;题目9&#34;&gt;题目9&lt;a class=&#34;headerlink&#34; href=&#34;#题目9&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;题目要求_8&#34;&gt;题目要求&lt;a class=&#34;headerlink&#34; href=&#34;#题目要求_8&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;某商场举行抽奖活动，具体方案:每人可抽取3个幸运数字(0~9)，
+抽到的数字依次作为个位、十位、百位上的数，组成一个三位数。
+若该三位数能同时被3、7、23 整除，则表示抽到一等奖;若能同时被7、23整除，
+则表示抽到二等奖;若只能被23整除，则表示抽到三等奖;否则没中奖。
+请你完善程序实现对中奖结果的自动分析。
+【操作要求】
+(1)补充完善程序中画线处的内容，使程序语句完整。(2)找出程序中的两处错误并改正。
+(3)运行程序，依次输入幸运数字5、0、8时，检查输出结果是否为“二等奖”。&lt;/p&gt;
+&lt;h3 id=&#34;代码调试区-在线调试_8&#34;&gt;代码调试区 &lt;a href=&#34;https://pythontutor.com/visualize.html#code=num%3D0%0Afor%20i%20in%20range%281,3%29%3A%0A%20%20%20%20luck%3D___%28input%28%22%E8%AF%B7%E8%BE%93%E5%85%A5%E5%B9%B8%E8%BF%90%E6%95%B0%E5%AD%97%3A%22%29%29%0A%20%20%20%20num%3Dnum%2Bluck*10**%28i-1%29%20%20%20%20%23%E7%BB%84%E5%90%88%E7%94%9F%E6%88%90%E4%B8%89%E4%BD%8D%E6%95%B0%20%20%20%20%0Aif%20num%253%3D%3D0%20and%20num%257%3D%3D0%20and%20num%2523%3D%3D0%3A%0A%20%20%20%20print%28%22%E4%B8%80%E7%AD%89%E5%A5%96%22%29%0Aelif%20num%257%3D%3D0%20and%20num%2523%3D%3D0%3A%0A%20%20%20%20print%28%22%E4%BA%8C%E7%AD%89%E5%A5%96%22%29%20%0Aelif%20___%3A%0A%20%20%20%20print%28%22%E4%B8%89%E7%AD%89%E5%A5%96%22%29%20%0Aelif%3A%0A%20%20%20%20print%28%22%E5%BE%88%E9%81%97%E6%86%BE%EF%BC%8C%E6%B2%A1%E6%9C%89%E4%B8%AD%E5%A5%96%22%29&amp;amp;cumulative=false&amp;amp;heapPrimitives=nevernest&amp;amp;mode=edit&amp;amp;origin=opt-frontend.js&amp;amp;py=3&amp;amp;rawInputLstJSON=%5B%5D&amp;amp;textReferences=false&#34;&gt;在线调试&lt;/a&gt;&lt;a class=&#34;headerlink&#34; href=&#34;#代码调试区-在线调试_8&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;table class=&#34;highlighttable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;linenos&#34;&gt;&lt;div class=&#34;linenodiv&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&#34;normal&#34;&gt; 1&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 2&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 3&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 4&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 5&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 6&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 7&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 8&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 9&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;10&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;11&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;12&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;div&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class=&#34;n&#34;&gt;num&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt; &lt;span class=&#34;ow&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;range&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;):&lt;/span&gt;
+    &lt;span class=&#34;n&#34;&gt;luck&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;___&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;input&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;请输入幸运数字:&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;))&lt;/span&gt;
+    &lt;span class=&#34;n&#34;&gt;num&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;num&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;luck&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;10&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;**&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;  &lt;span class=&#34;c1&#34;&gt;#组合生成三位数    &lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;num&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;%&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;==&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt; &lt;span class=&#34;ow&#34;&gt;and&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;num&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;%&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;7&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;==&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt; &lt;span class=&#34;ow&#34;&gt;and&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;num&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;%&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;23&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;==&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;一等奖&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;elif&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;num&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;%&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;7&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;==&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt; &lt;span class=&#34;ow&#34;&gt;and&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;num&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;%&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;23&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;==&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;二等奖&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; 
+&lt;span class=&#34;k&#34;&gt;elif&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;___&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;三等奖&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; 
+&lt;span class=&#34;k&#34;&gt;elif&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;很遗憾，没有中奖&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;h2 id=&#34;题目10&#34;&gt;题目10&lt;a class=&#34;headerlink&#34; href=&#34;#题目10&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;题目要求_9&#34;&gt;题目要求&lt;a class=&#34;headerlink&#34; href=&#34;#题目要求_9&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;某特许专营店销售世界杯纪念章，每枚进价为7元，预计这种纪念章以每枚20元的价格销售时，该店一年可销售2000枚，
+经过市场调研发现每枚纪念章的销售价格在每枚20元的基础上每减少一元则增加销售400枚，而每增加则减少销售100枚，
+假设售价只能是[10,30]区间内的整数，请你帮忙完善下面程序，输出专营店按多少元销售时所得利润最大。【操作要求】
+(1)补充完善下划处处的内容使程序语句完整。
+(2)找出程中两处错误并改正。
+(3)运行程序，检查是否输出:16元时利润最大，此时利润为:32400元&lt;/p&gt;
+&lt;h3 id=&#34;代码调试区-在线调试_9&#34;&gt;代码调试区 &lt;a href=&#34;https://pythontutor.com/visualize.html#code=a%3D0%0Afor%20i%20in%20____%2810,30%29%3A%20%20%0Aif%20____%3A%0A%20%20%20s%3D%28i-7%29*%282000%2B400*%2820-i%29%29%0Aelif%20i%3D%3D20%3A%0A%20%20%20s%3D13*2000%0Aelse%3A%0A%20%20%20s%3D%28i-7%29*%282000%2B100*%28i-20%29%29%20%0Aif%20s%3Ea%3A%0A%20%20%20a%3Ds%0A%20%20%20b%3Di%0Aprint%28b,a%29&amp;amp;cumulative=false&amp;amp;heapPrimitives=nevernest&amp;amp;mode=edit&amp;amp;origin=opt-frontend.js&amp;amp;py=3&amp;amp;rawInputLstJSON=%5B%5D&amp;amp;textReferences=false&#34;&gt;在线调试&lt;/a&gt;&lt;a class=&#34;headerlink&#34; href=&#34;#代码调试区-在线调试_9&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;table class=&#34;highlighttable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;linenos&#34;&gt;&lt;div class=&#34;linenodiv&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&#34;normal&#34;&gt; 1&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 2&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 3&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 4&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 5&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 6&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 7&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 8&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt; 9&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;10&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;11&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;12&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;div&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class=&#34;n&#34;&gt;a&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt; &lt;span class=&#34;ow&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;____&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;10&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;30&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;):&lt;/span&gt;  
+&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;____&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+   &lt;span class=&#34;n&#34;&gt;s&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;7&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;2000&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;400&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;20&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;))&lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;elif&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;==&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;20&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+   &lt;span class=&#34;n&#34;&gt;s&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;13&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;2000&lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;else&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+   &lt;span class=&#34;n&#34;&gt;s&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;7&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;2000&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;100&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;20&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;))&lt;/span&gt; 
+&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;s&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;a&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+   &lt;span class=&#34;n&#34;&gt;a&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;s&lt;/span&gt;
+   &lt;span class=&#34;n&#34;&gt;b&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;i&lt;/span&gt;
+&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;b&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;a&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;h2 id=&#34;题目11&#34;&gt;题目11&lt;a class=&#34;headerlink&#34; href=&#34;#题目11&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;题目要求_10&#34;&gt;题目要求&lt;a class=&#34;headerlink&#34; href=&#34;#题目要求_10&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;《密室逃脱》是一款实景逃脱类游戏，依靠细节推理来完成任务，小明和朋友们在完成任务过程中遇到了如下问题：需要计算出10至100之间能被6整除但不能被8整除的整数之和即可获取重要线素，请你完善下列代码段，帮助他们解决问题获取线索。
+【操作提求】
+(1)补充完善下划线处的内容是程序语句完整。
+(2)找出程序中的两处错误并改正。
+(3)运行程序，测试sum的输出结果是否为570。&lt;/p&gt;
+&lt;h3 id=&#34;代码调试区-在线调试_10&#34;&gt;代码调试区 &lt;a href=&#34;https://pythontutor.com/visualize.html#code=________%0Afor%20i%20in%20range%2810,101%29%0A%20%20%20%20if%20i%256%3D%3D0%20or%20i%258!%3D0%20%3A%20%20%0A%20%20%20%20%20%20%20sum%3Dsum%2Bi%0A________%28%2210%20%E5%88%B0100%20%E4%B9%8B%E9%97%B4%E8%83%BD%E8%A2%AB6%E6%95%B4%E9%99%A4%E4%B8%8D%E8%83%BD%E8%A2%AB8%E6%95%B4%E9%99%A4%E7%9A%84%E6%95%B4%E6%95%B0%E4%B9%8B%E5%92%8C%E4%B8%BA%EF%BC%9A%22,sum%29&amp;amp;cumulative=false&amp;amp;heapPrimitives=nevernest&amp;amp;mode=edit&amp;amp;origin=opt-frontend.js&amp;amp;py=3&amp;amp;rawInputLstJSON=%5B%5D&amp;amp;textReferences=false&#34;&gt;在线调试&lt;/a&gt;&lt;a class=&#34;headerlink&#34; href=&#34;#代码调试区-在线调试_10&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;table class=&#34;highlighttable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;linenos&#34;&gt;&lt;div class=&#34;linenodiv&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&#34;normal&#34;&gt;1&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;2&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;3&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;4&lt;/span&gt;
+&lt;span class=&#34;normal&#34;&gt;5&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;div&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class=&#34;n&#34;&gt;________&lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt; &lt;span class=&#34;ow&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;range&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;10&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;101&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+    &lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;%&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;6&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;==&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt; &lt;span class=&#34;ow&#34;&gt;or&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;%&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;8&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;!=&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;  
+       &lt;span class=&#34;nb&#34;&gt;sum&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;sum&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;i&lt;/span&gt;
+&lt;span class=&#34;n&#34;&gt;________&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;10 到100 之间能被6整除不能被8整除的整数之和为：&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;sum&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
 &lt;script src=&#34;https://giscus.app/client.js&#34;
     data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
     data-repo-id=&#34;RR_kgDOL4wNPw&#34;
@@ -175,12 +850,175 @@
       
       
       
-      <description>&lt;div class=&#34;admonition abstract&#34;&gt;
+      <description>&lt;blockquote&gt;
+&lt;p&gt;试题来源：2022年信息技术学业水平测试&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&#34;admonition abstract&#34;&gt;
 &lt;p class=&#34;admonition-title&#34;&gt;2.算法的考查(15分)&lt;/p&gt;
 &lt;p&gt;内容要求:1.6 从生活实例出发，概述算法的概念与特征，运用恰当的描述方法和控制结构表示简单算法。&lt;/p&gt;
 &lt;p&gt;学业要求:依据解决问题的需要，设计和表示简单算法。&lt;/p&gt;
 &lt;p&gt;命题思路:流程图是算法的一种图形化表示方法，流程图的考查是计算思维考查的一个重要方面。为降低难度，采取修补思路，补全给定的流程图。&lt;/p&gt;
 &lt;/div&gt;
+&lt;h2 id=&#34;题目1&#34;&gt;题目1&lt;a class=&#34;headerlink&#34; href=&#34;#题目1&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;中学生100米跑步可以提高身体协调性加强肌肉力量现在请你设计一个算法以男生为例将达标成绩保存到变量b中输入100米跑步成绩并保存到变量f中如达标输出恭喜达标否则输出未达标继续努力参照标准男生100米达标成绩149秒&#34;&gt;中学生100米跑步可以提高身体协调性，加强肌肉力量。现在请你设计一个算法，以男生为例将达标成绩保存到变量b中，输入100米跑步成绩并保存到变量f中，如达标输出“恭喜达标”，否则输出“未达标，继续努力”。（参照标准：男生100米达标成绩14.9秒。）&lt;a class=&#34;headerlink&#34; href=&#34;#中学生100米跑步可以提高身体协调性加强肌肉力量现在请你设计一个算法以男生为例将达标成绩保存到变量b中输入100米跑步成绩并保存到变量f中如达标输出恭喜达标否则输出未达标继续努力参照标准男生100米达标成绩149秒&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;操作要求&#34;&gt;【操作要求】&lt;a class=&#34;headerlink&#34; href=&#34;#操作要求&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;（1）请使用系统提供的图形，将流程图补充完整。&lt;/li&gt;
+&lt;li&gt;（2）拖动符号区的图形，到中央区的流程图中。&lt;/li&gt;
+&lt;li&gt;（3）输入相应内容，使之正确表达算法。
+&lt;img alt=&#34;0&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/0.9dcs26dj8q.webp&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;中央流程区&#34;&gt;中央流程区&lt;a class=&#34;headerlink&#34; href=&#34;#中央流程区&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&#34;1-0&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/1.0.2obcdfgejz.webp&#34; /&gt;&lt;/p&gt;
+&lt;details&gt;
+&lt;summary&gt;答案&lt;/summary&gt;
+&lt;img src=&#39;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/1.1.3ye9jqydv5.webp&#39; alt=&#39;1-1&#39; /&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;题目2&#34;&gt;题目2&lt;a class=&#34;headerlink&#34; href=&#34;#题目2&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;为了更好的服务居民某小区超市开展了送货上门活动单次购买物资金额用变量a表示不超过50元时收取送货费3元单次购买物资金额超过50元时收取送货费1元请你设计并完善计算订单总费用用变量b表示算法的流程图&#34;&gt;为了更好的服务居民，某小区超市开展了送货上门活动，单次购买物资金额（用变量a表示）不超过50元时，收取送货费3元；单次购买物资金额超过50元时，收取送货费1元，请你设计并完善“计算订单总费用（用变量b表示）”算法的流程图。&lt;a class=&#34;headerlink&#34; href=&#34;#为了更好的服务居民某小区超市开展了送货上门活动单次购买物资金额用变量a表示不超过50元时收取送货费3元单次购买物资金额超过50元时收取送货费1元请你设计并完善计算订单总费用用变量b表示算法的流程图&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;操作要求_1&#34;&gt;【操作要求】&lt;a class=&#34;headerlink&#34; href=&#34;#操作要求_1&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;（1）请使用系统提供的图形，将流程图补充完整。&lt;/li&gt;
+&lt;li&gt;（2）拖动符号区的图形，到中央区的流程图中。&lt;/li&gt;
+&lt;li&gt;（3）输入相应内容，使之正确表达算法。
+&lt;img alt=&#34;0&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/0.9dcs26dj8q.webp&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;中央流程区_1&#34;&gt;中央流程区&lt;a class=&#34;headerlink&#34; href=&#34;#中央流程区_1&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&#34;2-0&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/2.0.45hhf6kjar.webp&#34; /&gt;&lt;/p&gt;
+&lt;details&gt;
+&lt;summary&gt;答案&lt;/summary&gt;
+&lt;img src=&#39;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/2.1.3go7v5x0ad.webp&#39; alt=&#39;2-1&#39; /&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;题目3&#34;&gt;题目3&lt;a class=&#34;headerlink&#34; href=&#34;#题目3&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;试题描述夏天使用空调设定温度后当室内温度高于设定温度时空调开始制冷而当室内温度降至设定温度时则转为通风状态设定温度为t1检测室内温度为t2模式开关为m根据室内温度模拟空调控制自动送风模式现请你设计该问题的算法流程图&#34;&gt;试题描述：夏天使用空调，设定温度后，当室内温度高于设定温度时，空调开始制冷；而当室内温度降至设定温度时，则转为通风状态。设定温度为t1，检测室内温度为t2，模式开关为m。根据室内温度模拟空调控制自动送风模式，现请你设计该问题的算法流程图。&lt;a class=&#34;headerlink&#34; href=&#34;#试题描述夏天使用空调设定温度后当室内温度高于设定温度时空调开始制冷而当室内温度降至设定温度时则转为通风状态设定温度为t1检测室内温度为t2模式开关为m根据室内温度模拟空调控制自动送风模式现请你设计该问题的算法流程图&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;操作要求_2&#34;&gt;【操作要求】&lt;a class=&#34;headerlink&#34; href=&#34;#操作要求_2&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;（1）请使用系统提供的图形，将流程图补充完整。&lt;/li&gt;
+&lt;li&gt;（2）拖动符号区的图形，到中央区的流程图中。&lt;/li&gt;
+&lt;li&gt;（3）输入相应内容，使之正确表达算法。
+&lt;img alt=&#34;0&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/0.9dcs26dj8q.webp&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;中央流程区_2&#34;&gt;中央流程区&lt;a class=&#34;headerlink&#34; href=&#34;#中央流程区_2&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&#34;3-0&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/3.0.4n7j3rlwvr.webp&#34; /&gt;&lt;/p&gt;
+&lt;details&gt;
+&lt;summary&gt;答案&lt;/summary&gt;
+&lt;img src=&#39;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/3.1.1e8f73yf97.webp&#39; alt=&#39;3-1&#39; /&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;题目4&#34;&gt;题目4&lt;a class=&#34;headerlink&#34; href=&#34;#题目4&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;自动售货机的投币系统功能为输入商品的价格p用户的投币金额m如果投币金额大于等于商品价格则计算并输出找零金额yu否则输出零钱不足现给出解决该问题的部分算法流程图请你进行补充完善&#34;&gt;自动售货机的投币系统功能为：输入商品的价格p、用户的投币金额m，如果投币金额大于等于商品价格，则计算并输出找零金额yu；否则输出“零钱不足”。现给出解决该问题的部分算法流程图，请你进行补充完善。&lt;a class=&#34;headerlink&#34; href=&#34;#自动售货机的投币系统功能为输入商品的价格p用户的投币金额m如果投币金额大于等于商品价格则计算并输出找零金额yu否则输出零钱不足现给出解决该问题的部分算法流程图请你进行补充完善&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;操作要求_3&#34;&gt;【操作要求】&lt;a class=&#34;headerlink&#34; href=&#34;#操作要求_3&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;（1）请使用系统提供的图形，将流程图补充完整。&lt;/li&gt;
+&lt;li&gt;（2）拖动符号区的图形，到中央区的流程图中。&lt;/li&gt;
+&lt;li&gt;（3）输入相应内容，使之正确表达算法。
+&lt;img alt=&#34;0&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/0.9dcs26dj8q.webp&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;中央流程区_3&#34;&gt;中央流程区&lt;a class=&#34;headerlink&#34; href=&#34;#中央流程区_3&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&#34;4-0&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/4.0.7sn12pgbss.webp&#34; /&gt;&lt;/p&gt;
+&lt;details&gt;
+&lt;summary&gt;答案&lt;/summary&gt;
+&lt;img src=&#39;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/4.1.1e8f73yf9a.webp&#39; alt=&#39;4-1&#39; /&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;题目5&#34;&gt;题目5&lt;a class=&#34;headerlink&#34; href=&#34;#题目5&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;太原市公交车票刷卡为每次05元刷卡时若余额不足05元提示请投币若余额05元以上含05元直接扣除本次乘车费用扣除后余额不足5元提示余额即将不足若余额5元以上含5元提示欢迎乘车请描述该算法&#34;&gt;太原市公交车票刷卡为每次0.5元。刷卡时，若余额不足0.5元，提示&amp;rdquo;&amp;ldquo;请投币&amp;rdquo;&amp;ldquo;；若余额0.5元以上(含0.5元)，直接扣除本次乘车费用；扣除后余额不足5元提示&amp;rdquo;&amp;ldquo;余额即将不足&amp;rdquo;&amp;ldquo;，若余额5元以上(含5元)，提示&amp;rdquo;&amp;ldquo;欢迎乘车&amp;rdquo;&amp;ldquo;。请描述该算法。&lt;a class=&#34;headerlink&#34; href=&#34;#太原市公交车票刷卡为每次05元刷卡时若余额不足05元提示请投币若余额05元以上含05元直接扣除本次乘车费用扣除后余额不足5元提示余额即将不足若余额5元以上含5元提示欢迎乘车请描述该算法&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;操作要求_4&#34;&gt;【操作要求】&lt;a class=&#34;headerlink&#34; href=&#34;#操作要求_4&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;（1）请使用系统提供的图形，将流程图补充完整。&lt;/li&gt;
+&lt;li&gt;（2）拖动符号区的图形，到中央区的流程图中。&lt;/li&gt;
+&lt;li&gt;（3）输入相应内容，使之正确表达算法。
+&lt;img alt=&#34;0&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/0.9dcs26dj8q.webp&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;中央流程区_4&#34;&gt;中央流程区&lt;a class=&#34;headerlink&#34; href=&#34;#中央流程区_4&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&#34;5-0&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/5.0.4jnx61su67.webp&#34; /&gt;&lt;/p&gt;
+&lt;details&gt;
+&lt;summary&gt;答案&lt;/summary&gt;
+&lt;img src=&#39;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/5.1.9kfzxlzoox.webp&#39; alt=&#39;5-1&#39; /&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;题目6&#34;&gt;题目6&lt;a class=&#34;headerlink&#34; href=&#34;#题目6&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;为了提倡居民节约用电电力公司制订了如下的阶梯电价收费办法每月用电量在170度及以下时电价为0477元度每月用电量在170度以上时电价为0527元度请你设计完善计算电费的算法流程图其中变量n为正数表示月用电量度-money表示电费元&#34;&gt;为了提倡居民节约用电，电力公司制订了如下的阶梯电价收费办法：每月用电量在170度及以下时，电价为0.477元/度；每月用电量在170度以上时，电价为0.527元/度。请你设计完善“计算电费”的算法流程图，其中变量n为正数：表示月用电量(度)， money：表示电费(元).&lt;a class=&#34;headerlink&#34; href=&#34;#为了提倡居民节约用电电力公司制订了如下的阶梯电价收费办法每月用电量在170度及以下时电价为0477元度每月用电量在170度以上时电价为0527元度请你设计完善计算电费的算法流程图其中变量n为正数表示月用电量度-money表示电费元&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;操作要求_5&#34;&gt;【操作要求】&lt;a class=&#34;headerlink&#34; href=&#34;#操作要求_5&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;（1）请使用系统提供的图形，将流程图补充完整。&lt;/li&gt;
+&lt;li&gt;（2）拖动符号区的图形，到中央区的流程图中。&lt;/li&gt;
+&lt;li&gt;（3）输入相应内容，使之正确表达算法。
+&lt;img alt=&#34;0&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/0.9dcs26dj8q.webp&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;中央流程区_5&#34;&gt;中央流程区&lt;a class=&#34;headerlink&#34; href=&#34;#中央流程区_5&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&#34;6-0&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/6.0.8ojii5q08z.webp&#34; /&gt;&lt;/p&gt;
+&lt;details&gt;
+&lt;summary&gt;答案&lt;/summary&gt;
+&lt;img src=&#39;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/6.1.1lbn2jkkp0.webp&#39; alt=&#39;6-1&#39; /&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;题目7&#34;&gt;题目7&lt;a class=&#34;headerlink&#34; href=&#34;#题目7&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;某电商平台搞活动同一件商品购买不超过5件时按原价出售超过5件时打7折出售需要通过输入商品单价p和数量n计算并输出总价s现给出解决该问题的部分算法流程图请你进行补充完善&#34;&gt;某电商平台搞活动，同一件商品购买不超过5件时按原价出售，超过5件时打7折出售，需要通过输入商品单价p和数量n计算并输出总价s。现给出解决该问题的部分算法流程图，请你进行补充完善。&lt;a class=&#34;headerlink&#34; href=&#34;#某电商平台搞活动同一件商品购买不超过5件时按原价出售超过5件时打7折出售需要通过输入商品单价p和数量n计算并输出总价s现给出解决该问题的部分算法流程图请你进行补充完善&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;操作要求_6&#34;&gt;【操作要求】&lt;a class=&#34;headerlink&#34; href=&#34;#操作要求_6&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;（1）请使用系统提供的图形，将流程图补充完整。&lt;/li&gt;
+&lt;li&gt;（2）拖动符号区的图形，到中央区的流程图中。&lt;/li&gt;
+&lt;li&gt;（3）输入相应内容，使之正确表达算法。
+&lt;img alt=&#34;0&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/0.9dcs26dj8q.webp&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;中央流程区_6&#34;&gt;中央流程区&lt;a class=&#34;headerlink&#34; href=&#34;#中央流程区_6&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&#34;7-0&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/7.0.101zg8q4ee.webp&#34; /&gt;&lt;/p&gt;
+&lt;details&gt;
+&lt;summary&gt;答案&lt;/summary&gt;
+&lt;img src=&#39;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/7.1.13lldyj747.webp&#39; alt=&#39;7-1&#39; /&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;题目8&#34;&gt;题目8&lt;a class=&#34;headerlink&#34; href=&#34;#题目8&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;征兵时男性身高要求在160cm以上现有一台身高测量仪输入标准身高即可判断受测人身高是否合格当测得身高大于160cm时机器语音播报身高合格请测量体重否则播报很遗憾身高不合格现设身高变量为h请完善该任务的算法流程图&#34;&gt;征兵时，男性身高要求在160cm以上，现有一台身高测量仪，输入标准身高，即可判断受测人身高是否合格。当测得身高大于160cm时，机器语音播报“身高合格，请测量体重”，否则播报“很遗憾，身高不合格&amp;rdquo;&amp;ldquo;。现设身高变量为h，请完善该任务的算法流程图。&lt;a class=&#34;headerlink&#34; href=&#34;#征兵时男性身高要求在160cm以上现有一台身高测量仪输入标准身高即可判断受测人身高是否合格当测得身高大于160cm时机器语音播报身高合格请测量体重否则播报很遗憾身高不合格现设身高变量为h请完善该任务的算法流程图&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;操作要求_7&#34;&gt;【操作要求】&lt;a class=&#34;headerlink&#34; href=&#34;#操作要求_7&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;（1）请使用系统提供的图形，将流程图补充完整。&lt;/li&gt;
+&lt;li&gt;（2）拖动符号区的图形，到中央区的流程图中。&lt;/li&gt;
+&lt;li&gt;（3）输入相应内容，使之正确表达算法。
+&lt;img alt=&#34;0&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/0.9dcs26dj8q.webp&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;中央流程区_7&#34;&gt;中央流程区&lt;a class=&#34;headerlink&#34; href=&#34;#中央流程区_7&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&#34;8-0&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/8.0.7p3yi9iob.webp&#34; /&gt;&lt;/p&gt;
+&lt;details&gt;
+&lt;summary&gt;答案&lt;/summary&gt;
+&lt;img src=&#39;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/8.1.7p3yi9iod.webp&#39; alt=&#39;8-1&#39; /&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;题目9&#34;&gt;题目9&lt;a class=&#34;headerlink&#34; href=&#34;#题目9&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;为唤起公众的节水意识加强水资源保护其市通过价格调控手段来达到节水的目的其生活用水收费标准为每户每月用水量未超过12立方米时每立方米收费28元超过12立方米的部分每立方米收费42元请你完善该问题的算法流程图&#34;&gt;为唤起公众的节水意识，加强水资源保护，其市通过价格调控手段来达到节水的目的，其生活用水收费标准为∶每户每月用水量未超过12立方米时，每立方米收费2.8元；超过12立方米的部分，每立方米收费4.2元。请你完善该问题的算法流程图。&lt;a class=&#34;headerlink&#34; href=&#34;#为唤起公众的节水意识加强水资源保护其市通过价格调控手段来达到节水的目的其生活用水收费标准为每户每月用水量未超过12立方米时每立方米收费28元超过12立方米的部分每立方米收费42元请你完善该问题的算法流程图&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;操作要求_8&#34;&gt;【操作要求】&lt;a class=&#34;headerlink&#34; href=&#34;#操作要求_8&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;（1）请使用系统提供的图形，将流程图补充完整。&lt;/li&gt;
+&lt;li&gt;（2）拖动符号区的图形，到中央区的流程图中。&lt;/li&gt;
+&lt;li&gt;（3）输入相应内容，使之正确表达算法。
+&lt;img alt=&#34;0&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/0.9dcs26dj8q.webp&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;中央流程区_8&#34;&gt;中央流程区&lt;a class=&#34;headerlink&#34; href=&#34;#中央流程区_8&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&#34;9-0&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/9.0.86tgtkomoe.webp&#34; /&gt;&lt;/p&gt;
+&lt;details&gt;
+&lt;summary&gt;答案&lt;/summary&gt;
+&lt;img src=&#39;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/9.1.45i0sgfyo.webp&#39; alt=&#39;9-1&#39; /&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;题目10&#34;&gt;题目10&lt;a class=&#34;headerlink&#34; href=&#34;#题目10&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;对任意输入的两个整数x和y找出并输出其中的较大值x和y分别表示两个任意整数-big表示输出的较大值现清你设计该问题的算法流程图&#34;&gt;对任意输入的两个整数x和y，找出并输出其中的较大值。x和y分别表示两个任意整数， big表示输出的较大值、现清你设计该问题的算法流程图。&lt;a class=&#34;headerlink&#34; href=&#34;#对任意输入的两个整数x和y找出并输出其中的较大值x和y分别表示两个任意整数-big表示输出的较大值现清你设计该问题的算法流程图&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;操作要求_9&#34;&gt;【操作要求】&lt;a class=&#34;headerlink&#34; href=&#34;#操作要求_9&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;（1）请使用系统提供的图形，将流程图补充完整。&lt;/li&gt;
+&lt;li&gt;（2）拖动符号区的图形，到中央区的流程图中。&lt;/li&gt;
+&lt;li&gt;（3）输入相应内容，使之正确表达算法。
+&lt;img alt=&#34;0&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/0.9dcs26dj8q.webp&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;中央流程区_9&#34;&gt;中央流程区&lt;a class=&#34;headerlink&#34; href=&#34;#中央流程区_9&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&#34;10-0&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/10.0.4xucwx151t.webp&#34; /&gt;&lt;/p&gt;
+&lt;details&gt;
+&lt;summary&gt;答案&lt;/summary&gt;
+&lt;img src=&#39;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/10.1.1vygvozsur.webp&#39; alt=&#39;10-1&#39; /&gt;
+&lt;/details&gt;
+
 &lt;script src=&#34;https://giscus.app/client.js&#34;
     data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
     data-repo-id=&#34;RR_kgDOL4wNPw&#34;
