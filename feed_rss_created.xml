@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Sun, 12 May 2024 05:32:35 -0000</pubDate>
-    <lastBuildDate>Sun, 12 May 2024 05:32:35 -0000</lastBuildDate>
+    <pubDate>Sun, 12 May 2024 05:45:43 -0000</pubDate>
+    <lastBuildDate>Sun, 12 May 2024 05:45:43 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -82,7 +82,7 @@
 &lt;p&gt;国内虽然不少人都在使用 Gitee，但 Gitee 时不时恶心你一下（前不久就无缘无故把我的 oschina 的账号封了，而且要加 QQ 群去申诉，最后我是直接通过邮件反馈解封了），而且有时候有些资源用起来限制太多，很麻烦。&lt;/p&gt;
 &lt;p&gt;极狐从 2024 年 1 月 2 日起要付费才能使用，1898元/人/年的价格估计会劝退 90% 的个人用户吧！&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/readme/res/</link>
-      <pubDate>Sun, 12 May 2024 05:31:57 +0000</pubDate>
+      <pubDate>Sun, 12 May 2024 05:44:44 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/readme/res/</guid>
@@ -121,7 +121,7 @@
     &lt;img style=&#34;max-widrh:600px&#34; src=&#34;https://slab-1251708715.cos.ap-guangzhou.myqcloud.com/website/portfolio/webstack-hugo.jpg&#34; alt=&#34;WebStack-Hugo&#34;&gt;
 &lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/readme/work/</link>
-      <pubDate>Sun, 12 May 2024 05:31:57 +0000</pubDate>
+      <pubDate>Sun, 12 May 2024 05:44:44 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/readme/work/</guid>
@@ -1055,138 +1055,167 @@ BMI数值范围 BMI数值范围
 &lt;/blockquote&gt;
 &lt;div class=&#34;admonition abstract&#34;&gt;
 &lt;p class=&#34;admonition-title&#34;&gt;3.信息系统的考查(10分)&lt;/p&gt;
-&lt;p&gt;必修课程的模块2;信息系统与社会&lt;/p&gt;
+&lt;p&gt;必修课程的模块2: 信息系统与社会&lt;/p&gt;
 &lt;p&gt;命题思路: 信息系统内容较多，重点考查信息系统的搭建和应用。为降低难度，采取修补的思路，采用拖放技术，在读懂题目的基础上，补全给定的信息系统结构图。&lt;/p&gt;
 &lt;/div&gt;
 &lt;h2 id=&#34;题目1&#34;&gt;题目1&lt;a class=&#34;headerlink&#34; href=&#34;#题目1&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
-&lt;h3 id=&#34;信息系统是一个由人硬件软件网络和数据资源的人机交互系统日常生活中由于工作繁忙人们经常会利用app点餐节省做饭购餐的时间结合信息系统的相关知识完善点餐信息系统&#34;&gt;信息系统是一个由人、硬件、软件、网络和数据资源的人机交互系统。日常生活中由于工作繁忙，人们经常会利用APP点餐节省做饭、购餐的时间，结合信息系统的相关知识，完善点餐信息系统。&lt;a class=&#34;headerlink&#34; href=&#34;#信息系统是一个由人硬件软件网络和数据资源的人机交互系统日常生活中由于工作繁忙人们经常会利用app点餐节省做饭购餐的时间结合信息系统的相关知识完善点餐信息系统&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;中学生100米跑步可以提高身体协调性加强肌肉力量现在请你设计一个算法以男生为例将达标成绩保存到变量b中输入100米跑步成绩并保存到变量f中如达标输出恭喜达标否则输出未达标继续努力参照标准男生100米达标成绩149秒&#34;&gt;中学生100米跑步可以提高身体协调性，加强肌肉力量。现在请你设计一个算法，以男生为例将达标成绩保存到变量b中，输入100米跑步成绩并保存到变量f中，如达标输出“恭喜达标”，否则输出“未达标，继续努力”。（参照标准：男生100米达标成绩14.9秒。）&lt;a class=&#34;headerlink&#34; href=&#34;#中学生100米跑步可以提高身体协调性加强肌肉力量现在请你设计一个算法以男生为例将达标成绩保存到变量b中输入100米跑步成绩并保存到变量f中如达标输出恭喜达标否则输出未达标继续努力参照标准男生100米达标成绩149秒&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
 &lt;h3 id=&#34;操作要求&#34;&gt;【操作要求】&lt;a class=&#34;headerlink&#34; href=&#34;#操作要求&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;（1）认真分析结构图，确认图中所缺内容。&lt;/li&gt;
-&lt;li&gt;（2）从提供的对象集群中拖放合适对象到图中相应热区位置，将结构图补充完整。
-&lt;img alt=&#34;1-0&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/1-0.6ik3ql69or.webp&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;（1）请使用系统提供的图形，将流程图补充完整。&lt;/li&gt;
+&lt;li&gt;（2）拖动符号区的图形，到中央区的流程图中。&lt;/li&gt;
+&lt;li&gt;（3）输入相应内容，使之正确表达算法。&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;img alt=&#34;0&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/0.9dcs26dj8q.webp&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;中央流程区&#34;&gt;中央流程区&lt;a class=&#34;headerlink&#34; href=&#34;#中央流程区&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&#34;1-0&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/1.0.2obcdfgejz.webp&#34; /&gt;&lt;/p&gt;
 &lt;details&gt;
 &lt;summary&gt;答案&lt;/summary&gt;
-&lt;img src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/answer/1-1.9dcrwdmrya.webp&#34; alt=&#34;1-1&#34; /&gt;
+&lt;img src=&#39;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/1.1.3ye9jqydv5.webp&#39; alt=&#39;1-1&#39; /&gt;
 &lt;/details&gt;
 
 &lt;h2 id=&#34;题目2&#34;&gt;题目2&lt;a class=&#34;headerlink&#34; href=&#34;#题目2&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
-&lt;h3 id=&#34;共享单车作为新的出行方式给人们带来了极大的方便解决了出行最后一公里的难题用户只需要用手机软件扫描单车上的二维码就可以解锁使用共享单车十分方便现给出共享单车物联网模式系统结构图请你仔细读图补充完善&#34;&gt;共享单车作为新的出行方式，给人们带来了极大的方便，解决了出行最后一公里的难题。用户只需要用手机软件扫描单车上的二维码，就可以解锁使用共享单车，十分方便。现给出共享单车（物联网模式）系统结构图，请你仔细读图，补充完善。&lt;a class=&#34;headerlink&#34; href=&#34;#共享单车作为新的出行方式给人们带来了极大的方便解决了出行最后一公里的难题用户只需要用手机软件扫描单车上的二维码就可以解锁使用共享单车十分方便现给出共享单车物联网模式系统结构图请你仔细读图补充完善&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;为了更好的服务居民某小区超市开展了送货上门活动单次购买物资金额用变量a表示不超过50元时收取送货费3元单次购买物资金额超过50元时收取送货费1元请你设计并完善计算订单总费用用变量b表示算法的流程图&#34;&gt;为了更好的服务居民，某小区超市开展了送货上门活动，单次购买物资金额（用变量a表示）不超过50元时，收取送货费3元；单次购买物资金额超过50元时，收取送货费1元，请你设计并完善“计算订单总费用（用变量b表示）”算法的流程图。&lt;a class=&#34;headerlink&#34; href=&#34;#为了更好的服务居民某小区超市开展了送货上门活动单次购买物资金额用变量a表示不超过50元时收取送货费3元单次购买物资金额超过50元时收取送货费1元请你设计并完善计算订单总费用用变量b表示算法的流程图&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
 &lt;h3 id=&#34;操作要求_1&#34;&gt;【操作要求】&lt;a class=&#34;headerlink&#34; href=&#34;#操作要求_1&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;（1）认真分析结构图，确认图中所缺内容。&lt;/li&gt;
-&lt;li&gt;（2）从提供的对象集群中拖放合适对象到图中相应热区位置，将结构图补充完整。&lt;/li&gt;
+&lt;li&gt;（1）请使用系统提供的图形，将流程图补充完整。&lt;/li&gt;
+&lt;li&gt;（2）拖动符号区的图形，到中央区的流程图中。&lt;/li&gt;
+&lt;li&gt;（3）输入相应内容，使之正确表达算法。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;_1&#34;&gt;&lt;a class=&#34;headerlink&#34; href=&#34;#_1&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img alt=&#34;2-0&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/2-0.7p3sphfv9.webp&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;0&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/0.9dcs26dj8q.webp&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;中央流程区_1&#34;&gt;中央流程区&lt;a class=&#34;headerlink&#34; href=&#34;#中央流程区_1&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&#34;2-0&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/2.0.45hhf6kjar.webp&#34; /&gt;&lt;/p&gt;
 &lt;details&gt;
 &lt;summary&gt;答案&lt;/summary&gt;
-&lt;img src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/answer/2-1.1ov8ugmw4d.webp&#34; alt=&#34;2-1&#34; /&gt;
+&lt;img src=&#39;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/2.1.3go7v5x0ad.webp&#39; alt=&#39;2-1&#39; /&gt;
 &lt;/details&gt;
 
 &lt;h2 id=&#34;题目3&#34;&gt;题目3&lt;a class=&#34;headerlink&#34; href=&#34;#题目3&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
-&lt;h3 id=&#34;小明家配备了不同类型的信息技术设备这些设备连接形成家庭局域网并通过光纤接入互联网从而确保其相关的信息系统正常运行请你仔细阅读网络连接结构图补充完善&#34;&gt;小明家配备了不同类型的信息技术设备，这些设备连接形成家庭局域网并通过光纤接入互联网，从而确保其相关的信息系统正常运行，请你仔细阅读网络连接结构图，补充完善。&lt;a class=&#34;headerlink&#34; href=&#34;#小明家配备了不同类型的信息技术设备这些设备连接形成家庭局域网并通过光纤接入互联网从而确保其相关的信息系统正常运行请你仔细阅读网络连接结构图补充完善&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;试题描述夏天使用空调设定温度后当室内温度高于设定温度时空调开始制冷而当室内温度降至设定温度时则转为通风状态设定温度为t1检测室内温度为t2模式开关为m根据室内温度模拟空调控制自动送风模式现请你设计该问题的算法流程图&#34;&gt;试题描述：夏天使用空调，设定温度后，当室内温度高于设定温度时，空调开始制冷；而当室内温度降至设定温度时，则转为通风状态。设定温度为t1，检测室内温度为t2，模式开关为m。根据室内温度模拟空调控制自动送风模式，现请你设计该问题的算法流程图。&lt;a class=&#34;headerlink&#34; href=&#34;#试题描述夏天使用空调设定温度后当室内温度高于设定温度时空调开始制冷而当室内温度降至设定温度时则转为通风状态设定温度为t1检测室内温度为t2模式开关为m根据室内温度模拟空调控制自动送风模式现请你设计该问题的算法流程图&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
 &lt;h3 id=&#34;操作要求_2&#34;&gt;【操作要求】&lt;a class=&#34;headerlink&#34; href=&#34;#操作要求_2&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;（1）认真分析结构图，确认图中所缺内容。&lt;/li&gt;
-&lt;li&gt;（2）从提供的对象集群中拖放合适对象到图中相应热区位置，将结构图补充完整。
-&lt;img alt=&#34;3-0&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/3-0.3k7tn2y08b.webp&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;（1）请使用系统提供的图形，将流程图补充完整。&lt;/li&gt;
+&lt;li&gt;（2）拖动符号区的图形，到中央区的流程图中。&lt;/li&gt;
+&lt;li&gt;（3）输入相应内容，使之正确表达算法。&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;img alt=&#34;0&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/0.9dcs26dj8q.webp&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;中央流程区_2&#34;&gt;中央流程区&lt;a class=&#34;headerlink&#34; href=&#34;#中央流程区_2&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&#34;3-0&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/3.0.4n7j3rlwvr.webp&#34; /&gt;&lt;/p&gt;
 &lt;details&gt;
 &lt;summary&gt;答案&lt;/summary&gt;
-&lt;img src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/answer/3-1.lvx9wm08.webp&#34; alt=&#34;3-1&#34; /&gt;
+&lt;img src=&#39;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/3.1.1e8f73yf97.webp&#39; alt=&#39;3-1&#39; /&gt;
 &lt;/details&gt;
 
 &lt;h2 id=&#34;题目4&#34;&gt;题目4&lt;a class=&#34;headerlink&#34; href=&#34;#题目4&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
-&lt;h3 id=&#34;智能快递柜解决末端物流配送最后一公里的难题用户接收取件码短信可随时自助取件快递员通过手机app扫码可实现集中投递方便快捷有效深受快递企业和用户的欢迎现给出该信息系统的结构图请你仔细读图并补充完善&#34;&gt;智能快递柜解决末端物流配送“最后一公里”的难题，用户接收取件码短信可随时自助取件，快递员通过手机APP扫码可实现集中投递，方便快捷有效，深受快递企业和用户的欢迎。现给出该信息系统的结构图，请你仔细读图，并补充完善。&lt;a class=&#34;headerlink&#34; href=&#34;#智能快递柜解决末端物流配送最后一公里的难题用户接收取件码短信可随时自助取件快递员通过手机app扫码可实现集中投递方便快捷有效深受快递企业和用户的欢迎现给出该信息系统的结构图请你仔细读图并补充完善&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;自动售货机的投币系统功能为输入商品的价格p用户的投币金额m如果投币金额大于等于商品价格则计算并输出找零金额yu否则输出零钱不足现给出解决该问题的部分算法流程图请你进行补充完善&#34;&gt;自动售货机的投币系统功能为：输入商品的价格p、用户的投币金额m，如果投币金额大于等于商品价格，则计算并输出找零金额yu；否则输出“零钱不足”。现给出解决该问题的部分算法流程图，请你进行补充完善。&lt;a class=&#34;headerlink&#34; href=&#34;#自动售货机的投币系统功能为输入商品的价格p用户的投币金额m如果投币金额大于等于商品价格则计算并输出找零金额yu否则输出零钱不足现给出解决该问题的部分算法流程图请你进行补充完善&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
 &lt;h3 id=&#34;操作要求_3&#34;&gt;【操作要求】&lt;a class=&#34;headerlink&#34; href=&#34;#操作要求_3&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;（1）认真分析结构图，确认图中所缺内容。&lt;/li&gt;
-&lt;li&gt;（2）从提供的对象集群中拖放合适对象到图中相应热区位置，将结构图补充完整。
-&lt;img alt=&#34;4-0&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/4-0.3nrfksr2yg.webp&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;（1）请使用系统提供的图形，将流程图补充完整。&lt;/li&gt;
+&lt;li&gt;（2）拖动符号区的图形，到中央区的流程图中。&lt;/li&gt;
+&lt;li&gt;（3）输入相应内容，使之正确表达算法。&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;img alt=&#34;0&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/0.9dcs26dj8q.webp&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;中央流程区_3&#34;&gt;中央流程区&lt;a class=&#34;headerlink&#34; href=&#34;#中央流程区_3&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&#34;4-0&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/4.0.7sn12pgbss.webp&#34; /&gt;&lt;/p&gt;
 &lt;details&gt;
 &lt;summary&gt;答案&lt;/summary&gt;
-&lt;img src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/answer/4-1.45hh9dts34.webp&#34; alt=&#34;4-1&#34; /&gt;
+&lt;img src=&#39;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/4.1.1e8f73yf9a.webp&#39; alt=&#39;4-1&#39; /&gt;
 &lt;/details&gt;
 
 &lt;h2 id=&#34;题目5&#34;&gt;题目5&lt;a class=&#34;headerlink&#34; href=&#34;#题目5&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
-&lt;h3 id=&#34;突如其来的疫情停课不停教停课不停学线上教学为疫情学习搭起了桥梁发挥重要作用的正是一个个远程教学系统请运用所学知识完善某网络学习系统&#34;&gt;突如其来的疫情，&amp;rdquo;停课不停教&amp;rdquo;、“停课不停学”，线上教学为疫情学习搭起了桥梁。发挥重要作用的正是一个个远程教学系统。请运用所学知识，完善某网络学习系统。&lt;a class=&#34;headerlink&#34; href=&#34;#突如其来的疫情停课不停教停课不停学线上教学为疫情学习搭起了桥梁发挥重要作用的正是一个个远程教学系统请运用所学知识完善某网络学习系统&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;太原市公交车票刷卡为每次05元刷卡时若余额不足05元提示请投币若余额05元以上含05元直接扣除本次乘车费用扣除后余额不足5元提示余额即将不足若余额5元以上含5元提示欢迎乘车请描述该算法&#34;&gt;太原市公交车票刷卡为每次0.5元。刷卡时，若余额不足0.5元，提示&amp;rdquo;&amp;ldquo;请投币&amp;rdquo;&amp;ldquo;；若余额0.5元以上(含0.5元)，直接扣除本次乘车费用；扣除后余额不足5元提示&amp;rdquo;&amp;ldquo;余额即将不足&amp;rdquo;&amp;ldquo;，若余额5元以上(含5元)，提示&amp;rdquo;&amp;ldquo;欢迎乘车&amp;rdquo;&amp;ldquo;。请描述该算法。&lt;a class=&#34;headerlink&#34; href=&#34;#太原市公交车票刷卡为每次05元刷卡时若余额不足05元提示请投币若余额05元以上含05元直接扣除本次乘车费用扣除后余额不足5元提示余额即将不足若余额5元以上含5元提示欢迎乘车请描述该算法&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
 &lt;h3 id=&#34;操作要求_4&#34;&gt;【操作要求】&lt;a class=&#34;headerlink&#34; href=&#34;#操作要求_4&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;（1）认真分析结构图，确认图中所缺内容。&lt;/li&gt;
-&lt;li&gt;（2）从提供的对象集群中拖放合适对象到图中相应热区位置，将结构图补充完整。
-&lt;img alt=&#34;5-0&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/5-0.5j40df3ikm.webp&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;（1）请使用系统提供的图形，将流程图补充完整。&lt;/li&gt;
+&lt;li&gt;（2）拖动符号区的图形，到中央区的流程图中。&lt;/li&gt;
+&lt;li&gt;（3）输入相应内容，使之正确表达算法。&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;img alt=&#34;0&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/0.9dcs26dj8q.webp&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;中央流程区_4&#34;&gt;中央流程区&lt;a class=&#34;headerlink&#34; href=&#34;#中央流程区_4&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&#34;5-0&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/5.0.4jnx61su67.webp&#34; /&gt;&lt;/p&gt;
 &lt;details&gt;
 &lt;summary&gt;答案&lt;/summary&gt;
-&lt;img src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/answer/5-1.5c0shziooo.webp&#34; alt=&#34;5-1&#34; /&gt;
+&lt;img src=&#39;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/5.1.9kfzxlzoox.webp&#39; alt=&#39;5-1&#39; /&gt;
 &lt;/details&gt;
 
 &lt;h2 id=&#34;题目6&#34;&gt;题目6&lt;a class=&#34;headerlink&#34; href=&#34;#题目6&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
-&lt;h3 id=&#34;全自动电子收费系统etc是智能交通系统的服务功能之一主要由车辆自动识别系统车载电子标签车道天线环路感应器等中心管理系统应用软件数据库和其他辅助设施显示器自动栏杆摄像头等组成现给出一个全自动电子收费系统结构图请你仔细读图补充完善&#34;&gt;全自动电子收费系统(ETC)是智能交通系统的服务功能之一，主要由车辆自动识别系统(车载电子标签、车道天线、环路感应器等)、中心管理系统(应用软件、数据库)和其他辅助设施(显示器、自动栏杆、摄像头)等组成，现给出一个全自动电子收费系统结构图，请你仔细读图，补充完善。&lt;a class=&#34;headerlink&#34; href=&#34;#全自动电子收费系统etc是智能交通系统的服务功能之一主要由车辆自动识别系统车载电子标签车道天线环路感应器等中心管理系统应用软件数据库和其他辅助设施显示器自动栏杆摄像头等组成现给出一个全自动电子收费系统结构图请你仔细读图补充完善&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;为了提倡居民节约用电电力公司制订了如下的阶梯电价收费办法每月用电量在170度及以下时电价为0477元度每月用电量在170度以上时电价为0527元度请你设计完善计算电费的算法流程图其中变量n为正数表示月用电量度-money表示电费元&#34;&gt;为了提倡居民节约用电，电力公司制订了如下的阶梯电价收费办法：每月用电量在170度及以下时，电价为0.477元/度；每月用电量在170度以上时，电价为0.527元/度。请你设计完善“计算电费”的算法流程图，其中变量n为正数：表示月用电量(度)， money：表示电费(元).&lt;a class=&#34;headerlink&#34; href=&#34;#为了提倡居民节约用电电力公司制订了如下的阶梯电价收费办法每月用电量在170度及以下时电价为0477元度每月用电量在170度以上时电价为0527元度请你设计完善计算电费的算法流程图其中变量n为正数表示月用电量度-money表示电费元&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
 &lt;h3 id=&#34;操作要求_5&#34;&gt;【操作要求】&lt;a class=&#34;headerlink&#34; href=&#34;#操作要求_5&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;（1）认真分析结构图，确认图中所缺内容。&lt;/li&gt;
-&lt;li&gt;（2）从提供的对象集群中拖放合适对象到图中相应热区位置，将结构图补充完整。
-&lt;img alt=&#34;6-0&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/6-0.6pnbm0sf6f.webp&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;（1）请使用系统提供的图形，将流程图补充完整。&lt;/li&gt;
+&lt;li&gt;（2）拖动符号区的图形，到中央区的流程图中。&lt;/li&gt;
+&lt;li&gt;（3）输入相应内容，使之正确表达算法。&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;img alt=&#34;0&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/0.9dcs26dj8q.webp&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;中央流程区_5&#34;&gt;中央流程区&lt;a class=&#34;headerlink&#34; href=&#34;#中央流程区_5&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&#34;6-0&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/6.0.8ojii5q08z.webp&#34; /&gt;&lt;/p&gt;
 &lt;details&gt;
 &lt;summary&gt;答案&lt;/summary&gt;
-&lt;img src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/answer/6-1.lvx9wm15.webp&#34; alt=&#34;6-1&#34; /&gt;
+&lt;img src=&#39;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/6.1.1lbn2jkkp0.webp&#39; alt=&#39;6-1&#39; /&gt;
 &lt;/details&gt;
 
 &lt;h2 id=&#34;题目7&#34;&gt;题目7&lt;a class=&#34;headerlink&#34; href=&#34;#题目7&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
-&lt;h3 id=&#34;为了方便管理提高效率学校使用了学生饭卡管理系统该系统具有发卡充值消费查询等功能家长可以通过互联网登录学校服务器进行充值查询现给出家长访问该信息系统的结构图请你仔细读图并补充完善&#34;&gt;为了方便管理、提高效率，学校使用了学生饭卡管理系统。该系统具有发卡、充值、消费、查询等功能。家长可以通过互联网登录学校服务器进行充值、查询。现给出家长访问该信息系统的结构图，请你仔细读图，并补充完善。&lt;a class=&#34;headerlink&#34; href=&#34;#为了方便管理提高效率学校使用了学生饭卡管理系统该系统具有发卡充值消费查询等功能家长可以通过互联网登录学校服务器进行充值查询现给出家长访问该信息系统的结构图请你仔细读图并补充完善&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;某电商平台搞活动同一件商品购买不超过5件时按原价出售超过5件时打7折出售需要通过输入商品单价p和数量n计算并输出总价s现给出解决该问题的部分算法流程图请你进行补充完善&#34;&gt;某电商平台搞活动，同一件商品购买不超过5件时按原价出售，超过5件时打7折出售，需要通过输入商品单价p和数量n计算并输出总价s。现给出解决该问题的部分算法流程图，请你进行补充完善。&lt;a class=&#34;headerlink&#34; href=&#34;#某电商平台搞活动同一件商品购买不超过5件时按原价出售超过5件时打7折出售需要通过输入商品单价p和数量n计算并输出总价s现给出解决该问题的部分算法流程图请你进行补充完善&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
 &lt;h3 id=&#34;操作要求_6&#34;&gt;【操作要求】&lt;a class=&#34;headerlink&#34; href=&#34;#操作要求_6&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;（1）认真分析结构图，确认图中所缺内容。&lt;/li&gt;
-&lt;li&gt;（2）从提供的对象集群中拖放合适对象到图中相应热区位置，将结构图补充完整。
-&lt;img alt=&#34;7-0&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/7-0.7w6mumhbs7.webp&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;（1）请使用系统提供的图形，将流程图补充完整。&lt;/li&gt;
+&lt;li&gt;（2）拖动符号区的图形，到中央区的流程图中。&lt;/li&gt;
+&lt;li&gt;（3）输入相应内容，使之正确表达算法。&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;img alt=&#34;0&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/0.9dcs26dj8q.webp&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;中央流程区_6&#34;&gt;中央流程区&lt;a class=&#34;headerlink&#34; href=&#34;#中央流程区_6&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&#34;7-0&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/7.0.101zg8q4ee.webp&#34; /&gt;&lt;/p&gt;
 &lt;details&gt;
 &lt;summary&gt;答案&lt;/summary&gt;
-&lt;img src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/answer/7-1.2doiehaf85.webp&#34; alt=&#34;7-1&#34; /&gt;
+&lt;img src=&#39;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/7.1.13lldyj747.webp&#39; alt=&#39;7-1&#39; /&gt;
 &lt;/details&gt;
 
 &lt;h2 id=&#34;题目8&#34;&gt;题目8&lt;a class=&#34;headerlink&#34; href=&#34;#题目8&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
-&lt;h3 id=&#34;食堂刷脸消费系统是用户通过智能手机app完成人脸面部录入使用人脸识别进行餐费支付的一个信息系统该系统的引入减缓了学生下课就餐高峰期人群聚集的压力大大降低了打饭和找零环节中的交叉感染的几率现给出食堂刷脸消费系统组成结构图请你仔细读图补充完善&#34;&gt;食堂刷脸消费系统是用户通过智能手机APP完成人脸面部录入，使用人脸识别进行餐费支付的一个信息系统，该系统的引入减缓了学生下课就餐高峰期人群聚集的压力，大大降低了打饭和找零环节中的交叉感染的几率。现给出食堂刷脸消费系统组成结构图，请你仔细读图，补充完善。&lt;a class=&#34;headerlink&#34; href=&#34;#食堂刷脸消费系统是用户通过智能手机app完成人脸面部录入使用人脸识别进行餐费支付的一个信息系统该系统的引入减缓了学生下课就餐高峰期人群聚集的压力大大降低了打饭和找零环节中的交叉感染的几率现给出食堂刷脸消费系统组成结构图请你仔细读图补充完善&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;征兵时男性身高要求在160cm以上现有一台身高测量仪输入标准身高即可判断受测人身高是否合格当测得身高大于160cm时机器语音播报身高合格请测量体重否则播报很遗憾身高不合格现设身高变量为h请完善该任务的算法流程图&#34;&gt;征兵时，男性身高要求在160cm以上，现有一台身高测量仪，输入标准身高，即可判断受测人身高是否合格。当测得身高大于160cm时，机器语音播报“身高合格，请测量体重”，否则播报“很遗憾，身高不合格&amp;rdquo;&amp;ldquo;。现设身高变量为h，请完善该任务的算法流程图。&lt;a class=&#34;headerlink&#34; href=&#34;#征兵时男性身高要求在160cm以上现有一台身高测量仪输入标准身高即可判断受测人身高是否合格当测得身高大于160cm时机器语音播报身高合格请测量体重否则播报很遗憾身高不合格现设身高变量为h请完善该任务的算法流程图&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
 &lt;h3 id=&#34;操作要求_7&#34;&gt;【操作要求】&lt;a class=&#34;headerlink&#34; href=&#34;#操作要求_7&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;（1）认真分析结构图，确认图中所缺内容。&lt;/li&gt;
-&lt;li&gt;（2）从提供的对象集群中拖放合适对象到图中相应热区位置，将结构图补充完整。
-&lt;img alt=&#34;8-0&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/8-0.969k0xzb3n.webp&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;（1）请使用系统提供的图形，将流程图补充完整。&lt;/li&gt;
+&lt;li&gt;（2）拖动符号区的图形，到中央区的流程图中。&lt;/li&gt;
+&lt;li&gt;（3）输入相应内容，使之正确表达算法。&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;img alt=&#34;0&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/0.9dcs26dj8q.webp&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;中央流程区_7&#34;&gt;中央流程区&lt;a class=&#34;headerlink&#34; href=&#34;#中央流程区_7&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&#34;8-0&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/8.0.7p3yi9iob.webp&#34; /&gt;&lt;/p&gt;
 &lt;details&gt;
 &lt;summary&gt;答案&lt;/summary&gt;
-&lt;img src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/answer/8-1.41xvbo0pel.webp&#34; alt=&#34;8-1&#34; /&gt;
+&lt;img src=&#39;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/8.1.7p3yi9iod.webp&#39; alt=&#39;8-1&#39; /&gt;
 &lt;/details&gt;
 
 &lt;h2 id=&#34;题目9&#34;&gt;题目9&lt;a class=&#34;headerlink&#34; href=&#34;#题目9&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
-&lt;h3 id=&#34;随着电子商务及懒人经济的发展我国物流业得到了前所未有的发展同时企业对信息化系统的建设和使用显得尤为重要现给定一个物流业务管理信息系统组成结构图请你仔细读图补充完善&#34;&gt;随着电子商务及懒人经济”的发展，我国物流业得到了前所未有的发展。同时，企业对信息化系统的建设和使用显得尤为重要。现给定一个物流业务管理信息系统组成结构图，请你仔细读图，补充完善。&lt;a class=&#34;headerlink&#34; href=&#34;#随着电子商务及懒人经济的发展我国物流业得到了前所未有的发展同时企业对信息化系统的建设和使用显得尤为重要现给定一个物流业务管理信息系统组成结构图请你仔细读图补充完善&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;为唤起公众的节水意识加强水资源保护其市通过价格调控手段来达到节水的目的其生活用水收费标准为每户每月用水量未超过12立方米时每立方米收费28元超过12立方米的部分每立方米收费42元请你完善该问题的算法流程图&#34;&gt;为唤起公众的节水意识，加强水资源保护，其市通过价格调控手段来达到节水的目的，其生活用水收费标准为∶每户每月用水量未超过12立方米时，每立方米收费2.8元；超过12立方米的部分，每立方米收费4.2元。请你完善该问题的算法流程图。&lt;a class=&#34;headerlink&#34; href=&#34;#为唤起公众的节水意识加强水资源保护其市通过价格调控手段来达到节水的目的其生活用水收费标准为每户每月用水量未超过12立方米时每立方米收费28元超过12立方米的部分每立方米收费42元请你完善该问题的算法流程图&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
 &lt;h3 id=&#34;操作要求_8&#34;&gt;【操作要求】&lt;a class=&#34;headerlink&#34; href=&#34;#操作要求_8&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;（1）认真分析结构图，确认图中所缺内容。&lt;/li&gt;
-&lt;li&gt;（2）从提供的对象集群中拖放合适对象到图中相应热区位置，将结构图补充完整。
-&lt;img alt=&#34;9-0&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/9-0.8vmq7sk2yr.webp&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;（1）请使用系统提供的图形，将流程图补充完整。&lt;/li&gt;
+&lt;li&gt;（2）拖动符号区的图形，到中央区的流程图中。&lt;/li&gt;
+&lt;li&gt;（3）输入相应内容，使之正确表达算法。&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;img alt=&#34;0&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/0.9dcs26dj8q.webp&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;中央流程区_8&#34;&gt;中央流程区&lt;a class=&#34;headerlink&#34; href=&#34;#中央流程区_8&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&#34;9-0&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/9.0.86tgtkomoe.webp&#34; /&gt;&lt;/p&gt;
 &lt;details&gt;
 &lt;summary&gt;答案&lt;/summary&gt;
-&lt;img src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/answer/9-1.4jnx0922zs.webp&#34; alt=&#34;9-1&#34; /&gt;
+&lt;img src=&#39;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/9.1.45i0sgfyo.webp&#39; alt=&#39;9-1&#39; /&gt;
 &lt;/details&gt;
 
 &lt;h2 id=&#34;题目10&#34;&gt;题目10&lt;a class=&#34;headerlink&#34; href=&#34;#题目10&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
-&lt;h3 id=&#34;小明想给家里配置电脑设备满足家庭成员的不同需求小明用电脑观看教学视频学习python编程语言在线和老师同学进行沟通小明爸爸主要用电脑编辑文档打印资料闲暇时偶尔玩网络游戏小明吗妈有很多照片需要处理喜欢看电影听歌请根据小明家庭成员的需求合理配置相应设备构建电脑硬件系统&#34;&gt;小明想给家里配置电脑设备，满足家庭成员的不同需求，小明用电脑观看教学视频，学习python编程语言，在线和老师，同学进行沟通，小明爸爸主要用电脑编辑文档，打印资料，闲暇时偶尔玩网络游戏。小明吗妈有很多照片需要处理，喜欢看电影、听歌。请根据小明家庭成员的需求，合理配置相应设备，构建电脑硬件系统。&lt;a class=&#34;headerlink&#34; href=&#34;#小明想给家里配置电脑设备满足家庭成员的不同需求小明用电脑观看教学视频学习python编程语言在线和老师同学进行沟通小明爸爸主要用电脑编辑文档打印资料闲暇时偶尔玩网络游戏小明吗妈有很多照片需要处理喜欢看电影听歌请根据小明家庭成员的需求合理配置相应设备构建电脑硬件系统&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;对任意输入的两个整数x和y找出并输出其中的较大值x和y分别表示两个任意整数-big表示输出的较大值现清你设计该问题的算法流程图&#34;&gt;对任意输入的两个整数x和y，找出并输出其中的较大值。x和y分别表示两个任意整数， big表示输出的较大值、现清你设计该问题的算法流程图。&lt;a class=&#34;headerlink&#34; href=&#34;#对任意输入的两个整数x和y找出并输出其中的较大值x和y分别表示两个任意整数-big表示输出的较大值现清你设计该问题的算法流程图&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
 &lt;h3 id=&#34;操作要求_9&#34;&gt;【操作要求】&lt;a class=&#34;headerlink&#34; href=&#34;#操作要求_9&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;（1）认真分析结构图，确认图中所缺内容。&lt;/li&gt;
-&lt;li&gt;（2）从提供的对象集群中拖放合适对象到图中相应热区位置，将结构图补充完整。
-&lt;img alt=&#34;10-0&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/10-0.17575vk74f.webp&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;（1）请使用系统提供的图形，将流程图补充完整。&lt;/li&gt;
+&lt;li&gt;（2）拖动符号区的图形，到中央区的流程图中。&lt;/li&gt;
+&lt;li&gt;（3）输入相应内容，使之正确表达算法。&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;img alt=&#34;0&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/0.9dcs26dj8q.webp&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;中央流程区_9&#34;&gt;中央流程区&lt;a class=&#34;headerlink&#34; href=&#34;#中央流程区_9&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&#34;10-0&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/10.0.4xucwx151t.webp&#34; /&gt;&lt;/p&gt;
 &lt;details&gt;
 &lt;summary&gt;答案&lt;/summary&gt;
-&lt;img src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/answer/10-1.969k0y0mnn.webp&#34; alt=&#34;10-1&#34; /&gt;
+&lt;img src=&#39;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/10.1.1vygvozsur.webp&#39; alt=&#39;10-1&#39; /&gt;
 &lt;/details&gt;
 
 &lt;script src=&#34;https://giscus.app/client.js&#34;
