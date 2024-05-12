@@ -10,7 +10,6 @@ updated: 2024-03-21
 - __[图床](https://picx.ccsyue.com/)__
 
 ## 科普
-- __[新语丝](http://xys.org)__
 - __[科学猫头鹰](https://sciowl.us)__
 - __[frontiersin](https://kids.frontiersin.org/)__
 
