@@ -15,6 +15,8 @@ updated: 2024-03-21
 
 ## 人文
 - __[gutenberg](https://www.gutenberg.org/)__
+- __[the evolution of trust](https://ncase.me/trust/)__
+
 
 <script src="https://giscus.app/client.js"
 	data-repo="tarenaexit/mkdocs-merterial-garden"
