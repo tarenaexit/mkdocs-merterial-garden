@@ -6,6 +6,16 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://doc.ccsyue.com/blog/</loc>
+         <lastmod>2024-05-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://doc.ccsyue.com/blog/discussions-12/</loc>
+         <lastmod>2024-05-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://doc.ccsyue.com/flinks/</loc>
          <lastmod>2024-05-13</lastmod>
          <changefreq>daily</changefreq>
@@ -56,12 +66,22 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://doc.ccsyue.com/discussions-11/</loc>
+         <lastmod>2024-05-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://doc.ccsyue.com/discussions-10/</loc>
          <lastmod>2024-05-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://doc.ccsyue.com/blog/</loc>
+         <loc>https://doc.ccsyue.com/blog/archive/2024/</loc>
+         <lastmod>2024-05-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://doc.ccsyue.com/blog/category/%E7%A7%91%E5%AD%A6/</loc>
          <lastmod>2024-05-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
