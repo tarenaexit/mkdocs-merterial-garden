@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Mon, 13 May 2024 07:55:06 -0000</pubDate>
-    <lastBuildDate>Mon, 13 May 2024 07:55:06 -0000</lastBuildDate>
+    <pubDate>Mon, 13 May 2024 11:16:59 -0000</pubDate>
+    <lastBuildDate>Mon, 13 May 2024 11:16:59 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -1508,6 +1508,7 @@ BMI数值范围 BMI数值范围
 &lt;h2 id=&#34;人文&#34;&gt;人文&lt;a class=&#34;headerlink&#34; href=&#34;#人文&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://www.gutenberg.org/&#34;&gt;gutenberg&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://ncase.me/trust/&#34;&gt;the evolution of trust&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;script src=&#34;https://giscus.app/client.js&#34;
     data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
