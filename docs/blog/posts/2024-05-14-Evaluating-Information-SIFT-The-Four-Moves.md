@@ -1,5 +1,5 @@
 ---
-title: Evaluating Information: SIFT (The Four Moves)
+title: Evaluating Information:SIFT (The Four Moves)
 number: 14
 slug: discussions-14/
 url: https://github.com/tarenaexit/mkdocs-merterial-garden/discussions/14
