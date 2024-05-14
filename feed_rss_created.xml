@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Mon, 13 May 2024 19:10:44 -0000</pubDate>
-    <lastBuildDate>Mon, 13 May 2024 19:10:44 -0000</lastBuildDate>
+    <pubDate>Tue, 14 May 2024 23:58:09 -0000</pubDate>
+    <lastBuildDate>Tue, 14 May 2024 23:58:09 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -82,7 +82,7 @@
 &lt;p&gt;国内虽然不少人都在使用 Gitee，但 Gitee 时不时恶心你一下（前不久就无缘无故把我的 oschina 的账号封了，而且要加 QQ 群去申诉，最后我是直接通过邮件反馈解封了），而且有时候有些资源用起来限制太多，很麻烦。&lt;/p&gt;
 &lt;p&gt;极狐从 2024 年 1 月 2 日起要付费才能使用，1898元/人/年的价格估计会劝退 90% 的个人用户吧！&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/readme/res/</link>
-      <pubDate>Mon, 13 May 2024 11:19:29 +0000</pubDate>
+      <pubDate>Tue, 14 May 2024 23:08:36 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/readme/res/</guid>
@@ -121,10 +121,160 @@
     &lt;img style=&#34;max-widrh:600px&#34; src=&#34;https://slab-1251708715.cos.ap-guangzhou.myqcloud.com/website/portfolio/webstack-hugo.jpg&#34; alt=&#34;WebStack-Hugo&#34;&gt;
 &lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/readme/work/</link>
-      <pubDate>Mon, 13 May 2024 11:19:29 +0000</pubDate>
+      <pubDate>Tue, 14 May 2024 23:08:36 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/readme/work/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Evaluating Information:SIFT (The Four Moves)</title>
+      
+      
+        
+      <author>tarenaexit</author>
+        
+      
+      
+      
+      <description>&lt;h2 id=&#34;the-sift-method&#34;&gt;The SIFT Method&lt;a class=&#34;headerlink&#34; href=&#34;#the-sift-method&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&#34;image&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/image.2krqiqeuf3.webp&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;The SIFT method is an evaluation strategy developed by digital literacy expert, Mike Caulfield, to help determine whether online content can be trusted for credible or reliable sources of information. All SIFT information on this page is adapted from his materials with a &lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/&#34;&gt;CC BY 4.0&lt;/a&gt; license.&lt;/p&gt;
+&lt;p&gt;Determining if resources are credible is challenging. Use the SIFT method to help you analyze information, especially news or other online media.&lt;/p&gt;
+&lt;h2 id=&#34;s---stop&#34;&gt;S - Stop&lt;a class=&#34;headerlink&#34; href=&#34;#s---stop&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Before you read or share an article or video, STOP!​&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Be aware of your emotional response to the headline or information in the article. Headlines are often meant to get clicks, and will do so by causing the reader to have a strong emotional response.&lt;/p&gt;
+&lt;p&gt;Before sharing, consider:&lt;/p&gt;
+&lt;p&gt;What you already know about the topic. ​&lt;/p&gt;
+&lt;p&gt;What you know about the source. Do you know it&amp;rsquo;s reputation\?&lt;/p&gt;
+&lt;p&gt;Before moving forward or sharing, use the other three moves: &lt;strong&gt;I&lt;/strong&gt;nvestigate the Source, &lt;strong&gt;F&lt;/strong&gt;ind Better Coverage, and &lt;strong&gt;T&lt;/strong&gt;race Claims, Quotes, and Media back to the Original Context.&lt;/p&gt;
+&lt;h2 id=&#34;i---investigate-the-source&#34;&gt;I - Investigate the Source&lt;a class=&#34;headerlink&#34; href=&#34;#i---investigate-the-source&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;The next step before sharing is to Investigate the Source.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Take a moment to look up the author and source publishing the information.&lt;/p&gt;
+&lt;p&gt;What can you find about the author/website creators\? ​&lt;/p&gt;
+&lt;p&gt;What is their mission\? Do they have vested interests\? ​Would their assessment be biased\?&lt;/p&gt;
+&lt;p&gt;Do they have authority in the area\?​&lt;/p&gt;
+&lt;p&gt;Use &lt;a href=&#34;https://webliteracy.pressbooks.com/chapter/what-reading-laterally-means/&#34;&gt;&lt;strong&gt;lateral reading&lt;/strong&gt;&lt;/a&gt;. Go beyond the &amp;lsquo;About Us&amp;rsquo; section on the organization&amp;rsquo;s website and see what other, trusted sources say about the source.​ You can use Google or Wikipedia to investigate the source.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://infodemic.blog/2020/02/16/lets-hover/&#34;&gt;Hovering&lt;/a&gt;&lt;/strong&gt; is another technique to learn more about who is sharing information, especially on social media platforms such as Twitter.&lt;/p&gt;
+&lt;h2 id=&#34;f---find-better-coverage&#34;&gt;F - Find Better Coverage&lt;a class=&#34;headerlink&#34; href=&#34;#f---find-better-coverage&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;The next step is to Find Better Coverage or other sources that may or may not support the original claim.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Again, use lateral reading to see if you can find other sources corroborating the same information or disputing it.​&lt;/p&gt;
+&lt;p&gt;What coverage is available on the topic\? &lt;/p&gt;
+&lt;p&gt;Keep track of trusted news sources.&lt;/p&gt;
+&lt;p&gt;Many times, fact checkers have already looked into the claims. These fact-checkers are often nonpartisan, nonprofit websites that try to increase public knowledge and understanding by fact checking claims to see if they are based on fact or if they are biased/not supported by evidence.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.factcheck.org/&#34;&gt;FactCheck.org​&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.snopes.com/&#34;&gt;Snopes.com​&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.washingtonpost.com/news/fact-checker/?utm_term=.cef7932feec8&#34;&gt;Washington Post Fact Checker​&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.politifact.com/&#34;&gt; PolitiFact&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;t---trace-claims-quotes-and-media-to-their-original-context&#34;&gt;T - Trace Claims, Quotes, and Media to their Original Context&lt;a class=&#34;headerlink&#34; href=&#34;#t---trace-claims-quotes-and-media-to-their-original-context&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;The final step is to Trace Claims, Quotes, and Media to their Original Context.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;When an article references a quote from an expert, or results of a research study, it is good practice to attempt to locate the original source of the information.​ Click through the links to follow the claims to the original source of information. Open up the original reporting sources listed in a bibliography if present&lt;/p&gt;
+&lt;p&gt;Was the claim, quote, or media fairly represented\?&lt;/p&gt;
+&lt;p&gt;Does the extracted information support the original claims in the research\? ​&lt;/p&gt;
+&lt;p&gt;Is information being cherry-picked to support an agenda or a bias\?​&lt;/p&gt;
+&lt;p&gt;Is information being taken out of context\?​&lt;/p&gt;
+&lt;p&gt;Remember, headlines, blog posts, or tweets may sensationalize facts to get more attention or clicks. ​Re-reporting may omit, misinterpret, or select certain facts to support biased claims. If the claim is taken from a source who took it from another source, important facts and contextual information can be left out. Make sure to read the claims in the original context in which they were presented.&lt;/p&gt;
+&lt;p&gt;When in doubt, contact an expert – &lt;a href=&#34;https://www.lib.uchicago.edu/research/help/ask-librarian/&#34;&gt;like a librarian!​&lt;/a&gt;.&lt;/p&gt;
+&lt;script src=&#34;https://giscus.app/client.js&#34;
+    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
+    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
+    data-mapping=&#34;number&#34;
+    data-term=&#34;14&#34;
+    data-reactions-enabled=&#34;1&#34;
+    data-emit-metadata=&#34;0&#34;
+    data-input-position=&#34;bottom&#34;
+    data-theme=&#34;light&#34;
+    data-lang=&#34;zh-CN&#34;
+    crossorigin=&#34;anonymous&#34;
+    async&gt;
+&lt;/script&gt;</description>
+      <link>https://doc.ccsyue.com/blog/discussions-14/</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
+      
+      <guid isPermaLink="true">https://doc.ccsyue.com/blog/discussions-14/</guid>
+      
+    </item>
+    
+    <item>
+      <title>《THE PROBLEMS OF PHILOSOPHY》</title>
+      
+      
+        
+      <author>tarenaexit</author>
+        
+      
+      
+      
+      <description>&lt;h2 id=&#34;chapter-ix-the-world-of-universals&#34;&gt;CHAPTER IX. THE WORLD OF UNIVERSALS&lt;a class=&#34;headerlink&#34; href=&#34;#chapter-ix-the-world-of-universals&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;We shall therefore use the word &amp;lsquo;universal&amp;rsquo; instead of the word &amp;lsquo;idea&amp;rsquo;, to describe what Plato meant. The essence of the sort of entity that Plato meant is that it is opposed to the particular things that are given in sensation. We speak of whatever is given in sensation, or is of the same nature as things given in sensation, as a particular; by opposition to this, a universal will be anything which may be shared by many particulars, and has those characteristics which, as we saw, distinguish justice and whiteness from just acts and white things.&lt;/li&gt;
+&lt;li&gt;When we examine common words, we find that, broadly speaking, proper names stand for particulars, while other substantives, adjectives, prepositions, and verbs stand for universals. Pronouns stand for particulars, but are ambiguous: it is only by the context or the circumstances that we know what particulars they stand for. The word &amp;lsquo;now&amp;rsquo; stands for a particular, namely the present moment; but like pronouns, it stands for an ambiguous particular, because the present is always changing.&lt;/li&gt;
+&lt;li&gt;It will be seen that no sentence can be made up without at least one word which denotes a universal.Thus all truths involve universals, and all knowledge of truths involves acquaintance with universals.&lt;/li&gt;
+&lt;li&gt;We shall find it convenient only to speak of things existing when they are in time, that is to say, when we can point to some time at which they exist (not excluding the possibility of their existing at all times). Thus thoughts and feelings, minds and physical objects exist. But universals do not exist in this sense; we shall say that they subsist or have being, where &amp;lsquo;being&amp;rsquo; is opposed to &amp;lsquo;existence&amp;rsquo; as being timeless. The world of universals, therefore, may also be described as the world of being. The world of being is unchangeable, rigid, exact, delightful to the mathematician, the logician, the builder of metaphysical systems, and all who love perfection more than life. The world of existence is fleeting, vague, without sharp boundaries, without any clear plan or arrangement, but it contains all thoughts and feelings, all the data of sense, and all physical objects, everything that can do either good or harm, everything that makes any difference to the value of life and the world. &lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;chapter-x-on-our-knowledge-of-universals&#34;&gt;CHAPTER X. ON OUR KNOWLEDGE OF UNIVERSALS&lt;a class=&#34;headerlink&#34; href=&#34;#chapter-x-on-our-knowledge-of-universals&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;In regard to one man&amp;rsquo;s knowledge at a given time, universals, like particulars, may be divided into those known by acquaintance, those known only by description, and those not known either by acquaintance or by description.&lt;/li&gt;
+&lt;li&gt;Universals of this sort may be called &amp;lsquo;sensible qualities&amp;rsquo;. They can be apprehended with less effort of abstraction than any others, and they seem less removed from particulars than other universals are.&lt;/li&gt;
+&lt;li&gt;I see successively a number of sense-data in which one part is to the left of another; I perceive, as in the case of different white patches, that all these sense-data have something in common, and by abstraction I find that what they have in common is a certain relation between their parts, namely the relation which I call &amp;lsquo;being to the left of&amp;rsquo;. In this way I become acquainted with the universal relation.&lt;/li&gt;
+&lt;li&gt;From either of these sources I can abstract the universal relation of before and after, just as I abstracted the universal relation &amp;lsquo;being to the left of&amp;rsquo;. Thus time-relations, like space-relations, are among those with which we are acquainted.&lt;/li&gt;
+&lt;li&gt;Another relation with which we become acquainted in much the same way is resemblance.&lt;/li&gt;
+&lt;li&gt;Between universals, as between particulars, there are relations of which we may be immediately aware.Here we are dealing with a relation, namely &amp;lsquo;greater than&amp;rsquo;, between two relations. Our knowledge of such relations, though it requires more power of abstraction than is required for perceiving the qualities of sense-data, appears to be equally immediate, and (at least in some cases) equally indubitable. Thus there is immediate knowledge concerning universals as well as concerning sense-data.&lt;/li&gt;
+&lt;li&gt;All a priori knowledge deals exclusively with the relations of universals. This proposition is of great importance, and goes a long way towards solving our previous difficulties concerning a priori knowledge.&lt;/li&gt;
+&lt;li&gt;The only case in which it might seem, at first sight, as if our proposition were untrue, is the case in which an a priori proposition states that all of one class of particulars belong to some other class, or (what comes to the same thing) that all particulars having some one property also have some other. In this case it might seem as though we were dealing with the particulars that have the property rather than with the property.&lt;/li&gt;
+&lt;li&gt;Thus although our general statement implies statements about particular couples, as soon as we know that there are such particular couples, yet it does not itself assert or imply that there are such particular couples, and thus fails to make any statement whatever about any actual particular couple. The statement made is about &amp;lsquo;couple&amp;rsquo;, the universal, and not about this or that couple.&lt;/li&gt;
+&lt;li&gt;Hence, although our general proposition is a priori, all its applications to actual particulars involve experience and therefore contain an empirical element. In this way what seemed mysterious in our a priori knowledge is seen to have been based upon an error.&lt;/li&gt;
+&lt;li&gt;Thus the difference between an a priori general proposition and an empirical generalization does not come in the meaning of the proposition; it comes in the nature of the evidence for it.the ultimate ground remains inductive, i.e. derived from instances, and not an a priori connexion of universals such as we have in logic and arithmetic.&lt;/li&gt;
+&lt;li&gt;Two opposite points are to be observed concerning a priori general propositions. The first is that, if many particular instances are known, our general proposition may be arrived at in the first instance by induction, and the connexion of universals may be only subsequently perceived. &lt;/li&gt;
+&lt;li&gt;The other point is more interesting, and of more philosophical importance. It is, that we may sometimes know a general proposition in cases where we do not know a single instance of it. &lt;/li&gt;
+&lt;li&gt;This possibility, of knowledge of general propositions of which no instance can be given, is often denied, because it is not perceived that the knowledge of such propositions only requires a knowledge of the relations of universals, and does not require any knowledge of instances of the universals in question.&lt;/li&gt;
+&lt;li&gt;We may now take a survey of &lt;strong&gt;the sources of our knowledge&lt;/strong&gt;, as they have appeared in the course of our analysis. We have first to distinguish knowledge of things and knowledge of truths. In each there are two kinds, one immediate and one derivative. Our immediate knowledge of things, which we called acquaintance, consists of two sorts, according as the things known are particulars or universals. Among particulars, we have acquaintance with sense-data and (probably) with ourselves. Among universals, there seems to be no principle by which we can decide which can be known by acquaintance, but it is clear that among those that can be so known are sensible qualities, relations of space and time, similarity, and certain abstract logical universals. Our derivative knowledge of things, which we call knowledge by description, always involves both acquaintance with something and knowledge of truths. Our immediate knowledge of truths may be called intuitive knowledge, and the truths so known may be called self-evident truths. Among such truths are included those which merely state what is given in sense, and also certain abstract logical and arithmetical principles, and (though with less certainty) some ethical propositions. Our derivative knowledge of truths consists of everything that we can deduce from self-evident truths by the use of self-evident principles of deduction.&lt;/li&gt;
+&lt;li&gt;If the above account is correct, all our knowledge of truths depends upon our intuitive knowledge. It therefore becomes important to consider the nature and scope of intuitive knowledge, in much the same way as, at an earlier stage, we considered the nature and scope of knowledge by acquaintance.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;chapter-xi-on-intuitive-knowledge&#34;&gt;CHAPTER XI. ON INTUITIVE KNOWLEDGE&lt;a class=&#34;headerlink&#34; href=&#34;#chapter-xi-on-intuitive-knowledge&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;There is a common impression that everything that we believe ought to be capable of proof, or at least of being shown to be highly probable. It is felt by many that a belief for which no reason can be given is an unreasonable belief. In the main, this view is just. &lt;/li&gt;
+&lt;li&gt;But beyond that, there seems to be no further regress. The principle itself is constantly used in our reasoning, sometimes consciously, sometimes unconsciously; but there is no reasoning which, starting from some simpler self-evident principle, leads us to the principle of induction as its conclusion. And the same holds for other logical principles. Their truth is evident to us, and we employ them in constructing demonstrations; but they themselves, or at least some of them, are incapable of demonstration.&lt;/li&gt;
+&lt;li&gt;It is usually through particular instances that we come to be able to see the general principle. Only those who are practised in dealing with abstractions can readily grasp a general principle without the help of instances.&lt;/li&gt;
+&lt;li&gt;In addition to general principles, the other kind of self-evident truths are those immediately derived from sensation.Thus whatever self-evident truths may be obtained from our senses must be different from the sense-data from which they are obtained.&lt;/li&gt;
+&lt;li&gt;It would seem that there are two kinds of self-evident truths of perception, though perhaps in the last analysis the two kinds may coalesce. First, there is the kind which simply asserts the existence of the sense-datum, without in any way analysing it.The other kind arises when the object of sense is complex, and we subject it to some degree of analysis.&lt;/li&gt;
+&lt;li&gt;Another class of intuitive judgements, analogous to those of sense and yet quite distinct from them, are judgements of memory. There is some danger of confusion as to the nature of memory, owing to the fact that memory of an object is apt to be accompanied by an image of the object, and yet the image cannot be what constitutes memory.&lt;/li&gt;
+&lt;li&gt;The case of memory, however, raises a difficulty, for it is notoriously fallacious, and thus throws doubt on the trustworthiness of intuitive judgements in general. This difficulty is no light one. But let us first narrow its scope as far as possible. Broadly speaking, memory is trustworthy in proportion to the vividness of the experience and to its nearness in time. &lt;/li&gt;
+&lt;li&gt;Thus the first answer to the difficulty of fallacious memory is to say that memory has degrees of self-evidence, and that these correspond to the degrees of its trustworthiness, reaching a limit of perfect self-evidence and perfect trustworthiness in our memory of events which are recent and vivid.&lt;/li&gt;
+&lt;li&gt;It would seem, however, that there are cases of very firm belief in a memory which is wholly false. It is probable that, in these cases, what is really remembered, in the sense of being immediately before the mind, is something other than what is falsely believed in, though something generally associated with it.&lt;/li&gt;
+&lt;li&gt;One important point about self-evidence is made clear by the case of memory, and that is, that self-evidence has degrees: it is not a quality which is simply present or absent, but a quality which may be more or less present, in gradations ranging from absolute certainty down to an almost imperceptible faintness. Truths of perception and some of the principles of logic have the very highest degree of self-evidence; truths of immediate memory have an almost equally high degree. The inductive principle has less self-evidence than some of the other principles of logic, such as &amp;lsquo;what follows from a true premiss must be true&amp;rsquo;. Memories have a diminishing self-evidence as they become remoter and fainter; the truths of logic and mathematics have (broadly speaking) less self-evidence as they become more complicated. Judgements of intrinsic ethical or aesthetic value are apt to have some self-evidence, but not much.&lt;/li&gt;
+&lt;li&gt;Degrees of self-evidence are important in the theory of knowledge, since, if propositions may (as seems likely) have some degree of self-evidence without being true, it will not be necessary to abandon all connexion between self-evidence and truth, but merely to say that, where there is a conflict, the more self-evident proposition is to be retained and the less self-evident rejected.&lt;/li&gt;
+&lt;li&gt;It seems, however, highly probable that two different notions are combined in &amp;lsquo;self-evidence&amp;rsquo; as above explained; that one of them, which corresponds to the highest degree of self-evidence, is really an infallible guarantee of truth, while the other, which corresponds to all the other degrees, does not give an infallible guarantee, but only a greater or less presumption. &lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;chapter-xii-truth-and-falsehood&#34;&gt;CHAPTER XII. TRUTH AND FALSEHOOD&lt;a class=&#34;headerlink&#34; href=&#34;#chapter-xii-truth-and-falsehood&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Our knowledge of truths, unlike our knowledge of things, has an opposite, namely error. So far as things are concerned, we may know them or not know them, but there is no positive state of mind which can be described as erroneous knowledge of things, so long, at any rate, as we confine ourselves to knowledge by acquaintance.we are asking what is meant by the question whether a belief is true or false. It is to be hoped that a clear answer to this question may help us to obtain an answer to the question what beliefs are true, but for the present we ask only &amp;lsquo;What is truth?&amp;rsquo; and &amp;lsquo;What is falsehood?&amp;rsquo; not &amp;lsquo;What beliefs are true?&amp;rsquo; and &amp;lsquo;What beliefs are false?&amp;rsquo;&lt;/li&gt;
+&lt;li&gt;There are three points to observe in the attempt to discover the nature of truth, three requisites which any theory must fulfil.&lt;/li&gt;
+&lt;li&gt;Our theory of truth must be such as to admit of its opposite, falsehood. &lt;/li&gt;
+&lt;li&gt;It seems fairly evident that if there were no beliefs there could be no falsehood, and no truth either, in the sense in which truth is correlative to falsehood.In fact, truth and falsehood are properties of beliefs and statements: hence a world of mere matter, since it would contain no beliefs or statements, would also contain no truth or falsehood.&lt;/li&gt;
+&lt;li&gt;But, as against what we have just said, it is to be observed that the truth or falsehood of a belief always depends upon something which lies outside the belief itself. Hence, although truth and falsehood are properties of beliefs, they are properties dependent upon the relations of the beliefs to other things, not upon any internal quality of the beliefs.&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;script src=&#34;https://giscus.app/client.js&#34;
+    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
+    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
+    data-mapping=&#34;number&#34;
+    data-term=&#34;13&#34;
+    data-reactions-enabled=&#34;1&#34;
+    data-emit-metadata=&#34;0&#34;
+    data-input-position=&#34;bottom&#34;
+    data-theme=&#34;light&#34;
+    data-lang=&#34;zh-CN&#34;
+    crossorigin=&#34;anonymous&#34;
+    async&gt;
+&lt;/script&gt;</description>
+      <link>https://doc.ccsyue.com/discussions-13/</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
+      
+      <guid isPermaLink="true">https://doc.ccsyue.com/discussions-13/</guid>
       
     </item>
     
@@ -1499,6 +1649,7 @@ BMI数值范围 BMI数值范围
 &lt;h2 id=&#34;工具&#34;&gt;工具&lt;a class=&#34;headerlink&#34; href=&#34;#工具&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://picx.ccsyue.com/&#34;&gt;图床&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://da.ccsyue.com/it/pinyin/&#34;&gt;拼音&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;科普&#34;&gt;科普&lt;a class=&#34;headerlink&#34; href=&#34;#科普&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
