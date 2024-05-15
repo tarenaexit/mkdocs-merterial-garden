@@ -54,7 +54,31 @@ labels: ['3.1.1-罗素']
 3. Our theory of truth must be such as to admit of its opposite, falsehood. 
 4. It seems fairly evident that if there were no beliefs there could be no falsehood, and no truth either, in the sense in which truth is correlative to falsehood.In fact, truth and falsehood are properties of beliefs and statements: hence a world of mere matter, since it would contain no beliefs or statements, would also contain no truth or falsehood.
 5. But, as against what we have just said, it is to be observed that the truth or falsehood of a belief always depends upon something which lies outside the belief itself. Hence, although truth and falsehood are properties of beliefs, they are properties dependent upon the relations of the beliefs to other things, not upon any internal quality of the beliefs.
-6. 
+6. The third of the above requisites leads us to adopt the view—which has on the whole been commonest among philosophers—that truth consists in some form of correspondence between belief and fact. It is said that the mark of falsehood is failure to cohere in the body of our beliefs, and that it is the essence of a truth to form part of the completely rounded system which is The Truth.
+7. There is, however, a great difficulty in this view, or rather two great difficulties. The first is that there is no reason to suppose that only one coherent body of beliefs is possible. In more scientific matters, it is certain that there are often two or more hypotheses which account for all the known facts on some subject
+8. In philosophy, again, it seems not uncommon for two rival hypotheses to be both able to account for all the facts. 
+9. Thus the laws of logic supply the skeleton or framework within which the test of coherence applies, and they themselves cannot be established by this test.
+10. For the above two reasons, coherence cannot be accepted as giving the meaning of truth, though it is often a most important test of truth after a certain amount of truth has become known.
+11. Hence we are driven back to correspondence with fact as constituting the nature of truth. It remains to define precisely what we mean by 'fact', and what is the nature of the correspondence which must subsist between belief and fact, in order that belief may be true.
+12. In accordance with our three requisites, we have to seek a theory of truth which (1) allows truth to have an opposite, namely falsehood, (2) makes truth a property of beliefs, but (3) makes it a property wholly dependent upon the relation of the beliefs to outside things.
+13. It is common to think of relations as though they always held between two terms, but in fact this is not always the case. Some relations demand three terms, some four, and so on.
+14. The 'sense' of relations is the ultimate source of order and series and a host of mathematical concepts; but we need not concern ourselves further with this aspect.
+15. We spoke of the relation called 'judging' or 'believing' as knitting together into one complex whole the subject and the objects. 
+16. Thus although truth and falsehood are properties of beliefs, yet they are in a sense extrinsic properties, for the condition of the truth of a belief is something not involving beliefs, or (in general) any mind at all, but only the objects of the belief.Hence we account simultaneously for the two facts that beliefs (a) depend on minds for their existence, (b) do not depend on minds for their truth.
+17. Thus a belief is true when there is a corresponding fact, and is false when there is no corresponding fact.
+18. It will be seen that minds do not create truth or falsehood. They create beliefs, but when once the beliefs are created, the mind cannot make them true or false, except in the special case where they concern future things which are within the power of the person believing, such as catching trains.
+
+## CHAPTER XIII. KNOWLEDGE, ERROR, AND PROBABLE OPINION
+1. The question as to what we mean by truth and falsehood, which we considered in the preceding chapter, is of much less interest than the question as to how we can know what is true and what is false.Before we can attack this question, we must, however, first decide what we mean by 'knowing', and this question is not so easy as might be supposed.
+2. Thus it is clear that a true belief is not knowledge when it is deduced from a false belief.
+3. In like manner, a true belief cannot be called knowledge when it is deduced by a fallacious process of reasoning, even if the premisses from which it is deduced are true. 
+4. We may say: 'Derivative knowledge is what is validly deduced from premisses known intuitively'. In this statement there is no formal defect, but it leaves the definition of intuitive knowledge still to seek.
+5. But in fact 'knowledge' is not a precise conception: it merges into 'probable opinion', as we shall see more fully in the course of the present chapter. A very precise definition, therefore, should not be sought, since any such definition must be more or less misleading.
+6. Thus in regard to any complex fact, there are, theoretically, two ways in which it may be known: (1) by means of a judgement, in which its several parts are judged to be related as they are in fact related; (2) by means of acquaintance with the complex fact itself, which may (in a large sense) be called perception, though it is by no means confined to objects of the senses.
+7. In this process, there is a continual gradation of self-evidence, from the highest degree to the least, not in the sense-data themselves, but in the judgements based on them.
+8. Thus self-evidence of this sort is a matter of degree; and it seems plain that the higher degrees are more to be trusted than the lower degrees.
+9. In regard to probable opinion, we can derive great assistance from coherence, which we rejected as the definition of truth, but may often use as a criterion. A body of individually probable opinions, if they are mutually coherent, become more probable than any one of them would be individually.
+10. Thus the mere organization of probable opinion will never, by itself, transform it into indubitable knowledge.
 
 <script src="https://giscus.app/client.js"
 	data-repo="tarenaexit/mkdocs-merterial-garden"
