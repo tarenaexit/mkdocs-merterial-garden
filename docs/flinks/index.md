@@ -19,8 +19,8 @@ updated: 2024-03-21
 - __[the evolution of trust](https://ncase.me/trust/)__
 
 ## 健康
-- __[medline plus]（https://medlineplus.gov/)__
-- __[mayo clinic]（https://www.mayoclinic.org/)__
+- __[medline plus](https://medlineplus.gov/)__
+- __[mayo clinic](https://www.mayoclinic.org/)__
 
 <script src="https://giscus.app/client.js"
 	data-repo="tarenaexit/mkdocs-merterial-garden"
