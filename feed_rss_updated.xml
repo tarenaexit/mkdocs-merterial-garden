@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Fri, 17 May 2024 21:30:37 -0000</pubDate>
-    <lastBuildDate>Fri, 17 May 2024 21:30:37 -0000</lastBuildDate>
+    <pubDate>Fri, 17 May 2024 21:35:12 -0000</pubDate>
+    <lastBuildDate>Fri, 17 May 2024 21:35:12 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -82,7 +82,7 @@
 &lt;p&gt;国内虽然不少人都在使用 Gitee，但 Gitee 时不时恶心你一下（前不久就无缘无故把我的 oschina 的账号封了，而且要加 QQ 群去申诉，最后我是直接通过邮件反馈解封了），而且有时候有些资源用起来限制太多，很麻烦。&lt;/p&gt;
 &lt;p&gt;极狐从 2024 年 1 月 2 日起要付费才能使用，1898元/人/年的价格估计会劝退 90% 的个人用户吧！&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/readme/res/</link>
-      <pubDate>Fri, 17 May 2024 21:30:05 +0000</pubDate>
+      <pubDate>Fri, 17 May 2024 21:34:37 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/readme/res/</guid>
@@ -121,7 +121,7 @@
     &lt;img style=&#34;max-widrh:600px&#34; src=&#34;https://slab-1251708715.cos.ap-guangzhou.myqcloud.com/website/portfolio/webstack-hugo.jpg&#34; alt=&#34;WebStack-Hugo&#34;&gt;
 &lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/readme/work/</link>
-      <pubDate>Fri, 17 May 2024 21:30:05 +0000</pubDate>
+      <pubDate>Fri, 17 May 2024 21:34:37 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/readme/work/</guid>
@@ -1715,8 +1715,8 @@ BMI数值范围 BMI数值范围
 &lt;/ul&gt;
 &lt;h2 id=&#34;健康&#34;&gt;健康&lt;a class=&#34;headerlink&#34; href=&#34;#健康&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;[medline plus]（https://medlineplus.gov/)&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;[mayo clinic]（https://www.mayoclinic.org/)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://medlineplus.gov/&#34;&gt;medline plus&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://www.mayoclinic.org/&#34;&gt;mayo clinic&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;script src=&#34;https://giscus.app/client.js&#34;
     data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
