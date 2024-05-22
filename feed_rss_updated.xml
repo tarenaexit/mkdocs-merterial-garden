@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Wed, 22 May 2024 08:58:47 -0000</pubDate>
-    <lastBuildDate>Wed, 22 May 2024 08:58:47 -0000</lastBuildDate>
+    <pubDate>Wed, 22 May 2024 09:12:49 -0000</pubDate>
+    <lastBuildDate>Wed, 22 May 2024 09:12:49 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -82,7 +82,7 @@
 &lt;p&gt;国内虽然不少人都在使用 Gitee，但 Gitee 时不时恶心你一下（前不久就无缘无故把我的 oschina 的账号封了，而且要加 QQ 群去申诉，最后我是直接通过邮件反馈解封了），而且有时候有些资源用起来限制太多，很麻烦。&lt;/p&gt;
 &lt;p&gt;极狐从 2024 年 1 月 2 日起要付费才能使用，1898元/人/年的价格估计会劝退 90% 的个人用户吧！&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/readme/res/</link>
-      <pubDate>Wed, 22 May 2024 08:58:08 +0000</pubDate>
+      <pubDate>Wed, 22 May 2024 09:12:14 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/readme/res/</guid>
@@ -121,7 +121,7 @@
     &lt;img style=&#34;max-widrh:600px&#34; src=&#34;https://slab-1251708715.cos.ap-guangzhou.myqcloud.com/website/portfolio/webstack-hugo.jpg&#34; alt=&#34;WebStack-Hugo&#34;&gt;
 &lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/readme/work/</link>
-      <pubDate>Wed, 22 May 2024 08:58:08 +0000</pubDate>
+      <pubDate>Wed, 22 May 2024 09:12:14 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/readme/work/</guid>
@@ -146,7 +146,7 @@
 &lt;p&gt;&lt;img alt=&#34;image&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/image.6m3q8lpapw.webp&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;二在页面中搜索be-used-on-windows-xp-or-earlier查看支持windows-7的最新版本&#34;&gt;二、在页面中搜索“be used on Windows XP or earlier.”，查看支持windows 7的最新版本。&lt;a class=&#34;headerlink&#34; href=&#34;#二在页面中搜索be-used-on-windows-xp-or-earlier查看支持windows-7的最新版本&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;如以下版本，就为发布windows版，直接跳过搜索下一个：&lt;/li&gt;
+&lt;li&gt;如以下版本，就未发布windows版，直接跳过搜索下一个：&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;&lt;img alt=&#34;image&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/image.2ruypn7xem.webp&#34; /&gt; &lt;/p&gt;
 &lt;ol&gt;
@@ -168,7 +168,7 @@
 &lt;/ol&gt;
 &lt;p&gt;&lt;img alt=&#34;image&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/image.26lb3ce72g.webp&#34; /&gt;&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;经验证：2022.2版本也可以安装在windows7上，初步使用无碍，但安装时提示path长度不够，可能会留下隐患，但可以通过插件安装汉化模块。而2019.3.5版本的汉化则需要下载resources_cn.jar文件方到安装目录的lib文件夹下。安转不过哪个版本请自行取舍。&lt;/li&gt;
+&lt;li&gt;经验证：2022.2版本也可以安装在windows7上，初步使用无碍，但安装时提示path长度不够，可能会留下隐患，但可以通过插件安装汉化模块。而2019.3.5版本的汉化则需要下载resources_cn.jar文件方到安装目录的lib文件夹下。安装哪个版本请自行取舍。&lt;/li&gt;
 &lt;/ol&gt;
 &lt;script src=&#34;https://giscus.app/client.js&#34;
     data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
