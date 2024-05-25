@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Sat, 25 May 2024 01:35:02 -0000</pubDate>
-    <lastBuildDate>Sat, 25 May 2024 01:35:02 -0000</lastBuildDate>
+    <pubDate>Sat, 25 May 2024 05:28:10 -0000</pubDate>
+    <lastBuildDate>Sat, 25 May 2024 05:28:10 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -82,7 +82,7 @@
 &lt;p&gt;国内虽然不少人都在使用 Gitee，但 Gitee 时不时恶心你一下（前不久就无缘无故把我的 oschina 的账号封了，而且要加 QQ 群去申诉，最后我是直接通过邮件反馈解封了），而且有时候有些资源用起来限制太多，很麻烦。&lt;/p&gt;
 &lt;p&gt;极狐从 2024 年 1 月 2 日起要付费才能使用，1898元/人/年的价格估计会劝退 90% 的个人用户吧！&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/readme/res/</link>
-      <pubDate>Sat, 25 May 2024 01:34:22 +0000</pubDate>
+      <pubDate>Sat, 25 May 2024 05:27:38 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/readme/res/</guid>
@@ -121,7 +121,7 @@
     &lt;img style=&#34;max-widrh:600px&#34; src=&#34;https://slab-1251708715.cos.ap-guangzhou.myqcloud.com/website/portfolio/webstack-hugo.jpg&#34; alt=&#34;WebStack-Hugo&#34;&gt;
 &lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/readme/work/</link>
-      <pubDate>Sat, 25 May 2024 01:34:22 +0000</pubDate>
+      <pubDate>Sat, 25 May 2024 05:27:38 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/readme/work/</guid>
@@ -140,9 +140,9 @@
       
       <description>&lt;p&gt;&lt;a href=&#34;https://www.automa.site/&#34;&gt;Automate your browser by connecting blocks.&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Automa is a browser extension for browser automation. From auto-fill forms, doing a repetitive task, taking a screenshot, to scraping data of the website, it&amp;rsquo;s up to you what you want to do with this extension.&lt;/p&gt;
+&lt;p&gt;Automa is a browser extension for browser automation. From auto-fill forms, doing a repetitive task, taking a screenshot, to scraping data of the website, it&amp;rsquo;s up to you what you want to do with this extension.
+&lt;img alt=&#34;image&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/image.5j411qo0z8.webp&#34; /&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img alt=&#34;image&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/image.5q78x0n5vg.webp&#34; /&gt;&lt;/p&gt;
 &lt;script src=&#34;https://giscus.app/client.js&#34;
     data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
     data-repo-id=&#34;RR_kgDOL4wNPw&#34;
