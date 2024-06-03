@@ -9,7 +9,8 @@ updated: 2024-03-21
 ## 工具
 - __[图床](https://picx.ccsyue.com/)__
 - __[拼音](http://da.ccsyue.com/it/pinyin/)__
-
+- __[p2p传文件](https://pairdrop.net)__ 
+- __[localsend](https://localsend.org/zh-CN/download)__ 
 ## 科普
 - __[科学猫头鹰](https://sciowl.us)__
 - __[frontiersin](https://kids.frontiersin.org/)__
