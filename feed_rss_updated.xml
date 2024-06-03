@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Sun, 02 Jun 2024 19:10:49 -0000</pubDate>
-    <lastBuildDate>Sun, 02 Jun 2024 19:10:49 -0000</lastBuildDate>
+    <pubDate>Mon, 03 Jun 2024 12:43:07 -0000</pubDate>
+    <lastBuildDate>Mon, 03 Jun 2024 12:43:07 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -82,7 +82,7 @@
 &lt;p&gt;国内虽然不少人都在使用 Gitee，但 Gitee 时不时恶心你一下（前不久就无缘无故把我的 oschina 的账号封了，而且要加 QQ 群去申诉，最后我是直接通过邮件反馈解封了），而且有时候有些资源用起来限制太多，很麻烦。&lt;/p&gt;
 &lt;p&gt;极狐从 2024 年 1 月 2 日起要付费才能使用，1898元/人/年的价格估计会劝退 90% 的个人用户吧！&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/readme/res/</link>
-      <pubDate>Sat, 01 Jun 2024 19:13:33 +0000</pubDate>
+      <pubDate>Mon, 03 Jun 2024 12:41:52 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/readme/res/</guid>
@@ -121,10 +121,51 @@
     &lt;img style=&#34;max-widrh:600px&#34; src=&#34;https://slab-1251708715.cos.ap-guangzhou.myqcloud.com/website/portfolio/webstack-hugo.jpg&#34; alt=&#34;WebStack-Hugo&#34;&gt;
 &lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/readme/work/</link>
-      <pubDate>Sat, 01 Jun 2024 19:13:33 +0000</pubDate>
+      <pubDate>Mon, 03 Jun 2024 12:41:52 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/readme/work/</guid>
+      
+    </item>
+    
+    <item>
+      <title>下载及处理</title>
+      
+      
+        
+      <author>tarenaexit</author>
+        
+      
+      
+      
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/yt-dlp/yt-dlp&#34;&gt;yt-dlp&lt;/a&gt; &lt;a href=&#34;https://n.dingtalk.com/dingding/live-room/index.html?roomId=1lLjy3babj5cRDOE&#34;&gt;在线视频&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;C:\Program Files (x86)\Google\Chrome\Application\chrome.exe&amp;rdquo; &amp;ndash;disable-features=LockProfileCookieDatabase&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;yt-dlp -f best -o output.mp4 &amp;ndash;retries infinite  &amp;ndash;file-access-retries infinite &amp;ndash;fragment-retries infinite &amp;ndash;extractor-retries infinite &amp;ndash;skip-unavailable-fragments &amp;ldquo;hls/m3u8&amp;rdquo;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;ffmpeg -i &lt;span class=&#34;s2&#34;&gt;&amp;quot;output.mp4&amp;quot;&lt;/span&gt; -b:a 64k -acodec mp3 -ar 44100 -ac 1 &lt;span class=&#34;s2&#34;&gt;&amp;quot;output.mp3&amp;quot;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://videohighlight.com/&#34;&gt;https://videohighlight.com/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;script src=&#34;https://giscus.app/client.js&#34;
+    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
+    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
+    data-mapping=&#34;number&#34;
+    data-term=&#34;21&#34;
+    data-reactions-enabled=&#34;1&#34;
+    data-emit-metadata=&#34;0&#34;
+    data-input-position=&#34;bottom&#34;
+    data-theme=&#34;light&#34;
+    data-lang=&#34;zh-CN&#34;
+    crossorigin=&#34;anonymous&#34;
+    async&gt;
+&lt;/script&gt;</description>
+      <link>https://doc.ccsyue.com/discussions-21/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
+      
+      <guid isPermaLink="true">https://doc.ccsyue.com/discussions-21/</guid>
       
     </item>
     
