@@ -13,12 +13,12 @@
     <language>zh</language>
 
     
-    <pubDate>Mon, 10 Jun 2024 19:11:58 -0000</pubDate>
-    <lastBuildDate>Mon, 10 Jun 2024 19:11:58 -0000</lastBuildDate>
+    <pubDate>Tue, 11 Jun 2024 04:54:12 -0000</pubDate>
+    <lastBuildDate>Tue, 11 Jun 2024 04:54:12 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
-    <generator>MkDocs RSS plugin - v1.12.2</generator>
+    <generator>MkDocs RSS plugin - v1.13.0</generator>
 
     
     
@@ -82,7 +82,7 @@
 &lt;p&gt;国内虽然不少人都在使用 Gitee，但 Gitee 时不时恶心你一下（前不久就无缘无故把我的 oschina 的账号封了，而且要加 QQ 群去申诉，最后我是直接通过邮件反馈解封了），而且有时候有些资源用起来限制太多，很麻烦。&lt;/p&gt;
 &lt;p&gt;极狐从 2024 年 1 月 2 日起要付费才能使用，1898元/人/年的价格估计会劝退 90% 的个人用户吧！&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/readme/res/</link>
-      <pubDate>Sun, 09 Jun 2024 19:11:54 +0000</pubDate>
+      <pubDate>Tue, 11 Jun 2024 04:53:20 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/readme/res/</guid>
@@ -121,10 +121,164 @@
     &lt;img style=&#34;max-widrh:600px&#34; src=&#34;https://slab-1251708715.cos.ap-guangzhou.myqcloud.com/website/portfolio/webstack-hugo.jpg&#34; alt=&#34;WebStack-Hugo&#34;&gt;
 &lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/readme/work/</link>
-      <pubDate>Sun, 09 Jun 2024 19:11:54 +0000</pubDate>
+      <pubDate>Tue, 11 Jun 2024 04:53:20 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/readme/work/</guid>
+      
+    </item>
+    
+    <item>
+      <title>使用 yt-dlp 定时下载 youtube 频道视频并且上传到 onedrive</title>
+      
+      
+        
+      <author>tarenaexit</author>
+        
+      
+      
+      
+      <description>&lt;blockquote&gt;
+&lt;p&gt;来源：&lt;a href=&#34;https://www.yetpage.com/archives/229&#34;&gt;使用 yt-dlp 定时下载 youtube 频道视频并且上传到 onedrive&lt;/a&gt;
+&lt;a href=&#34;https://rclone.org/install/&#34;&gt;rclone安装&lt;/a&gt; 包括unzip安装
+&lt;a href=&#34;https://linux.cn/article-16270-1.html&#34;&gt;man-db安装&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;1-yt-dlp介绍&#34;&gt;1 yt-dlp介绍&lt;a class=&#34;headerlink&#34; href=&#34;#1-yt-dlp介绍&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;yt-dlp 是非常牛的项目，可以用来下载国内外绝大部分网站的视频。它是基于现已停用的 youtube-dlc 的 youtube-dl 分支。yt-dlp 这个项目的主要重点是添加新功能和补丁，同时会与原始项目保持同步。&lt;/p&gt;
+&lt;h3 id=&#34;2-linux上安装&#34;&gt;2 linux上安装&lt;a class=&#34;headerlink&#34; href=&#34;#2-linux上安装&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;h4 id=&#34;21-安装发行版注意平台差异&#34;&gt;2.1 安装发行版，注意平台差异&lt;a class=&#34;headerlink&#34; href=&#34;#21-安装发行版注意平台差异&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class=&#34;c1&#34;&gt;# amd &lt;/span&gt;
+wget&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp_linux
+&lt;span class=&#34;c1&#34;&gt;# arm64&lt;/span&gt;
+wget&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;-O&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;yt-dlp_linux&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp_linux_aarch64
+
+mv&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;yt-dlp_linux&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;/usr/bin/yt-dlp
+chmod&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;+x&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;/usr/bin/yt-dlp
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h4 id=&#34;22-debianubuntu安装ffmpeg用于视频转码&#34;&gt;2.2 debian/ubuntu安装ffmpeg，用于视频转码:&lt;a class=&#34;headerlink&#34; href=&#34;#22-debianubuntu安装ffmpeg用于视频转码&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;apt-get&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;update&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;-y
+apt-get&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;install&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;ffmpeg&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;man-db&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;unzip&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;-y
+ffmpeg&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;-version
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h4 id=&#34;23-使用过程中报错解决&#34;&gt;2.3 使用过程中报错解决&lt;a class=&#34;headerlink&#34; href=&#34;#23-使用过程中报错解决&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;报错提示&amp;rdquo;ERROR: &amp;lsquo;latin-1&amp;rsquo; codec can&amp;rsquo;t encode characters in position 36-37: ordinal not in range&lt;span class=&#34;arithmatex&#34;&gt;\(256\)&lt;/span&gt;&amp;rdquo;:&lt;/li&gt;
+&lt;li&gt;这个错误提示，表示某些字符无法被编码为 latin-1 字符集。通常情况下，这是由于操作系统或 shell 配置不正确所致。&lt;/li&gt;
+&lt;li&gt;设置环境变量 LANG 为一个合适的区域设置 &lt;span class=&#34;arithmatex&#34;&gt;\(locale\)&lt;/span&gt;，如 en_US.UTF-8 或者 C.UTF-8
+  &lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class=&#34;nb&#34;&gt;echo&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;export LANG=C.UTF-8&amp;quot;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&amp;gt;&amp;gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;~/.bashrc
+reboot
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;3-简单命令指南&#34;&gt;3 简单命令指南&lt;a class=&#34;headerlink&#34; href=&#34;#3-简单命令指南&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;h4 id=&#34;31-参数介绍&#34;&gt;3.1 参数介绍&lt;a class=&#34;headerlink&#34; href=&#34;#31-参数介绍&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;-f ba+bv -P /path/to/save_directory&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;-f ba+bv，最好的画质与音频&lt;/li&gt;
+&lt;li&gt;-P /path/to/save_directory，下载文件的保存目录&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;--cookies /path/to/cookies&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;加载账号cookies文件；&lt;/li&gt;
+&lt;li&gt;youtube&amp;rdquo;成人视频&amp;rdquo;/非公开视频需要账号cookies才能下载;&lt;/li&gt;
+&lt;li&gt;chrome浏览器可用EditThisCookie插件获取cookies，导出格式为&amp;rdquo;Netscape http cookie file&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;--download-archive videos.txt&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;下载前，yt-dlp 查看videos.txt文件，不下载该文件中记录的视频；&lt;/li&gt;
+&lt;li&gt;下载后，yt-dlp 将已完成下载的视频id，记录到videos.txt文件中;&lt;/li&gt;
+&lt;li&gt;此参数可避免视频重复下载，常用来追更。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;-o &amp;lsquo;\%&lt;span class=&#34;arithmatex&#34;&gt;\(channel\_id\)&lt;/span&gt;s/\%&lt;span class=&#34;arithmatex&#34;&gt;\(playlist\_id\)&lt;/span&gt;s/\%&lt;span class=&#34;arithmatex&#34;&gt;\(id\)&lt;/span&gt;s.\%&lt;span class=&#34;arithmatex&#34;&gt;\(ext\)&lt;/span&gt;s&amp;rsquo;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;自定义文件的&amp;rdquo;保存位置与重命名&amp;rdquo;；&lt;/li&gt;
+&lt;li&gt;此处为&amp;rdquo;./频道id/播放列表id/视频id.视频后缀[如mp4]&amp;ldquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;32-下载示范&#34;&gt;3.2 下载示范&lt;a class=&#34;headerlink&#34; href=&#34;#32-下载示范&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;以最好的画质与音频下载视频，不加载cookies
+yt-dlp -f ba+bv &amp;lt;视频链接&amp;gt; -P &amp;lt;保存目录&amp;gt;
+
+以最好的画质与音频下载视频，加载cookies
+yt-dlp -f ba+bv &amp;lt;视频链接&amp;gt; --cookies &amp;lt;cookies文件位置&amp;gt; -P &amp;lt;保存目录&amp;gt;
+
+以最好的画质与音频下载youtube播放列表
+yt-dlp -f &amp;#39;bv*+ba&amp;#39; --download-archive videos.txt  https://www.youtube.com/playlist?list=****** -o &amp;#39;%(channel_id)s/%(playlist_id)s/%(id)s.%(ext)s&amp;#39;
+
+以最好的画质与音频下载youtube某频道的所有公开内容，非公开需加载cookies文件
+yt-dlp -f &amp;#39;bv*+ba&amp;#39; --download-archive videos.txt https://www.youtube.com/@******/videos -o &amp;#39;%(channel)s/%(upload_date)s-%(title).200Bs.%(ext)s&amp;#39;
+4 脚本下载
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3 id=&#34;4-脚本下载&#34;&gt;4 脚本下载&lt;a class=&#34;headerlink&#34; href=&#34;#4-脚本下载&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;youtube上不少频道主由于被封号、下架视频等，导致我自己喜欢的视频常常找不到；故本博主喜欢将某些频道主视频进行onedrive备份，下面为下载脚本。可以实现：自动定时下载youtube指定频道内容；并且调用rclone上传到onedrive。&lt;/p&gt;
+&lt;h4 id=&#34;41-脚本内容&#34;&gt;4.1 脚本内容&lt;a class=&#34;headerlink&#34; href=&#34;#41-脚本内容&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;#!/bin/bash
+[[ ! -f &amp;quot;/home/yetpage&amp;quot; ]] &amp;amp;&amp;amp; mkdir -p /home/yetpage
+[[ ! -f &amp;quot;/home/log&amp;quot; ]] &amp;amp;&amp;amp; mkdir -p /home/log
+[[ ! -f &amp;quot;/home/yetpage/videotxt&amp;quot; ]] &amp;amp;&amp;amp; mkdir -p /home/yetpage/videotxt
+
+## 自定义文件下载主目录
+cd /home/yetpage
+
+## 指定下载频道
+channels=(
+    ## 下面为youtube频道主页链接，按照格式增加或者删减频道链接
+    &amp;#39;https://www.youtube.com/@111/videos&amp;#39;
+    &amp;#39;https://www.youtube.com/@222/videos&amp;#39;
+    &amp;#39;https://www.youtube.com/@333/videos&amp;#39;
+)
+
+## 逐个下载视频，自动生成中文简体字幕并嵌入视频文件中
+for channel in &amp;quot;${channels[@]}&amp;quot;; do
+    /usr/bin/yt-dlp -f &amp;#39;bv*+ba&amp;#39; \
+    --download-archive videos.txt \
+    --write-auto-sub --sub-format srt \
+    --sub-lang zh-Hans --embed-sub \
+    -i &amp;quot;$channel&amp;quot; \
+    -o &amp;#39;%(channel)s/%(upload_date)s-%(id)s-%(title).200Bs.%(ext)s&amp;#39;
+done
+
+## 将下载视频id的记录保存到/home/yetpage/videotxt/videois.txt
+cat videos.txt &amp;gt; /home/yetpage/videotxt/videois.txt
+
+## rclone上传到网盘，不使用的直接注释下面代码，
+## 指定rclone配置文件可添加参数: --config /home/yetpage/rclone.conf
+/usr/bin/rclone move /home/yetpage 盘符:/yt \
+-v --exclude &amp;quot;videos.txt&amp;quot; \
+-P &amp;gt;&amp;gt; /home/log/yt-rclone.log 2&amp;gt;&amp;amp;1
+
+## 说明一下
+## --write-auto-sub 表示自动生成字幕。
+## --write-sub 表示只下载存在的字幕文件
+## --sub-format srt 表示字幕格式为 SRT 格式。
+## --sub-lang zh-Hans 表示字幕语言为中文简体。
+## --embed-sub 表示将生成的字幕嵌入到视频文件中。
+## -i &amp;quot;$channel&amp;quot; 表示输入的视频文件路径或者链接地址是 $channel。
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h4 id=&#34;42-部署脚本定时执行&#34;&gt;4.2 部署脚本，定时执行&lt;a class=&#34;headerlink&#34; href=&#34;#42-部署脚本定时执行&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;将脚本内容复制到/home/yt.sh文件&lt;/li&gt;
+&lt;li&gt;赋予脚本执行权限：&lt;br /&gt;
+&lt;code&gt;chmod +x /home/yt.sh&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;crontab 每天6点定时执行脚本：&lt;br /&gt;
+&lt;code&gt;0 6 * * * bash /home/yt.sh&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;script src=&#34;https://giscus.app/client.js&#34;
+    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
+    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
+    data-mapping=&#34;number&#34;
+    data-term=&#34;23&#34;
+    data-reactions-enabled=&#34;1&#34;
+    data-emit-metadata=&#34;0&#34;
+    data-input-position=&#34;bottom&#34;
+    data-theme=&#34;light&#34;
+    data-lang=&#34;zh-CN&#34;
+    crossorigin=&#34;anonymous&#34;
+    async&gt;
+&lt;/script&gt;</description>
+      <link>https://doc.ccsyue.com/discussions-23/</link>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
+      <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
+      
+      <guid isPermaLink="true">https://doc.ccsyue.com/discussions-23/</guid>
       
     </item>
     
