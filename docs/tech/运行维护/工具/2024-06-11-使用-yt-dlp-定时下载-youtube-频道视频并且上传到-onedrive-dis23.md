@@ -149,7 +149,7 @@ cat videos.txt > /home/yetpage/videotxt/videois.txt
 * 将脚本内容复制到/home/yt.sh文件
 * 赋予脚本执行权限：  
   `chmod +x /home/yt.sh`
-* crontab 每天6点定时执行脚本：  
+* crontab 每天6点定时执行脚本：  （若出现0 command not found，则用sudo su切换到root，使用crontab -e进行编辑）
   `0 6 * * * bash /home/yt.sh`
 
 <script src="https://giscus.app/client.js"
