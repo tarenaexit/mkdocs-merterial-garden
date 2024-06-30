@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Sat, 29 Jun 2024 19:10:37 -0000</pubDate>
-    <lastBuildDate>Sat, 29 Jun 2024 19:10:37 -0000</lastBuildDate>
+    <pubDate>Sun, 30 Jun 2024 19:11:12 -0000</pubDate>
+    <lastBuildDate>Sun, 30 Jun 2024 19:11:12 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,399 @@
     
 
     
+    
+    <item>
+      <title>学业水平测试题1解析</title>
+      
+      
+        
+      <author>tarenaexit</author>
+        
+      
+      
+      
+      <description>&lt;p&gt;&lt;img alt=&#34;1&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/06/1.1aov7l53gl.jpg&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;一-选择题每小题2分共30分&#34;&gt;一、 选择题(每小题2分，共30分)&lt;a class=&#34;headerlink&#34; href=&#34;#一-选择题每小题2分共30分&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;解析：智能家居是指利用网络技术、物联网技术、人工智能技术等，将家庭中的各种设备连接起来，实现智能化控制和管理的系统。智能家居应用主要包括安防、照明、空调、娱乐、健康等方面。选项A、B、C都是智能家居应用的例子，而选项D是网上购物平台系统的应用，与智能家居无关。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;解析：声音编码是将声音信号转换为数字信号的过程，其中采样是将连续的声音信号分割为离散的数据点。采样率是指每秒钟采样的次数，采样位数是指每次采样用多少位二进制数表示。声音文件的大小可以根据以下公式计算：文件大小=采样率×采样时间×采样位数×声道数÷8÷1024÷1024（单位为MB）。因此，选项A是正确的计算公式，其他选项都缺少或多余了一些因素。
+对于音频信号，常用的采样频率有三种：44.1 kHz、22.05 kHz和11.025 kHz
+声音存储空间（B）=采样频率（Hz）×量化位数（个）×声道数（个）×时间（秒）÷8
+1M=1024KB=1024&lt;em&gt;1024&lt;/em&gt;B&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;解析：《中华人民共和国网络安全法》是我国第一部专门针对网络安全领域立法的法律，旨在规范网络行为，保障网络安全，维护国家利益和社会秩序。该法总则第一条规定了立法目的和原则，其中提到了社会公共利益作为一项重要内容。社会公共利益是指与社会成员共同生存和发展有关的利益，包括社会稳定、公共秩序、环境保护等方面。因此，选项C是正确答案。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;解析：数据是对客观事物的符号表示，是未经加工的原始材料，如数字、文字、图像等。信息是经过处理和解释的有意义的数据，是对某一问题或现象的描述或说明。知识是人们对信息的理解和总结，是对事物本质和规律的认识。根据这些定义，可以判断(1)是数据，因为它只是对某同学身高和体重的量化表示，没有提供任何额外的含义；(2)是信息，因为它是对(1)的数据进行了处理和解释，给出了一个判断；(3)是知识，因为它是对体重指数这一概念的定义和公式，反映了人们对身体健康的认识；(4)也是知识，因为它是对中国人体重指数的标准和影响的总结，反映了人们对超重问题的规律。因此，选项C是正确答案。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;解析：数据库应用软件是一种用于存储、管理和查询大量数据的软件，可以实现数据的增删改查、统计分析、报表生成等功能。数据库应用软件适合用于管理选修课程信息，因为选修课程信息涉及到多个字段（如课程名称、教师姓名、上课时间、选修人数等），需要进行有效的组织和检索。图像处理软件是一种用于编辑和处理图像文件的软件，如Photoshop等；字处理软件是一种用于编辑和排版文本文件的软件，如Word等；多媒体制作软件是一种用于制作和播放包含声音、图像、动画等多种媒体元素的文件的软件，如PowerPoint等。这些软件都不适合用于管理选修课程信息。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;解析：这些语句是使用Python语言编写的，Python语言是一种解释型、面向对象、高级程序设计语言。Python语言有以下特点：使用缩进来表示代码块；使用冒号来开始一个代码块；使用for循环来遍历一个序列；使用range函数来生成一个整数序列；使用print函数来输出内容到屏幕。根据这些特点，可以判断正确的语句顺序是：先初始化s为0（③），然后使用for循环遍历从1到25（不包括26）每隔3个数的序列（①），每次循环将s加上当前数（④），最后输出s的值（②）。因此，选项C是正确答案。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;解析：程序设计语言按照其与计算机硬件的接近程度可以分为机器语言、汇编语言和高级语言。机器语言是计算机能够直接识别和执行的二进制代码，汇编语言是用助记符表示的指令和操作数，高级语言是用人类自然语言或数学符号表示的指令和数据。Python是一种高级语言，它具有简洁、易读、跨平台、可扩展等特点。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;解析：计算机病毒是一种能够自我复制并感染其他程序或文件的恶意代码，它通常会对计算机系统或数据造成不同程度的损害。计算机病毒不是有错误的、设计不完善的或被破坏的计算机程序，而是有意制造的特殊计算机程序。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;解析：信息安全与网络道德是指在网络环境中保护信息不被非法获取、篡改或泄露，以及遵守网络规范和尊重他人隐私权的原则。为节省上网流量，把手机设置为自动连接无线Wi-Fi可能会导致信息被窃取或篡改；随意扫描公共场所中的二维码可能会遭遇诈骗或恶意软件；在朋友圈中转发未经核实的传闻可能会造成谣言的传播或侵犯他人名誉权。只有经对方许可，将含有对方信息的照片分享到朋友圈中才符合信息安全与网络道德的要求。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;解析：物联网是指通过无线通信技术将各种物体连接起来，实现智能化管理和服务的网络系统。RFID（Radio Frequency Identification）是一种无线电频率识别技术，它利用无线电波在读写器和电子标签之间进行数据传输，实现对物体的自动识别和跟踪。RFID主要用于物联网中的感知识别层，负责收集物体的基本信息，并将其传送到网络层。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;解析：虚拟现实（Virtual Reality）是一种利用计算机生成模拟环境，让用户通过视觉、听觉、触觉等感官体验到仿真的现实世界。3D电影《美人鱼》使用了虚拟现实技术，通过特殊的眼镜或头盔，让观众感受到电影中的场景和人物就在眼前，产生一种沉浸式的观影效果。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;解析：信息系统是指由人、硬件、软件、数据和网络等组成的，能够收集、处理、存储和传输信息的系统。网上银行是一种利用互联网技术，提供金融服务的信息系统，它可以让用户通过电脑或手机等终端，实现账户查询、转账汇款、理财投资等功能。如果要进行网上转账交易，就需要选择网上银行这种信息系统。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;解析：信息是指对事物的认识或描述，它是客观存在的事物在人类意识中的反映。信息必须依附于某种载体才能存在和传播，例如文字、声音、图像等。无线电技术并不能使信息不依附载体存在，它只是利用电磁波作为载体，将信息从一个地点传送到另一个地点。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;解析：HTTP是超文本传输协议，它是一种用于在浏览器和Web务器之间交换信息的协议。SMTP是简单邮件传输协议，它是一种用于发送和接收电子邮件的协议。APP是应用程序的简称，它是一种为特定目的而设计的软件。FTP是文件传输协议，它是一种用于在网络上上传和下载文件的协议。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;解析：信息系统的基本组成元素包括硬件、软件、数据、通信方式和人员。硬件是指物理设备，如计算机、打印机、扫描仪等。软件是指指令集合，如操作系统、应用程序、数据库等。数据是指信息的原始形式，如数字、文字、图像等。通信方式是指数据传输的手段，如网络、电话、电视等。人员是指信息系统的使用者和管理者，如用户、程序员、管理员等。价格是指商品或务的价值，它与信息系统的基本组成元素无关。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;二填空题每小题2分共20分&#34;&gt;二、填空题(每小题2分，共20分)&lt;a class=&#34;headerlink&#34; href=&#34;#二填空题每小题2分共20分&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;解析：答案是 存储 。数据存储（Data storage）是指将数据保存在某种介质中，以便于后续的使用或传输。公交IC卡收费系统需要将卡内余额等数据存储在卡片或POS机中，以便于进行消费或查询等操作。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;解析：答案是 饼图 。饼图（Pie chart）是一种用圆形的扇形区域来表示数据的图形，每个扇形区域的大小与数据的比例成正比。饼图可以直观地展示数据的分布情况，适合用于显示部分所占整体的比例。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;解析：云存储（Cloud storage）是一种利用互联网将数据存储在远程服务器上的服务，用户可以通过网络随时随地访问、分享数据，而不需要携带物理介质。云存储具有容量大、安全性高、成本低等优点。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;解析：信息（Information）是指对人或事物有用的知识或消息，是经过加工和解释后的数据。例如，“小王百米跑步成绩是14秒”这句话就是对“14秒”这个数据进行了解释和赋予了意义，从而成为了信息。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;解析：二进制数（Binary number）是一种只使用0和1两个数字来表示数值的进制系统，它是计算机中最基本和最常用的数制。二进制数可以通过位运算进行加减乘除等运算。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;解析： 信息技术涵盖了获取、表示、传输、存储和加工信息在内的各种技术。自电子计算机问世以来，信息技术沿着以计算机为核心、到以互联网为核心、再到以数据为核心的发展脉络， 深刻影响着社会的经济结构和生产方式，加快了全球范围内的 知识更新和技术创新，推动了社会信息化、智能化的建设与发展，催生出现实空间与虚拟空间并存的信息社会，并逐步构建出智慧社会。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;解析：射频识别（Radio frequency identification，RFID）是一种利用无线电波进行数据通信的技术，它可以通过射频信号自动识别目标对象并获取相关数据。射频识别技术广泛应用于交通、物流、安防等领域，如身份证、公交卡、电子标签等。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;解析：量化（Quantization）是指将连续变化的模拟信号分割成有限个离散的数值，以便于用二进制数表示。量化的精度取决于量化的级数，级数越多，精度越高，误差越小。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;解析：双引号（Double quotation mark）是一种用于表示字符串的符号，与单引号（Single quotation mark）功能相同。Python语言中的字符串可以使用单引号或双引号来表示，如&amp;rdquo;Hello&amp;rdquo;和&amp;rsquo;Hello&amp;rsquo;都是有效的字符串。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;解析该程序段的功能是计算并打印表达式4+A/B的值，其中A和B分别赋值为15和4。根据运算符的优先级，先计算A/B，得到3.75，再加上4，得到7.75。因此，程序段的运行结果是7.75。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;三判断题正确的错误的画x每小题1分共10分&#34;&gt;三、判断题(正确的“√”，错误的画“x”，每小题1分，共10分)&lt;a class=&#34;headerlink&#34; href=&#34;#三判断题正确的错误的画x每小题1分共10分&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;img alt=&#34;image&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/06/image.6t6znpyp4n.webp&#34; /&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;解析：虚拟现实技术（Virtual Reality，VR）是一种利用计算机生成模拟环境，让用户感觉自己身处其中的技术。它可以模拟各种复杂的场景，如深海、太空等，为用户提供逼真的体验和交互。我国“蛟龙”号深潜器操作员就是利用虚拟现实技术进行深潜作业训练，提高安全性和效率。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;解析：欧姆定律（Ohm&amp;rsquo;s law）是电学中的一个基本定律，它描述了电流、电压和电阻之间的关系。欧姆定律的实验数据可以用Python工具进行分析、建模和验证，例如使用numpy、matplotlib等库进行数值计算和可视化，从而能够比较精确地发现规律，从而获得知识。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;解析：数据（Data）是对客观事物的符号表示，在计算机科学中，数据是计算机处理的对象，是计算机程序操作的输入和输出。人们用数据记录自然现象与社会发展，例如温度、湿度、人口、经济等，数据可以用来描述不同事物的特征，例如平均值、方差、相关性等。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;解析：大数据（Big data）是指在传统数据处理应用软件不足以处理的大或复杂的数据集的术语。大数据具有四个特点：海量（Volume）、多样（Variety）、快速（Velocity）和价值（Value）。由于数据量大，服务器一般采用分布式文件存储或数据库存储，例如Hadoop Distributed File System（HDFS）或MongoDB等。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;解析：Python中“/”表示除法运算，即求商。例如3/2=1.5。Python中求余运算符是“%”，即求余数。例如3%2=1。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;解析：数据字典（Data dictionary）是一种用于描述数据的元数据（Metadata），它记录了数据的名称、类型、结构、来源、用途等信息，是对数据流程图中的各元素的补充说明。数据字典可以帮助用户和开发者更好地理解和使用数据，提高数据的质量和一致性。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;解析：黑客入侵信息系统属于主动攻击（Active attack），即攻击者主动地修改或破坏信息系统的正常功能或数据，例如病毒、木马、拒绝服务等。被动攻击（Passive attack）是指攻击者只是监听或窃取信息系统的数据，而不改变其内容或状态，例如嗅探、监听等。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;解析：某电子设备的电路板上有一个4位的“跳板开关”，此开关每一位都只有“打开”和“闭合”两种状态，这个“跳板开关”最多可以表示的状态数是2^4=16。这是因为每一位开关都可以用二进制数0或1表示，而4位开关就可以组成一个4位二进制数，从0000到1111共有16种可能。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;解析：智能安防技术（Intelligent security technology）是一种利用人工智能（Artificial intelligence，AI）对视频、图像进行存储和分析，从中识别安全隐患并对其进行处理的技术。它可以应用于交通监控、人脸识别、异常行为检测等领域，提高安防效率和水平。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;script src=&#34;https://giscus.app/client.js&#34;
+    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
+    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
+    data-mapping=&#34;number&#34;
+    data-term=&#34;24&#34;
+    data-reactions-enabled=&#34;1&#34;
+    data-emit-metadata=&#34;0&#34;
+    data-input-position=&#34;bottom&#34;
+    data-theme=&#34;light&#34;
+    data-lang=&#34;zh-CN&#34;
+    crossorigin=&#34;anonymous&#34;
+    async&gt;
+&lt;/script&gt;</description>
+      <link>https://doc.ccsyue.com/discussions-24/</link>
+      <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
+      <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
+      
+      <guid isPermaLink="true">https://doc.ccsyue.com/discussions-24/</guid>
+      
+    </item>
+    
+    <item>
+      <title>学业水平测试题2答案</title>
+      
+      
+        
+      <author>tarenaexit</author>
+        
+      
+      
+      
+      <description>&lt;p&gt;&lt;img alt=&#34;2-1&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/06/2-1.39l1xxxhqw.webp&#34; /&gt;
+&lt;img alt=&#34;2-2&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/06/2-2.7p5wpwa28.webp&#34; /&gt;&lt;/p&gt;
+&lt;script src=&#34;https://giscus.app/client.js&#34;
+    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
+    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
+    data-mapping=&#34;number&#34;
+    data-term=&#34;25&#34;
+    data-reactions-enabled=&#34;1&#34;
+    data-emit-metadata=&#34;0&#34;
+    data-input-position=&#34;bottom&#34;
+    data-theme=&#34;light&#34;
+    data-lang=&#34;zh-CN&#34;
+    crossorigin=&#34;anonymous&#34;
+    async&gt;
+&lt;/script&gt;</description>
+      <link>https://doc.ccsyue.com/discussions-25/</link>
+      <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
+      <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
+      
+      <guid isPermaLink="true">https://doc.ccsyue.com/discussions-25/</guid>
+      
+    </item>
+    
+    <item>
+      <title>学业水平测试题3解析</title>
+      
+      
+        
+      <author>tarenaexit</author>
+        
+      
+      
+      
+      <description>&lt;p&gt;&lt;img alt=&#34;3-1&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/06/3-1.6ik5ulv5kn.webp&#34; /&gt;
+&lt;img alt=&#34;3-2&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/06/3-2.1021egn60n.webp&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;一选择题每小题2分共30分&#34;&gt;一、选择题(每小题2分，共30分)&lt;a class=&#34;headerlink&#34; href=&#34;#一选择题每小题2分共30分&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;1.计算机中数据的一个基本特征是 B.都是以二进制形式存储在存储器上。计算机使用二进制系统来表示所有类型的数据，无论是文本、图像还是声音。&lt;/p&gt;
+&lt;p&gt;2.以下不属于Python中的数据可视化工具模块的是 D.NumPy。NumPy是一个用于数值计算的库，而Bokeh、Matplotlib和Seaborn都是用于数据可视化的库。&lt;/p&gt;
+&lt;p&gt;3.小张编写好解密程序后，调试运行时，程序没有报错且能顺利运行，但不能正确解密，造成这个结果的原因是 A.解密算法逻辑错误。如果程序语法错误，它将无法运行；程序过期或窗口配置不对通常不会影响程序的逻辑功能。&lt;/p&gt;
+&lt;p&gt;4.input() 函数的返回结果是 D.字符串。无论用户输入什么，input() 函数总是将其作为字符串返回。&lt;/p&gt;
+&lt;p&gt;5.网络订票系统根据用户确认的信息生成订单。 订单一旦形成，系统订单模块将工作移交至客票管理模块，形成“事务流”。&lt;/p&gt;
+&lt;p&gt;6.将知识应用于实践，指导生活，为人类服务，数据就升华为 智慧。这是因为数据本身只是原始的事实和数字，当它被用来解决问题和改善生活时，它变成了有用的信息，进一步转化为智慧。•  正确答案：D.智慧&lt;/p&gt;
+&lt;p&gt;7.声卡、视频卡、数码照相机、数码摄像机、手写板、扫描仪等设备属于数字化工具中的 数据采集工具。这些设备用于从外部世界收集数据，将其转换为数字形式以供计算机处理。
+•  正确答案：C.数据采集工具&lt;/p&gt;
+&lt;p&gt;8.计算机能够直接识别和执行的语言是 机器语言。机器语言是计算机的低级语言，由二进制代码组成，可以直接被计算机的中央处理单元（CPU）执行。
+•  正确答案：A.机器语言&lt;/p&gt;
+&lt;p&gt;9.通过交通信息采集系统采集道路中的车辆流量、行车速度等信息，经智能系统分析后调整各路口红绿灯时长，属于人工智能在 智能交通 领域的应用。这涉及到使用AI技术来优化交通流量和提高道路安全性。
+•  正确答案：D.智能交通&lt;/p&gt;
+&lt;p&gt;10.云计算体现的理念是 B.软件即服务。云计算提供了按需访问共享资源和服务的能力，其中软件即服务（SaaS）是其核心特性之一。&lt;/p&gt;
+&lt;p&gt;11.这样的信息安全问题主要是由 C.网络因素 引起的。公共Wi-Fi通常没有足够的安全措施，很容易被黑客攻击，从而导致连接到该网络的设备上的敏感信息被非法访问和提取。这就是为什么使用公共Wi-Fi时需要格外小心，尽量避免进行涉及敏感信息的操作，比如在线购物或网上银行。&lt;/p&gt;
+&lt;p&gt;12.下列不属于无线网络接入技术的是 B.双绞线。双绞线是有线网络技术中使用的物理介质，而蓝牙、红外和Wi-Fi都是无线技术。&lt;/p&gt;
+&lt;p&gt;13.在微信上传播虚假信息面临的不仅仅是行政处罚，严重的构成犯罪的是 B.刑事 责任。传播虚假信息如果扰乱社会秩序或造成严重后果，可能会面临刑事起诉。&lt;/p&gt;
+&lt;p&gt;14.信息系统中的网络实现的目的是 C.资源共享和通信。网络连接不同的设备和用户，使他们能够共享资源并进行通信。&lt;/p&gt;
+&lt;p&gt;15.指网络环境下处于操作系统，数据库等系统软件和应用软件之间的一种起连接作用的分布式软件是 D.中间件。中间件提供了标准接口和协议，帮助不同系统和应用之间进行通信和数据交换。&lt;/p&gt;
+&lt;h2 id=&#34;二填空题每小题2分共20分&#34;&gt;二、填空题(每小题2分，共20分)&lt;a class=&#34;headerlink&#34; href=&#34;#二填空题每小题2分共20分&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;1.监控车辆区间是否超速是通过测速仪前后两次发出并接收信号差，再根据区间距计算车速，判断车辆是否超速，如果超速，按违章处理，否则不处理。上述描述采用的是法描述中的是算法描述中的自然语言描述法.&lt;/p&gt;
+&lt;p&gt;2.农业物联网中常用温湿度传感器、土壤传感器、光敏传感器等监测蔬菜大棚环境相关参数，其中温湿度传器可以实时监测大棚环境的温湿度。&lt;/p&gt;
+&lt;p&gt;3.计算机硬件有五大逻辑部件(存储器、控制器、运算器、输入设备、输出设备)下面是工作原理图，读图分析可知，图中的部件是③运算器
+&lt;img alt=&#34;image&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/06/image.7ljv5hwr6z.webp&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;4.“2106G104008”是2021年校运会小明的运动员编号，其中“21”为2021年，“06”为第六届运动会，“G104”为高一4班，“008”为8号选手。按照此编号方法，2022年小明作为高二4班8号选手，其编号为2207G204008&lt;/p&gt;
+&lt;p&gt;5.存储数据主要有两种方式，一种是本地存储，一种是数据云存储。&lt;/p&gt;
+&lt;p&gt;6.数据可视化表达的呈现方式有很多，小明把高中同学“大学所在城市”数据生成一个词云图，根据词云图可以知道小明的同学去北京上大学的最多。
+&lt;img alt=&#34;image&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/06/image.45hjden6n4.webp&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;7.在共享单车信息系统中，用手机扫码取车时，“扫码”的过程实现了该信息系统的输入功能。&lt;/p&gt;
+&lt;p&gt;8.现要找出200以内能被4或5或6整除的正整数，用计算机解决该问题时应采用的算法是枚举法&lt;/p&gt;
+&lt;p&gt;9.电脑、手机等终端设备运行的软件分为系统软件和应用软件。其中手机上安装的安卓是系统软件。&lt;/p&gt;
+&lt;p&gt;10.小明使用在线学习平台上共享的学习资源自学习了Python语言的基础知识，该过程体现了计算机网络的资源共享作用。&lt;/p&gt;
+&lt;h2 id=&#34;三判断题正确的错误的画x每小题1分共10分&#34;&gt;三、判断题(正确的“√”，错误的画“x”，每小题1分，共10分)&lt;a class=&#34;headerlink&#34; href=&#34;#三判断题正确的错误的画x每小题1分共10分&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;2.必修1的27页：探究与应用欧姆定律，揭示了数据、信息、知识和智慧的相互关系（图2-8）：数据是现实世界客观事物的符号记录；信息是经加工处理的、具有意义的数据；知识是人们运用大脑对获取或积累的信息进行系统化地提炼、研究和分析的结果，能够精确地反映事物的本质；智慧是为了达到预定目标而运用知识解决问题的创新思维能力。&lt;/p&gt;
+&lt;p&gt;7.尽管互联网提供了便捷的信息传播手段，但并不意味着可以发布任何信息，特别是违法和有害信息。&lt;/p&gt;
+&lt;p&gt;8.人类历史上的信息技术革命不限于四次，这个数量可能因不同的定义和标准而变化。如，必修2的13页，关于信息技术发展趋势就提了3个角度&lt;/p&gt;
+&lt;p&gt;9.信息系统的开发一般分为五个阶段，分别是系统规划、系统分析、系统设计、系统实 施、系统运行与维护&lt;/p&gt;
+&lt;script src=&#34;https://giscus.app/client.js&#34;
+    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
+    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
+    data-mapping=&#34;number&#34;
+    data-term=&#34;26&#34;
+    data-reactions-enabled=&#34;1&#34;
+    data-emit-metadata=&#34;0&#34;
+    data-input-position=&#34;bottom&#34;
+    data-theme=&#34;light&#34;
+    data-lang=&#34;zh-CN&#34;
+    crossorigin=&#34;anonymous&#34;
+    async&gt;
+&lt;/script&gt;</description>
+      <link>https://doc.ccsyue.com/discussions-26/</link>
+      <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
+      <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
+      
+      <guid isPermaLink="true">https://doc.ccsyue.com/discussions-26/</guid>
+      
+    </item>
+    
+    <item>
+      <title>学业水平测试题4解析</title>
+      
+      
+        
+      <author>tarenaexit</author>
+        
+      
+      
+      
+      <description>&lt;p&gt;&lt;img alt=&#34;4-1&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/06/4-1.58h8oau8ah.webp&#34; /&gt;
+&lt;img alt=&#34;4-2&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/06/4-2.9nzntk6tc7.webp&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;一选择题每小题2分共30分&#34;&gt;一、选择题(每小题2分，共30分)&lt;a class=&#34;headerlink&#34; href=&#34;#一选择题每小题2分共30分&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;1.第一题中的描述可以按照信息的层次来区分。&amp;rdquo;人在安静的状态下，当环境温度在30℃左右时便开始出汗&amp;rdquo;是对人体反应的一般性描述，可以视为知识。&amp;rdquo;37&amp;rdquo;是一个没有上下文的数字，可以视为数据。&amp;rdquo;小明的口腔温度是37.2℃&amp;rdquo;提供了具体的测量结果和上下文，可以视为信息。因此，正确答案是 D.知识、数据、信息。&lt;/p&gt;
+&lt;p&gt;2.程序的三种基本控制结构是顺序结构、选择结构和循环结构。&amp;rdquo;一般结构&amp;rdquo;不是程序设计中的标准控制结构。因此，正确答案是 D.一般结构。&lt;/p&gt;
+&lt;p&gt;3.IP地址中，前三个十进制数表示网络地址，最后一个表示主机地址。小杰家中的宽带路由器的IP地址为192.168.1.1，这意味着网络地址是192.168.1，而1已经被路由器使用。因此，电脑不能使用192.168.1.1，因为它会与路由器的IP地址冲突。192.168.1.256是无效的，因为256超出了单个字节的范围。192.168.2.1属于另一个网络。因此，正确答案是 B.192.168.1.10。&lt;/p&gt;
+&lt;p&gt;4.音频文件的大小可以通过以下公式计算：
+声音存储空间（B）=采样频率（Hz）&lt;em&gt;量化位数(bits)&lt;/em&gt;声道数&lt;em&gt;时间（s）/8
+1字节 = 8位(1B=8bits)
+1 KB= 1024 B 
+由于量化位数是以位为单位，我们需要将其转换为字节（1字节 = 8位）。因此，计算如下：
+22050 Hz&lt;/em&gt;8 bits &lt;em&gt;2&lt;/em&gt;10 s / 8=441000 B，至此最接近的答案是B. 430.7 KB，若用计算器计算可得：441000 B /1024=430.6640625 KB&lt;/p&gt;
+&lt;p&gt;5.用手机远程控制家中电器的开关及其运行状态，涉及到的技术是物联网技术。物联网技术允许设备通过互联网连接和交换数据。因此，正确答案是 B.物联网技术。&lt;/p&gt;
+&lt;p&gt;6.选项 C 是不正确的。人工智能的研究虽然起步于20世纪50年代，但它的重要性并不仅仅因为它是新兴的。人工智能的重要性在于其对科技和社会的深远影响，以及它在未来发展中的潜力。&lt;/p&gt;
+&lt;p&gt;7.选项 B 是错误的。汇编语言编写的源程序不能直接被计算机识别和运行。它们需要通过汇编器转换成机器语言，计算机才能执行。&lt;/p&gt;
+&lt;p&gt;8.选项 C 是错误的。大数据的一个特点是数据价值密度相对较低，这意味着从大量数据中提取有价值的信息需要进行大量的处理。&lt;/p&gt;
+&lt;p&gt;9.选项 A 是错误的。数字化学习资源的最大优势并不仅仅是安全性。虽然数字存储确实可以提供一定程度的安全保护，但数字化学习资源的主要优势在于易于访问、可搜索性和多样性。&lt;/p&gt;
+&lt;p&gt;10.选项 B 是正确的。操作系统为应用软件的运行提供支持，并且常见的操作系统包括 Windows、Linux、Unix 等。操作系统不能防范所有计算机病毒和黑客攻击，也不是用于建立、使用和维护数据库的软件。&lt;/p&gt;
+&lt;p&gt;11.正确答案是 C 。信息确实需要依附于某种载体，但其表现形态是可以转换的，例如文字可以转换为声音或数字信号。可以说信息技术确实涉及计算机对信息的采集、处理、传输、存储、表达和使用的技术。（课本原话信息技术涵盖了获取、表示、传输、存储和加工信息在内的各种技术），但不能作为确切定义。&lt;/p&gt;
+&lt;p&gt;12.正确答案是 A。HTTP代表超文本传输协议（HyperText Transfer Protocol），它是用于从服务器传输超文本到本地浏览器的传输协议。&lt;/p&gt;
+&lt;p&gt;13.选项B描述错误。信息系统的开发过程确实包括系统规划、系统分析、系统设计、系统实施、系统运行与维护五个阶段，这是选项A的正确描述。系统实施的目标是将设计文档变成能在计算机上运行的软件系统，这是选项C的正确描述。系统运行与维护的主要任务包括系统的日常维护、新需求的满足和系统的技术支持等，这是选项D的正确描述。
+系统设计不是开发过程的初始阶段，而是在系统规划和系统分析之后进行的。其目标是根据分析结果来设计系统的架构、组件、接口和数据。因此，选项B的说法“系统设计是系统开的初始极端”是错误的。正确的应该是系统设计是基于系统分析结果进行的，它不是开发过程的初始阶段。&lt;/p&gt;
+&lt;p&gt;14.正确答案是 A。贝贝在浏览器中使用的是基于浏览器/服务器（B/S）模式的应用，而晶晶使用的QQ聊天软件是客户端/服务器（C/S）模式的应用。&lt;/p&gt;
+&lt;p&gt;15.正确答案是 C。电子计算机的五大逻辑部件是输入设备、输出设备、控制器、运算器和存储器。中央处理器（CPU）包含了控制器和运算器，而主板是连接各个部件的电路板。&lt;/p&gt;
+&lt;h2 id=&#34;二填空题每小题2分共20分&#34;&gt;二、填空题(每小题2分，共20分)&lt;a class=&#34;headerlink&#34; href=&#34;#二填空题每小题2分共20分&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;1.HarmonyOS 是华为开发的操作系统，用于多种设备和平台，包括移动终端。&lt;/p&gt;
+&lt;p&gt;2.在Python中，% 表示取余数，// 表示整除。所以，5%2 等于 1，9//4 等于 2，两者相加等于 3。&lt;/p&gt;
+&lt;p&gt;3.编写计算机程序通常需要分析问题，设计算法，编写程序，运行和调试程序等步骤。&lt;/p&gt;
+&lt;p&gt;4.运行内存通常指的是手机的 RAM（随机存取存储器），在这里是 8GB。&lt;/p&gt;
+&lt;p&gt;5.程序设计的三种基本结构是顺序结构、选择结构和循环结构。顺序结构是按语句的先后顺序执行。&lt;/p&gt;
+&lt;p&gt;6.for x in range(1,9,3) 语句会从 1 开始，每次增加 3，直到小于 9 为止。所以，x 的值会是 1, 4, 7，共循环 3 次。&lt;/p&gt;
+&lt;p&gt;7.用户信息和费用支付信息都是信息系统中的数据资源部分。&lt;/p&gt;
+&lt;p&gt;8.在网络中，路由器负责根据信道情况自动选择和设定路由，以最佳路径发送信号。&lt;/p&gt;
+&lt;p&gt;9.判断一个数的奇偶性通常使用选择结构，如 if-else 语句。&lt;/p&gt;
+&lt;p&gt;10.无法在可承受的时间范围内，用常规软件工具进行处理的大量数据集合称为大数据。&lt;/p&gt;
+&lt;h2 id=&#34;三判断题正确的错误的画x每小题1分共10分&#34;&gt;三、判断题(正确的“√”，错误的画“x”，每小题1分，共10分)&lt;a class=&#34;headerlink&#34; href=&#34;#三判断题正确的错误的画x每小题1分共10分&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;1.在Python程序中，数据的输入与输出确实是通过函数来实现的，如input()和print()。&lt;/p&gt;
+&lt;p&gt;7.计算机网络在信息系统中主要起到数据传输、资源共享、分布 式处理三个方面的作用。&lt;/p&gt;
+&lt;p&gt;8.在一个局域网中，计算机的IP地址必须是唯一的，不能有两台计算机具有相同的IP地址。&lt;/p&gt;
+&lt;p&gt;9.模拟传输的优点并不包括差错率低。实际上，模拟信号更容易受到噪声的影响，可能会增加差错率。&lt;/p&gt;
+&lt;script src=&#34;https://giscus.app/client.js&#34;
+    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
+    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
+    data-mapping=&#34;number&#34;
+    data-term=&#34;27&#34;
+    data-reactions-enabled=&#34;1&#34;
+    data-emit-metadata=&#34;0&#34;
+    data-input-position=&#34;bottom&#34;
+    data-theme=&#34;light&#34;
+    data-lang=&#34;zh-CN&#34;
+    crossorigin=&#34;anonymous&#34;
+    async&gt;
+&lt;/script&gt;</description>
+      <link>https://doc.ccsyue.com/discussions-27/</link>
+      <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
+      <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
+      
+      <guid isPermaLink="true">https://doc.ccsyue.com/discussions-27/</guid>
+      
+    </item>
+    
+    <item>
+      <title>学业水平测试题5解析</title>
+      
+      
+        
+      <author>tarenaexit</author>
+        
+      
+      
+      
+      <description>&lt;p&gt;&lt;img alt=&#34;5&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/06/5.5fkgjqsyyd.webp&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;一选择题每小题2分共30分&#34;&gt;一、选择题(每小题2分，共30分)&lt;a class=&#34;headerlink&#34; href=&#34;#一选择题每小题2分共30分&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;1.解析：数据的基本特征包括二进制、语义性、分散性、多样性和感知性。理论性不是数据的基本特征。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;image&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/06/image.8dwqn91c41.webp&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;2.解析：信息是对事物运动状态的描述，因此只要有事物运动和数据存在，就有信息。其他选项要么不准确，要么过于绝对。考察信息基本特征，其他选项明显违反其特征。&lt;/p&gt;
+&lt;p&gt;3.解析：算法描述方法通常包括自然语言、流程图和伪代码。代码是算法实现的具体表达，而不是描述方法。&lt;/p&gt;
+&lt;p&gt;4.解析：在Python 3中，Long类型已经不再存在，它被整合到了Number类型中。因此，Long不是Python的数据类型。&lt;/p&gt;
+&lt;p&gt;5.解析：智能健康手环的应用开发中，传感器技术用于数据采集，如心率监测等。&lt;/p&gt;
+&lt;p&gt;6.解析：A.abs(4.6)计算4.6的绝对值，结果是4.6；B.len(&amp;lsquo;china&amp;rsquo;)计算字符串&amp;rsquo;china&amp;rsquo;的长度，返回整数5；C.int(4.8)将浮点数转换为整数，结果为4；D.float(5)，它将数字5转换为浮点数5.0。&lt;/p&gt;
+&lt;p&gt;7.解析：大数据的“4V”特征指的是体量大（Volume）、速度快（Velocity）、多样性（Variety）和真实性（Veracity）。精度不是“4V”特征之一。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;image&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/06/image.7ax1cd5lic.webp&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;8.解析：计算机网络的主要功能包括资源共享、分布式处理和数据通信。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;image&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/06/image.231qpdcp97.webp&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;9.解析：智能问答系统中，问题理解模块主要负责理解用户问题，是实现计算机理解用户问题的关键部分。
+&lt;img alt=&#34;image&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/06/image.5mnof6fhgr.webp&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;10.解析：信息技术的应用越来越广泛，将引领信息技术朝着多元化方向发展。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;image&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/06/image.3d4nvout3t.webp&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;11.解析：信息系统由多个组成部分构成，包括人、硬件、软件、网络和数据资源等，共同构成了一个人机交互系统。&lt;/p&gt;
+&lt;p&gt;12.解析：5G网络的特点包括高速率、低延迟、支持更多终端网络连接，以及能够使无人驾驶技术更安全。&lt;/p&gt;
+&lt;p&gt;13.解析：外部设备指的是可以连接到计算机的外围设备，而不是存储数据的能力。存储数据的能力通常由存储器的容量决定。&lt;/p&gt;
+&lt;p&gt;14.解析：上述描述都可能是计算机被病毒入侵的迹象。&lt;/p&gt;
+&lt;p&gt;15.解析：Photoshop是一个图像处理软件，而不是操作系统。Linux、Android和Windows都是操作系统。&lt;/p&gt;
+&lt;h2 id=&#34;二填空题每小题2分共20分&#34;&gt;二、填空题(每小题2分，共20分)&lt;a class=&#34;headerlink&#34; href=&#34;#二填空题每小题2分共20分&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;1.解析：在Python中，当有多个分支需要判断时，可以使用if&amp;hellip;elif&amp;hellip;else语句结构来实现。&lt;/p&gt;
+&lt;p&gt;2.解析：路由器的LAN（Local Area Network）端口用于连接本地网络设备，如台式计算机。&lt;/p&gt;
+&lt;p&gt;3.解析：流程图（Flowchart）是一种图形化的算法描述方式，使用特定的图形符号来表示不同的操作。&lt;/p&gt;
+&lt;p&gt;4.解析：这段代码会输出24，因为它计算的是1&lt;em&gt;2&lt;/em&gt;3*4。&lt;/p&gt;
+&lt;p&gt;5.解析：微信是一种移动应用程序，它可以在智能手机上运行。&lt;/p&gt;
+&lt;p&gt;6.解析：在Python中，乘法运算符*的优先级高于加法+、赋值=、逻辑and和比较&amp;lt;运算符。&lt;/p&gt;
+&lt;p&gt;7.解析：Python表达式50-9&lt;em&gt;3%4的运算结果是47。这是因为9&lt;/em&gt;3等于27，27%4等于3，所以50-3等于47。&lt;/p&gt;
+&lt;p&gt;8.解析：冰箱的自动恒温功能依赖于温度传感器来监测内部温度。&lt;/p&gt;
+&lt;p&gt;9.解析：研究计算机模拟人类感知、思维和智能行为的学科称为人工智能（Artificial Intelligence）。&lt;/p&gt;
+&lt;p&gt;10.解析：图书馆中的自助借阅机是图书借阅系统中的硬件设备部分。&lt;/p&gt;
+&lt;h2 id=&#34;三判断题正确的错误的画x每小题1分共10分&#34;&gt;三、判断题(正确的“√”，错误的画“x”，每小题1分，共10分)&lt;a class=&#34;headerlink&#34; href=&#34;#三判断题正确的错误的画x每小题1分共10分&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;3.解析：数据分类是数据分析处理中的一个基本方法，它可以用于预测，例如在机器学习中的监督学习算法。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;image&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/06/image.8ad4pj8onk.webp&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;5.解析：如果张宾同学下载并安装的共享软件是未经授权的副本，那么这些行为可能违反《知识产权保护法》。&lt;/p&gt;
+&lt;p&gt;10.解析：
+&lt;img alt=&#34;image&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/06/image.2obebo7h2d.webp&#34; /&gt;&lt;/p&gt;
+&lt;script src=&#34;https://giscus.app/client.js&#34;
+    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
+    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
+    data-mapping=&#34;number&#34;
+    data-term=&#34;28&#34;
+    data-reactions-enabled=&#34;1&#34;
+    data-emit-metadata=&#34;0&#34;
+    data-input-position=&#34;bottom&#34;
+    data-theme=&#34;light&#34;
+    data-lang=&#34;zh-CN&#34;
+    crossorigin=&#34;anonymous&#34;
+    async&gt;
+&lt;/script&gt;</description>
+      <link>https://doc.ccsyue.com/discussions-28/</link>
+      <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
+      <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
+      
+      <guid isPermaLink="true">https://doc.ccsyue.com/discussions-28/</guid>
+      
+    </item>
     
     <item>
       <title>常用资源</title>
@@ -82,7 +475,7 @@
 &lt;p&gt;国内虽然不少人都在使用 Gitee，但 Gitee 时不时恶心你一下（前不久就无缘无故把我的 oschina 的账号封了，而且要加 QQ 群去申诉，最后我是直接通过邮件反馈解封了），而且有时候有些资源用起来限制太多，很麻烦。&lt;/p&gt;
 &lt;p&gt;极狐从 2024 年 1 月 2 日起要付费才能使用，1898元/人/年的价格估计会劝退 90% 的个人用户吧！&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/readme/res/</link>
-      <pubDate>Fri, 28 Jun 2024 19:11:06 +0000</pubDate>
+      <pubDate>Sat, 29 Jun 2024 19:10:22 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/readme/res/</guid>
@@ -121,7 +514,7 @@
     &lt;img style=&#34;max-widrh:600px&#34; src=&#34;https://slab-1251708715.cos.ap-guangzhou.myqcloud.com/website/portfolio/webstack-hugo.jpg&#34; alt=&#34;WebStack-Hugo&#34;&gt;
 &lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/readme/work/</link>
-      <pubDate>Fri, 28 Jun 2024 19:11:06 +0000</pubDate>
+      <pubDate>Sat, 29 Jun 2024 19:10:22 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/readme/work/</guid>
