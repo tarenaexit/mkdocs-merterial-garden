@@ -29,7 +29,7 @@
     
     
       
-        <title>搭建局域网 https - 知识花园</title>
+        <title>screego & 搭建局域网 https - 知识花园</title>
       
     
     
@@ -100,6 +100,11 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
+        
+        <a href="#references" class="md-skip">
+          跳转至
+        </a>
+      
     </div>
     <div data-md-component="announce">
       
@@ -129,7 +134,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              搭建局域网 https
+              screego & 搭建局域网 https
             
           </span>
         </div>
@@ -659,15 +664,52 @@
       
       
       
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    screego & 搭建局域网 https
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
       <a href="./" class="md-nav__link md-nav__link--active">
         
   
   <span class="md-ellipsis">
-    搭建局域网 https
+    screego & 搭建局域网 https
   </span>
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="目录">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      目录
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#references" class="md-nav__link">
+    <span class="md-ellipsis">
+      References
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
       
     </li>
   
@@ -2331,6 +2373,23 @@
   
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      目录
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#references" class="md-nav__link">
+    <span class="md-ellipsis">
+      References
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -2344,7 +2403,7 @@
                   
 
   
-    <a href="https://github.com/tarenaexit/mkdocs-merterial-garden/edit/main/docs/tech/运行维护/工具/2024-07-06-搭建局域网-https-dis29.md" title="编辑此页" class="md-content__button md-icon">
+    <a href="https://github.com/tarenaexit/mkdocs-merterial-garden/edit/main/docs/tech/运行维护/工具/2024-07-06-screego-搭建局域网-https-dis29.md" title="编辑此页" class="md-content__button md-icon">
       
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 20H6V4h7v5h5v3.1l2-2V8l-6-6H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h4v-2m10.2-7c.1 0 .3.1.4.2l1.3 1.3c.2.2.2.6 0 .8l-1 1-2.1-2.1 1-1c.1-.1.2-.2.4-.2m0 3.9L14.1 23H12v-2.1l6.1-6.1 2.1 2.1Z"/></svg>
     </a>
@@ -2353,16 +2412,91 @@
     
       
     
-    <a href="https://github.com/tarenaexit/mkdocs-merterial-garden/raw/main/docs/tech/运行维护/工具/2024-07-06-搭建局域网-https-dis29.md" title="查看本页的源代码" class="md-content__button md-icon">
+    <a href="https://github.com/tarenaexit/mkdocs-merterial-garden/raw/main/docs/tech/运行维护/工具/2024-07-06-screego-搭建局域网-https-dis29.md" title="查看本页的源代码" class="md-content__button md-icon">
       
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 18c.56 0 1 .44 1 1s-.44 1-1 1-1-.44-1-1 .44-1 1-1m0-3c-2.73 0-5.06 1.66-6 4 .94 2.34 3.27 4 6 4s5.06-1.66 6-4c-.94-2.34-3.27-4-6-4m0 6.5a2.5 2.5 0 0 1-2.5-2.5 2.5 2.5 0 0 1 2.5-2.5 2.5 2.5 0 0 1 2.5 2.5 2.5 2.5 0 0 1-2.5 2.5M9.27 20H6V4h7v5h5v4.07c.7.08 1.36.25 2 .49V8l-6-6H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h4.5a8.15 8.15 0 0 1-1.23-2Z"/></svg>
     </a>
   
 
 
-  <h1>搭建局域网 https</h1>
+  <h1>screego & 搭建局域网 https</h1>
 
 <p><a href="https://sanyers.github.io/blog/web/webrtc/%E6%90%AD%E5%BB%BA%E5%B1%80%E5%9F%9F%E7%BD%91https.html">搭建局域网 https</a></p>
+<p>screego[1] 是一个由 Golang 开发的屏幕共享工具，我实际测试下来发现显示效果非常好，和大家分享下。</p>
+<p><strong><em>1. 安装</em></strong></p>
+<p>screego 目前最新的版本为 v1.07，选择并下载系统对应的安装包：</p>
+<div class="highlight"><pre><span></span><code>[root@localhost ~]# wget https://github.com/screego/server/releases/download/v1.0.7/screego_1.0.7_linux_amd64.tar.gz
+</code></pre></div>
+<p>解压后可以得到二进制文件以及示例文件 screego.config.example，将文件重命名为 screego.config。目前目录文件如下：</p>
+<div class="highlight"><pre><span></span><code>screego-demo├── LICENSE├── README.md├── screego└── screego.config
+</code></pre></div>
+<p><strong><em>2. 配置</em></strong></p>
+<p>出于安全考虑，screego 会要求以 HTTPS 协议进行访问，所以在修改配置前，需要先生成下证书。</p>
+<p><strong><em>2.1 生成 HTTPS 证书</em></strong></p>
+<p>执行以下命令生成密钥 server.key，过程中会要求设置密码，按提示输入即可。</p>
+<div class="highlight"><pre><span></span><code>[root@localhost screego-demo]# openssl genrsa -des3 -out server.key 2048
+</code></pre></div>
+<p>接下来执行以下命令去除刚刚设置的密码：</p>
+<div class="highlight"><pre><span></span><code>[root@localhost screego-demo]# openssl rsa -in server.key -out server.key
+</code></pre></div>
+<p>为什么要去除密码呢？我测试过配置带有密码的密钥，结果服务无法正常启动，提示如下：</p>
+<div class="highlight"><pre><span></span><code>FTL http server error=&quot;tls: failed to parse private key&quot;
+</code></pre></div>
+<p>使用密钥创建服务器证书的申请文件 server.csr，过程中会要求输入一些信息，不填也可。</p>
+<div class="highlight"><pre><span></span><code>[root@localhost screego-demo]# openssl req -new -key server.key -out server.csr
+</code></pre></div>
+<p>创建 CA 证书 ca.crt:</p>
+<div class="highlight"><pre><span></span><code>[root@localhost screego-demo]# openssl req -new -x509 -key server.key -out ca.crt -days 3650
+</code></pre></div>
+<p>创建服务器证书 server.crt:</p>
+<div class="highlight"><pre><span></span><code>[root@localhost screego-demo]# openssl x509 -req -days 3650 -in server.csr -CA ca.crt -CAkey server.key -CAcreateserial -out server.crt
+</code></pre></div>
+<p>目前目录文件如下：</p>
+<div class="highlight"><pre><span></span><code>screego-demo├── ca.crt├── ca.srl├── LICENSE├── README.md├── screego├── screego.config├── server.crt├── server.csr└── server.key
+</code></pre></div>
+<p>密钥 server.key 和服务器证书 server.crt 已经创建，接下来就可以修改配置了。</p>
+<p><strong><em>2.2 修改配置</em></strong></p>
+<p>编辑配置文件 screego.config，这里仅列出我修改的配置项。</p>
+<div class="highlight"><pre><span></span><code>SCREEGO_EXTERNAL_IP=192.168.128.128SCREEGO_SERVER_TLS=trueSCREEGO_TLS_CERT_FILE=/root/screego-demo/server.crtSCREEGO_TLS_KEY_FILE=/root/screego-demo/server.key
+</code></pre></div>
+<p>说明：</p>
+<blockquote>
+<ul>
+<li>
+<p>SCREEGO_EXTERNAL_IP：访问地址，配置服务器的 IP 地址，以实际为准。</p>
+</li>
+<li>
+<p>SCREEGO_SERVER_TLS：TLS 开关。由于之前已配置了 HTTPS 的证书，这里改为 true。</p>
+</li>
+<li>
+<p>SCREEGO_TLS_CERT_FILE：指定证书。</p>
+</li>
+<li>
+<p>SCREEGO_TLS_KEY_FILE：指定密钥。</p>
+</li>
+</ul>
+</blockquote>
+<p>修改以上配置项后，服务就可以启动了。如果需要了解更多细节，可以查阅官方文档[2] 获取帮助。</p>
+<p><strong><em>3.启动</em></strong></p>
+<p>运行以下命令启动 screego：</p>
+<div class="highlight"><pre><span></span><code>[root@localhost screego-demo]# ./screego serve
+</code></pre></div>
+<p>没有报错的话，访问 https://192.168.128.128:5050 就可以看到建房页面了，如下图所示。这里的 IP 是我虚拟机的地址，大家以自己实际配置的为准。</p>
+<p><a class="glightbox" href="https://cdn.ccsyue.com/picx-images-hosting/master/2024/07/image.7p3hckit4s.webp" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="screego 安装配置教程：一款简单易用的屏幕共享工具" src="https://cdn.ccsyue.com/picx-images-hosting/master/2024/07/image.7p3hckit4s.webp" title="screego 安装配置教程：一款简单易用的屏幕共享工具" /></a></p>
+<p>点击 CREATE ROOM 按钮创建房间，再点击 Start Presentation，其他人通过访问相同的 URL 就可以看到共享的屏幕了。</p>
+<p><a class="glightbox" href="https://cdn.ccsyue.com/picx-images-hosting/master/2024/07/image.3k7w0go1aq.webp" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="screego 安装配置教程：一款简单易用的屏幕共享工具" src="https://cdn.ccsyue.com/picx-images-hosting/master/2024/07/image.3k7w0go1aq.webp" title="screego 安装配置教程：一款简单易用的屏幕共享工具" /></a></p>
+<p><strong><em>4. 总结</em></strong></p>
+<p>+ 开源的多用户屏幕共享工具，安装方便，使用简单</p>
+<p>+ 实测效果不错，屏幕显示清晰，无卡顿延迟现象</p>
+<p>+ 安全性</p>
+<p>– 暂不支持快捷键操作</p>
+<h3 id="references">References<a class="headerlink" href="#references" title="Permanent link">&para;</a></h3>
+<p><code>[1]``</code>
+<em><strong>screego: https://github.com/screego/server</strong></em></p>
+<p><code>[2]</code><em><em>官方文档</em>__:</em> <em>https://screego.net/#/</em></p>
+<blockquote>
+<p>原文始发于微信公众号（阿拉平平）：<a href="http://mp.weixin.qq.com/s/kTAnZaS0omDJuNNoMclmpg">screego 安装配置教程：一款简单易用的屏幕共享工具</a></p>
+</blockquote>
 <script src="https://giscus.app/client.js"
     data-repo="tarenaexit/mkdocs-merterial-garden"
     data-repo-id="RR_kgDOL4wNPw"
