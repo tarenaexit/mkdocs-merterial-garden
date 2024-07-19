@@ -564,6 +564,8 @@
       
         
       
+        
+      
     
     
       
@@ -748,7 +750,7 @@
         
   
   <span class="md-ellipsis">
-    下载及处理
+    直播视频的下载&视频去&压缩&文本识别
   </span>
   
 
@@ -845,6 +847,79 @@
   
   <span class="md-ellipsis">
     windows系统最高分辨率只到1024*768，驱动如何安装？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_1_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_1_3" id="__nav_2_1_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Linux
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_1_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_1_3">
+            <span class="md-nav__icon md-icon"></span>
+            Linux
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../discussions-31/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Linux /var/log/日志文件太大，清理journal就行
   </span>
   
 
@@ -2555,7 +2630,11 @@
 <div class="highlight"><pre><span></span><code>[root@localhost ~]# wget https://github.com/screego/server/releases/download/v1.0.7/screego_1.0.7_linux_amd64.tar.gz
 </code></pre></div>
 <p>解压后可以得到二进制文件以及示例文件 screego.config.example，将文件重命名为 screego.config。目前目录文件如下：</p>
-<div class="highlight"><pre><span></span><code>screego-demo├── LICENSE├── README.md├── screego└── screego.config
+<div class="highlight"><pre><span></span><code>screego-demo
+├── LICENSE
+├── README.md
+├── screego
+└── screego.config
 </code></pre></div>
 <p><strong><em>2. 配置</em></strong></p>
 <p>出于安全考虑，screego 会要求以 HTTPS 协议进行访问，所以在修改配置前，需要先生成下证书。</p>
@@ -2579,12 +2658,24 @@
 <div class="highlight"><pre><span></span><code>[root@localhost screego-demo]# openssl x509 -req -days 3650 -in server.csr -CA ca.crt -CAkey server.key -CAcreateserial -out server.crt
 </code></pre></div>
 <p>目前目录文件如下：</p>
-<div class="highlight"><pre><span></span><code>screego-demo├── ca.crt├── ca.srl├── LICENSE├── README.md├── screego├── screego.config├── server.crt├── server.csr└── server.key
+<div class="highlight"><pre><span></span><code>screego-demo
+├── ca.crt
+├── ca.srl
+├── LICENSE
+├── README.md
+├── screego
+├── screego.config
+├── server.crt
+├── server.csr
+└── server.key
 </code></pre></div>
 <p>密钥 server.key 和服务器证书 server.crt 已经创建，接下来就可以修改配置了。</p>
 <p><strong><em>2.2 修改配置</em></strong></p>
 <p>编辑配置文件 screego.config，这里仅列出我修改的配置项。</p>
-<div class="highlight"><pre><span></span><code>SCREEGO_EXTERNAL_IP=192.168.128.128SCREEGO_SERVER_TLS=trueSCREEGO_TLS_CERT_FILE=/root/screego-demo/server.crtSCREEGO_TLS_KEY_FILE=/root/screego-demo/server.key
+<div class="highlight"><pre><span></span><code>SCREEGO_EXTERNAL_IP=192.168.128.128
+SCREEGO_SERVER_TLS=true
+SCREEGO_TLS_CERT_FILE=/root/screego-demo/server.crt
+SCREEGO_TLS_KEY_FILE=/root/screego-demo/server.key
 </code></pre></div>
 <p>说明：</p>
 <blockquote>
@@ -2657,7 +2748,7 @@
     <span class="md-icon" title="最后更新">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1-2.1-2M12.5 7v5.2l4 2.4-1 1L11 13V7h1.5M11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2v1.8Z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date">2024-07-18</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date">2024-07-20</span>
   </span>
 
     

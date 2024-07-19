@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Thu, 18 Jul 2024 19:12:31 -0000</pubDate>
-    <lastBuildDate>Thu, 18 Jul 2024 19:12:31 -0000</lastBuildDate>
+    <pubDate>Fri, 19 Jul 2024 16:24:15 -0000</pubDate>
+    <lastBuildDate>Fri, 19 Jul 2024 16:24:15 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -82,7 +82,7 @@
 &lt;p&gt;国内虽然不少人都在使用 Gitee，但 Gitee 时不时恶心你一下（前不久就无缘无故把我的 oschina 的账号封了，而且要加 QQ 群去申诉，最后我是直接通过邮件反馈解封了），而且有时候有些资源用起来限制太多，很麻烦。&lt;/p&gt;
 &lt;p&gt;极狐从 2024 年 1 月 2 日起要付费才能使用，1898元/人/年的价格估计会劝退 90% 的个人用户吧！&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/readme/res/</link>
-      <pubDate>Wed, 17 Jul 2024 19:10:49 +0000</pubDate>
+      <pubDate>Fri, 19 Jul 2024 16:23:34 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/readme/res/</guid>
@@ -121,10 +121,85 @@
     &lt;img style=&#34;max-widrh:600px&#34; src=&#34;https://slab-1251708715.cos.ap-guangzhou.myqcloud.com/website/portfolio/webstack-hugo.jpg&#34; alt=&#34;WebStack-Hugo&#34;&gt;
 &lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/readme/work/</link>
-      <pubDate>Wed, 17 Jul 2024 19:10:49 +0000</pubDate>
+      <pubDate>Fri, 19 Jul 2024 16:23:34 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/readme/work/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Linux /var/log/日志文件太大，清理journal就行</title>
+      
+      
+        
+      <author>tarenaexit</author>
+        
+      
+      
+      
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.uedbox.com/post/58901/&#34;&gt;Linux /var/log/日志文件太大，清理journal就行&lt;/a&gt;
+在&lt;a href=&#34;https://www.uedbox.com/post/tag/centos/&#34; title=&#34;CentOS&#34;&gt;CentOS&lt;/a&gt; 7开始使用的&lt;code&gt;systemd&lt;/code&gt;使用了&lt;code&gt;journal&lt;/code&gt;日志，这个日志的管理方式和以往使用syslog的方式不同，可以通过管理工具维护。&lt;/p&gt;
+&lt;h3 id=&#34;linux-log日志占用&#34;&gt;Linux log日志占用&lt;a class=&#34;headerlink&#34; href=&#34;#linux-log日志占用&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.uedbox.com/post/tag/linux/&#34; title=&#34;Linux&#34;&gt;Linux&lt;/a&gt;使用&lt;code&gt;df \-h&lt;/code&gt;检查磁盘文件，可以看到&lt;code&gt;/run&lt;/code&gt;目录下有日志目录&lt;code&gt;/run/log/journal&lt;/code&gt;，占用了数G空间。&lt;/p&gt;
+&lt;p&gt;或者直接在相应目录下执行&lt;code&gt;du \--max-depth=1 \-h&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;Filesystem               Size  Used Avail Use% Mounted on
+/dev/mapper/centos-root  8.5G  4.2G  4.4G  49% /
+tmpfs                     16G  1.6G   15G  11% /run
+
+[rss@VM_0_16_centos log]# du --max-depth=1 -h
+254M    ./php-fpm
+36K     ./anaconda
+256K    ./redis
+4.0K    ./chrony
+4.0K    ./ppp
+4.0K    ./ntpstats
+256K    ./letsencrypt
+4.0G    ./journal
+34M     ./audit
+24K     ./tuned
+4.6G    .
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;在日志目录下有很多历史累积的日志。&lt;/p&gt;
+&lt;h3 id=&#34;linux-log日志清理&#34;&gt;Linux log日志清理&lt;a class=&#34;headerlink&#34; href=&#34;#linux-log日志清理&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;检查当前journal使用磁盘量&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;journalctl --disk-usage
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;清理方法可以采用按照日期清理，或者按照允许保留的容量清理，只保存2天的日志，最大500M&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;journalctl --vacuum-time=2d
+journalctl --vacuum-size=500M
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;如果要手工删除日志文件，则在删除前需要先轮转一次journal日志&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;systemctl kill --kill-who=main --signal=SIGUSR2 systemd-journald.service
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;要启用日志限制持久化配置，可以修改 &lt;code&gt;/etc/systemd/journald.conf&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;SystemMaxUse=16M
+ForwardToSyslog=no
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;然后重启&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;systemctl restart systemd-journald.service
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;检查journal是否运行正常以及日志文件是否完整无损坏&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;systemctl restart systemd-journald.service
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;script src=&#34;https://giscus.app/client.js&#34;
+    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
+    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
+    data-mapping=&#34;number&#34;
+    data-term=&#34;31&#34;
+    data-reactions-enabled=&#34;1&#34;
+    data-emit-metadata=&#34;0&#34;
+    data-input-position=&#34;bottom&#34;
+    data-theme=&#34;light&#34;
+    data-lang=&#34;zh-CN&#34;
+    crossorigin=&#34;anonymous&#34;
+    async&gt;
+&lt;/script&gt;</description>
+      <link>https://doc.ccsyue.com/discussions-31/</link>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
+      <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
+      
+      <guid isPermaLink="true">https://doc.ccsyue.com/discussions-31/</guid>
       
     </item>
     
@@ -189,7 +264,11 @@
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;[root@localhost ~]# wget https://github.com/screego/server/releases/download/v1.0.7/screego_1.0.7_linux_amd64.tar.gz
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;解压后可以得到二进制文件以及示例文件 screego.config.example，将文件重命名为 screego.config。目前目录文件如下：&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;screego-demo├── LICENSE├── README.md├── screego└── screego.config
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;screego-demo
+├── LICENSE
+├── README.md
+├── screego
+└── screego.config
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;2. 配置&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;出于安全考虑，screego 会要求以 HTTPS 协议进行访问，所以在修改配置前，需要先生成下证书。&lt;/p&gt;
@@ -213,12 +292,24 @@
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;[root@localhost screego-demo]# openssl x509 -req -days 3650 -in server.csr -CA ca.crt -CAkey server.key -CAcreateserial -out server.crt
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;目前目录文件如下：&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;screego-demo├── ca.crt├── ca.srl├── LICENSE├── README.md├── screego├── screego.config├── server.crt├── server.csr└── server.key
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;screego-demo
+├── ca.crt
+├── ca.srl
+├── LICENSE
+├── README.md
+├── screego
+├── screego.config
+├── server.crt
+├── server.csr
+└── server.key
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;密钥 server.key 和服务器证书 server.crt 已经创建，接下来就可以修改配置了。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;2.2 修改配置&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;编辑配置文件 screego.config，这里仅列出我修改的配置项。&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;SCREEGO_EXTERNAL_IP=192.168.128.128SCREEGO_SERVER_TLS=trueSCREEGO_TLS_CERT_FILE=/root/screego-demo/server.crtSCREEGO_TLS_KEY_FILE=/root/screego-demo/server.key
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;SCREEGO_EXTERNAL_IP=192.168.128.128
+SCREEGO_SERVER_TLS=true
+SCREEGO_TLS_CERT_FILE=/root/screego-demo/server.crt
+SCREEGO_TLS_KEY_FILE=/root/screego-demo/server.key
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;说明：&lt;/p&gt;
 &lt;blockquote&gt;
@@ -769,7 +860,7 @@ channels=(
     &amp;#39;https://www.youtube.com/@222/videos&amp;#39;
     &amp;#39;https://www.youtube.com/@333/videos&amp;#39;
 )
-
+ /usr/bin/yt-dlp -U
 ## 逐个下载视频，自动生成中文简体字幕并嵌入视频文件中
 for channel in &amp;quot;${channels[@]}&amp;quot;; do
     /usr/bin/yt-dlp -f &amp;#39;bv*+ba&amp;#39; \
@@ -805,6 +896,7 @@ cat videos.txt &amp;gt; /home/yetpage/videotxt/videois.txt
 &lt;li&gt;crontab 每天6点定时执行脚本：  （若出现0 command not found，则用sudo su切换到root，使用crontab -e进行编辑）
   &lt;code&gt;0 6 * * * bash /home/yt.sh&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://easonchang.com/posts/using-ssh-with-putty-key-on-macos&#34;&gt;在MacOS使用putty key進行ssh連線&lt;/a&gt;&lt;/p&gt;
 &lt;script src=&#34;https://giscus.app/client.js&#34;
     data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
     data-repo-id=&#34;RR_kgDOL4wNPw&#34;
@@ -1807,7 +1899,7 @@ cat videos.txt &amp;gt; /home/yetpage/videotxt/videois.txt
     </item>
     
     <item>
-      <title>下载及处理</title>
+      <title>直播视频的下载&amp;视频去&amp;压缩&amp;文本识别</title>
       
       
         
@@ -1864,7 +1956,8 @@ ffmpeg -i &lt;span class=&#34;s2&#34;&gt;&amp;quot;in.mp4&amp;quot;&lt;/span&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;https://videohighlight.com/&#34;&gt;https://videohighlight.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://videohighlight.com/&#34;&gt;https://videohighlight.com/&lt;/a&gt;
+&lt;a href=&#34;https://autocut.video/&#34;&gt;https://autocut.video/&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;script src=&#34;https://giscus.app/client.js&#34;
     data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;

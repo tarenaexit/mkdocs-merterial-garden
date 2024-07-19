@@ -564,6 +564,8 @@
       
         
       
+        
+      
     
     
       
@@ -856,7 +858,7 @@
         
   
   <span class="md-ellipsis">
-    下载及处理
+    直播视频的下载&视频去&压缩&文本识别
   </span>
   
 
@@ -953,6 +955,79 @@
   
   <span class="md-ellipsis">
     windows系统最高分辨率只到1024*768，驱动如何安装？
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_1_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_1_3" id="__nav_2_1_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Linux
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_1_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_1_3">
+            <span class="md-nav__icon md-icon"></span>
+            Linux
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../discussions-31/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Linux /var/log/日志文件太大，清理journal就行
   </span>
   
 
@@ -2851,7 +2926,7 @@ channels=(
     &#39;https://www.youtube.com/@222/videos&#39;
     &#39;https://www.youtube.com/@333/videos&#39;
 )
-
+ /usr/bin/yt-dlp -U
 ## 逐个下载视频，自动生成中文简体字幕并嵌入视频文件中
 for channel in &quot;${channels[@]}&quot;; do
     /usr/bin/yt-dlp -f &#39;bv*+ba&#39; \
@@ -2887,6 +2962,7 @@ cat videos.txt &gt; /home/yetpage/videotxt/videois.txt
 <li>crontab 每天6点定时执行脚本：  （若出现0 command not found，则用sudo su切换到root，使用crontab -e进行编辑）
   <code>0 6 * * * bash /home/yt.sh</code></li>
 </ul>
+<p><a href="https://easonchang.com/posts/using-ssh-with-putty-key-on-macos">在MacOS使用putty key進行ssh連線</a></p>
 <script src="https://giscus.app/client.js"
     data-repo="tarenaexit/mkdocs-merterial-garden"
     data-repo-id="RR_kgDOL4wNPw"
@@ -2920,7 +2996,7 @@ cat videos.txt &gt; /home/yetpage/videotxt/videois.txt
     <span class="md-icon" title="最后更新">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1-2.1-2M12.5 7v5.2l4 2.4-1 1L11 13V7h1.5M11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2v1.8Z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date">2024-07-18</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date">2024-07-20</span>
   </span>
 
     
@@ -2975,13 +3051,13 @@ cat videos.txt &gt; /home/yetpage/videotxt/videois.txt
         
         
           
-          <a href="../discussions-21/" class="md-footer__link md-footer__link--next" aria-label="下一页: 下载及处理">
+          <a href="../discussions-21/" class="md-footer__link md-footer__link--next" aria-label="下一页: 直播视频的下载&amp;视频去&amp;压缩&amp;文本识别">
             <div class="md-footer__title">
               <span class="md-footer__direction">
                 下一页
               </span>
               <div class="md-ellipsis">
-                下载及处理
+                直播视频的下载&视频去&压缩&文本识别
               </div>
             </div>
             <div class="md-footer__button md-icon">

@@ -12,13 +12,13 @@
         <meta name="author" content="Steven hou">
       
       
-        <link rel="canonical" href="https://doc.ccsyue.com/discussions-16/">
+        <link rel="canonical" href="https://doc.ccsyue.com/discussions-31/">
       
       
-        <link rel="prev" href="../discussions-18/">
+        <link rel="prev" href="../discussions-19/">
       
       
-        <link rel="next" href="../discussions-28/">
+        <link rel="next" href="../discussions-17/">
       
       
         <link rel="alternate" type="application/rss+xml" title="RSS 订阅" href="../feed_rss_created.xml">
@@ -29,7 +29,7 @@
     
     
       
-        <title>Install Python and Pycharm for Windows 7 - 知识花园</title>
+        <title>Linux /var/log/日志文件太大，清理journal就行 - 知识花园</title>
       
     
     
@@ -101,7 +101,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#一首先安装python打开网址pythonorg点击windows" class="md-skip">
+        <a href="#linux-log日志占用" class="md-skip">
           跳转至
         </a>
       
@@ -134,7 +134,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Install Python and Pycharm for Windows 7
+              Linux /var/log/日志文件太大，清理journal就行
             
           </span>
         </div>
@@ -553,6 +553,8 @@
                 
   
   
+    
+  
   
   
     
@@ -575,11 +577,11 @@
       
     
     
-    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_1" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_1" checked>
         
           
           <label class="md-nav__link" for="__nav_2_1" id="__nav_2_1_label" tabindex="">
@@ -593,7 +595,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_1_label" aria-expanded="false">
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_1_label" aria-expanded="true">
           <label class="md-nav__title" for="__nav_2_1">
             <span class="md-nav__icon md-icon"></span>
             运行维护
@@ -819,8 +821,10 @@
                 
   
   
+    
   
   
+  
     
     
       
@@ -834,11 +838,11 @@
       
     
     
-    <li class="md-nav__item md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_1_3" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_1_3" checked>
         
           
           <label class="md-nav__link" for="__nav_2_1_3" id="__nav_2_1_3_label" tabindex="0">
@@ -852,7 +856,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_1_3_label" aria-expanded="false">
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_1_3_label" aria-expanded="true">
           <label class="md-nav__title" for="__nav_2_1_3">
             <span class="md-nav__icon md-icon"></span>
             Linux
@@ -863,10 +867,28 @@
                 
   
   
+    
   
   
-    <li class="md-nav__item">
-      <a href="../discussions-31/" class="md-nav__link">
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Linux /var/log/日志文件太大，清理journal就行
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
         
   
   <span class="md-ellipsis">
@@ -875,6 +897,42 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="目录">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      目录
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#linux-log日志占用" class="md-nav__link">
+    <span class="md-ellipsis">
+      Linux log日志占用
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#linux-log日志清理" class="md-nav__link">
+    <span class="md-ellipsis">
+      Linux log日志清理
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
     </li>
   
 
@@ -900,8 +958,6 @@
                 
   
   
-    
-  
   
   
     
@@ -924,11 +980,11 @@
       
     
     
-    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2" checked>
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2" >
         
           
           <label class="md-nav__link" for="__nav_2_2" id="__nav_2_2_label" tabindex="">
@@ -942,7 +998,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_2_label" aria-expanded="true">
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_2_label" aria-expanded="false">
           <label class="md-nav__title" for="__nav_2_2">
             <span class="md-nav__icon md-icon"></span>
             编程技术
@@ -1099,10 +1155,8 @@
                 
   
   
-    
   
   
-  
     
     
       
@@ -1116,11 +1170,11 @@
       
     
     
-    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2_3" checked>
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2_3" >
         
           
           <label class="md-nav__link" for="__nav_2_2_3" id="__nav_2_2_3_label" tabindex="0">
@@ -1134,7 +1188,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_2_3_label" aria-expanded="true">
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_2_3_label" aria-expanded="false">
           <label class="md-nav__title" for="__nav_2_2_3">
             <span class="md-nav__icon md-icon"></span>
             Python
@@ -1145,28 +1199,10 @@
                 
   
   
-    
   
   
-  
-    <li class="md-nav__item md-nav__item--active">
-      
-      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
-      
-      
-      
-        <label class="md-nav__link md-nav__link--active" for="__toc">
-          
-  
-  <span class="md-ellipsis">
-    Install Python and Pycharm for Windows 7
-  </span>
-  
-
-          <span class="md-nav__icon md-icon"></span>
-        </label>
-      
-      <a href="./" class="md-nav__link md-nav__link--active">
+    <li class="md-nav__item">
+      <a href="../discussions-16/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -1175,51 +1211,6 @@
   
 
       </a>
-      
-        
-
-<nav class="md-nav md-nav--secondary" aria-label="目录">
-  
-  
-  
-  
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      目录
-    </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#一首先安装python打开网址pythonorg点击windows" class="md-nav__link">
-    <span class="md-ellipsis">
-      一、首先安装python，打开网址：python.org，点击“windows”
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#二在页面中搜索be-used-on-windows-xp-or-earlier查看支持windows-7的最新版本" class="md-nav__link">
-    <span class="md-ellipsis">
-      二、在页面中搜索“be used on Windows XP or earlier.”，查看支持windows 7的最新版本。
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#三安装支持windows7的最新版本pycharm打开" class="md-nav__link">
-    <span class="md-ellipsis">
-      三、安装支持windows7的最新版本“pycharm”。打开
-    </span>
-  </a>
-  
-</li>
-      
-    </ul>
-  
-</nav>
-      
     </li>
   
 
@@ -2600,27 +2591,18 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#一首先安装python打开网址pythonorg点击windows" class="md-nav__link">
+  <a href="#linux-log日志占用" class="md-nav__link">
     <span class="md-ellipsis">
-      一、首先安装python，打开网址：python.org，点击“windows”
+      Linux log日志占用
     </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#二在页面中搜索be-used-on-windows-xp-or-earlier查看支持windows-7的最新版本" class="md-nav__link">
+  <a href="#linux-log日志清理" class="md-nav__link">
     <span class="md-ellipsis">
-      二、在页面中搜索“be used on Windows XP or earlier.”，查看支持windows 7的最新版本。
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#三安装支持windows7的最新版本pycharm打开" class="md-nav__link">
-    <span class="md-ellipsis">
-      三、安装支持windows7的最新版本“pycharm”。打开
+      Linux log日志清理
     </span>
   </a>
   
@@ -2641,7 +2623,7 @@
                   
 
   
-    <a href="https://github.com/tarenaexit/mkdocs-merterial-garden/edit/main/docs/tech/编程技术/Python/2024-05-22-Install-Python-and-Pycharm-for-Windows-7-dis16.md" title="编辑此页" class="md-content__button md-icon">
+    <a href="https://github.com/tarenaexit/mkdocs-merterial-garden/edit/main/docs/tech/运行维护/linux/2024-07-19-Linux-var-log-日志文件太大-清理journal就行-dis31.md" title="编辑此页" class="md-content__button md-icon">
       
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 20H6V4h7v5h5v3.1l2-2V8l-6-6H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h4v-2m10.2-7c.1 0 .3.1.4.2l1.3 1.3c.2.2.2.6 0 .8l-1 1-2.1-2.1 1-1c.1-.1.2-.2.4-.2m0 3.9L14.1 23H12v-2.1l6.1-6.1 2.1 2.1Z"/></svg>
     </a>
@@ -2650,52 +2632,64 @@
     
       
     
-    <a href="https://github.com/tarenaexit/mkdocs-merterial-garden/raw/main/docs/tech/编程技术/Python/2024-05-22-Install-Python-and-Pycharm-for-Windows-7-dis16.md" title="查看本页的源代码" class="md-content__button md-icon">
+    <a href="https://github.com/tarenaexit/mkdocs-merterial-garden/raw/main/docs/tech/运行维护/linux/2024-07-19-Linux-var-log-日志文件太大-清理journal就行-dis31.md" title="查看本页的源代码" class="md-content__button md-icon">
       
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 18c.56 0 1 .44 1 1s-.44 1-1 1-1-.44-1-1 .44-1 1-1m0-3c-2.73 0-5.06 1.66-6 4 .94 2.34 3.27 4 6 4s5.06-1.66 6-4c-.94-2.34-3.27-4-6-4m0 6.5a2.5 2.5 0 0 1-2.5-2.5 2.5 2.5 0 0 1 2.5-2.5 2.5 2.5 0 0 1 2.5 2.5 2.5 2.5 0 0 1-2.5 2.5M9.27 20H6V4h7v5h5v4.07c.7.08 1.36.25 2 .49V8l-6-6H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h4.5a8.15 8.15 0 0 1-1.23-2Z"/></svg>
     </a>
   
 
 
-  <h1>Install Python and Pycharm for Windows 7</h1>
+  <h1>Linux /var/log/日志文件太大，清理journal就行</h1>
 
-<h2 id="一首先安装python打开网址pythonorg点击windows">一、首先安装python，打开网址：python.org，点击“windows”<a class="headerlink" href="#一首先安装python打开网址pythonorg点击windows" title="Permanent link">&para;</a></h2>
-<blockquote>
-<p>注意提示：“Note that Python 3.9+ cannot be used on Windows 7 or earlier.”</p>
-</blockquote>
-<p>进入网址：<a href="https://www.python.org/downloads/windows/">https://www.python.org/downloads/windows/</a></p>
-<p><a class="glightbox" href="https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/image.6m3q8lpapw.webp" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="image" src="https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/image.6m3q8lpapw.webp" /></a></p>
-<h2 id="二在页面中搜索be-used-on-windows-xp-or-earlier查看支持windows-7的最新版本">二、在页面中搜索“be used on Windows XP or earlier.”，查看支持windows 7的最新版本。<a class="headerlink" href="#二在页面中搜索be-used-on-windows-xp-or-earlier查看支持windows-7的最新版本" title="Permanent link">&para;</a></h2>
-<ol>
-<li>如以下版本，就未发布windows版，直接跳过搜索下一个：</li>
-</ol>
-<p><a class="glightbox" href="https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/image.2ruypn7xem.webp" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="image" src="https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/image.2ruypn7xem.webp" /></a> </p>
-<ol>
-<li>发现3.8.10版本发布了windows版，下载它下载地址是：<a href="https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe">https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe</a></li>
-</ol>
-<p><a class="glightbox" href="https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/image.4n7ji9kif9.webp" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="image" src="https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/image.4n7ji9kif9.webp" /></a></p>
-<ol>
-<li>并安装，注意将python加入到系统path的复选框选中。</li>
-</ol>
-<p><a class="glightbox" href="https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/image.13llsghxb1.webp" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="image" src="https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/image.13llsghxb1.webp" /></a></p>
-<h2 id="三安装支持windows7的最新版本pycharm打开">三、安装支持windows7的最新版本“pycharm”。打开<a class="headerlink" href="#三安装支持windows7的最新版本pycharm打开" title="Permanent link">&para;</a></h2>
-<p><a class="glightbox" href="https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/image.widx0vwsh.webp" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="image" src="https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/image.widx0vwsh.webp" /></a></p>
-<ol>
-<li>发现2021.1仅支持windows8及以上的系统。经查：Win7 x64 最后一个版本, Python 2.7; Python 3.5&ndash;3.8; JRE11。</li>
-</ol>
-<p><a class="glightbox" href="https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/image.9rj87jkvmi.webp" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="image" src="https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/image.9rj87jkvmi.webp" /></a></p>
-<ol>
-<li>下载页面：<a href="https://www.jetbrains.com/pycharm/download/other.html">https://www.jetbrains.com/pycharm/download/other.html</a>。<a href="https://download.jetbrains.com/python/pycharm-community-2019.3.5.exe?_ga=2.157697210.1848525680.1716362965-1210132645.1716362965&amp;_gl=1*xu8jmo*_ga*MTIxMDEzMjY0NS4xNzE2MzYyOTY1*_ga_9J976DJZ68*MTcxNjM2Mjk2NS4xLjEuMTcxNjM2NDc0NC4wLjAuMA..">pycharm 2019.3.5 下载地址</a>；<a href="https://github.com/shuimukang/Others/blob/master/resources_cn.jar">pycharm 2019.3.5 汉化包下载地址</a></li>
-</ol>
-<p><a class="glightbox" href="https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/image.26lb3ce72g.webp" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="image" src="https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/image.26lb3ce72g.webp" /></a></p>
-<ol>
-<li>经验证：2022.2版本也可以安装在windows7上，初步使用无碍，但安装时提示path长度不够，可能会留下隐患，但可以通过插件安装汉化模块。而2019.3.5版本的汉化则需要下载resources_cn.jar文件方到安装目录的lib文件夹下。安装哪个版本请自行取舍。</li>
-</ol>
+<p><a href="https://www.uedbox.com/post/58901/">Linux /var/log/日志文件太大，清理journal就行</a>
+在<a href="https://www.uedbox.com/post/tag/centos/" title="CentOS">CentOS</a> 7开始使用的<code>systemd</code>使用了<code>journal</code>日志，这个日志的管理方式和以往使用syslog的方式不同，可以通过管理工具维护。</p>
+<h3 id="linux-log日志占用">Linux log日志占用<a class="headerlink" href="#linux-log日志占用" title="Permanent link">&para;</a></h3>
+<p><a href="https://www.uedbox.com/post/tag/linux/" title="Linux">Linux</a>使用<code>df \-h</code>检查磁盘文件，可以看到<code>/run</code>目录下有日志目录<code>/run/log/journal</code>，占用了数G空间。</p>
+<p>或者直接在相应目录下执行<code>du \--max-depth=1 \-h</code></p>
+<div class="highlight"><pre><span></span><code>Filesystem               Size  Used Avail Use% Mounted on
+/dev/mapper/centos-root  8.5G  4.2G  4.4G  49% /
+tmpfs                     16G  1.6G   15G  11% /run
+
+[rss@VM_0_16_centos log]# du --max-depth=1 -h
+254M    ./php-fpm
+36K     ./anaconda
+256K    ./redis
+4.0K    ./chrony
+4.0K    ./ppp
+4.0K    ./ntpstats
+256K    ./letsencrypt
+4.0G    ./journal
+34M     ./audit
+24K     ./tuned
+4.6G    .
+</code></pre></div>
+<p>在日志目录下有很多历史累积的日志。</p>
+<h3 id="linux-log日志清理">Linux log日志清理<a class="headerlink" href="#linux-log日志清理" title="Permanent link">&para;</a></h3>
+<p>检查当前journal使用磁盘量</p>
+<div class="highlight"><pre><span></span><code>journalctl --disk-usage
+</code></pre></div>
+<p>清理方法可以采用按照日期清理，或者按照允许保留的容量清理，只保存2天的日志，最大500M</p>
+<div class="highlight"><pre><span></span><code>journalctl --vacuum-time=2d
+journalctl --vacuum-size=500M
+</code></pre></div>
+<p>如果要手工删除日志文件，则在删除前需要先轮转一次journal日志</p>
+<div class="highlight"><pre><span></span><code>systemctl kill --kill-who=main --signal=SIGUSR2 systemd-journald.service
+</code></pre></div>
+<p>要启用日志限制持久化配置，可以修改 <code>/etc/systemd/journald.conf</code></p>
+<div class="highlight"><pre><span></span><code>SystemMaxUse=16M
+ForwardToSyslog=no
+</code></pre></div>
+<p>然后重启</p>
+<div class="highlight"><pre><span></span><code>systemctl restart systemd-journald.service
+</code></pre></div>
+<p>检查journal是否运行正常以及日志文件是否完整无损坏</p>
+<div class="highlight"><pre><span></span><code>systemctl restart systemd-journald.service
+</code></pre></div>
 <script src="https://giscus.app/client.js"
     data-repo="tarenaexit/mkdocs-merterial-garden"
     data-repo-id="RR_kgDOL4wNPw"
     data-mapping="number"
-    data-term="16"
+    data-term="31"
     data-reactions-enabled="1"
     data-emit-metadata="0"
     data-input-position="bottom"
@@ -2762,7 +2756,7 @@
       <nav class="md-footer__inner md-grid" aria-label="页脚" >
         
           
-          <a href="../discussions-18/" class="md-footer__link md-footer__link--prev" aria-label="上一页: 自动检查和保存设备重启时间的算法流程图">
+          <a href="../discussions-19/" class="md-footer__link md-footer__link--prev" aria-label="上一页: windows系统最高分辨率只到1024*768，驱动如何安装？">
             <div class="md-footer__button md-icon">
               
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
@@ -2772,20 +2766,20 @@
                 上一页
               </span>
               <div class="md-ellipsis">
-                自动检查和保存设备重启时间的算法流程图
+                windows系统最高分辨率只到1024*768，驱动如何安装？
               </div>
             </div>
           </a>
         
         
           
-          <a href="../discussions-28/" class="md-footer__link md-footer__link--next" aria-label="下一页: 学业水平测试题5解析">
+          <a href="../discussions-17/" class="md-footer__link md-footer__link--next" aria-label="下一页: 计算科学知识图谱(sankey diagram)">
             <div class="md-footer__title">
               <span class="md-footer__direction">
                 下一页
               </span>
               <div class="md-ellipsis">
-                学业水平测试题5解析
+                计算科学知识图谱(sankey diagram)
               </div>
             </div>
             <div class="md-footer__button md-icon">
