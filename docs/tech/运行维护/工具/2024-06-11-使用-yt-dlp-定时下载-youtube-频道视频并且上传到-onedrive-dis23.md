@@ -115,7 +115,7 @@ channels=(
     'https://www.youtube.com/@222/videos'
     'https://www.youtube.com/@333/videos'
 )
- 
+ /usr/bin/yt-dlp -U
 ## 逐个下载视频，自动生成中文简体字幕并嵌入视频文件中
 for channel in "${channels[@]}"; do
     /usr/bin/yt-dlp -f 'bv*+ba' \
@@ -151,6 +151,8 @@ cat videos.txt > /home/yetpage/videotxt/videois.txt
   `chmod +x /home/yt.sh`
 * crontab 每天6点定时执行脚本：  （若出现0 command not found，则用sudo su切换到root，使用crontab -e进行编辑）
   `0 6 * * * bash /home/yt.sh`
+
+[在MacOS使用putty key進行ssh連線](https://easonchang.com/posts/using-ssh-with-putty-key-on-macos)
 
 <script src="https://giscus.app/client.js"
 	data-repo="tarenaexit/mkdocs-merterial-garden"

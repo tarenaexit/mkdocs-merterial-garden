@@ -30,7 +30,11 @@ screego 目前最新的版本为 v1.07，选择并下载系统对应的安装包
 解压后可以得到二进制文件以及示例文件 screego.config.example，将文件重命名为 screego.config。目前目录文件如下：
 
 ```
-screego-demo├── LICENSE├── README.md├── screego└── screego.config
+screego-demo
+├── LICENSE
+├── README.md
+├── screego
+└── screego.config
 ```
 
   
@@ -84,7 +88,16 @@ FTL http server error="tls: failed to parse private key"
 目前目录文件如下：
 
 ```
-screego-demo├── ca.crt├── ca.srl├── LICENSE├── README.md├── screego├── screego.config├── server.crt├── server.csr└── server.key
+screego-demo
+├── ca.crt
+├── ca.srl
+├── LICENSE
+├── README.md
+├── screego
+├── screego.config
+├── server.crt
+├── server.csr
+└── server.key
 ```
 
 密钥 server.key 和服务器证书 server.crt 已经创建，接下来就可以修改配置了。
@@ -98,7 +111,10 @@ screego-demo├── ca.crt├── ca.srl├── LICENSE├── READM
 编辑配置文件 screego.config，这里仅列出我修改的配置项。
 
 ```
-SCREEGO_EXTERNAL_IP=192.168.128.128SCREEGO_SERVER_TLS=trueSCREEGO_TLS_CERT_FILE=/root/screego-demo/server.crtSCREEGO_TLS_KEY_FILE=/root/screego-demo/server.key
+SCREEGO_EXTERNAL_IP=192.168.128.128
+SCREEGO_SERVER_TLS=true
+SCREEGO_TLS_CERT_FILE=/root/screego-demo/server.crt
+SCREEGO_TLS_KEY_FILE=/root/screego-demo/server.key
 ```
 
 说明：
