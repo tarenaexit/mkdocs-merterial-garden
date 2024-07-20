@@ -15,9 +15,9 @@ labels: ['1.3.3-linux']
 
 ### Linux log日志占用
 
-[Linux](https://www.uedbox.com/post/tag/linux/ "Linux")使用`df \-h`检查磁盘文件，可以看到`/run`目录下有日志目录`/run/log/journal`，占用了数G空间。
+[Linux](https://www.uedbox.com/post/tag/linux/ "Linux")使用`df -h`检查磁盘文件，可以看到`/run`目录下有日志目录`/run/log/journal`，占用了数G空间。
 
-或者直接在相应目录下执行`du \--max-depth=1 \-h`
+或者直接在相应目录下执行`du --max-depth=1 -h`
 
 
 ```
