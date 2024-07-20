@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Fri, 19 Jul 2024 19:12:44 -0000</pubDate>
-    <lastBuildDate>Fri, 19 Jul 2024 19:12:44 -0000</lastBuildDate>
+    <pubDate>Sat, 20 Jul 2024 19:10:40 -0000</pubDate>
+    <lastBuildDate>Sat, 20 Jul 2024 19:10:40 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,60 @@
     
 
     
+    
+    <item>
+      <title>用企业微信bot发送文件</title>
+      
+      
+        
+      <author>tarenaexit</author>
+        
+      
+      
+      
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.cyberciti.biz/tips/handling-filenames-with-spaces-in-bash.html&#34;&gt;BASH Shell: For Loop File Names With Spaces&lt;/a&gt;
+&lt;a href=&#34;https://blog.csdn.net/weixin_43741408/article/details/136107222&#34;&gt;SHELL 调用企微机器人自动发送群文件&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;##防止文件名中有空格
+OIFS=&amp;quot;$IFS&amp;quot;
+IFS=$&amp;#39;\n&amp;#39;
+
+api_get=&amp;quot;https://qyapi.weixin.qq.com/cgi-bin/webhook/upload_media?key=[key]&amp;amp;type=file&amp;quot;
+api_post=&amp;quot;https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=[key]&amp;quot;
+scr_file=$(find . -maxdepth 2 -type f -name &amp;quot;*.mp3&amp;quot; -mtime 0 -o -name &amp;quot;*.mp4&amp;quot; -mtime 0)
+
+for file in ${scr_file[@]};do
+    #echo &amp;quot;$file&amp;quot;
+    media_id=$(curl -s -H &amp;#39;Content-Type: multipart/form-data&amp;#39; ${api_get} -F &amp;quot;media=@${file}&amp;quot; | jq .media_id)
+    #echo &amp;quot;$media_id&amp;quot;
+    # 使用jq --arg进行传参，需注意&amp;#39;.file.media_id&amp;#39;对应其json格式的层级
+    echo &amp;#39;{&amp;quot;msgtype&amp;quot;: &amp;quot;file&amp;quot;,&amp;quot;file&amp;quot;: {&amp;quot;media_id&amp;quot;: &amp;quot;3a8asd892asd8asd&amp;quot;}}&amp;#39; | jq --arg media_id $media_id &amp;quot;.file.media_id = $media_id&amp;quot; | sudo tee new_file.json
+    #cat new_file.json
+    curl -H &amp;#39;Content-Type: application/json&amp;#39; -d @new_file.json ${api_post}
+    sleep 3
+done
+
+IFS=&amp;quot;$OIFS&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;script src=&#34;https://giscus.app/client.js&#34;
+    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
+    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
+    data-mapping=&#34;number&#34;
+    data-term=&#34;32&#34;
+    data-reactions-enabled=&#34;1&#34;
+    data-emit-metadata=&#34;0&#34;
+    data-input-position=&#34;bottom&#34;
+    data-theme=&#34;light&#34;
+    data-lang=&#34;zh-CN&#34;
+    crossorigin=&#34;anonymous&#34;
+    async&gt;
+&lt;/script&gt;</description>
+      <link>https://doc.ccsyue.com/discussions-32/</link>
+      <pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
+      <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
+      
+      <guid isPermaLink="true">https://doc.ccsyue.com/discussions-32/</guid>
+      
+    </item>
     
     <item>
       <title>常用资源</title>
@@ -82,7 +136,7 @@
 &lt;p&gt;国内虽然不少人都在使用 Gitee，但 Gitee 时不时恶心你一下（前不久就无缘无故把我的 oschina 的账号封了，而且要加 QQ 群去申诉，最后我是直接通过邮件反馈解封了），而且有时候有些资源用起来限制太多，很麻烦。&lt;/p&gt;
 &lt;p&gt;极狐从 2024 年 1 月 2 日起要付费才能使用，1898元/人/年的价格估计会劝退 90% 的个人用户吧！&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/readme/res/</link>
-      <pubDate>Fri, 19 Jul 2024 16:30:08 +0000</pubDate>
+      <pubDate>Fri, 19 Jul 2024 19:12:25 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/readme/res/</guid>
@@ -121,7 +175,7 @@
     &lt;img style=&#34;max-widrh:600px&#34; src=&#34;https://slab-1251708715.cos.ap-guangzhou.myqcloud.com/website/portfolio/webstack-hugo.jpg&#34; alt=&#34;WebStack-Hugo&#34;&gt;
 &lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/readme/work/</link>
-      <pubDate>Fri, 19 Jul 2024 16:30:08 +0000</pubDate>
+      <pubDate>Fri, 19 Jul 2024 19:12:25 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/readme/work/</guid>
@@ -141,8 +195,8 @@
       <description>&lt;p&gt;&lt;a href=&#34;https://www.uedbox.com/post/58901/&#34;&gt;Linux /var/log/日志文件太大，清理journal就行&lt;/a&gt;
 在&lt;a href=&#34;https://www.uedbox.com/post/tag/centos/&#34; title=&#34;CentOS&#34;&gt;CentOS&lt;/a&gt; 7开始使用的&lt;code&gt;systemd&lt;/code&gt;使用了&lt;code&gt;journal&lt;/code&gt;日志，这个日志的管理方式和以往使用syslog的方式不同，可以通过管理工具维护。&lt;/p&gt;
 &lt;h3 id=&#34;linux-log日志占用&#34;&gt;Linux log日志占用&lt;a class=&#34;headerlink&#34; href=&#34;#linux-log日志占用&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.uedbox.com/post/tag/linux/&#34; title=&#34;Linux&#34;&gt;Linux&lt;/a&gt;使用&lt;code&gt;df \-h&lt;/code&gt;检查磁盘文件，可以看到&lt;code&gt;/run&lt;/code&gt;目录下有日志目录&lt;code&gt;/run/log/journal&lt;/code&gt;，占用了数G空间。&lt;/p&gt;
-&lt;p&gt;或者直接在相应目录下执行&lt;code&gt;du \--max-depth=1 \-h&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.uedbox.com/post/tag/linux/&#34; title=&#34;Linux&#34;&gt;Linux&lt;/a&gt;使用&lt;code&gt;df -h&lt;/code&gt;检查磁盘文件，可以看到&lt;code&gt;/run&lt;/code&gt;目录下有日志目录&lt;code&gt;/run/log/journal&lt;/code&gt;，占用了数G空间。&lt;/p&gt;
+&lt;p&gt;或者直接在相应目录下执行&lt;code&gt;du --max-depth=1 -h&lt;/code&gt;&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;Filesystem               Size  Used Avail Use% Mounted on
 /dev/mapper/centos-root  8.5G  4.2G  4.4G  49% /
 tmpfs                     16G  1.6G   15G  11% /run
@@ -2247,168 +2301,6 @@ ffmpeg -i &lt;span class=&#34;s2&#34;&gt;&amp;quot;in.mp4&amp;quot;&lt;/span&gt;
       <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/blog/discussions-14/</guid>
-      
-    </item>
-    
-    <item>
-      <title>《THE PROBLEMS OF PHILOSOPHY》</title>
-      
-      
-        
-      <author>tarenaexit</author>
-        
-      
-      
-      
-      <description>&lt;h2 id=&#34;preface&#34;&gt;PREFACE&lt;a class=&#34;headerlink&#34; href=&#34;#preface&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;In the following pages I have confined myself in the main to those problems of philosophy in regard to which I thought it possible to say something positive and constructive, since merely negative criticism seemed out of place. For this reason, theory of knowledge occupies a larger space than metaphysics in the present volume, and some topics much discussed by philosophers are treated very briefly, if at all.&lt;/li&gt;
-&lt;li&gt;from the former, as regards the relations of sense-data to physical objects, and from the latter as regards probability and induction.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;chapter-i-appearance-and-reality&#34;&gt;CHAPTER I. APPEARANCE AND REALITY&lt;a class=&#34;headerlink&#34; href=&#34;#chapter-i-appearance-and-reality&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;The real table, if it exists, we will call a &amp;lsquo;physical object&amp;rsquo;. Thus we have to consider the relation of sense-data to physical objects. The collection of all physical objects is called &amp;lsquo;matter&amp;rsquo;. Thus our two questions may be re-stated as follows: (1) Is there any such thing as matter? (2) If so, what is its nature?&lt;/li&gt;
-&lt;li&gt;We might state the argument by which they support their view in some such way as this:&amp;rsquo;Whatever can be thought of is an idea in the mind of the person thinking of it; therefore nothing can be thought of except ideas in minds; therefore anything else is inconceivable, and what is inconceivable cannot exist.&amp;rsquo;&lt;/li&gt;
-&lt;li&gt;In fact, almost all philosophers seem to be agreed that there is a real table: they almost all agree that, however much our sense-data—colour, shape, smoothness, etc.—may depend upon us, yet their occurrence is a sign of something existing independently of us, something differing, perhaps, completely from our sense-data, and yet to be regarded as causing those sense-data whenever we are in a suitable relation to the real table.&lt;/li&gt;
-&lt;li&gt;Before we go farther it will be well to consider for a moment what it is that we have discovered so far. It has appeared that, if we take any common object of the sort that is supposed to be known by the senses, what the senses immediately tell us is not the truth about the object as it is apart from us, but only the truth about certain sense-data which, so far as we can see, depend upon the relations between us and the object. Thus what we directly see and feel is merely &amp;lsquo;appearance&amp;rsquo;, which we believe to be a sign of some &amp;lsquo;reality&amp;rsquo; behind. But if the reality is not what appears, have we any means of knowing whether there is any reality at all? And if so, have we any means of finding out what it is like?&lt;/li&gt;
-&lt;li&gt;The one thing we know about it is that it is not what it seems. Beyond this modest result, so far, we have the most complete liberty of conjecture. Leibniz tells us it is a community of souls: Berkeley tells us it is an idea in the mind of God; sober science, scarcely less wonderful, tells us it is a vast collection of electric charges in violent motion.&lt;/li&gt;
-&lt;li&gt;Among these surprising possibilities, doubt suggests that perhaps there is no table at all. Philosophy, if it cannot answer so many questions as we could wish, has at least the power of asking questions which increase the interest of the world, and show the strangeness and wonder lying just below the surface even in the commonest things of daily life.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;chapter-ii-the-existence-of-matter&#34;&gt;CHAPTER II. THE EXISTENCE OF MATTER&lt;a class=&#34;headerlink&#34; href=&#34;#chapter-ii-the-existence-of-matter&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Descartes (1596-1650), the founder of modern philosophy, invented a method which may still be used with profit—the method of systematic doubt. He determined that he would believe nothing which he did not see quite clearly and distinctly to be true. Whatever he could bring himself to doubt, he would doubt, until he saw reason for not doubting it. By applying this method he gradually became convinced that the only existence of which he could be quite certain was his own.&lt;/li&gt;
-&lt;li&gt;But doubt concerning his own existence was not possible, for if he did not exist, no demon could deceive him. If he doubted, he must exist; if he had any experiences whatever, he must exist. Thus his own existence was an absolute certainty to him. &amp;lsquo;I think, therefore I am,&amp;rsquo; he said (Cogito, ergo sum); and on the basis of this certainty he set to work to build up again the world of knowledge which his doubt had laid in ruins.&lt;/li&gt;
-&lt;li&gt;Thus it is our particular thoughts and feelings that have primitive certainty. And this applies to dreams and hallucinations as well as to normal perceptions: when we dream or see a ghost, we certainly do have the sensations we think we have, but for various reasons it is held that no physical object corresponds to these sensations. &lt;/li&gt;
-&lt;li&gt;Thus, when we are trying to show that there must be objects independent of our own sense-data, we cannot appeal to the testimony of other people, since this testimony itself consists of sense-data, and does not reveal other people&amp;rsquo;s experiences unless our own sense-data are signs of things existing independently of us. We must therefore, if possible, find, in our own purely private experiences, characteristics which show, or tend to show, that there are in the world things other than ourselves and our private experiences.&lt;/li&gt;
-&lt;li&gt;There is no logical impossibility in the supposition that the whole of life is a dream, in which we ourselves create all the objects that come before us. But although this is not logically impossible, there is no reason whatever to suppose that it is true; and it is, in fact, a less simple hypothesis, viewed as a means of accounting for the facts of our own life, than the common-sense hypothesis that there really are objects independent of us, whose action on us causes our sensations.&lt;/li&gt;
-&lt;li&gt;But if it is merely a set of sense-data, it cannot have ever been in any place where I did not see it; thus we shall have to suppose that it did not exist at all while I was not looking, but suddenly sprang into being in a new place. And if the cat consists only of sense-data, it cannot be hungry, since no hunger but my own can be a sense-datum to me. &lt;/li&gt;
-&lt;li&gt;Thus every principle of simplicity urges us to adopt the natural view, that there really are objects other than ourselves and our sense-data which have an existence not dependent upon our perceiving them.&lt;/li&gt;
-&lt;li&gt;We find this belief ready in ourselves as soon as we begin to reflect: it is what may be called an instinctive belief. We should never have been led to question this belief but for the fact that, at any rate in the case of sight, it seems as if the sense-datum itself were instinctively believed to be the independent object, whereas argument shows that the object cannot be identical with the sense-datum. This discovery, however—which is not at all paradoxical in the case of taste and smell and sound, and only slightly so in the case of touch—leaves undiminished our instinctive belief that there are objects corresponding to our sense-data. Since this belief does not lead to any difficulties, but on the contrary tends to simplify and systematize our account of our experiences, there seems no good reason for rejecting it. We may therefore admit—though with a slight doubt derived from dreams—that the external world does really exist, and is not wholly dependent for its existence upon our continuing to perceive it.&lt;/li&gt;
-&lt;li&gt;All knowledge, we find, must be built up upon our instinctive beliefs, and if these are rejected, nothing is left. But among our instinctive beliefs some are much stronger than others, while many have, by habit and association, become entangled with other beliefs, not really instinctive, but falsely supposed to be part of what is believed instinctively.&lt;/li&gt;
-&lt;li&gt;Philosophy should show us the hierarchy of our instinctive beliefs, beginning with those we hold most strongly, and presenting each as much isolated and as free from irrelevant additions as possible. There can never be any reason for rejecting one instinctive belief except that it clashes with others; thus, if they are found to harmonize, the whole system becomes worthy of acceptance.&lt;/li&gt;
-&lt;li&gt;It is of course possible that all or any of our beliefs may be mistaken, and therefore all ought to be held with at least some slight element of doubt. But we cannot have reason to reject a belief except on the ground of some other belief. Hence, by organizing our instinctive beliefs and their consequences, by considering which among them is most possible, if necessary, to modify or abandon, we can arrive, on the basis of accepting as our sole data what we instinctively believe, at an orderly systematic organization of our knowledge, in which, though the possibility of error remains, its likelihood is diminished by the interrelation of the parts and by the critical scrutiny which has preceded acquiescence.&lt;/li&gt;
-&lt;li&gt;Most philosophers, rightly or wrongly, believe that philosophy can do much more than this—that it can give us knowledge, not otherwise attainable, concerning the universe as a whole, and concerning the nature of ultimate reality. &lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;chapter-ix-the-world-of-universals&#34;&gt;CHAPTER IX. THE WORLD OF UNIVERSALS&lt;a class=&#34;headerlink&#34; href=&#34;#chapter-ix-the-world-of-universals&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;We shall therefore use the word &amp;lsquo;universal&amp;rsquo; instead of the word &amp;lsquo;idea&amp;rsquo;, to describe what Plato meant. The essence of the sort of entity that Plato meant is that it is opposed to the particular things that are given in sensation. We speak of whatever is given in sensation, or is of the same nature as things given in sensation, as a particular; by opposition to this, a universal will be anything which may be shared by many particulars, and has those characteristics which, as we saw, distinguish justice and whiteness from just acts and white things.&lt;/li&gt;
-&lt;li&gt;When we examine common words, we find that, broadly speaking, proper names stand for particulars, while other substantives, adjectives, prepositions, and verbs stand for universals. Pronouns stand for particulars, but are ambiguous: it is only by the context or the circumstances that we know what particulars they stand for. The word &amp;lsquo;now&amp;rsquo; stands for a particular, namely the present moment; but like pronouns, it stands for an ambiguous particular, because the present is always changing.&lt;/li&gt;
-&lt;li&gt;It will be seen that no sentence can be made up without at least one word which denotes a universal.Thus all truths involve universals, and all knowledge of truths involves acquaintance with universals.&lt;/li&gt;
-&lt;li&gt;We shall find it convenient only to speak of things existing when they are in time, that is to say, when we can point to some time at which they exist (not excluding the possibility of their existing at all times). Thus thoughts and feelings, minds and physical objects exist. But universals do not exist in this sense; we shall say that they subsist or have being, where &amp;lsquo;being&amp;rsquo; is opposed to &amp;lsquo;existence&amp;rsquo; as being timeless. The world of universals, therefore, may also be described as the world of being. The world of being is unchangeable, rigid, exact, delightful to the mathematician, the logician, the builder of metaphysical systems, and all who love perfection more than life. The world of existence is fleeting, vague, without sharp boundaries, without any clear plan or arrangement, but it contains all thoughts and feelings, all the data of sense, and all physical objects, everything that can do either good or harm, everything that makes any difference to the value of life and the world. &lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;chapter-x-on-our-knowledge-of-universals&#34;&gt;CHAPTER X. ON OUR KNOWLEDGE OF UNIVERSALS&lt;a class=&#34;headerlink&#34; href=&#34;#chapter-x-on-our-knowledge-of-universals&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;In regard to one man&amp;rsquo;s knowledge at a given time, universals, like particulars, may be divided into those known by acquaintance, those known only by description, and those not known either by acquaintance or by description.&lt;/li&gt;
-&lt;li&gt;Universals of this sort may be called &amp;lsquo;sensible qualities&amp;rsquo;. They can be apprehended with less effort of abstraction than any others, and they seem less removed from particulars than other universals are.&lt;/li&gt;
-&lt;li&gt;I see successively a number of sense-data in which one part is to the left of another; I perceive, as in the case of different white patches, that all these sense-data have something in common, and by abstraction I find that what they have in common is a certain relation between their parts, namely the relation which I call &amp;lsquo;being to the left of&amp;rsquo;. In this way I become acquainted with the universal relation.&lt;/li&gt;
-&lt;li&gt;From either of these sources I can abstract the universal relation of before and after, just as I abstracted the universal relation &amp;lsquo;being to the left of&amp;rsquo;. Thus time-relations, like space-relations, are among those with which we are acquainted.&lt;/li&gt;
-&lt;li&gt;Another relation with which we become acquainted in much the same way is resemblance.&lt;/li&gt;
-&lt;li&gt;Between universals, as between particulars, there are relations of which we may be immediately aware.Here we are dealing with a relation, namely &amp;lsquo;greater than&amp;rsquo;, between two relations. Our knowledge of such relations, though it requires more power of abstraction than is required for perceiving the qualities of sense-data, appears to be equally immediate, and (at least in some cases) equally indubitable. Thus there is immediate knowledge concerning universals as well as concerning sense-data.&lt;/li&gt;
-&lt;li&gt;All a priori knowledge deals exclusively with the relations of universals. This proposition is of great importance, and goes a long way towards solving our previous difficulties concerning a priori knowledge.&lt;/li&gt;
-&lt;li&gt;The only case in which it might seem, at first sight, as if our proposition were untrue, is the case in which an a priori proposition states that all of one class of particulars belong to some other class, or (what comes to the same thing) that all particulars having some one property also have some other. In this case it might seem as though we were dealing with the particulars that have the property rather than with the property.&lt;/li&gt;
-&lt;li&gt;Thus although our general statement implies statements about particular couples, as soon as we know that there are such particular couples, yet it does not itself assert or imply that there are such particular couples, and thus fails to make any statement whatever about any actual particular couple. The statement made is about &amp;lsquo;couple&amp;rsquo;, the universal, and not about this or that couple.&lt;/li&gt;
-&lt;li&gt;Hence, although our general proposition is a priori, all its applications to actual particulars involve experience and therefore contain an empirical element. In this way what seemed mysterious in our a priori knowledge is seen to have been based upon an error.&lt;/li&gt;
-&lt;li&gt;Thus the difference between an a priori general proposition and an empirical generalization does not come in the meaning of the proposition; it comes in the nature of the evidence for it.the ultimate ground remains inductive, i.e. derived from instances, and not an a priori connexion of universals such as we have in logic and arithmetic.&lt;/li&gt;
-&lt;li&gt;Two opposite points are to be observed concerning a priori general propositions. The first is that, if many particular instances are known, our general proposition may be arrived at in the first instance by induction, and the connexion of universals may be only subsequently perceived. &lt;/li&gt;
-&lt;li&gt;The other point is more interesting, and of more philosophical importance. It is, that we may sometimes know a general proposition in cases where we do not know a single instance of it. &lt;/li&gt;
-&lt;li&gt;This possibility, of knowledge of general propositions of which no instance can be given, is often denied, because it is not perceived that the knowledge of such propositions only requires a knowledge of the relations of universals, and does not require any knowledge of instances of the universals in question.&lt;/li&gt;
-&lt;li&gt;We may now take a survey of &lt;strong&gt;the sources of our knowledge&lt;/strong&gt;, as they have appeared in the course of our analysis. We have first to distinguish knowledge of things and knowledge of truths. In each there are two kinds, one immediate and one derivative. Our immediate knowledge of things, which we called acquaintance, consists of two sorts, according as the things known are particulars or universals. Among particulars, we have acquaintance with sense-data and (probably) with ourselves. Among universals, there seems to be no principle by which we can decide which can be known by acquaintance, but it is clear that among those that can be so known are sensible qualities, relations of space and time, similarity, and certain abstract logical universals. Our derivative knowledge of things, which we call knowledge by description, always involves both acquaintance with something and knowledge of truths. Our immediate knowledge of truths may be called intuitive knowledge, and the truths so known may be called self-evident truths. Among such truths are included those which merely state what is given in sense, and also certain abstract logical and arithmetical principles, and (though with less certainty) some ethical propositions. Our derivative knowledge of truths consists of everything that we can deduce from self-evident truths by the use of self-evident principles of deduction.&lt;/li&gt;
-&lt;li&gt;If the above account is correct, all our knowledge of truths depends upon our intuitive knowledge. It therefore becomes important to consider the nature and scope of intuitive knowledge, in much the same way as, at an earlier stage, we considered the nature and scope of knowledge by acquaintance.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;chapter-xi-on-intuitive-knowledge&#34;&gt;CHAPTER XI. ON INTUITIVE KNOWLEDGE&lt;a class=&#34;headerlink&#34; href=&#34;#chapter-xi-on-intuitive-knowledge&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;There is a common impression that everything that we believe ought to be capable of proof, or at least of being shown to be highly probable. It is felt by many that a belief for which no reason can be given is an unreasonable belief. In the main, this view is just. &lt;/li&gt;
-&lt;li&gt;But beyond that, there seems to be no further regress. The principle itself is constantly used in our reasoning, sometimes consciously, sometimes unconsciously; but there is no reasoning which, starting from some simpler self-evident principle, leads us to the principle of induction as its conclusion. And the same holds for other logical principles. Their truth is evident to us, and we employ them in constructing demonstrations; but they themselves, or at least some of them, are incapable of demonstration.&lt;/li&gt;
-&lt;li&gt;It is usually through particular instances that we come to be able to see the general principle. Only those who are practised in dealing with abstractions can readily grasp a general principle without the help of instances.&lt;/li&gt;
-&lt;li&gt;In addition to general principles, the other kind of self-evident truths are those immediately derived from sensation.Thus whatever self-evident truths may be obtained from our senses must be different from the sense-data from which they are obtained.&lt;/li&gt;
-&lt;li&gt;It would seem that there are two kinds of self-evident truths of perception, though perhaps in the last analysis the two kinds may coalesce. First, there is the kind which simply asserts the existence of the sense-datum, without in any way analysing it.The other kind arises when the object of sense is complex, and we subject it to some degree of analysis.&lt;/li&gt;
-&lt;li&gt;Another class of intuitive judgements, analogous to those of sense and yet quite distinct from them, are judgements of memory. There is some danger of confusion as to the nature of memory, owing to the fact that memory of an object is apt to be accompanied by an image of the object, and yet the image cannot be what constitutes memory.&lt;/li&gt;
-&lt;li&gt;The case of memory, however, raises a difficulty, for it is notoriously fallacious, and thus throws doubt on the trustworthiness of intuitive judgements in general. This difficulty is no light one. But let us first narrow its scope as far as possible. Broadly speaking, memory is trustworthy in proportion to the vividness of the experience and to its nearness in time. &lt;/li&gt;
-&lt;li&gt;Thus the first answer to the difficulty of fallacious memory is to say that memory has degrees of self-evidence, and that these correspond to the degrees of its trustworthiness, reaching a limit of perfect self-evidence and perfect trustworthiness in our memory of events which are recent and vivid.&lt;/li&gt;
-&lt;li&gt;It would seem, however, that there are cases of very firm belief in a memory which is wholly false. It is probable that, in these cases, what is really remembered, in the sense of being immediately before the mind, is something other than what is falsely believed in, though something generally associated with it.&lt;/li&gt;
-&lt;li&gt;One important point about self-evidence is made clear by the case of memory, and that is, that self-evidence has degrees: it is not a quality which is simply present or absent, but a quality which may be more or less present, in gradations ranging from absolute certainty down to an almost imperceptible faintness. Truths of perception and some of the principles of logic have the very highest degree of self-evidence; truths of immediate memory have an almost equally high degree. The inductive principle has less self-evidence than some of the other principles of logic, such as &amp;lsquo;what follows from a true premiss must be true&amp;rsquo;. Memories have a diminishing self-evidence as they become remoter and fainter; the truths of logic and mathematics have (broadly speaking) less self-evidence as they become more complicated. Judgements of intrinsic ethical or aesthetic value are apt to have some self-evidence, but not much.&lt;/li&gt;
-&lt;li&gt;Degrees of self-evidence are important in the theory of knowledge, since, if propositions may (as seems likely) have some degree of self-evidence without being true, it will not be necessary to abandon all connexion between self-evidence and truth, but merely to say that, where there is a conflict, the more self-evident proposition is to be retained and the less self-evident rejected.&lt;/li&gt;
-&lt;li&gt;It seems, however, highly probable that two different notions are combined in &amp;lsquo;self-evidence&amp;rsquo; as above explained; that one of them, which corresponds to the highest degree of self-evidence, is really an infallible guarantee of truth, while the other, which corresponds to all the other degrees, does not give an infallible guarantee, but only a greater or less presumption. &lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;chapter-xii-truth-and-falsehood&#34;&gt;CHAPTER XII. TRUTH AND FALSEHOOD&lt;a class=&#34;headerlink&#34; href=&#34;#chapter-xii-truth-and-falsehood&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Our knowledge of truths, unlike our knowledge of things, has an opposite, namely error. So far as things are concerned, we may know them or not know them, but there is no positive state of mind which can be described as erroneous knowledge of things, so long, at any rate, as we confine ourselves to knowledge by acquaintance.we are asking what is meant by the question whether a belief is true or false. It is to be hoped that a clear answer to this question may help us to obtain an answer to the question what beliefs are true, but for the present we ask only &amp;lsquo;What is truth?&amp;rsquo; and &amp;lsquo;What is falsehood?&amp;rsquo; not &amp;lsquo;What beliefs are true?&amp;rsquo; and &amp;lsquo;What beliefs are false?&amp;rsquo;&lt;/li&gt;
-&lt;li&gt;There are three points to observe in the attempt to discover the nature of truth, three requisites which any theory must fulfil.&lt;/li&gt;
-&lt;li&gt;Our theory of truth must be such as to admit of its opposite, falsehood. &lt;/li&gt;
-&lt;li&gt;It seems fairly evident that if there were no beliefs there could be no falsehood, and no truth either, in the sense in which truth is correlative to falsehood.In fact, truth and falsehood are properties of beliefs and statements: hence a world of mere matter, since it would contain no beliefs or statements, would also contain no truth or falsehood.&lt;/li&gt;
-&lt;li&gt;But, as against what we have just said, it is to be observed that the truth or falsehood of a belief always depends upon something which lies outside the belief itself. Hence, although truth and falsehood are properties of beliefs, they are properties dependent upon the relations of the beliefs to other things, not upon any internal quality of the beliefs.&lt;/li&gt;
-&lt;li&gt;The third of the above requisites leads us to adopt the view—which has on the whole been commonest among philosophers—that truth consists in some form of correspondence between belief and fact. It is said that the mark of falsehood is failure to cohere in the body of our beliefs, and that it is the essence of a truth to form part of the completely rounded system which is The Truth.&lt;/li&gt;
-&lt;li&gt;There is, however, a great difficulty in this view, or rather two great difficulties. The first is that there is no reason to suppose that only one coherent body of beliefs is possible. In more scientific matters, it is certain that there are often two or more hypotheses which account for all the known facts on some subject&lt;/li&gt;
-&lt;li&gt;In philosophy, again, it seems not uncommon for two rival hypotheses to be both able to account for all the facts. &lt;/li&gt;
-&lt;li&gt;Thus the laws of logic supply the skeleton or framework within which the test of coherence applies, and they themselves cannot be established by this test.&lt;/li&gt;
-&lt;li&gt;For the above two reasons, coherence cannot be accepted as giving the meaning of truth, though it is often a most important test of truth after a certain amount of truth has become known.&lt;/li&gt;
-&lt;li&gt;Hence we are driven back to correspondence with fact as constituting the nature of truth. It remains to define precisely what we mean by &amp;lsquo;fact&amp;rsquo;, and what is the nature of the correspondence which must subsist between belief and fact, in order that belief may be true.&lt;/li&gt;
-&lt;li&gt;In accordance with our three requisites, we have to seek a theory of truth which (1) allows truth to have an opposite, namely falsehood, (2) makes truth a property of beliefs, but (3) makes it a property wholly dependent upon the relation of the beliefs to outside things.&lt;/li&gt;
-&lt;li&gt;It is common to think of relations as though they always held between two terms, but in fact this is not always the case. Some relations demand three terms, some four, and so on.&lt;/li&gt;
-&lt;li&gt;The &amp;lsquo;sense&amp;rsquo; of relations is the ultimate source of order and series and a host of mathematical concepts; but we need not concern ourselves further with this aspect.&lt;/li&gt;
-&lt;li&gt;We spoke of the relation called &amp;lsquo;judging&amp;rsquo; or &amp;lsquo;believing&amp;rsquo; as knitting together into one complex whole the subject and the objects. &lt;/li&gt;
-&lt;li&gt;Thus although truth and falsehood are properties of beliefs, yet they are in a sense extrinsic properties, for the condition of the truth of a belief is something not involving beliefs, or (in general) any mind at all, but only the objects of the belief.Hence we account simultaneously for the two facts that beliefs (a) depend on minds for their existence, (b) do not depend on minds for their truth.&lt;/li&gt;
-&lt;li&gt;Thus a belief is true when there is a corresponding fact, and is false when there is no corresponding fact.&lt;/li&gt;
-&lt;li&gt;It will be seen that minds do not create truth or falsehood. They create beliefs, but when once the beliefs are created, the mind cannot make them true or false, except in the special case where they concern future things which are within the power of the person believing, such as catching trains.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;chapter-xiii-knowledge-error-and-probable-opinion&#34;&gt;CHAPTER XIII. KNOWLEDGE, ERROR, AND PROBABLE OPINION&lt;a class=&#34;headerlink&#34; href=&#34;#chapter-xiii-knowledge-error-and-probable-opinion&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;The question as to what we mean by truth and falsehood, which we considered in the preceding chapter, is of much less interest than the question as to how we can know what is true and what is false.Before we can attack this question, we must, however, first decide what we mean by &amp;lsquo;knowing&amp;rsquo;, and this question is not so easy as might be supposed.&lt;/li&gt;
-&lt;li&gt;Thus it is clear that a true belief is not knowledge when it is deduced from a false belief.&lt;/li&gt;
-&lt;li&gt;In like manner, a true belief cannot be called knowledge when it is deduced by a fallacious process of reasoning, even if the premisses from which it is deduced are true. &lt;/li&gt;
-&lt;li&gt;We may say: &amp;lsquo;Derivative knowledge is what is validly deduced from premisses known intuitively&amp;rsquo;. In this statement there is no formal defect, but it leaves the definition of intuitive knowledge still to seek.&lt;/li&gt;
-&lt;li&gt;But in fact &amp;lsquo;knowledge&amp;rsquo; is not a precise conception: it merges into &amp;lsquo;probable opinion&amp;rsquo;, as we shall see more fully in the course of the present chapter. A very precise definition, therefore, should not be sought, since any such definition must be more or less misleading.&lt;/li&gt;
-&lt;li&gt;Thus in regard to any complex fact, there are, theoretically, two ways in which it may be known: (1) by means of a judgement, in which its several parts are judged to be related as they are in fact related; (2) by means of acquaintance with the complex fact itself, which may (in a large sense) be called perception, though it is by no means confined to objects of the senses.&lt;/li&gt;
-&lt;li&gt;In this process, there is a continual gradation of self-evidence, from the highest degree to the least, not in the sense-data themselves, but in the judgements based on them.&lt;/li&gt;
-&lt;li&gt;Thus self-evidence of this sort is a matter of degree; and it seems plain that the higher degrees are more to be trusted than the lower degrees.&lt;/li&gt;
-&lt;li&gt;In regard to probable opinion, we can derive great assistance from coherence, which we rejected as the definition of truth, but may often use as a criterion. A body of individually probable opinions, if they are mutually coherent, become more probable than any one of them would be individually.&lt;/li&gt;
-&lt;li&gt;Thus the mere organization of probable opinion will never, by itself, transform it into indubitable knowledge.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;chapter-xiv-the-limits-of-philosophical-knowledge&#34;&gt;CHAPTER XIV. THE LIMITS OF PHILOSOPHICAL KNOWLEDGE&lt;a class=&#34;headerlink&#34; href=&#34;#chapter-xiv-the-limits-of-philosophical-knowledge&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Most philosophers—or, at any rate, very many—profess to be able to prove, by a priori metaphysical reasoning, such things as the fundamental dogmas of religion, the essential rationality of the universe, the illusoriness of matter, the unreality of all evil, and so on.&lt;/li&gt;
-&lt;li&gt;The great representative, in modern times, of the kind of view which we wish to examine, was Hegel (1770-1831). Hegel&amp;rsquo;s philosophy is very difficult, and commentators differ as to the true interpretation of it. According to the interpretation I shall adopt, which is that of many, if not most, of the commentators and has the merit of giving an interesting and important type of philosophy, his main thesis is that everything short of the Whole is obviously fragmentary, and obviously incapable of existing without the complement supplied by the rest of the world. &lt;/li&gt;
-&lt;li&gt;Nevertheless, when the arguments in support of it are carefully examined, they appear to involve much confusion and many unwarrantable assumptions. The fundamental tenet upon which the system is built up is that what is incomplete must be not self-subsistent, but must need the support of other things before it can exist. It is held that whatever has relations to things outside itself must contain some reference to those outside things in its own nature, and could not, therefore, be what it is if those outside things did not exist.&lt;/li&gt;
-&lt;li&gt;Hence, (1) acquaintance with a thing does not logically involve a knowledge of its relations, and (2) a knowledge of some of its relations does not involve a knowledge of all of its relations nor a knowledge of its &amp;lsquo;nature&amp;rsquo; in the above sense. That is to say, from the mere fact that it is the thing it is we cannot deduce that it must have the various relations which in fact it has. This only seems to follow because we know it already.&lt;/li&gt;
-&lt;li&gt;Thus we are left to the piecemeal investigation of the world, and are unable to know the characters of those parts of the universe that are remote from our experience.&lt;/li&gt;
-&lt;li&gt;Descartes&amp;rsquo; &amp;lsquo;methodical doubt&amp;rsquo;, with which modern philosophy began, is not of this kind, but is rather the kind of criticism which we are asserting to be the essence of philosophy. His &amp;lsquo;methodical doubt&amp;rsquo; consisted in doubting whatever seemed doubtful; in pausing, with each apparent piece of knowledge, to ask himself whether, on reflection, he could feel certain that he really knew it. This is the kind of criticism which constitutes philosophy. Some knowledge, such as knowledge of the existence of our sense-data, appears quite indubitable, however calmly and thoroughly we reflect upon it. In regard to such knowledge, philosophical criticism does not require that we should abstain from belief. But there are beliefs—such, for example, as the belief that physical objects exactly resemble our sense-data—which are entertained until we begin to reflect, but are found to melt away when subjected to a close inquiry. Such beliefs philosophy will bid us reject, unless some new line of argument is found to support them. But to reject the beliefs which do not appear open to any objections, however closely we examine them, is not reasonable, and is not what philosophy advocates.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;chapter-xv-the-value-of-philosophy&#34;&gt;CHAPTER XV. THE VALUE OF PHILOSOPHY&lt;a class=&#34;headerlink&#34; href=&#34;#chapter-xv-the-value-of-philosophy&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;It is the more necessary to consider this question, in view of the fact that many men, under the influence of science or of practical affairs, are inclined to doubt whether philosophy is anything better than innocent but useless trifling, hair-splitting distinctions, and controversies on matters concerning which knowledge is impossible.&lt;/li&gt;
-&lt;li&gt;This view of philosophy appears to result, partly from a wrong conception of the ends of life, partly from a wrong conception of the kind of goods which philosophy strives to achieve.This view of philosophy appears to result, partly from a wrong conception of the ends of life, partly from a wrong conception of the kind of goods which philosophy strives to achieve.&lt;/li&gt;
-&lt;li&gt;The &amp;lsquo;practical&amp;rsquo; man, as this word is often used, is one who recognizes only material needs, who realizes that men must have food for the body, but is oblivious of the necessity of providing food for the mind. If all men were well off, if poverty and disease had been reduced to their lowest possible point, there would still remain much to be done to produce a valuable society; and even in the existing world the goods of the mind are at least as important as the goods of the body. It is exclusively among the goods of the mind that the value of philosophy is to be found; and only those who are not indifferent to these goods can be persuaded that the study of philosophy is not a waste of time.&lt;/li&gt;
-&lt;li&gt;Philosophy, like all other studies, aims primarily at knowledge. The knowledge it aims at is the kind of knowledge which gives unity and system to the body of the sciences, and the kind which results from a critical examination of the grounds of our convictions, prejudices, and beliefs. But it cannot be maintained that philosophy has had any very great measure of success in its attempts to provide definite answers to its questions.&lt;/li&gt;
-&lt;li&gt;Philosophy, like all other studies, aims primarily at knowledge. The knowledge it aims at is the kind of knowledge which gives unity and system to the body of the sciences, and the kind which results from a critical examination of the grounds of our convictions, prejudices, and beliefs. Thus, to a great extent, the uncertainty of philosophy is more apparent than real: those questions which are already capable of definite answers are placed in the sciences, while those only to which, at present, no definite answer can be given, remain to form the residue which is called philosophy.&lt;/li&gt;
-&lt;li&gt;Yet, however slight may be the hope of discovering an answer, it is part of the business of philosophy to continue the consideration of such questions, to make us aware of their importance, to examine all the approaches to them, and to keep alive that speculative interest in the universe which is apt to be killed by confining ourselves to definitely ascertainable knowledge.&lt;/li&gt;
-&lt;li&gt;We cannot, therefore, include as part of the value of philosophy any definite set of answers to such questions. Hence, once more, the value of philosophy must not depend upon any supposed body of definitely ascertainable knowledge to be acquired by those who study it.&lt;/li&gt;
-&lt;li&gt;The value of philosophy is, in fact, to be sought largely in its very uncertainty. The man who has no tincture of philosophy goes through life imprisoned in the prejudices derived from common sense, from the habitual beliefs of his age or his nation, and from convictions which have grown up in his mind without the co-operation or consent of his deliberate reason. To such a man the world tends to become definite, finite, obvious; common objects rouse no questions, and unfamiliar possibilities are contemptuously rejected. As soon as we begin to philosophize, on the contrary, we find, as we saw in our opening chapters, that even the most everyday things lead to problems to which only very incomplete answers can be given. Philosophy, though unable to tell us with certainty what is the true answer to the doubts which it raises, is able to suggest many possibilities which enlarge our thoughts and free them from the tyranny of custom. Thus, while diminishing our feeling of certainty as to what things are, it greatly increases our knowledge as to what they may be; it removes the somewhat arrogant dogmatism of those who have never travelled into the region of liberating doubt, and it keeps alive our sense of wonder by showing familiar things in an unfamiliar aspect.&lt;/li&gt;
-&lt;li&gt;Apart from its utility in showing unsuspected possibilities, philosophy has a value—perhaps its chief value—through the greatness of the objects which it contemplates, and the freedom from narrow and personal aims resulting from this contemplation.In such a life there is no peace, but a constant strife between the insistence of desire and the powerlessness of will. In one way or another, if our life is to be great and free, we must escape this prison and this strife.&lt;/li&gt;
-&lt;li&gt;One way of escape is by philosophic contemplation. Philosophic contemplation does not, in its widest survey, divide the universe into two hostile camps—friends and foes, helpful and hostile, good and bad—it views the whole impartially. Philosophic contemplation, when it is unalloyed, does not aim at proving that the rest of the universe is akin to man. All acquisition of knowledge is an enlargement of the Self, but this enlargement is best attained when it is not directly sought. &lt;/li&gt;
-&lt;li&gt;For this reason greatness of soul is not fostered by those philosophies which assimilate the universe to Man. Knowledge is a form of union of Self and not-Self; like all union, it is impaired by dominion, and therefore by any attempt to force the universe into conformity with what we find in ourselves. There is a widespread philosophical tendency towards the view which tells us that Man is the measure of all things, that truth is man-made, that space and time and the world of universals are properties of the mind, and that, if there be anything not created by the mind, it is unknowable and of no account for us. This view, if our previous discussions were correct, is untrue; but in addition to being untrue, it has the effect of robbing philosophic contemplation of all that gives it value, since it fetters contemplation to Self. What it calls knowledge is not a union with the not-Self, but a set of prejudices, habits, and desires, making an impenetrable veil between us and the world beyond. The man who finds pleasure in such a theory of knowledge is like the man who never leaves the domestic circle for fear his word might not be law.&lt;/li&gt;
-&lt;li&gt;The free intellect will see as God might see, without a here and now, without hopes and fears, without the trammels of customary beliefs and traditional prejudices, calmly, dispassionately, in the sole and exclusive desire of knowledge—knowledge as impersonal, as purely contemplative, as it is possible for man to attain. Hence also the free intellect will value more the abstract and universal knowledge into which the accidents of private history do not enter, than the knowledge brought by the senses, and dependent, as such knowledge must be, upon an exclusive and personal point of view and a body whose sense-organs distort as much as they reveal.&lt;/li&gt;
-&lt;li&gt;The mind which has become accustomed to the freedom and impartiality of philosophic contemplation will preserve something of the same freedom and impartiality in the world of action and emotion. It will view its purposes and desires as parts of the whole, with the absence of insistence that results from seeing them as infinitesimal fragments in a world of which all the rest is unaffected by any one man&amp;rsquo;s deeds. The impartiality which, in contemplation, is the unalloyed desire for truth, is the very same quality of mind which, in action, is justice, and in emotion is that universal love which can be given to all, and not only to those who are judged useful or admirable. Thus contemplation enlarges not only the objects of our thoughts, but also the objects of our actions and our affections: it makes us citizens of the universe, not only of one walled city at war with all the rest. In this citizenship of the universe consists man&amp;rsquo;s true freedom, and his liberation from the thraldom of narrow hopes and fears.&lt;/li&gt;
-&lt;li&gt;he impartiality which, in contemplation, is the unalloyed desire for truth, is the very same quality of mind which, in action, is justice, and in emotion is that universal love which can be given to all, and not only to those who are judged useful or admirable.&lt;/li&gt;
-&lt;li&gt;Thus, to sum up our discussion of the value of philosophy; Philosophy is to be studied, not for the sake of any definite answers to its questions, since no definite answers can, as a rule, be known to be true, but rather for the sake of the questions themselves; because these questions enlarge our conception of what is possible, enrich our intellectual imagination and diminish the dogmatic assurance which closes the mind against speculation; but above all because, through the greatness of the universe which philosophy contemplates, the mind also is rendered great, and becomes capable of that union with the universe which constitutes its highest good.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;script src=&#34;https://giscus.app/client.js&#34;
-    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
-    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
-    data-mapping=&#34;number&#34;
-    data-term=&#34;13&#34;
-    data-reactions-enabled=&#34;1&#34;
-    data-emit-metadata=&#34;0&#34;
-    data-input-position=&#34;bottom&#34;
-    data-theme=&#34;light&#34;
-    data-lang=&#34;zh-CN&#34;
-    crossorigin=&#34;anonymous&#34;
-    async&gt;
-&lt;/script&gt;</description>
-      <link>https://doc.ccsyue.com/discussions-13/</link>
-      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
-      <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
-      
-      <guid isPermaLink="true">https://doc.ccsyue.com/discussions-13/</guid>
       
     </item>
     
