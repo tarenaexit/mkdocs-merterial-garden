@@ -12,6 +12,7 @@ updated: 2024-03-21
 - __[p2p传文件](https://pairdrop.net)__ 
 - __[localsend](https://localsend.org/zh-CN/download)__ 
 - __[screego](https://app.screego.net/?room=)__ 
+- __[通用技术](https://hj2z-my.sharepoint.com/:f:/p/houjie/EhKB8floyRVPtdnpAedk-CcBVfoqAAN6eZ2N_2BFBwdCNQ?e=bUknTl)__
 
 ## 科普
 - __[科学猫头鹰](https://sciowl.us)__
