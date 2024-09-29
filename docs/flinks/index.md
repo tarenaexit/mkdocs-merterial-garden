@@ -12,9 +12,12 @@ updated: 2024-03-21
 - __[p2p传文件](https://pairdrop.net)__ 
 - __[localsend](https://localsend.org/zh-CN/download)__ 
 - __[screego](https://app.screego.net/?room=)__ 
-- __[通用技术](https://hj2z-my.sharepoint.com/:f:/p/houjie/EhKB8floyRVPtdnpAedk-CcBVfoqAAN6eZ2N_2BFBwdCNQ?e=bUknTl)__
+- __[下载宝](http://yuancheng.xiazaibao.xunlei.com/)__ 
+
+## 教学资源
+- __[通用技术ppt](https://hj2z-my.sharepoint.com/:f:/p/houjie/EhKB8floyRVPtdnpAedk-CcBVfoqAAN6eZ2N_2BFBwdCNQ?e=bUknTl)__    __[alist资源](https://alist.ccsyue.com/ali-j%E9%80%9A%E7%94%A8)__  
 - __[课程方案与标准](https://www.ictr.edu.cn/download_center/put.html)__ 
-- __[下载教材](https://www.bilibili.com/opus/914938998865002497 打开教程链接：将参数中的contentType改成 x_url ，catalogType 改成 elecedu)__ 
+- __[下载教材](https://www.bilibili.com/opus/914938998865002497 "打开教程链接：将参数中的contentType改成 x_url ，catalogType改成 elecedu")__ 
 
 ## 科普
 - __[科学猫头鹰](https://sciowl.us)__
