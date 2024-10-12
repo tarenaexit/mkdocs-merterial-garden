@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Fri, 11 Oct 2024 19:13:00 -0000</pubDate>
-    <lastBuildDate>Fri, 11 Oct 2024 19:13:00 -0000</lastBuildDate>
+    <pubDate>Sat, 12 Oct 2024 19:11:51 -0000</pubDate>
+    <lastBuildDate>Sat, 12 Oct 2024 19:11:51 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,38 @@
     
 
     
+    
+    <item>
+      <title>旅游的十八大要素</title>
+      
+      
+        
+      <author>tarenaexit</author>
+        
+      
+      
+      
+      <description>&lt;p&gt;“九大基础要素”（吃住行游购娱厕导智）和“九大发展要素”（商养学福情奇文体农）&lt;/p&gt;
+&lt;script src=&#34;https://giscus.app/client.js&#34;
+    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
+    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
+    data-mapping=&#34;number&#34;
+    data-term=&#34;34&#34;
+    data-reactions-enabled=&#34;1&#34;
+    data-emit-metadata=&#34;0&#34;
+    data-input-position=&#34;bottom&#34;
+    data-theme=&#34;light&#34;
+    data-lang=&#34;zh-CN&#34;
+    crossorigin=&#34;anonymous&#34;
+    async&gt;
+&lt;/script&gt;</description>
+      <link>https://doc.ccsyue.com/blog/discussions-34/</link>
+      <pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate>
+      <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
+      
+      <guid isPermaLink="true">https://doc.ccsyue.com/blog/discussions-34/</guid>
+      
+    </item>
     
     <item>
       <title>常用资源</title>
@@ -82,7 +114,7 @@
 &lt;p&gt;国内虽然不少人都在使用 Gitee，但 Gitee 时不时恶心你一下（前不久就无缘无故把我的 oschina 的账号封了，而且要加 QQ 群去申诉，最后我是直接通过邮件反馈解封了），而且有时候有些资源用起来限制太多，很麻烦。&lt;/p&gt;
 &lt;p&gt;极狐从 2024 年 1 月 2 日起要付费才能使用，1898元/人/年的价格估计会劝退 90% 的个人用户吧！&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/readme/res/</link>
-      <pubDate>Thu, 10 Oct 2024 19:12:41 +0000</pubDate>
+      <pubDate>Fri, 11 Oct 2024 19:12:45 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/readme/res/</guid>
@@ -121,7 +153,7 @@
     &lt;img style=&#34;max-widrh:600px&#34; src=&#34;https://slab-1251708715.cos.ap-guangzhou.myqcloud.com/website/portfolio/webstack-hugo.jpg&#34; alt=&#34;WebStack-Hugo&#34;&gt;
 &lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/readme/work/</link>
-      <pubDate>Thu, 10 Oct 2024 19:12:41 +0000</pubDate>
+      <pubDate>Fri, 11 Oct 2024 19:12:45 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/readme/work/</guid>
@@ -2232,75 +2264,6 @@ ffmpeg -i &lt;span class=&#34;s2&#34;&gt;&amp;quot;in.mp4&amp;quot;&lt;/span&gt;
       <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/discussions-16/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Evaluating Information:SIFT (The Four Moves)</title>
-      
-      
-        
-      <author>tarenaexit</author>
-        
-      
-      
-      
-      <description>&lt;h2 id=&#34;the-sift-method&#34;&gt;The SIFT Method&lt;a class=&#34;headerlink&#34; href=&#34;#the-sift-method&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;image&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/image.2krqiqeuf3.webp&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;The SIFT method is an evaluation strategy developed by digital literacy expert, Mike Caulfield, to help determine whether online content can be trusted for credible or reliable sources of information. All SIFT information on this page is adapted from his materials with a &lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/&#34;&gt;CC BY 4.0&lt;/a&gt; license.&lt;/p&gt;
-&lt;p&gt;Determining if resources are credible is challenging. Use the SIFT method to help you analyze information, especially news or other online media.&lt;/p&gt;
-&lt;h2 id=&#34;s---stop&#34;&gt;S - Stop&lt;a class=&#34;headerlink&#34; href=&#34;#s---stop&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Before you read or share an article or video, STOP!​&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Be aware of your emotional response to the headline or information in the article. Headlines are often meant to get clicks, and will do so by causing the reader to have a strong emotional response.&lt;/p&gt;
-&lt;p&gt;Before sharing, consider:&lt;/p&gt;
-&lt;p&gt;What you already know about the topic. ​&lt;/p&gt;
-&lt;p&gt;What you know about the source. Do you know it&amp;rsquo;s reputation?&lt;/p&gt;
-&lt;p&gt;Before moving forward or sharing, use the other three moves: &lt;strong&gt;I&lt;/strong&gt;nvestigate the Source, &lt;strong&gt;F&lt;/strong&gt;ind Better Coverage, and &lt;strong&gt;T&lt;/strong&gt;race Claims, Quotes, and Media back to the Original Context.&lt;/p&gt;
-&lt;h2 id=&#34;i---investigate-the-source&#34;&gt;I - Investigate the Source&lt;a class=&#34;headerlink&#34; href=&#34;#i---investigate-the-source&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;The next step before sharing is to Investigate the Source.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Take a moment to look up the author and source publishing the information.&lt;/p&gt;
-&lt;p&gt;What can you find about the author website creators? ​&lt;/p&gt;
-&lt;p&gt;What is their mission? Do they have vested interests? ​Would their assessment be biased?&lt;/p&gt;
-&lt;p&gt;Do they have authority in the area?​&lt;/p&gt;
-&lt;p&gt;Use &lt;a href=&#34;https://webliteracy.pressbooks.com/chapter/what-reading-laterally-means/&#34;&gt;&lt;strong&gt;lateral reading&lt;/strong&gt;&lt;/a&gt;. Go beyond the &amp;lsquo;About Us&amp;rsquo; section on the organization&amp;rsquo;s website and see what other, trusted sources say about the source.​ You can use Google or Wikipedia to investigate the source.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://infodemic.blog/2020/02/16/lets-hover/&#34;&gt;Hovering&lt;/a&gt;&lt;/strong&gt; is another technique to learn more about who is sharing information, especially on social media platforms such as Twitter.&lt;/p&gt;
-&lt;h2 id=&#34;f---find-better-coverage&#34;&gt;F - Find Better Coverage&lt;a class=&#34;headerlink&#34; href=&#34;#f---find-better-coverage&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;The next step is to Find Better Coverage or other sources that may or may not support the original claim.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Again, use lateral reading to see if you can find other sources corroborating the same information or disputing it.​&lt;/p&gt;
-&lt;p&gt;What coverage is available on the topic? &lt;/p&gt;
-&lt;p&gt;Keep track of trusted news sources.&lt;/p&gt;
-&lt;p&gt;Many times, fact checkers have already looked into the claims. These fact-checkers are often nonpartisan, nonprofit websites that try to increase public knowledge and understanding by fact checking claims to see if they are based on fact or if they are biased not supported by evidence.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.factcheck.org/&#34;&gt;FactCheck.org​&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.snopes.com/&#34;&gt;Snopes.com​&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.washingtonpost.com/news/fact-checker/?utm_term=.cef7932feec8&#34;&gt;Washington Post Fact Checker​&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.politifact.com/&#34;&gt; PolitiFact&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;t---trace-claims-quotes-and-media-to-their-original-context&#34;&gt;T - Trace Claims, Quotes, and Media to their Original Context&lt;a class=&#34;headerlink&#34; href=&#34;#t---trace-claims-quotes-and-media-to-their-original-context&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;The final step is to Trace Claims, Quotes, and Media to their Original Context.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;When an article references a quote from an expert, or results of a research study, it is good practice to attempt to locate the original source of the information.​ Click through the links to follow the claims to the original source of information. Open up the original reporting sources listed in a bibliography if present&lt;/p&gt;
-&lt;p&gt;Was the claim, quote, or media fairly represented?&lt;/p&gt;
-&lt;p&gt;Does the extracted information support the original claims in the research? ​&lt;/p&gt;
-&lt;p&gt;Is information being cherry-picked to support an agenda or a bias?​&lt;/p&gt;
-&lt;p&gt;Is information being taken out of context?​&lt;/p&gt;
-&lt;p&gt;Remember, headlines, blog posts, or tweets may sensationalize facts to get more attention or clicks. ​Re-reporting may omit, misinterpret, or select certain facts to support biased claims. If the claim is taken from a source who took it from another source, important facts and contextual information can be left out. Make sure to read the claims in the original context in which they were presented.&lt;/p&gt;
-&lt;p&gt;When in doubt, contact an expert – &lt;a href=&#34;https://www.lib.uchicago.edu/research/help/ask-librarian/&#34;&gt;like a librarian!​&lt;/a&gt;.&lt;/p&gt;
-&lt;script src=&#34;https://giscus.app/client.js&#34;
-    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
-    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
-    data-mapping=&#34;number&#34;
-    data-term=&#34;14&#34;
-    data-reactions-enabled=&#34;1&#34;
-    data-emit-metadata=&#34;0&#34;
-    data-input-position=&#34;bottom&#34;
-    data-theme=&#34;light&#34;
-    data-lang=&#34;zh-CN&#34;
-    crossorigin=&#34;anonymous&#34;
-    async&gt;
-&lt;/script&gt;</description>
-      <link>https://doc.ccsyue.com/blog/discussions-14/</link>
-      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
-      <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
-      
-      <guid isPermaLink="true">https://doc.ccsyue.com/blog/discussions-14/</guid>
       
     </item>
     
