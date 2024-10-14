@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Sun, 13 Oct 2024 19:14:05 -0000</pubDate>
-    <lastBuildDate>Sun, 13 Oct 2024 19:14:05 -0000</lastBuildDate>
+    <pubDate>Mon, 14 Oct 2024 19:12:55 -0000</pubDate>
+    <lastBuildDate>Mon, 14 Oct 2024 19:12:55 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,125 @@
     
 
     
+    
+    <item>
+      <title>一些文化词汇</title>
+      
+      
+        
+      <author>tarenaexit</author>
+        
+      
+      
+      
+      <description>&lt;p&gt;“一哭二闹三上吊”、满地打滚、装病撒泼、寻死觅活、倒打一耙。&lt;/p&gt;
+&lt;p&gt;扎堆文化
+行贿文化
+小粉红文化
+嫁鸡随鸡嫁狗随狗的传统文化
+喜欢吃中药的文化
+革命文化
+口罩文化
+套头文化
+陪酒文化
+翻墙文化
+“吹、卖、嫖、赌、贪”的文化
+躺平文化
+风水文化
+占卜文化
+命理文化
+天人感应文化
+巫术文化&lt;/p&gt;
+&lt;p&gt;东方文化
+西方文化
+西洋文化
+美国文化
+古希腊文化
+中国固有文化
+北京文化
+北方大蒜文化&lt;/p&gt;
+&lt;p&gt;新石器时代河姆渡文化
+汉文化
+三国文化&lt;/p&gt;
+&lt;p&gt;古文化&lt;/p&gt;
+&lt;p&gt;监狱文化
+畸形教育文化
+劣等文化&lt;/p&gt;
+&lt;p&gt;思想文化&lt;/p&gt;
+&lt;p&gt;传统文化
+无法无天的文化
+通俗文化&lt;/p&gt;
+&lt;p&gt;文化挪用
+内分泌失调文化病
+小学文化程度
+文化修养
+文化自信
+文化战争
+儒家文化圈
+反伪科学文化人
+历史文化遗址
+文化大省
+文化汉奸
+文化特色
+文化艺术领域
+文化大革命
+文化积淀
+文化犹太人
+文化参赞
+文化中心
+著名文化学者
+智力和文化水平
+全球文化
+文化习俗
+文化输出
+文化遗产
+文化习惯
+文化遗址
+文化帝国主义
+文化背景
+文化大师
+保守文化环境
+文化多样性
+文化概念
+网络文化
+文化传播
+文化团体
+文化差别
+文化节
+文化课程
+中国文化崇古，老年人恋旧
+文化基督徒
+新文化运动
+文化宣传
+文化交流
+文化底蕴
+文化穆斯林
+文化市场
+文化小商贩
+反向文化冲击
+中美文化差异
+文化概念
+文化传统&lt;/p&gt;
+&lt;script src=&#34;https://giscus.app/client.js&#34;
+    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
+    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
+    data-mapping=&#34;number&#34;
+    data-term=&#34;36&#34;
+    data-reactions-enabled=&#34;1&#34;
+    data-emit-metadata=&#34;0&#34;
+    data-input-position=&#34;bottom&#34;
+    data-theme=&#34;light&#34;
+    data-lang=&#34;zh-CN&#34;
+    crossorigin=&#34;anonymous&#34;
+    async&gt;
+&lt;/script&gt;</description>
+      <link>https://doc.ccsyue.com/blog/discussions-36/</link>
+      <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
+      <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
+      
+      <guid isPermaLink="true">https://doc.ccsyue.com/blog/discussions-36/</guid>
+      
+    </item>
     
     <item>
       <title>常用资源</title>
@@ -82,7 +201,7 @@
 &lt;p&gt;国内虽然不少人都在使用 Gitee，但 Gitee 时不时恶心你一下（前不久就无缘无故把我的 oschina 的账号封了，而且要加 QQ 群去申诉，最后我是直接通过邮件反馈解封了），而且有时候有些资源用起来限制太多，很麻烦。&lt;/p&gt;
 &lt;p&gt;极狐从 2024 年 1 月 2 日起要付费才能使用，1898元/人/年的价格估计会劝退 90% 的个人用户吧！&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/readme/res/</link>
-      <pubDate>Sat, 12 Oct 2024 19:11:30 +0000</pubDate>
+      <pubDate>Sun, 13 Oct 2024 19:13:50 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/readme/res/</guid>
@@ -121,10 +240,46 @@
     &lt;img style=&#34;max-widrh:600px&#34; src=&#34;https://slab-1251708715.cos.ap-guangzhou.myqcloud.com/website/portfolio/webstack-hugo.jpg&#34; alt=&#34;WebStack-Hugo&#34;&gt;
 &lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/readme/work/</link>
-      <pubDate>Sat, 12 Oct 2024 19:11:30 +0000</pubDate>
+      <pubDate>Sun, 13 Oct 2024 19:13:50 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/readme/work/</guid>
+      
+    </item>
+    
+    <item>
+      <title>历史学习应该注意哪些内容？</title>
+      
+      
+        
+      <author>tarenaexit</author>
+        
+      
+      
+      
+      <description>&lt;p&gt;只会被动接受历史知识是不够的，推理技巧、议论文写作，对历史事件做比较、找因果、描述和解释延续与变化也很重要。&lt;/p&gt;
+&lt;p&gt;分辨史料的真假、可信程度，是历史学习的第一步，比如如何区分网上历史信息的真假，首先不能轻信，参考信息要看是否有出处、出处是否可靠、引用是否准确。&lt;/p&gt;
+&lt;p&gt;知识是次要的，而研究问题的能力比较重要。如学生需要掌握的五种能力:解决问题（调查现实世界的问题并找到多种解决办法）、交流（探索不同观点并用证据支持和表达）、批判性思维（分析复杂文本和话题）、技巧阅读（学会注释、评价虚构和非虚构文本）、随机应变的学习。&lt;/p&gt;
+&lt;p&gt;治史要有才、学、识，这最早是唐刘知几提出来的，我给重新做了解释。清章学诚认为治史还要有德，我认为求真更重要。研究历史的首要目的是为了寻求历史真相，不能容忍错误，既不能容忍别人的错误，也不能容忍自己的错误。如果对别人指出自己的史实错误视而不见，那不配研究历史。&lt;/p&gt;
+&lt;p&gt;摘抄自方舟子&lt;/p&gt;
+&lt;script src=&#34;https://giscus.app/client.js&#34;
+    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
+    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
+    data-mapping=&#34;number&#34;
+    data-term=&#34;35&#34;
+    data-reactions-enabled=&#34;1&#34;
+    data-emit-metadata=&#34;0&#34;
+    data-input-position=&#34;bottom&#34;
+    data-theme=&#34;light&#34;
+    data-lang=&#34;zh-CN&#34;
+    crossorigin=&#34;anonymous&#34;
+    async&gt;
+&lt;/script&gt;</description>
+      <link>https://doc.ccsyue.com/blog/discussions-35/</link>
+      <pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate>
+      <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
+      
+      <guid isPermaLink="true">https://doc.ccsyue.com/blog/discussions-35/</guid>
       
     </item>
     
@@ -2168,102 +2323,6 @@ ffmpeg -i &lt;span class=&#34;s2&#34;&gt;&amp;quot;in.mp4&amp;quot;&lt;/span&gt;
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/discussions-18/</guid>
-      
-    </item>
-    
-    <item>
-      <title>计算科学知识图谱(sankey diagram)</title>
-      
-      
-        
-      <author>tarenaexit</author>
-        
-      
-      
-      
-      <description>&lt;p&gt;&lt;img alt=&#34;cn&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/sankeymatic_20240327_210033_5600x16000.9nzlpikim8.webp&#34; /&gt;
-&lt;a href=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/cs_sankey.5fkefp4pqp.webp&#34;&gt;source&lt;/a&gt;&lt;/p&gt;
-&lt;script src=&#34;https://giscus.app/client.js&#34;
-    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
-    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
-    data-mapping=&#34;number&#34;
-    data-term=&#34;17&#34;
-    data-reactions-enabled=&#34;1&#34;
-    data-emit-metadata=&#34;0&#34;
-    data-input-position=&#34;bottom&#34;
-    data-theme=&#34;light&#34;
-    data-lang=&#34;zh-CN&#34;
-    crossorigin=&#34;anonymous&#34;
-    async&gt;
-&lt;/script&gt;</description>
-      <link>https://doc.ccsyue.com/discussions-17/</link>
-      <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
-      <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
-      
-      <guid isPermaLink="true">https://doc.ccsyue.com/discussions-17/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Install Python and Pycharm for Windows 7</title>
-      
-      
-        
-      <author>tarenaexit</author>
-        
-      
-      
-      
-      <description>&lt;h2 id=&#34;一首先安装python打开网址pythonorg点击windows&#34;&gt;一、首先安装python，打开网址：python.org，点击“windows”&lt;a class=&#34;headerlink&#34; href=&#34;#一首先安装python打开网址pythonorg点击windows&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;注意提示：“Note that Python 3.9+ cannot be used on Windows 7 or earlier.”&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;进入网址：&lt;a href=&#34;https://www.python.org/downloads/windows/&#34;&gt;https://www.python.org/downloads/windows/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;image&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/image.6m3q8lpapw.webp&#34; /&gt;&lt;/p&gt;
-&lt;h2 id=&#34;二在页面中搜索be-used-on-windows-xp-or-earlier查看支持windows-7的最新版本&#34;&gt;二、在页面中搜索“be used on Windows XP or earlier.”，查看支持windows 7的最新版本。&lt;a class=&#34;headerlink&#34; href=&#34;#二在页面中搜索be-used-on-windows-xp-or-earlier查看支持windows-7的最新版本&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;如以下版本，就未发布windows版，直接跳过搜索下一个：&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;img alt=&#34;image&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/image.2ruypn7xem.webp&#34; /&gt; &lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;发现3.8.10版本发布了windows版，下载它下载地址是：&lt;a href=&#34;https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe&#34;&gt;https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;img alt=&#34;image&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/image.4n7ji9kif9.webp&#34; /&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;并安装，注意将python加入到系统path的复选框选中。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;img alt=&#34;image&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/image.13llsghxb1.webp&#34; /&gt;&lt;/p&gt;
-&lt;h2 id=&#34;三安装支持windows7的最新版本pycharm打开&#34;&gt;三、安装支持windows7的最新版本“pycharm”。打开&lt;a class=&#34;headerlink&#34; href=&#34;#三安装支持windows7的最新版本pycharm打开&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;image&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/image.widx0vwsh.webp&#34; /&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;发现2021.1仅支持windows8及以上的系统。经查：Win7 x64 最后一个版本, Python 2.7; Python 3.5&amp;ndash;3.8; JRE11。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;img alt=&#34;image&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/image.9rj87jkvmi.webp&#34; /&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;下载页面：&lt;a href=&#34;https://www.jetbrains.com/pycharm/download/other.html&#34;&gt;https://www.jetbrains.com/pycharm/download/other.html&lt;/a&gt;。&lt;a href=&#34;https://download.jetbrains.com/python/pycharm-community-2019.3.5.exe?_ga=2.157697210.1848525680.1716362965-1210132645.1716362965&amp;amp;_gl=1*xu8jmo*_ga*MTIxMDEzMjY0NS4xNzE2MzYyOTY1*_ga_9J976DJZ68*MTcxNjM2Mjk2NS4xLjEuMTcxNjM2NDc0NC4wLjAuMA..&#34;&gt;pycharm 2019.3.5 下载地址&lt;/a&gt;；&lt;a href=&#34;https://github.com/shuimukang/Others/blob/master/resources_cn.jar&#34;&gt;pycharm 2019.3.5 汉化包下载地址&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;img alt=&#34;image&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/image.26lb3ce72g.webp&#34; /&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;经验证：2022.2版本也可以安装在windows7上，初步使用无碍，但安装时提示path长度不够，可能会留下隐患，但可以通过插件安装汉化模块。而2019.3.5版本的汉化则需要下载resources_cn.jar文件方到安装目录的lib文件夹下。安装哪个版本请自行取舍。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;script src=&#34;https://giscus.app/client.js&#34;
-    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
-    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
-    data-mapping=&#34;number&#34;
-    data-term=&#34;16&#34;
-    data-reactions-enabled=&#34;1&#34;
-    data-emit-metadata=&#34;0&#34;
-    data-input-position=&#34;bottom&#34;
-    data-theme=&#34;light&#34;
-    data-lang=&#34;zh-CN&#34;
-    crossorigin=&#34;anonymous&#34;
-    async&gt;
-&lt;/script&gt;</description>
-      <link>https://doc.ccsyue.com/discussions-16/</link>
-      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
-      <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
-      
-      <guid isPermaLink="true">https://doc.ccsyue.com/discussions-16/</guid>
       
     </item>
     
