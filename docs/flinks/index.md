@@ -14,10 +14,11 @@ updated: 2024-03-21
 - __[screego](https://app.screego.net/?room=)__ 
 - __[下载宝](http://yuancheng.xiazaibao.xunlei.com/)__ 
 
-## 教学资源
+## 教育资源
 - __[通用技术ppt](https://hj2z-my.sharepoint.com/:f:/p/houjie/EhKB8floyRVPtdnpAedk-CcBVfoqAAN6eZ2N_2BFBwdCNQ?e=bUknTl)__    __[alist资源](https://alist.ccsyue.com/ali-j%E9%80%9A%E7%94%A8)__  
 - __[课程方案与标准](https://www.ictr.edu.cn/download_center/put.html)__ 
 - __[下载教材](https://www.bilibili.com/opus/914938998865002497 "打开教程链接：将参数中的contentType改成 x_url ，catalogType改成 elecedu")__ 
+- __[Classification and code of disciplines](http://da.ccsyue.com/it/markmap/full.html#?d=http://da.ccsyue.com/te/1/ipc/index.md)__    __[International Patent Classification](https://ipc.incopat.com/index "https://ipcpub.wipo.int/")__    __[Industrial classification for national economic activities](http://da.ccsyue.com/it/markmap/full.html#?d=http://da.ccsyue.com/te/1/activities/index.md)__
 
 ## 科普
 - __[科学猫头鹰](https://sciowl.us)__
@@ -31,6 +32,7 @@ updated: 2024-03-21
 - __[medline plus](https://medlineplus.gov/)__
 - __[mayo clinic](https://www.mayoclinic.org/)__
 - __[WHO身体活动](https://www.who.int/zh/news-room/fact-sheets/detail/physical-activity)__
+- __[AI医生](https://aidoctor.world/)__
 
 <script src="https://giscus.app/client.js"
 	data-repo="tarenaexit/mkdocs-merterial-garden"
