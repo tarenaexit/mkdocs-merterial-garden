@@ -25,7 +25,8 @@ When crafting a prompt, consider these important components: Role, Instruction, 
 4. Input Data: This refers to the specific topic or content you want the AI to focus on. This is very important, especially when you create prompt templates.
 
 5. Output: How do you want your response? This could be in the form of paragraphs, bullet points, a JSON, an XML, a table, a list, a graph, or any other structure. You can shape the AI’s response as you need.
-Example (optional): Providing an example can be useful in some scenarios, as it can help guide the AI’s output. It’s like showing the AI a snapshot of what you want.
+
+6. Example (optional): Providing an example can be useful in some scenarios, as it can help guide the AI’s output. It’s like showing the AI a snapshot of what you want.
 
 [Here are the 6 key components that make up the perfect formula for ChatGPT and Google Bard: Task, Context, Exemplars, Persona, Format, and Tone.](https://youtu.be/jC4v5AS4RIM)
 
