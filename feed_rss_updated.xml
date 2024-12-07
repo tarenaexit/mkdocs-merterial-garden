@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Fri, 06 Dec 2024 19:13:52 -0000</pubDate>
-    <lastBuildDate>Fri, 06 Dec 2024 19:13:52 -0000</lastBuildDate>
+    <pubDate>Sat, 07 Dec 2024 19:12:34 -0000</pubDate>
+    <lastBuildDate>Sat, 07 Dec 2024 19:12:34 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -82,7 +82,7 @@
 &lt;p&gt;国内虽然不少人都在使用 Gitee，但 Gitee 时不时恶心你一下（前不久就无缘无故把我的 oschina 的账号封了，而且要加 QQ 群去申诉，最后我是直接通过邮件反馈解封了），而且有时候有些资源用起来限制太多，很麻烦。&lt;/p&gt;
 &lt;p&gt;极狐从 2024 年 1 月 2 日起要付费才能使用，1898元/人/年的价格估计会劝退 90% 的个人用户吧！&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/readme/res/</link>
-      <pubDate>Thu, 05 Dec 2024 19:13:06 +0000</pubDate>
+      <pubDate>Fri, 06 Dec 2024 19:13:36 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/readme/res/</guid>
@@ -121,7 +121,7 @@
     &lt;img style=&#34;max-widrh:600px&#34; src=&#34;https://slab-1251708715.cos.ap-guangzhou.myqcloud.com/website/portfolio/webstack-hugo.jpg&#34; alt=&#34;WebStack-Hugo&#34;&gt;
 &lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/readme/work/</link>
-      <pubDate>Thu, 05 Dec 2024 19:13:06 +0000</pubDate>
+      <pubDate>Fri, 06 Dec 2024 19:13:36 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/readme/work/</guid>
@@ -129,7 +129,7 @@
     </item>
     
     <item>
-      <title>数学思想及方法</title>
+      <title>数学和物理常用思想及方法</title>
       
       
         
@@ -138,8 +138,15 @@
       
       
       
-      <description>&lt;p&gt;&lt;a href=&#34;https://blog.sciencenet.cn/blog-528739-1258542.html&#34;&gt;总说“数学思想“，你知道数学思想方法及其作用么？&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;h2 id=&#34;数学&#34;&gt;数学&lt;a class=&#34;headerlink&#34; href=&#34;#数学&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.sciencenet.cn/blog-528739-1258542.html&#34;&gt;总说“数学思想“，你知道数学思想方法及其作用么？&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;物理&#34;&gt;物理&lt;a class=&#34;headerlink&#34; href=&#34;#物理&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/79109805&#34;&gt;高中数学七大基本思想及方法 函数分化特有或&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/474504794&#34;&gt;高中物理物理学史和思想方法 理极平等对猜寻比类控放图&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/84025219&#34;&gt;高中物理公式大全&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;image&#34; src=&#34;https://github.com/user-attachments/assets/d20cd520-edfd-4c65-b5b2-277f5130e4de&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.6028/NIST.SP.1247&#34;&gt;SI BASE UNITS&lt;/a&gt;  &lt;a href=&#34;https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1247.pdf&#34;&gt;SI BASE UNITS1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.hawaii.hawaii.edu/math/Courses/Math100/Chapter0/Prefix.htm&#34;&gt;级数&lt;/a&gt;&lt;/p&gt;
 &lt;script src=&#34;https://giscus.app/client.js&#34;
     data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
     data-repo-id=&#34;RR_kgDOL4wNPw&#34;
