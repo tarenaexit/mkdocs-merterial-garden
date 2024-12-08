@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Sat, 07 Dec 2024 19:12:34 -0000</pubDate>
-    <lastBuildDate>Sat, 07 Dec 2024 19:12:34 -0000</lastBuildDate>
+    <pubDate>Sun, 08 Dec 2024 19:12:44 -0000</pubDate>
+    <lastBuildDate>Sun, 08 Dec 2024 19:12:44 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -82,7 +82,7 @@
 &lt;p&gt;国内虽然不少人都在使用 Gitee，但 Gitee 时不时恶心你一下（前不久就无缘无故把我的 oschina 的账号封了，而且要加 QQ 群去申诉，最后我是直接通过邮件反馈解封了），而且有时候有些资源用起来限制太多，很麻烦。&lt;/p&gt;
 &lt;p&gt;极狐从 2024 年 1 月 2 日起要付费才能使用，1898元/人/年的价格估计会劝退 90% 的个人用户吧！&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/readme/res/</link>
-      <pubDate>Fri, 06 Dec 2024 19:13:36 +0000</pubDate>
+      <pubDate>Sat, 07 Dec 2024 19:12:18 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/readme/res/</guid>
@@ -121,7 +121,7 @@
     &lt;img style=&#34;max-widrh:600px&#34; src=&#34;https://slab-1251708715.cos.ap-guangzhou.myqcloud.com/website/portfolio/webstack-hugo.jpg&#34; alt=&#34;WebStack-Hugo&#34;&gt;
 &lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/readme/work/</link>
-      <pubDate>Fri, 06 Dec 2024 19:13:36 +0000</pubDate>
+      <pubDate>Sat, 07 Dec 2024 19:12:18 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/readme/work/</guid>
@@ -144,7 +144,7 @@
 &lt;p&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/79109805&#34;&gt;高中数学七大基本思想及方法 函数分化特有或&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/474504794&#34;&gt;高中物理物理学史和思想方法 理极平等对猜寻比类控放图&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/84025219&#34;&gt;高中物理公式大全&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;image&#34; src=&#34;https://github.com/user-attachments/assets/d20cd520-edfd-4c65-b5b2-277f5130e4de&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;image&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/20241208/image.7i0fm4du7t.webp&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://doi.org/10.6028/NIST.SP.1247&#34;&gt;SI BASE UNITS&lt;/a&gt;  &lt;a href=&#34;https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1247.pdf&#34;&gt;SI BASE UNITS1&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.hawaii.hawaii.edu/math/Courses/Math100/Chapter0/Prefix.htm&#34;&gt;级数&lt;/a&gt;&lt;/p&gt;
 &lt;script src=&#34;https://giscus.app/client.js&#34;
@@ -778,8 +778,10 @@
       <description>&lt;h2 id=&#34;阅读教材并生成大纲可用豆包等工具默认为markdown格式文本&#34;&gt;阅读教材并生成大纲，可用&lt;a href=&#34;https://www.doubao.com/&#34;&gt;豆包&lt;/a&gt;等工具，默认为markdown格式文本&lt;a class=&#34;headerlink&#34; href=&#34;#阅读教材并生成大纲可用豆包等工具默认为markdown格式文本&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
 &lt;h2 id=&#34;使用以下格式生成问题和解释&#34;&gt;使用以下格式生成问题和解释&lt;a class=&#34;headerlink&#34; href=&#34;#使用以下格式生成问题和解释&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;···
-用苏格拉底提问法为以下大纲中的每一项生成一个问题，引发学生思考，并解释性的回答。
-//此处粘贴生成的大纲
+加入你是以为高中教师，要上一堂40分钟的课，请用苏格拉底提问法为附件的课本生成一系列的问题，要引发学生思考，并解释性的回答。 要求以一下的格式提供&lt;/p&gt;
+&lt;h2 id=&#34;标题&#34;&gt;标题&lt;a class=&#34;headerlink&#34; href=&#34;#标题&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;问题
+回答
 ···&lt;/p&gt;
 &lt;h2 id=&#34;生成ppt&#34;&gt;生成ppt&lt;a class=&#34;headerlink&#34; href=&#34;#生成ppt&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
