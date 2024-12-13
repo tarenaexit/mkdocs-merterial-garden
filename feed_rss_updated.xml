@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Thu, 12 Dec 2024 19:14:06 -0000</pubDate>
-    <lastBuildDate>Thu, 12 Dec 2024 19:14:06 -0000</lastBuildDate>
+    <pubDate>Fri, 13 Dec 2024 19:13:53 -0000</pubDate>
+    <lastBuildDate>Fri, 13 Dec 2024 19:13:53 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,43 +30,6 @@
     
 
     
-    
-    <item>
-      <title>使用chatai,islide生成ppt</title>
-      
-      
-        
-      <author>tarenaexit</author>
-        
-      
-      
-      
-      <description>&lt;p&gt;删除不必要的标题，对-之前的空格进行替换。生成ppt大纲后，对例题进行调整，生成ppt后，更换插图，添加动画视频和超链接展示，包括作业布置。&lt;/p&gt;
-&lt;p&gt;“教-学-评一体化“是当前教育领域的重要理念，旨在将教学过程、学习评价与教学目标有机结合，以提高教学质量和学生学习效果。假如多媒体教室有50名学生，两块黑板，一块触摸屏电视。学生在初中和小学数学基础薄弱，计算能力差。而你是一位高中物理教师，要上一堂40分钟的课，请根据文档中的课文和联系，面向学生写一份在课堂上使用的课件，要求符合“教-学-评一体化”的理念，文风要严谨。将知识点所依赖的的数学和物理课知识放到知识点之前，将堂练习和放到每个知识点后，都以一个活动来呈现，活动中的复习的知识点和练习题要具体。课后作业要以文档中的练习为主，要具体。每个活动和知识点要根据讲解内容和活动组织给出学建议时间，活动要给学生提示。
-建议时间和页码等内容卸载每页的最后，如果页面内容过多，请拆分成多个页面，尽量减少不必要的标题，格式要求：&lt;/p&gt;
-&lt;h3 id=&#34;标识的内容为页面标题&#34;&gt;标识的内容为【页面标题】&lt;a class=&#34;headerlink&#34; href=&#34;#标识的内容为页面标题&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
-&lt;h4 id=&#34;标识的内容为内容标题&#34;&gt;、*标识的内容为【内容标题】&lt;a class=&#34;headerlink&#34; href=&#34;#标识的内容为内容标题&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h4&gt;
-&lt;h5 id=&#34;--标识的内容为内容详情副标题&#34;&gt;、-、&amp;gt; 标识的内容为【内容详情/副标题】&lt;a class=&#34;headerlink&#34; href=&#34;#--标识的内容为内容详情副标题&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h5&gt;
-&lt;script src=&#34;https://giscus.app/client.js&#34;
-    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
-    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
-    data-mapping=&#34;number&#34;
-    data-term=&#34;44&#34;
-    data-reactions-enabled=&#34;1&#34;
-    data-emit-metadata=&#34;0&#34;
-    data-input-position=&#34;bottom&#34;
-    data-theme=&#34;light&#34;
-    data-lang=&#34;zh-CN&#34;
-    crossorigin=&#34;anonymous&#34;
-    async&gt;
-&lt;/script&gt;</description>
-      <link>https://doc.ccsyue.com/discussions-44/</link>
-      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
-      
-      <guid isPermaLink="true">https://doc.ccsyue.com/discussions-44/</guid>
-      
-    </item>
     
     <item>
       <title>常用资源</title>
@@ -119,7 +82,7 @@
 &lt;p&gt;国内虽然不少人都在使用 Gitee，但 Gitee 时不时恶心你一下（前不久就无缘无故把我的 oschina 的账号封了，而且要加 QQ 群去申诉，最后我是直接通过邮件反馈解封了），而且有时候有些资源用起来限制太多，很麻烦。&lt;/p&gt;
 &lt;p&gt;极狐从 2024 年 1 月 2 日起要付费才能使用，1898元/人/年的价格估计会劝退 90% 的个人用户吧！&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/readme/res/</link>
-      <pubDate>Wed, 11 Dec 2024 19:13:49 +0000</pubDate>
+      <pubDate>Thu, 12 Dec 2024 19:13:51 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/readme/res/</guid>
@@ -158,10 +121,47 @@
     &lt;img style=&#34;max-widrh:600px&#34; src=&#34;https://slab-1251708715.cos.ap-guangzhou.myqcloud.com/website/portfolio/webstack-hugo.jpg&#34; alt=&#34;WebStack-Hugo&#34;&gt;
 &lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/readme/work/</link>
-      <pubDate>Wed, 11 Dec 2024 19:13:49 +0000</pubDate>
+      <pubDate>Thu, 12 Dec 2024 19:13:51 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/readme/work/</guid>
+      
+    </item>
+    
+    <item>
+      <title>使用chatai,islide生成ppt</title>
+      
+      
+        
+      <author>tarenaexit</author>
+        
+      
+      
+      
+      <description>&lt;p&gt;删除不必要的标题，对-之前的空格进行替换。生成ppt大纲后，对例题进行调整，生成ppt后，更换插图，添加动画视频和超链接展示，包括作业布置。&lt;/p&gt;
+&lt;p&gt;“教-学-评一体化“是当前教育领域的重要理念，旨在将教学过程、学习评价与教学目标有机结合，以提高教学质量和学生学习效果。假如多媒体教室有50名学生，两块黑板，一块触摸屏电视。学生在初中和小学数学基础薄弱，计算能力差。而你是一位高中物理教师，要上一堂40分钟的课，请根据文档中的课文和联系，面向学生写一份在课堂上使用的课件，要求符合“教-学-评一体化”的理念，文风要严谨。将知识点所依赖的的数学和物理课知识放到知识点之前，将堂练习和放到每个知识点后，都以一个活动来呈现，活动中的复习的知识点和练习题要具体。课后作业要以文档中的练习为主，要具体。每个活动和知识点要根据讲解内容和活动组织给出学建议时间，活动要给学生提示。
+建议时间和页码等内容卸载每页的最后，如果页面内容过多，请拆分成多个页面，尽量减少不必要的标题，格式要求：&lt;/p&gt;
+&lt;h3 id=&#34;标识的内容为页面标题&#34;&gt;标识的内容为【页面标题】&lt;a class=&#34;headerlink&#34; href=&#34;#标识的内容为页面标题&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
+&lt;h4 id=&#34;标识的内容为内容标题&#34;&gt;、*标识的内容为【内容标题】&lt;a class=&#34;headerlink&#34; href=&#34;#标识的内容为内容标题&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h4&gt;
+&lt;h5 id=&#34;--标识的内容为内容详情副标题&#34;&gt;、-、&amp;gt; 标识的内容为【内容详情/副标题】&lt;a class=&#34;headerlink&#34; href=&#34;#--标识的内容为内容详情副标题&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h5&gt;
+&lt;script src=&#34;https://giscus.app/client.js&#34;
+    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
+    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
+    data-mapping=&#34;number&#34;
+    data-term=&#34;44&#34;
+    data-reactions-enabled=&#34;1&#34;
+    data-emit-metadata=&#34;0&#34;
+    data-input-position=&#34;bottom&#34;
+    data-theme=&#34;light&#34;
+    data-lang=&#34;zh-CN&#34;
+    crossorigin=&#34;anonymous&#34;
+    async&gt;
+&lt;/script&gt;</description>
+      <link>https://doc.ccsyue.com/discussions-44/</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
+      
+      <guid isPermaLink="true">https://doc.ccsyue.com/discussions-44/</guid>
       
     </item>
     
