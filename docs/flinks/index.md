@@ -21,8 +21,8 @@ updated: 2024-03-21
 - __[课程方案与标准](https://www.ictr.edu.cn/download_center/put.html)__ 
 - __[下载教材](https://www.bilibili.com/opus/914938998865002497 "打开教程链接：将参数中的contentType改成 x_url ，catalogType改成 elecedu")__ 
 - __[Classification and code of disciplines](http://da.ccsyue.com/it/markmap/full.html#?d=http://da.ccsyue.com/te/1/ipc/index.md)__    __[International Patent Classification](https://ipc.incopat.com/index "https://ipcpub.wipo.int/")__    __[Industrial classification for national economic activities](http://da.ccsyue.com/it/markmap/full.html#?d=http://da.ccsyue.com/te/1/activities/index.md)__
-
-__[geogebra 物理模型](https://ggb123.cn/m/phhgubfg)__ （__[备份](https://www.geogebra.org/m/uj3qtxkz)__ ）
+- __[geogebra 物理模型](https://ggb123.cn/m/phhgubfg)__ （__[备份](https://www.geogebra.org/m/uj3qtxkz)__ ）
+- [精美数学工具组](https://www.desmos.com)
 
 
 ## 科普
