@@ -7,7 +7,7 @@ date: 2024-05-14
 authors: [tarenaexit]
 categories: 
   - 科学
-labels: ['2.1.1-科学思维']
+labels: ['2.1.1-科学素养']
 ---
 
 ## The SIFT Method
