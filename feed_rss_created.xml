@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Mon, 23 Dec 2024 19:12:24 -0000</pubDate>
-    <lastBuildDate>Mon, 23 Dec 2024 19:12:24 -0000</lastBuildDate>
+    <pubDate>Tue, 24 Dec 2024 19:12:11 -0000</pubDate>
+    <lastBuildDate>Tue, 24 Dec 2024 19:12:11 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -82,7 +82,7 @@
 &lt;p&gt;国内虽然不少人都在使用 Gitee，但 Gitee 时不时恶心你一下（前不久就无缘无故把我的 oschina 的账号封了，而且要加 QQ 群去申诉，最后我是直接通过邮件反馈解封了），而且有时候有些资源用起来限制太多，很麻烦。&lt;/p&gt;
 &lt;p&gt;极狐从 2024 年 1 月 2 日起要付费才能使用，1898元/人/年的价格估计会劝退 90% 的个人用户吧！&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/readme/res/</link>
-      <pubDate>Sun, 22 Dec 2024 19:11:20 +0000</pubDate>
+      <pubDate>Mon, 23 Dec 2024 19:12:07 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/readme/res/</guid>
@@ -121,7 +121,7 @@
     &lt;img style=&#34;max-widrh:600px&#34; src=&#34;https://slab-1251708715.cos.ap-guangzhou.myqcloud.com/website/portfolio/webstack-hugo.jpg&#34; alt=&#34;WebStack-Hugo&#34;&gt;
 &lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/readme/work/</link>
-      <pubDate>Sun, 22 Dec 2024 19:11:20 +0000</pubDate>
+      <pubDate>Mon, 23 Dec 2024 19:12:07 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/readme/work/</guid>
@@ -1153,7 +1153,7 @@
       <description>&lt;h2 id=&#34;阅读教材并生成大纲可用豆包等工具默认为markdown格式文本&#34;&gt;阅读教材并生成大纲，可用&lt;a href=&#34;https://www.doubao.com/&#34;&gt;豆包&lt;/a&gt;等工具，默认为markdown格式文本&lt;a class=&#34;headerlink&#34; href=&#34;#阅读教材并生成大纲可用豆包等工具默认为markdown格式文本&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
 &lt;h2 id=&#34;使用以下格式生成问题和解释&#34;&gt;使用以下格式生成问题和解释&lt;a class=&#34;headerlink&#34; href=&#34;#使用以下格式生成问题和解释&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;···
-加入你是以为高中教师，要上一堂40分钟的课，请用苏格拉底提问法为附件的课本生成一系列的问题，要引发学生思考，并解释性的回答。 要求以一下的格式提供&lt;/p&gt;
+假如你是以为高中教师，要上一堂40分钟的课，请用苏格拉底提问法为附件的课本生成一系列的问题，要引发学生思考，并解释性的回答。 要求以一下的格式提供&lt;/p&gt;
 &lt;h2 id=&#34;标题&#34;&gt;标题&lt;a class=&#34;headerlink&#34; href=&#34;#标题&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;问题
 回答
