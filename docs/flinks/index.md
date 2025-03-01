@@ -24,6 +24,7 @@ updated: 2024-03-21
 - __[geogebra 物理模型](https://ggb123.cn/m/phhgubfg)__ （__[备份](https://www.geogebra.org/m/uj3qtxkz)__ ）
 - [精美数学工具组](https://www.desmos.com)
 
+- [2422大转盘](https://tinydecisions.app/en/decisions/0195524c-84b6-73eb-bc99-1cd2a990d003)    [2419大转盘](https://tinydecisions.app/en/decisions/0195524f-7d09-702c-aa2a-418da0e1c4b4)    [2422计数](https://0config.ccsyue.com/0config/22/)    [2419计数](https://0config.ccsyue.com/0config/19/)
 
 ## 科普
 - __[科学猫头鹰](https://sciowl.us)__
