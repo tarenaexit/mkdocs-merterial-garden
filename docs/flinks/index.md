@@ -16,7 +16,7 @@ updated: 2024-03-21
 
 ## 教育资源
 - __[通用技术ppt](https://hj2z-my.sharepoint.com/:f:/p/houjie/EhKB8floyRVPtdnpAedk-CcBVfoqAAN6eZ2N_2BFBwdCNQ?e=bUknTl)__   
-- __[物理ppt]( https://hj2z-my.sharepoint.com/:f:/p/houjie/ElV4bJm5fxxMvdHaejg_Z8kBcVIdc353t-QkmdRX0SsZjA?e=4Igman)__   
+- __[物理ppt](https://hj2z-my.sharepoint.com/:f:/p/houjie/ElV4bJm5fxxMvdHaejg_Z8kBPODqHl5upDDriFgpwU1riQ?e=NKSRqq)__   
 - __[alist资源](https://alist.ccsyue.com/ali-j%E9%80%9A%E7%94%A8)__  
 - __[课程方案与标准](https://www.ictr.edu.cn/download_center/put.html)__ 
 - __[下载教材](https://www.bilibili.com/opus/914938998865002497 "打开教程链接：将参数中的contentType改成 x_url ，catalogType改成 elecedu")__ 
