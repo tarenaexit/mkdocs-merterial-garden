@@ -23,6 +23,8 @@ updated: 2024-03-21
 - __[Classification and code of disciplines](http://da.ccsyue.com/it/markmap/full.html#?d=http://da.ccsyue.com/te/1/ipc/index.md)__    __[International Patent Classification](https://ipc.incopat.com/index "https://ipcpub.wipo.int/")__    __[Industrial classification for national economic activities](http://da.ccsyue.com/it/markmap/full.html#?d=http://da.ccsyue.com/te/1/activities/index.md)__
 - __[geogebra 物理模型](https://ggb123.cn/m/phhgubfg)__ （__[备份](https://www.geogebra.org/m/uj3qtxkz)__ ）
 - [精美数学工具组](https://www.desmos.com)
+- __[markdown to doc](http://www.yayacool.com/md2doc)__  
+- __[mathpix](https://accounts.mathpix.com/)__  
 
 - [2422大转盘](https://tinydecisions.app/en/decisions/0195524c-84b6-73eb-bc99-1cd2a990d003)（[物理90](https://tinydecisions.app/en/decisions/01955568-6c04-78c1-a492-e7ef138180b4).[物理60](https://tinydecisions.app/en/decisions/01955574-5dad-7a2d-9b15-2a616241c66e).[物理30](https://tinydecisions.app/en/decisions/01955574-d628-7716-a912-c331cc568fe1)）    [2419大转盘](https://tinydecisions.app/en/decisions/01955577-b1ca-723b-bf2d-a34cb35f4e40) （[物理90](https://tinydecisions.app/en/decisions/01955575-2f0f-7958-b5fd-de89b12ad1a7).[物理60](https://tinydecisions.app/en/decisions/01955575-c908-7997-ac5e-12095568d113).[物理30](https://tinydecisions.app/en/decisions/01955576-2a11-7e87-aef7-88005cdb5556)）    [2406班大转盘](https://tinydecisions.app/en/decisions/01955ebc-6f80-7a3d-ae16-4462a967e5dc)    [2422计数](https://0config.ccsyue.com/0config/22/)    [2419计数](https://0config.ccsyue.com/0config/19/)
 
