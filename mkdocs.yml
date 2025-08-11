@@ -77,7 +77,7 @@ plugins:
           as_creation: "date"
           as_update: "date"
       abstract_chars_count: -1
-      match_path: "(blog/posts|flinks|message|readme|tech|topic)/.*"
+      match_path: "(blog/posts|flinks|message|readme|tech|topic|note)/.*"
   - glightbox:
       auto_caption: false    
       caption_position: bottom

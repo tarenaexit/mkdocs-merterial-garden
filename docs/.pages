@@ -2,6 +2,7 @@ title: "Hello"
 
 nav:
     - 主页: index.md
+    - 记录: note
     - 技术: tech
     - 博客: blog
     - 专题: topic
