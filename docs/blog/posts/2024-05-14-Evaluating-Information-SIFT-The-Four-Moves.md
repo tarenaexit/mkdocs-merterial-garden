@@ -7,6 +7,7 @@ date: 2024-05-14
 authors: [tarenaexit]
 categories: 
   - 科学
+comments: true
 tags: ['2.1.1-科学素养']
 ---
 
@@ -85,17 +86,3 @@ Is information being taken out of context?​
 Remember, headlines, blog posts, or tweets may sensationalize facts to get more attention or clicks. ​Re-reporting may omit, misinterpret, or select certain facts to support biased claims. If the claim is taken from a source who took it from another source, important facts and contextual information can be left out. Make sure to read the claims in the original context in which they were presented.
 
 When in doubt, contact an expert – [like a librarian!​](https://www.lib.uchicago.edu/research/help/ask-librarian/).
-
-<script src="https://giscus.app/client.js"
-	data-repo="tarenaexit/mkdocs-merterial-garden"
-	data-repo-id="RR_kgDOL4wNPw"
-	data-mapping="number"
-	data-term="14"
-	data-reactions-enabled="1"
-	data-emit-metadata="0"
-	data-input-position="bottom"
-	data-theme="light"
-	data-lang="zh-CN"
-	crossorigin="anonymous"
-	async>
-</script>

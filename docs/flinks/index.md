@@ -3,6 +3,7 @@ title: 收藏链接
 author: 天边飘过一行字
 date: 2023-07-24
 updated: 2024-03-21
+comments: true
 ---
 
 > 收集关注的网站
@@ -42,17 +43,3 @@ updated: 2024-03-21
 - __[mayo clinic](https://www.mayoclinic.org/)__
 - __[WHO身体活动](https://www.who.int/zh/news-room/fact-sheets/detail/physical-activity)__
 - __[AI医生](https://aidoctor.world/)__
-
-<script src="https://giscus.app/client.js"
-	data-repo="tarenaexit/mkdocs-merterial-garden"
-	data-repo-id="RR_kgDOL4wNPw"
-	data-mapping="number"
-	data-term="2"
-	data-reactions-enabled="1"
-	data-emit-metadata="0"
-	data-input-position="bottom"
-	data-theme="light"
-	data-lang="zh-CN"
-	crossorigin="anonymous"
-	async>
-</script>

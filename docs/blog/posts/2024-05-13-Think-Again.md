@@ -7,6 +7,7 @@ date: 2024-05-13
 authors: [tarenaexit]
 categories: 
   - 科学
+comments: true
 tags: ['2.1.1-科学素养']
 ---
 
@@ -82,17 +83,3 @@ Identifying problems, developing hypotheses and devising their own experiments t
 ### BUILT A CULTURE OF LEARNING
 Learning culture, organizations innovate more and make fewer mistakes. Psychological safety with accountability.
 Performance Culture, short-term result, but people stop innovating, making mistakes and sharing ideas.
-
-<script src="https://giscus.app/client.js"
-	data-repo="tarenaexit/mkdocs-merterial-garden"
-	data-repo-id="RR_kgDOL4wNPw"
-	data-mapping="number"
-	data-term="12"
-	data-reactions-enabled="1"
-	data-emit-metadata="0"
-	data-input-position="bottom"
-	data-theme="light"
-	data-lang="zh-CN"
-	crossorigin="anonymous"
-	async>
-</script>

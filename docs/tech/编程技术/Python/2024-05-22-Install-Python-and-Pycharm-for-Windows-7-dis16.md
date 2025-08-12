@@ -7,6 +7,7 @@ date: 2024-05-22
 authors: [tarenaexit]
 categories: 
   - 1.2-编程
+comments: true
 tags: ['1.2.1-Python']
 ---
 
@@ -45,18 +46,3 @@ tags: ['1.2.1-Python']
 
 3. 经验证：2022.2版本也可以安装在windows7上，初步使用无碍，但安装时提示path长度不够，可能会留下隐患，但可以通过插件安装汉化模块。而2019.3.5版本的汉化则需要下载resources_cn.jar文件方到安装目录的lib文件夹下。安装哪个版本请自行取舍。
 
-
-
-<script src="https://giscus.app/client.js"
-	data-repo="tarenaexit/mkdocs-merterial-garden"
-	data-repo-id="RR_kgDOL4wNPw"
-	data-mapping="number"
-	data-term="16"
-	data-reactions-enabled="1"
-	data-emit-metadata="0"
-	data-input-position="bottom"
-	data-theme="light"
-	data-lang="zh-CN"
-	crossorigin="anonymous"
-	async>
-</script>

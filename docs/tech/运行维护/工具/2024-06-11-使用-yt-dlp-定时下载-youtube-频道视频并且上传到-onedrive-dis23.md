@@ -7,6 +7,7 @@ date: 2024-06-11
 authors: [tarenaexit]
 categories: 
   - 1.3-运维
+comments: true
 tags: ['1.3.2-工具']
 ---
 
@@ -153,17 +154,3 @@ cat videos.txt > /home/yetpage/videotxt/videois.txt
   `0 6 * * * bash /home/yt.sh`
 
 [在MacOS使用putty key進行ssh連線](https://easonchang.com/posts/using-ssh-with-putty-key-on-macos)
-
-<script src="https://giscus.app/client.js"
-	data-repo="tarenaexit/mkdocs-merterial-garden"
-	data-repo-id="RR_kgDOL4wNPw"
-	data-mapping="number"
-	data-term="23"
-	data-reactions-enabled="1"
-	data-emit-metadata="0"
-	data-input-position="bottom"
-	data-theme="light"
-	data-lang="zh-CN"
-	crossorigin="anonymous"
-	async>
-</script>

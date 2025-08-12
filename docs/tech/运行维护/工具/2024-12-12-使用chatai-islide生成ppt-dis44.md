@@ -7,6 +7,7 @@ date: 2024-12-12
 authors: [tarenaexit]
 categories: 
   - 1.3-运维
+comments: true
 tags: ['1.3.2-工具']
 ---
 
@@ -20,17 +21,3 @@ tags: ['1.3.2-工具']
 ####、*标识的内容为【内容标题】
 
 #####、-、> 标识的内容为【内容详情/副标题】
-
-<script src="https://giscus.app/client.js"
-	data-repo="tarenaexit/mkdocs-merterial-garden"
-	data-repo-id="RR_kgDOL4wNPw"
-	data-mapping="number"
-	data-term="44"
-	data-reactions-enabled="1"
-	data-emit-metadata="0"
-	data-input-position="bottom"
-	data-theme="light"
-	data-lang="zh-CN"
-	crossorigin="anonymous"
-	async>
-</script>

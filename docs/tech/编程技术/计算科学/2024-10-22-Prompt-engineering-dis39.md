@@ -7,6 +7,7 @@ date: 2024-10-22
 authors: [tarenaexit]
 categories: 
   - 1.2-编程
+comments: true
 tags: ['1.2.3-计算科学']
 ---
 
@@ -29,17 +30,3 @@ When crafting a prompt, consider these important components: Role, Instruction, 
 6. Example (optional): Providing an example can be useful in some scenarios, as it can help guide the AI’s output. It’s like showing the AI a snapshot of what you want.
 
 [Here are the 6 key components that make up the perfect formula for ChatGPT and Google Bard: Task, Context, Exemplars, Persona, Format, and Tone.](https://youtu.be/jC4v5AS4RIM)
-
-<script src="https://giscus.app/client.js"
-	data-repo="tarenaexit/mkdocs-merterial-garden"
-	data-repo-id="RR_kgDOL4wNPw"
-	data-mapping="number"
-	data-term="39"
-	data-reactions-enabled="1"
-	data-emit-metadata="0"
-	data-input-position="bottom"
-	data-theme="light"
-	data-lang="zh-CN"
-	crossorigin="anonymous"
-	async>
-</script>

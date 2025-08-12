@@ -7,6 +7,7 @@ date: 2024-07-06
 authors: [tarenaexit]
 categories: 
   - 1.3-运维
+comments: true
 tags: ['1.3.2-工具']
 ---
 
@@ -173,17 +174,3 @@ _**screego: https://github.com/screego/server**_
   
 
 > 原文始发于微信公众号（阿拉平平）：[screego 安装配置教程：一款简单易用的屏幕共享工具](http://mp.weixin.qq.com/s/kTAnZaS0omDJuNNoMclmpg)
-
-<script src="https://giscus.app/client.js"
-	data-repo="tarenaexit/mkdocs-merterial-garden"
-	data-repo-id="RR_kgDOL4wNPw"
-	data-mapping="number"
-	data-term="29"
-	data-reactions-enabled="1"
-	data-emit-metadata="0"
-	data-input-position="bottom"
-	data-theme="light"
-	data-lang="zh-CN"
-	crossorigin="anonymous"
-	async>
-</script>
