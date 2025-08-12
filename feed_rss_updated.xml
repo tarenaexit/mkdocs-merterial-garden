@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Tue, 12 Aug 2025 12:06:17 -0000</pubDate>
-    <lastBuildDate>Tue, 12 Aug 2025 12:06:17 -0000</lastBuildDate>
+    <pubDate>Tue, 12 Aug 2025 12:31:32 -0000</pubDate>
+    <lastBuildDate>Tue, 12 Aug 2025 12:31:32 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -39,7 +39,7 @@
       
       <description></description>
       <link>https://doc.ccsyue.com/note/</link>
-      <pubDate>Tue, 12 Aug 2025 12:05:38 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 12:30:53 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/note/</guid>
@@ -54,7 +54,7 @@
       
       <description>&lt;p&gt;11&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/note/Untitled/</link>
-      <pubDate>Tue, 12 Aug 2025 12:05:38 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 12:30:53 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/note/Untitled/</guid>
@@ -70,7 +70,7 @@
       <description>&lt;p&gt;test
 test&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/note/index1/</link>
-      <pubDate>Tue, 12 Aug 2025 12:05:38 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 12:30:53 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/note/index1/</guid>
@@ -86,7 +86,7 @@ test&lt;/p&gt;</description>
       <description>&lt;p&gt;22
 [[index1]]&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/note/index2/</link>
-      <pubDate>Tue, 12 Aug 2025 12:05:38 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 12:30:53 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/note/index2/</guid>
@@ -144,7 +144,7 @@ test&lt;/p&gt;</description>
 &lt;p&gt;国内虽然不少人都在使用 Gitee，但 Gitee 时不时恶心你一下（前不久就无缘无故把我的 oschina 的账号封了，而且要加 QQ 群去申诉，最后我是直接通过邮件反馈解封了），而且有时候有些资源用起来限制太多，很麻烦。&lt;/p&gt;
 &lt;p&gt;极狐从 2024 年 1 月 2 日起要付费才能使用，1898元/人/年的价格估计会劝退 90% 的个人用户吧！&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/readme/res/</link>
-      <pubDate>Tue, 12 Aug 2025 12:05:38 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 12:30:53 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/readme/res/</guid>
@@ -183,7 +183,7 @@ test&lt;/p&gt;</description>
     &lt;img style=&#34;max-widrh:600px&#34; src=&#34;https://slab-1251708715.cos.ap-guangzhou.myqcloud.com/website/portfolio/webstack-hugo.jpg&#34; alt=&#34;WebStack-Hugo&#34;&gt;
 &lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/readme/work/</link>
-      <pubDate>Tue, 12 Aug 2025 12:05:38 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 12:30:53 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/readme/work/</guid>
@@ -209,20 +209,7 @@ test&lt;/p&gt;</description>
 &lt;p&gt;要而言之，即使手里有点钱了，也要学会平等待人，尊重私有财产，配合警察执法。否则，到了文明、法治社会还要继续耍“大国”、“大款”、“大爷”、 “大妈”威风，就难免“受辱”。&lt;/p&gt;
 &lt;!-- more --&gt;
 &lt;p&gt;http://xys.org/xys/netters/Fang-Zhouzi/blog/sweden.txt
-出国旅游怎么避免“受辱”？&lt;/p&gt;
-&lt;script src=&#34;https://giscus.app/client.js&#34;
-    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
-    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
-    data-mapping=&#34;number&#34;
-    data-term=&#34;46&#34;
-    data-reactions-enabled=&#34;1&#34;
-    data-emit-metadata=&#34;0&#34;
-    data-input-position=&#34;bottom&#34;
-    data-theme=&#34;dark&#34;
-    data-lang=&#34;zh-CN&#34;
-    crossorigin=&#34;anonymous&#34;
-    async&gt;
-&lt;/script&gt;</description>
+出国旅游怎么避免“受辱”？&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/blog/discussions-46/</link>
       <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
@@ -293,20 +280,7 @@ test&lt;/p&gt;</description>
 &lt;p&gt;必会压轴题包括板块多过程，多体去返，复杂连接体，动力学+动量综合，复杂弹簧临界，电磁场综合，电磁感应综合，以及新情境类题目。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;来源：&lt;a href=&#34;https://www.zhihu.com/question/368275023/answer/1754784251&#34;&gt;赵玉峰大物理&lt;/a&gt;
-&lt;a href=&#34;https://www.zhihu.com/question/296525872&#34;&gt;高考的三轮复习是怎样？&lt;/a&gt;&lt;/p&gt;
-&lt;script src=&#34;https://giscus.app/client.js&#34;
-    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
-    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
-    data-mapping=&#34;number&#34;
-    data-term=&#34;45&#34;
-    data-reactions-enabled=&#34;1&#34;
-    data-emit-metadata=&#34;0&#34;
-    data-input-position=&#34;bottom&#34;
-    data-theme=&#34;dark&#34;
-    data-lang=&#34;zh-CN&#34;
-    crossorigin=&#34;anonymous&#34;
-    async&gt;
-&lt;/script&gt;</description>
+&lt;a href=&#34;https://www.zhihu.com/question/296525872&#34;&gt;高考的三轮复习是怎样？&lt;/a&gt;&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/blog/discussions-45/</link>
       <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
@@ -330,20 +304,7 @@ test&lt;/p&gt;</description>
 建议时间和页码等内容卸载每页的最后，如果页面内容过多，请拆分成多个页面，尽量减少不必要的标题，格式要求：&lt;/p&gt;
 &lt;h3 id=&#34;标识的内容为页面标题&#34;&gt;标识的内容为【页面标题】&lt;a class=&#34;headerlink&#34; href=&#34;#标识的内容为页面标题&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
 &lt;h4 id=&#34;标识的内容为内容标题&#34;&gt;、*标识的内容为【内容标题】&lt;a class=&#34;headerlink&#34; href=&#34;#标识的内容为内容标题&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h4&gt;
-&lt;h5 id=&#34;--标识的内容为内容详情副标题&#34;&gt;、-、&amp;gt; 标识的内容为【内容详情/副标题】&lt;a class=&#34;headerlink&#34; href=&#34;#--标识的内容为内容详情副标题&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h5&gt;
-&lt;script src=&#34;https://giscus.app/client.js&#34;
-    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
-    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
-    data-mapping=&#34;number&#34;
-    data-term=&#34;44&#34;
-    data-reactions-enabled=&#34;1&#34;
-    data-emit-metadata=&#34;0&#34;
-    data-input-position=&#34;bottom&#34;
-    data-theme=&#34;dark&#34;
-    data-lang=&#34;zh-CN&#34;
-    crossorigin=&#34;anonymous&#34;
-    async&gt;
-&lt;/script&gt;</description>
+&lt;h5 id=&#34;--标识的内容为内容详情副标题&#34;&gt;、-、&amp;gt; 标识的内容为【内容详情/副标题】&lt;a class=&#34;headerlink&#34; href=&#34;#--标识的内容为内容详情副标题&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h5&gt;</description>
       <link>https://doc.ccsyue.com/discussions-44/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
@@ -544,20 +505,7 @@ test&lt;/p&gt;</description>
 &lt;td&gt;/&amp;rsquo;əʊmɪɡə/ &lt;br&gt; /oʊ&amp;rsquo;meɡə/&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;script src=&#34;https://giscus.app/client.js&#34;
-    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
-    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
-    data-mapping=&#34;number&#34;
-    data-term=&#34;43&#34;
-    data-reactions-enabled=&#34;1&#34;
-    data-emit-metadata=&#34;0&#34;
-    data-input-position=&#34;bottom&#34;
-    data-theme=&#34;dark&#34;
-    data-lang=&#34;zh-CN&#34;
-    crossorigin=&#34;anonymous&#34;
-    async&gt;
-&lt;/script&gt;</description>
+&lt;/table&gt;</description>
       <link>https://doc.ccsyue.com/discussions-43/</link>
       <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
@@ -590,20 +538,7 @@ test&lt;/p&gt;</description>
 &lt;p&gt;&lt;a href=&#34;https://b23.tv/qzcxYEj&#34;&gt;天啊！到底还有多少人物理答卷是这么答的啊&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&#34;image&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/20241208/image.7i0fm4du7t.webp&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://doi.org/10.6028/NIST.SP.1247&#34;&gt;SI BASE UNITS&lt;/a&gt;  &lt;a href=&#34;https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1247.pdf&#34;&gt;SI BASE UNITS1&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.hawaii.hawaii.edu/math/Courses/Math100/Chapter0/Prefix.htm&#34;&gt;级数&lt;/a&gt;&lt;/p&gt;
-&lt;script src=&#34;https://giscus.app/client.js&#34;
-    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
-    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
-    data-mapping=&#34;number&#34;
-    data-term=&#34;42&#34;
-    data-reactions-enabled=&#34;1&#34;
-    data-emit-metadata=&#34;0&#34;
-    data-input-position=&#34;bottom&#34;
-    data-theme=&#34;dark&#34;
-    data-lang=&#34;zh-CN&#34;
-    crossorigin=&#34;anonymous&#34;
-    async&gt;
-&lt;/script&gt;</description>
+&lt;p&gt;&lt;a href=&#34;http://www.hawaii.hawaii.edu/math/Courses/Math100/Chapter0/Prefix.htm&#34;&gt;级数&lt;/a&gt;&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/blog/discussions-42/</link>
       <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
@@ -1191,20 +1126,7 @@ test&lt;/p&gt;</description>
 &lt;td&gt;AI时代、职业发展趋势&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;script src=&#34;https://giscus.app/client.js&#34;
-    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
-    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
-    data-mapping=&#34;number&#34;
-    data-term=&#34;41&#34;
-    data-reactions-enabled=&#34;1&#34;
-    data-emit-metadata=&#34;0&#34;
-    data-input-position=&#34;bottom&#34;
-    data-theme=&#34;dark&#34;
-    data-lang=&#34;zh-CN&#34;
-    crossorigin=&#34;anonymous&#34;
-    async&gt;
-&lt;/script&gt;</description>
+&lt;/table&gt;</description>
       <link>https://doc.ccsyue.com/blog/discussions-41/</link>
       <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
@@ -1242,20 +1164,7 @@ test&lt;/p&gt;</description>
 &lt;li&gt;将“(- .*\r\n)”替换为“\1&lt;!-- .element: class=&#34;fragment&#34; --&gt; \r\n”&lt;/li&gt;
 &lt;li&gt;在线调试PPT&lt;a href=&#34;https://markdown-tool.ccsyue.com/&#34;&gt;markdown-tool&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;保存为md格式，并生成链接&lt;/li&gt;
-&lt;/ul&gt;
-&lt;script src=&#34;https://giscus.app/client.js&#34;
-    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
-    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
-    data-mapping=&#34;number&#34;
-    data-term=&#34;40&#34;
-    data-reactions-enabled=&#34;1&#34;
-    data-emit-metadata=&#34;0&#34;
-    data-input-position=&#34;bottom&#34;
-    data-theme=&#34;dark&#34;
-    data-lang=&#34;zh-CN&#34;
-    crossorigin=&#34;anonymous&#34;
-    async&gt;
-&lt;/script&gt;</description>
+&lt;/ul&gt;</description>
       <link>https://doc.ccsyue.com/discussions-40/</link>
       <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
@@ -1297,20 +1206,7 @@ test&lt;/p&gt;</description>
 &lt;p&gt;Example (optional): Providing an example can be useful in some scenarios, as it can help guide the AI’s output. It’s like showing the AI a snapshot of what you want.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;a href=&#34;https://youtu.be/jC4v5AS4RIM&#34;&gt;Here are the 6 key components that make up the perfect formula for ChatGPT and Google Bard: Task, Context, Exemplars, Persona, Format, and Tone.&lt;/a&gt;&lt;/p&gt;
-&lt;script src=&#34;https://giscus.app/client.js&#34;
-    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
-    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
-    data-mapping=&#34;number&#34;
-    data-term=&#34;39&#34;
-    data-reactions-enabled=&#34;1&#34;
-    data-emit-metadata=&#34;0&#34;
-    data-input-position=&#34;bottom&#34;
-    data-theme=&#34;dark&#34;
-    data-lang=&#34;zh-CN&#34;
-    crossorigin=&#34;anonymous&#34;
-    async&gt;
-&lt;/script&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/jC4v5AS4RIM&#34;&gt;Here are the 6 key components that make up the perfect formula for ChatGPT and Google Bard: Task, Context, Exemplars, Persona, Format, and Tone.&lt;/a&gt;&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/discussions-39/</link>
       <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
@@ -1372,20 +1268,7 @@ test&lt;/p&gt;</description>
 &lt;p&gt;协作者/凝聚者TW（Teamworker）
 凝聚者是在团队中给予最大支持的成员。他们性格温和，擅长人际交往并关心他人。他们灵活性强，适应不同环境和人的能力非常强。凝聚者观察力强，善于交际。作为最佳倾听者的他们通常在团队中倍受欢迎。他们在工作上非常敏感，但是在面对危机时，他们往往优柔寡断。&lt;/p&gt;
 &lt;p&gt;资源调查者/外交家RI（Resource Investigator）
-外交家是热情的、行动力强的、外向的人。无论公司内外，他们都善于和人打交道。他们与生俱来是谈判的高手，并且善于挖掘新的机遇、发展人际关系。虽然他们并没有很多原创想法，但是在听取和发展别人想法的时候，外交家效率极高。就像他们的名字一样，他们善于发掘那些可以获得并利用的资源。由于他们性格开朗外向，所以无论到哪里都会受到热烈欢迎。 外交家为人随和，好奇心强，乐于在任何新事物中寻找潜在的可能性。然而，如果没有他人的持续激励，他们的热情会很快消退。&lt;/p&gt;
-&lt;script src=&#34;https://giscus.app/client.js&#34;
-    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
-    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
-    data-mapping=&#34;number&#34;
-    data-term=&#34;38&#34;
-    data-reactions-enabled=&#34;1&#34;
-    data-emit-metadata=&#34;0&#34;
-    data-input-position=&#34;bottom&#34;
-    data-theme=&#34;dark&#34;
-    data-lang=&#34;zh-CN&#34;
-    crossorigin=&#34;anonymous&#34;
-    async&gt;
-&lt;/script&gt;</description>
+外交家是热情的、行动力强的、外向的人。无论公司内外，他们都善于和人打交道。他们与生俱来是谈判的高手，并且善于挖掘新的机遇、发展人际关系。虽然他们并没有很多原创想法，但是在听取和发展别人想法的时候，外交家效率极高。就像他们的名字一样，他们善于发掘那些可以获得并利用的资源。由于他们性格开朗外向，所以无论到哪里都会受到热烈欢迎。 外交家为人随和，好奇心强，乐于在任何新事物中寻找潜在的可能性。然而，如果没有他人的持续激励，他们的热情会很快消退。&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/blog/discussions-38/</link>
       <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
@@ -1492,20 +1375,7 @@ test&lt;/p&gt;</description>
 反向文化冲击
 中美文化差异
 文化概念
-文化传统&lt;/p&gt;
-&lt;script src=&#34;https://giscus.app/client.js&#34;
-    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
-    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
-    data-mapping=&#34;number&#34;
-    data-term=&#34;36&#34;
-    data-reactions-enabled=&#34;1&#34;
-    data-emit-metadata=&#34;0&#34;
-    data-input-position=&#34;bottom&#34;
-    data-theme=&#34;dark&#34;
-    data-lang=&#34;zh-CN&#34;
-    crossorigin=&#34;anonymous&#34;
-    async&gt;
-&lt;/script&gt;</description>
+文化传统&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/blog/discussions-36/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
@@ -1529,20 +1399,7 @@ test&lt;/p&gt;</description>
 &lt;p&gt;知识是次要的，而研究问题的能力比较重要。如学生需要掌握的五种能力:解决问题（调查现实世界的问题并找到多种解决办法）、交流（探索不同观点并用证据支持和表达）、批判性思维（分析复杂文本和话题）、技巧阅读（学会注释、评价虚构和非虚构文本）、随机应变的学习。&lt;/p&gt;
 &lt;p&gt;治史要有才、学、识，这最早是唐刘知几提出来的，我给重新做了解释。清章学诚认为治史还要有德，我认为求真更重要。研究历史的首要目的是为了寻求历史真相，不能容忍错误，既不能容忍别人的错误，也不能容忍自己的错误。如果对别人指出自己的史实错误视而不见，那不配研究历史。&lt;/p&gt;
 &lt;!-- more --&gt;
-&lt;p&gt;摘抄自方舟子&lt;/p&gt;
-&lt;script src=&#34;https://giscus.app/client.js&#34;
-    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
-    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
-    data-mapping=&#34;number&#34;
-    data-term=&#34;35&#34;
-    data-reactions-enabled=&#34;1&#34;
-    data-emit-metadata=&#34;0&#34;
-    data-input-position=&#34;bottom&#34;
-    data-theme=&#34;dark&#34;
-    data-lang=&#34;zh-CN&#34;
-    crossorigin=&#34;anonymous&#34;
-    async&gt;
-&lt;/script&gt;</description>
+&lt;p&gt;摘抄自方舟子&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/blog/discussions-35/</link>
       <pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
@@ -1562,21 +1419,7 @@ test&lt;/p&gt;</description>
       
       
       <description>&lt;p&gt;“九大基础要素”（吃住行游购娱厕导智）和“九大发展要素”（商养学福情奇文体农）&lt;/p&gt;
-&lt;!-- more --&gt;
-
-&lt;script src=&#34;https://giscus.app/client.js&#34;
-    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
-    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
-    data-mapping=&#34;number&#34;
-    data-term=&#34;34&#34;
-    data-reactions-enabled=&#34;1&#34;
-    data-emit-metadata=&#34;0&#34;
-    data-input-position=&#34;bottom&#34;
-    data-theme=&#34;dark&#34;
-    data-lang=&#34;zh-CN&#34;
-    crossorigin=&#34;anonymous&#34;
-    async&gt;
-&lt;/script&gt;</description>
+&lt;!-- more --&gt;</description>
       <link>https://doc.ccsyue.com/blog/discussions-34/</link>
       <pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
@@ -1617,20 +1460,7 @@ for file in ${scr_file[@]};do
 done
 
 IFS=&amp;quot;$OIFS&amp;quot;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;script src=&#34;https://giscus.app/client.js&#34;
-    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
-    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
-    data-mapping=&#34;number&#34;
-    data-term=&#34;32&#34;
-    data-reactions-enabled=&#34;1&#34;
-    data-emit-metadata=&#34;0&#34;
-    data-input-position=&#34;bottom&#34;
-    data-theme=&#34;dark&#34;
-    data-lang=&#34;zh-CN&#34;
-    crossorigin=&#34;anonymous&#34;
-    async&gt;
-&lt;/script&gt;</description>
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
       <link>https://doc.ccsyue.com/discussions-32/</link>
       <pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
@@ -1692,20 +1522,7 @@ ForwardToSyslog=no
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;检查journal是否运行正常以及日志文件是否完整无损坏&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;systemctl restart systemd-journald.service
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;script src=&#34;https://giscus.app/client.js&#34;
-    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
-    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
-    data-mapping=&#34;number&#34;
-    data-term=&#34;31&#34;
-    data-reactions-enabled=&#34;1&#34;
-    data-emit-metadata=&#34;0&#34;
-    data-input-position=&#34;bottom&#34;
-    data-theme=&#34;dark&#34;
-    data-lang=&#34;zh-CN&#34;
-    crossorigin=&#34;anonymous&#34;
-    async&gt;
-&lt;/script&gt;</description>
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
       <link>https://doc.ccsyue.com/discussions-31/</link>
       <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
@@ -1736,20 +1553,7 @@ ForwardToSyslog=no
 &lt;li&gt;不花钱，全靠学生自己和父母研究和填报，数据和建议一般来自短视频平台和网络资源。适合经济条件有限，报考需求比较确定，对自己定位准确的考生。缺点：网络资源质量参差不齐，若理解错误，或看到了虚假或不准确的信息，自认倒霉。&lt;/li&gt;
 &lt;li&gt;花一百到五百元不等，购买志愿填报卡，利用商业数据生成志愿填报方案，再结合自己的想法进行筛选。适合报考需求比较确定，对自己定位准确的考生。缺点：对自身定位不准确或对院校专业理解有偏差，都会导致不浪费分，但浪费考生的结果。&lt;/li&gt;
 &lt;li&gt;最后，不花钱到花上万不等请人帮忙。适合对报考院校专业或自己定位不准确的考生。缺点：若请来的人若无科学素养，没有人文精神，或者对专业或行业趋势妄下结论，也容易费考生。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;script src=&#34;https://giscus.app/client.js&#34;
-    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
-    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
-    data-mapping=&#34;number&#34;
-    data-term=&#34;30&#34;
-    data-reactions-enabled=&#34;1&#34;
-    data-emit-metadata=&#34;0&#34;
-    data-input-position=&#34;bottom&#34;
-    data-theme=&#34;dark&#34;
-    data-lang=&#34;zh-CN&#34;
-    crossorigin=&#34;anonymous&#34;
-    async&gt;
-&lt;/script&gt;</description>
+&lt;/ol&gt;</description>
       <link>https://doc.ccsyue.com/discussions-30/</link>
       <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
@@ -1859,20 +1663,7 @@ SCREEGO_TLS_KEY_FILE=/root/screego-demo/server.key
 &lt;p&gt;&lt;code&gt;[2]&lt;/code&gt;&lt;em&gt;&lt;em&gt;官方文档&lt;/em&gt;__:&lt;/em&gt; &lt;em&gt;https://screego.net/#/&lt;/em&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;原文始发于微信公众号（阿拉平平）：&lt;a href=&#34;http://mp.weixin.qq.com/s/kTAnZaS0omDJuNNoMclmpg&#34;&gt;screego 安装配置教程：一款简单易用的屏幕共享工具&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;script src=&#34;https://giscus.app/client.js&#34;
-    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
-    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
-    data-mapping=&#34;number&#34;
-    data-term=&#34;29&#34;
-    data-reactions-enabled=&#34;1&#34;
-    data-emit-metadata=&#34;0&#34;
-    data-input-position=&#34;bottom&#34;
-    data-theme=&#34;dark&#34;
-    data-lang=&#34;zh-CN&#34;
-    crossorigin=&#34;anonymous&#34;
-    async&gt;
-&lt;/script&gt;</description>
+&lt;/blockquote&gt;</description>
       <link>https://doc.ccsyue.com/discussions-29/</link>
       <pubDate>Sat, 06 Jul 2024 00:00:00 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
@@ -2008,20 +1799,7 @@ SCREEGO_TLS_KEY_FILE=/root/screego-demo/server.key
 &lt;li&gt;
 &lt;p&gt;解析：智能安防技术（Intelligent security technology）是一种利用人工智能（Artificial intelligence，AI）对视频、图像进行存储和分析，从中识别安全隐患并对其进行处理的技术。它可以应用于交通监控、人脸识别、异常行为检测等领域，提高安防效率和水平。&lt;/p&gt;
 &lt;/li&gt;
-&lt;/ol&gt;
-&lt;script src=&#34;https://giscus.app/client.js&#34;
-    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
-    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
-    data-mapping=&#34;number&#34;
-    data-term=&#34;24&#34;
-    data-reactions-enabled=&#34;1&#34;
-    data-emit-metadata=&#34;0&#34;
-    data-input-position=&#34;bottom&#34;
-    data-theme=&#34;dark&#34;
-    data-lang=&#34;zh-CN&#34;
-    crossorigin=&#34;anonymous&#34;
-    async&gt;
-&lt;/script&gt;</description>
+&lt;/ol&gt;</description>
       <link>https://doc.ccsyue.com/discussions-24/</link>
       <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
@@ -2041,20 +1819,7 @@ SCREEGO_TLS_KEY_FILE=/root/screego-demo/server.key
       
       
       <description>&lt;p&gt;&lt;img alt=&#34;2-1&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/06/2-1.39l1xxxhqw.webp&#34; /&gt;
-&lt;img alt=&#34;2-2&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/06/2-2.7p5wpwa28.webp&#34; /&gt;&lt;/p&gt;
-&lt;script src=&#34;https://giscus.app/client.js&#34;
-    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
-    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
-    data-mapping=&#34;number&#34;
-    data-term=&#34;25&#34;
-    data-reactions-enabled=&#34;1&#34;
-    data-emit-metadata=&#34;0&#34;
-    data-input-position=&#34;bottom&#34;
-    data-theme=&#34;dark&#34;
-    data-lang=&#34;zh-CN&#34;
-    crossorigin=&#34;anonymous&#34;
-    async&gt;
-&lt;/script&gt;</description>
+&lt;img alt=&#34;2-2&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/06/2-2.7p5wpwa28.webp&#34; /&gt;&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/discussions-25/</link>
       <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
@@ -2111,20 +1876,7 @@ SCREEGO_TLS_KEY_FILE=/root/screego-demo/server.key
 &lt;p&gt;2.必修1的27页：探究与应用欧姆定律，揭示了数据、信息、知识和智慧的相互关系（图2-8）：数据是现实世界客观事物的符号记录；信息是经加工处理的、具有意义的数据；知识是人们运用大脑对获取或积累的信息进行系统化地提炼、研究和分析的结果，能够精确地反映事物的本质；智慧是为了达到预定目标而运用知识解决问题的创新思维能力。&lt;/p&gt;
 &lt;p&gt;7.尽管互联网提供了便捷的信息传播手段，但并不意味着可以发布任何信息，特别是违法和有害信息。&lt;/p&gt;
 &lt;p&gt;8.人类历史上的信息技术革命不限于四次，这个数量可能因不同的定义和标准而变化。如，必修2的13页，关于信息技术发展趋势就提了3个角度&lt;/p&gt;
-&lt;p&gt;9.信息系统的开发一般分为五个阶段，分别是系统规划、系统分析、系统设计、系统实 施、系统运行与维护&lt;/p&gt;
-&lt;script src=&#34;https://giscus.app/client.js&#34;
-    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
-    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
-    data-mapping=&#34;number&#34;
-    data-term=&#34;26&#34;
-    data-reactions-enabled=&#34;1&#34;
-    data-emit-metadata=&#34;0&#34;
-    data-input-position=&#34;bottom&#34;
-    data-theme=&#34;dark&#34;
-    data-lang=&#34;zh-CN&#34;
-    crossorigin=&#34;anonymous&#34;
-    async&gt;
-&lt;/script&gt;</description>
+&lt;p&gt;9.信息系统的开发一般分为五个阶段，分别是系统规划、系统分析、系统设计、系统实 施、系统运行与维护&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/discussions-26/</link>
       <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
@@ -2182,20 +1934,7 @@ SCREEGO_TLS_KEY_FILE=/root/screego-demo/server.key
 &lt;p&gt;1.在Python程序中，数据的输入与输出确实是通过函数来实现的，如input()和print()。&lt;/p&gt;
 &lt;p&gt;7.计算机网络在信息系统中主要起到数据传输、资源共享、分布 式处理三个方面的作用。&lt;/p&gt;
 &lt;p&gt;8.在一个局域网中，计算机的IP地址必须是唯一的，不能有两台计算机具有相同的IP地址。&lt;/p&gt;
-&lt;p&gt;9.模拟传输的优点并不包括差错率低。实际上，模拟信号更容易受到噪声的影响，可能会增加差错率。&lt;/p&gt;
-&lt;script src=&#34;https://giscus.app/client.js&#34;
-    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
-    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
-    data-mapping=&#34;number&#34;
-    data-term=&#34;27&#34;
-    data-reactions-enabled=&#34;1&#34;
-    data-emit-metadata=&#34;0&#34;
-    data-input-position=&#34;bottom&#34;
-    data-theme=&#34;dark&#34;
-    data-lang=&#34;zh-CN&#34;
-    crossorigin=&#34;anonymous&#34;
-    async&gt;
-&lt;/script&gt;</description>
+&lt;p&gt;9.模拟传输的优点并不包括差错率低。实际上，模拟信号更容易受到噪声的影响，可能会增加差错率。&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/discussions-27/</link>
       <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
@@ -2252,20 +1991,7 @@ SCREEGO_TLS_KEY_FILE=/root/screego-demo/server.key
 &lt;p&gt;&lt;img alt=&#34;image&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/06/image.8ad4pj8onk.webp&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;5.解析：如果张宾同学下载并安装的共享软件是未经授权的副本，那么这些行为可能违反《知识产权保护法》。&lt;/p&gt;
 &lt;p&gt;10.解析：
-&lt;img alt=&#34;image&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/06/image.2obebo7h2d.webp&#34; /&gt;&lt;/p&gt;
-&lt;script src=&#34;https://giscus.app/client.js&#34;
-    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
-    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
-    data-mapping=&#34;number&#34;
-    data-term=&#34;28&#34;
-    data-reactions-enabled=&#34;1&#34;
-    data-emit-metadata=&#34;0&#34;
-    data-input-position=&#34;bottom&#34;
-    data-theme=&#34;dark&#34;
-    data-lang=&#34;zh-CN&#34;
-    crossorigin=&#34;anonymous&#34;
-    async&gt;
-&lt;/script&gt;</description>
+&lt;img alt=&#34;image&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/06/image.2obebo7h2d.webp&#34; /&gt;&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/discussions-28/</link>
       <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
@@ -2407,20 +2133,7 @@ cat videos.txt &amp;gt; /home/yetpage/videotxt/videois.txt
 &lt;li&gt;crontab 每天6点定时执行脚本：  （若出现0 command not found，则用sudo su切换到root，使用crontab -e进行编辑）
   &lt;code&gt;0 6 * * * bash /home/yt.sh&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a href=&#34;https://easonchang.com/posts/using-ssh-with-putty-key-on-macos&#34;&gt;在MacOS使用putty key進行ssh連線&lt;/a&gt;&lt;/p&gt;
-&lt;script src=&#34;https://giscus.app/client.js&#34;
-    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
-    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
-    data-mapping=&#34;number&#34;
-    data-term=&#34;23&#34;
-    data-reactions-enabled=&#34;1&#34;
-    data-emit-metadata=&#34;0&#34;
-    data-input-position=&#34;bottom&#34;
-    data-theme=&#34;dark&#34;
-    data-lang=&#34;zh-CN&#34;
-    crossorigin=&#34;anonymous&#34;
-    async&gt;
-&lt;/script&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://easonchang.com/posts/using-ssh-with-putty-key-on-macos&#34;&gt;在MacOS使用putty key進行ssh連線&lt;/a&gt;&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/discussions-23/</link>
       <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
@@ -3388,20 +3101,7 @@ cat videos.txt &amp;gt; /home/yetpage/videotxt/videois.txt
 &lt;td&gt;清,清&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;script src=&#34;https://giscus.app/client.js&#34;
-    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
-    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
-    data-mapping=&#34;number&#34;
-    data-term=&#34;22&#34;
-    data-reactions-enabled=&#34;1&#34;
-    data-emit-metadata=&#34;0&#34;
-    data-input-position=&#34;bottom&#34;
-    data-theme=&#34;dark&#34;
-    data-lang=&#34;zh-CN&#34;
-    crossorigin=&#34;anonymous&#34;
-    async&gt;
-&lt;/script&gt;</description>
+&lt;/table&gt;</description>
       <link>https://doc.ccsyue.com/blog/discussions-22/</link>
       <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
@@ -3470,20 +3170,7 @@ ffmpeg -i &lt;span class=&#34;s2&#34;&gt;&amp;quot;in.mp4&amp;quot;&lt;/span&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;https://videohighlight.com/&#34;&gt;https://videohighlight.com/&lt;/a&gt;
 &lt;a href=&#34;https://autocut.video/&#34;&gt;https://autocut.video/&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;script src=&#34;https://giscus.app/client.js&#34;
-    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
-    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
-    data-mapping=&#34;number&#34;
-    data-term=&#34;21&#34;
-    data-reactions-enabled=&#34;1&#34;
-    data-emit-metadata=&#34;0&#34;
-    data-input-position=&#34;bottom&#34;
-    data-theme=&#34;dark&#34;
-    data-lang=&#34;zh-CN&#34;
-    crossorigin=&#34;anonymous&#34;
-    async&gt;
-&lt;/script&gt;</description>
+&lt;/blockquote&gt;</description>
       <link>https://doc.ccsyue.com/discussions-21/</link>
       <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
@@ -3502,20 +3189,7 @@ ffmpeg -i &lt;span class=&#34;s2&#34;&gt;&amp;quot;in.mp4&amp;quot;&lt;/span&gt;
       
       
       
-      <description>&lt;p&gt;文字处理软件：在使用文字处理软件时要设置一个纸张大小，而打印机设置里也有一个纸张大小。打印时有时会自动应用文字处理软件的，有时不会，。这时则需要将两个纸张大小的设置统一一下。另外打印过程中，打印方向或排版看不明白可以用大一点的纸试一试。也可以将样板对着100%屏幕查看文字或图片的边距。&lt;/p&gt;
-&lt;script src=&#34;https://giscus.app/client.js&#34;
-    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
-    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
-    data-mapping=&#34;number&#34;
-    data-term=&#34;20&#34;
-    data-reactions-enabled=&#34;1&#34;
-    data-emit-metadata=&#34;0&#34;
-    data-input-position=&#34;bottom&#34;
-    data-theme=&#34;dark&#34;
-    data-lang=&#34;zh-CN&#34;
-    crossorigin=&#34;anonymous&#34;
-    async&gt;
-&lt;/script&gt;</description>
+      <description>&lt;p&gt;文字处理软件：在使用文字处理软件时要设置一个纸张大小，而打印机设置里也有一个纸张大小。打印时有时会自动应用文字处理软件的，有时不会，。这时则需要将两个纸张大小的设置统一一下。另外打印过程中，打印方向或排版看不明白可以用大一点的纸试一试。也可以将样板对着100%屏幕查看文字或图片的边距。&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/discussions-20/</link>
       <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
@@ -3539,20 +3213,7 @@ ffmpeg -i &lt;span class=&#34;s2&#34;&gt;&amp;quot;in.mp4&amp;quot;&lt;/span&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;若第三方驱动安装工具无法解决问题，可多试几个：驱动人生、360驱动等。&lt;/p&gt;
 &lt;p&gt;可以通过&lt;a href=&#34;https://www.huorong.cn/app_store.html&#34;&gt;火绒应用商店&lt;/a&gt;搜索安装。因官方版本存在广告多，卸载残留问题，胆子大的可以试试绿色单机版。&lt;/p&gt;
-&lt;p&gt;我本次安装使用了驱动人生单机版，240M的驱动安装程序下载了一中午，下载速度极高达20-30kb/s，以前从未如此慢过（可能是它推出了vip高速下载服务）。&lt;/p&gt;
-&lt;script src=&#34;https://giscus.app/client.js&#34;
-    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
-    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
-    data-mapping=&#34;number&#34;
-    data-term=&#34;19&#34;
-    data-reactions-enabled=&#34;1&#34;
-    data-emit-metadata=&#34;0&#34;
-    data-input-position=&#34;bottom&#34;
-    data-theme=&#34;dark&#34;
-    data-lang=&#34;zh-CN&#34;
-    crossorigin=&#34;anonymous&#34;
-    async&gt;
-&lt;/script&gt;</description>
+&lt;p&gt;我本次安装使用了驱动人生单机版，240M的驱动安装程序下载了一中午，下载速度极高达20-30kb/s，以前从未如此慢过（可能是它推出了vip高速下载服务）。&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/discussions-19/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
@@ -3575,20 +3236,7 @@ ffmpeg -i &lt;span class=&#34;s2&#34;&gt;&amp;quot;in.mp4&amp;quot;&lt;/span&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Automa is a browser extension for browser automation. From auto-fill forms, doing a repetitive task, taking a screenshot, to scraping data of the website, it&amp;rsquo;s up to you what you want to do with this extension.
 &lt;img alt=&#34;image&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/image.5j411qo0z8.webp&#34; /&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;script src=&#34;https://giscus.app/client.js&#34;
-    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
-    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
-    data-mapping=&#34;number&#34;
-    data-term=&#34;18&#34;
-    data-reactions-enabled=&#34;1&#34;
-    data-emit-metadata=&#34;0&#34;
-    data-input-position=&#34;bottom&#34;
-    data-theme=&#34;dark&#34;
-    data-lang=&#34;zh-CN&#34;
-    crossorigin=&#34;anonymous&#34;
-    async&gt;
-&lt;/script&gt;</description>
+&lt;/blockquote&gt;</description>
       <link>https://doc.ccsyue.com/discussions-18/</link>
       <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
@@ -3608,20 +3256,7 @@ ffmpeg -i &lt;span class=&#34;s2&#34;&gt;&amp;quot;in.mp4&amp;quot;&lt;/span&gt;
       
       
       <description>&lt;p&gt;&lt;img alt=&#34;cn&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/sankeymatic_20240327_210033_5600x16000.9nzlpikim8.webp&#34; /&gt;
-&lt;a href=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/cs_sankey.5fkefp4pqp.webp&#34;&gt;source&lt;/a&gt;&lt;/p&gt;
-&lt;script src=&#34;https://giscus.app/client.js&#34;
-    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
-    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
-    data-mapping=&#34;number&#34;
-    data-term=&#34;17&#34;
-    data-reactions-enabled=&#34;1&#34;
-    data-emit-metadata=&#34;0&#34;
-    data-input-position=&#34;bottom&#34;
-    data-theme=&#34;dark&#34;
-    data-lang=&#34;zh-CN&#34;
-    crossorigin=&#34;anonymous&#34;
-    async&gt;
-&lt;/script&gt;</description>
+&lt;a href=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/cs_sankey.5fkefp4pqp.webp&#34;&gt;source&lt;/a&gt;&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/discussions-17/</link>
       <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
@@ -3671,20 +3306,7 @@ ffmpeg -i &lt;span class=&#34;s2&#34;&gt;&amp;quot;in.mp4&amp;quot;&lt;/span&gt;
 &lt;p&gt;&lt;img alt=&#34;image&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/image.26lb3ce72g.webp&#34; /&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;经验证：2022.2版本也可以安装在windows7上，初步使用无碍，但安装时提示path长度不够，可能会留下隐患，但可以通过插件安装汉化模块。而2019.3.5版本的汉化则需要下载resources_cn.jar文件方到安装目录的lib文件夹下。安装哪个版本请自行取舍。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;script src=&#34;https://giscus.app/client.js&#34;
-    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
-    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
-    data-mapping=&#34;number&#34;
-    data-term=&#34;16&#34;
-    data-reactions-enabled=&#34;1&#34;
-    data-emit-metadata=&#34;0&#34;
-    data-input-position=&#34;bottom&#34;
-    data-theme=&#34;dark&#34;
-    data-lang=&#34;zh-CN&#34;
-    crossorigin=&#34;anonymous&#34;
-    async&gt;
-&lt;/script&gt;</description>
+&lt;/ol&gt;</description>
       <link>https://doc.ccsyue.com/discussions-16/</link>
       <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
@@ -3741,20 +3363,7 @@ ffmpeg -i &lt;span class=&#34;s2&#34;&gt;&amp;quot;in.mp4&amp;quot;&lt;/span&gt;
 &lt;p&gt;Is information being cherry-picked to support an agenda or a bias?​&lt;/p&gt;
 &lt;p&gt;Is information being taken out of context?​&lt;/p&gt;
 &lt;p&gt;Remember, headlines, blog posts, or tweets may sensationalize facts to get more attention or clicks. ​Re-reporting may omit, misinterpret, or select certain facts to support biased claims. If the claim is taken from a source who took it from another source, important facts and contextual information can be left out. Make sure to read the claims in the original context in which they were presented.&lt;/p&gt;
-&lt;p&gt;When in doubt, contact an expert – &lt;a href=&#34;https://www.lib.uchicago.edu/research/help/ask-librarian/&#34;&gt;like a librarian!​&lt;/a&gt;.&lt;/p&gt;
-&lt;script src=&#34;https://giscus.app/client.js&#34;
-    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
-    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
-    data-mapping=&#34;number&#34;
-    data-term=&#34;14&#34;
-    data-reactions-enabled=&#34;1&#34;
-    data-emit-metadata=&#34;0&#34;
-    data-input-position=&#34;bottom&#34;
-    data-theme=&#34;dark&#34;
-    data-lang=&#34;zh-CN&#34;
-    crossorigin=&#34;anonymous&#34;
-    async&gt;
-&lt;/script&gt;</description>
+&lt;p&gt;When in doubt, contact an expert – &lt;a href=&#34;https://www.lib.uchicago.edu/research/help/ask-librarian/&#34;&gt;like a librarian!​&lt;/a&gt;.&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/blog/discussions-14/</link>
       <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
@@ -3903,20 +3512,7 @@ ffmpeg -i &lt;span class=&#34;s2&#34;&gt;&amp;quot;in.mp4&amp;quot;&lt;/span&gt;
 &lt;li&gt;The mind which has become accustomed to the freedom and impartiality of philosophic contemplation will preserve something of the same freedom and impartiality in the world of action and emotion. It will view its purposes and desires as parts of the whole, with the absence of insistence that results from seeing them as infinitesimal fragments in a world of which all the rest is unaffected by any one man&amp;rsquo;s deeds. The impartiality which, in contemplation, is the unalloyed desire for truth, is the very same quality of mind which, in action, is justice, and in emotion is that universal love which can be given to all, and not only to those who are judged useful or admirable. Thus contemplation enlarges not only the objects of our thoughts, but also the objects of our actions and our affections: it makes us citizens of the universe, not only of one walled city at war with all the rest. In this citizenship of the universe consists man&amp;rsquo;s true freedom, and his liberation from the thraldom of narrow hopes and fears.&lt;/li&gt;
 &lt;li&gt;he impartiality which, in contemplation, is the unalloyed desire for truth, is the very same quality of mind which, in action, is justice, and in emotion is that universal love which can be given to all, and not only to those who are judged useful or admirable.&lt;/li&gt;
 &lt;li&gt;Thus, to sum up our discussion of the value of philosophy; Philosophy is to be studied, not for the sake of any definite answers to its questions, since no definite answers can, as a rule, be known to be true, but rather for the sake of the questions themselves; because these questions enlarge our conception of what is possible, enrich our intellectual imagination and diminish the dogmatic assurance which closes the mind against speculation; but above all because, through the greatness of the universe which philosophy contemplates, the mind also is rendered great, and becomes capable of that union with the universe which constitutes its highest good.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;script src=&#34;https://giscus.app/client.js&#34;
-    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
-    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
-    data-mapping=&#34;number&#34;
-    data-term=&#34;13&#34;
-    data-reactions-enabled=&#34;1&#34;
-    data-emit-metadata=&#34;0&#34;
-    data-input-position=&#34;bottom&#34;
-    data-theme=&#34;dark&#34;
-    data-lang=&#34;zh-CN&#34;
-    crossorigin=&#34;anonymous&#34;
-    async&gt;
-&lt;/script&gt;</description>
+&lt;/ol&gt;</description>
       <link>https://doc.ccsyue.com/discussions-13/</link>
       <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
@@ -3987,20 +3583,7 @@ Generates polarization.&lt;/p&gt;
 &lt;p&gt;Identifying problems, developing hypotheses and devising their own experiments to test them.&lt;/p&gt;
 &lt;h3 id=&#34;built-a-culture-of-learning&#34;&gt;BUILT A CULTURE OF LEARNING&lt;a class=&#34;headerlink&#34; href=&#34;#built-a-culture-of-learning&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Learning culture, organizations innovate more and make fewer mistakes. Psychological safety with accountability.
-Performance Culture, short-term result, but people stop innovating, making mistakes and sharing ideas.&lt;/p&gt;
-&lt;script src=&#34;https://giscus.app/client.js&#34;
-    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
-    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
-    data-mapping=&#34;number&#34;
-    data-term=&#34;12&#34;
-    data-reactions-enabled=&#34;1&#34;
-    data-emit-metadata=&#34;0&#34;
-    data-input-position=&#34;bottom&#34;
-    data-theme=&#34;dark&#34;
-    data-lang=&#34;zh-CN&#34;
-    crossorigin=&#34;anonymous&#34;
-    async&gt;
-&lt;/script&gt;</description>
+Performance Culture, short-term result, but people stop innovating, making mistakes and sharing ideas.&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/blog/discussions-12/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
@@ -4024,20 +3607,7 @@ Performance Culture, short-term result, but people stop innovating, making mista
 &lt;h2 id=&#34;现代理论哲学形认心语&#34;&gt;现代理论哲学：形认心语&lt;a class=&#34;headerlink&#34; href=&#34;#现代理论哲学形认心语&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
 &lt;h2 id=&#34;道德和政治哲学伦法政美&#34;&gt;道德和政治哲学：伦法政美&lt;a class=&#34;headerlink&#34; href=&#34;#道德和政治哲学伦法政美&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
 &lt;h2 id=&#34;科学哲学数物神&#34;&gt;科学哲学：数物神&lt;a class=&#34;headerlink&#34; href=&#34;#科学哲学数物神&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;image&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/20240513/image.13llf7l6ga.webp&#34; /&gt;&lt;/p&gt;
-&lt;script src=&#34;https://giscus.app/client.js&#34;
-    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
-    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
-    data-mapping=&#34;number&#34;
-    data-term=&#34;9&#34;
-    data-reactions-enabled=&#34;1&#34;
-    data-emit-metadata=&#34;0&#34;
-    data-input-position=&#34;bottom&#34;
-    data-theme=&#34;dark&#34;
-    data-lang=&#34;zh-CN&#34;
-    crossorigin=&#34;anonymous&#34;
-    async&gt;
-&lt;/script&gt;</description>
+&lt;p&gt;&lt;img alt=&#34;image&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/20240513/image.13llf7l6ga.webp&#34; /&gt;&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/discussions-9/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
@@ -4064,20 +3634,7 @@ Performance Culture, short-term result, but people stop innovating, making mista
 &lt;div class=&#34;admonition tip&#34;&gt;
 &lt;p class=&#34;admonition-title&#34;&gt;唯物辩证法：本原内必现&lt;/p&gt;
 &lt;p&gt;原因和结果、必然性和偶然性、现实性和可能性、内容和形式、现象和本质&lt;/p&gt;
-&lt;/div&gt;
-&lt;script src=&#34;https://giscus.app/client.js&#34;
-    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
-    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
-    data-mapping=&#34;number&#34;
-    data-term=&#34;11&#34;
-    data-reactions-enabled=&#34;1&#34;
-    data-emit-metadata=&#34;0&#34;
-    data-input-position=&#34;bottom&#34;
-    data-theme=&#34;dark&#34;
-    data-lang=&#34;zh-CN&#34;
-    crossorigin=&#34;anonymous&#34;
-    async&gt;
-&lt;/script&gt;</description>
+&lt;/div&gt;</description>
       <link>https://doc.ccsyue.com/discussions-11/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
@@ -4180,20 +3737,7 @@ Performance Culture, short-term result, but people stop innovating, making mista
 &lt;/table&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/544848260&#34;&gt;加州大学伯克利分校的研究人员确定了27类情感&lt;/a&gt;：钦佩（admiration）、崇拜（adoration）、审美欣赏（aesthetic appreciation）、娱乐（amusement）、愤怒（anger）、焦虑（anxiety）、敬畏（awe）、尴尬（awkwardness）、厌倦（boredom）、冷静（calmness）、困惑（confusion）、渴望（craving）、厌恶（disgust）、共情之痛（empathic pain）、魅惑（entrancement）、兴奋（excitement）、恐惧（fear）、恐怖（horror）、兴趣（interest）、快乐（joy）、怀旧（nostalgia）、轻松（relief）、浪漫（romance）、悲伤（sadness）、满足（satisfaction）、性欲（sexual）和惊喜（surprise）。这是基于2185个旨在激发某种情绪的短视频。然后，这些被建模为情绪的“地图”。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;script src=&#34;https://giscus.app/client.js&#34;
-    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
-    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
-    data-mapping=&#34;number&#34;
-    data-term=&#34;10&#34;
-    data-reactions-enabled=&#34;1&#34;
-    data-emit-metadata=&#34;0&#34;
-    data-input-position=&#34;bottom&#34;
-    data-theme=&#34;dark&#34;
-    data-lang=&#34;zh-CN&#34;
-    crossorigin=&#34;anonymous&#34;
-    async&gt;
-&lt;/script&gt;</description>
+&lt;/blockquote&gt;</description>
       <link>https://doc.ccsyue.com/discussions-10/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
@@ -4220,20 +3764,7 @@ Performance Culture, short-term result, but people stop innovating, making mista
 单选题15道，30分;填空题10道，20分;判断题10道，10分。
 操作题3道共40分，其中程序设计题1道15分，算法流程题1道15分，&lt;/p&gt;
 &lt;/div&gt;
-&lt;p&gt;信息系统题1道10分。&lt;/p&gt;
-&lt;script src=&#34;https://giscus.app/client.js&#34;
-    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
-    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
-    data-mapping=&#34;number&#34;
-    data-term=&#34;8&#34;
-    data-reactions-enabled=&#34;1&#34;
-    data-emit-metadata=&#34;0&#34;
-    data-input-position=&#34;bottom&#34;
-    data-theme=&#34;dark&#34;
-    data-lang=&#34;zh-CN&#34;
-    crossorigin=&#34;anonymous&#34;
-    async&gt;
-&lt;/script&gt;</description>
+&lt;p&gt;信息系统题1道10分。&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/discussions-8/</link>
       <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
@@ -4892,20 +4423,7 @@ BMI数值范围 BMI数值范围
     &lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;%&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;6&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;==&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt; &lt;span class=&#34;ow&#34;&gt;or&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;%&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;8&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;!=&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;  
        &lt;span class=&#34;nb&#34;&gt;sum&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;sum&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;i&lt;/span&gt;
 &lt;span class=&#34;n&#34;&gt;________&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;10 到100 之间能被6整除不能被8整除的整数之和为：&amp;quot;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;sum&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
-&lt;script src=&#34;https://giscus.app/client.js&#34;
-    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
-    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
-    data-mapping=&#34;number&#34;
-    data-term=&#34;6&#34;
-    data-reactions-enabled=&#34;1&#34;
-    data-emit-metadata=&#34;0&#34;
-    data-input-position=&#34;bottom&#34;
-    data-theme=&#34;dark&#34;
-    data-lang=&#34;zh-CN&#34;
-    crossorigin=&#34;anonymous&#34;
-    async&gt;
-&lt;/script&gt;</description>
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;</description>
       <link>https://doc.ccsyue.com/discussions-6/</link>
       <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
@@ -5090,21 +4608,7 @@ BMI数值范围 BMI数值范围
 &lt;details&gt;
 &lt;summary&gt;答案&lt;/summary&gt;
 &lt;img src=&#39;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/12/10.1.1vygvozsur.webp&#39; alt=&#39;10-1&#39; /&gt;
-&lt;/details&gt;
-
-&lt;script src=&#34;https://giscus.app/client.js&#34;
-    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
-    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
-    data-mapping=&#34;number&#34;
-    data-term=&#34;7&#34;
-    data-reactions-enabled=&#34;1&#34;
-    data-emit-metadata=&#34;0&#34;
-    data-input-position=&#34;bottom&#34;
-    data-theme=&#34;dark&#34;
-    data-lang=&#34;zh-CN&#34;
-    crossorigin=&#34;anonymous&#34;
-    async&gt;
-&lt;/script&gt;</description>
+&lt;/details&gt;</description>
       <link>https://doc.ccsyue.com/discussions-7/</link>
       <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
@@ -5260,21 +4764,7 @@ BMI数值范围 BMI数值范围
 &lt;details&gt;
 &lt;summary&gt;答案&lt;/summary&gt;
 &lt;img src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/05/answer/10-1.969k0y0mnn.webp&#34; alt=&#34;10-1&#34; /&gt;
-&lt;/details&gt;
-
-&lt;script src=&#34;https://giscus.app/client.js&#34;
-    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
-    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
-    data-mapping=&#34;number&#34;
-    data-term=&#34;5&#34;
-    data-reactions-enabled=&#34;1&#34;
-    data-emit-metadata=&#34;0&#34;
-    data-input-position=&#34;bottom&#34;
-    data-theme=&#34;dark&#34;
-    data-lang=&#34;zh-CN&#34;
-    crossorigin=&#34;anonymous&#34;
-    async&gt;
-&lt;/script&gt;</description>
+&lt;/details&gt;</description>
       <link>https://doc.ccsyue.com/discussions-5/</link>
       <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
@@ -5343,20 +4833,7 @@ BMI数值范围 BMI数值范围
 &lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://www.mayoclinic.org/&#34;&gt;mayo clinic&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://www.who.int/zh/news-room/fact-sheets/detail/physical-activity&#34;&gt;WHO身体活动&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://aidoctor.world/&#34;&gt;AI医生&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;script src=&#34;https://giscus.app/client.js&#34;
-    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
-    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
-    data-mapping=&#34;number&#34;
-    data-term=&#34;2&#34;
-    data-reactions-enabled=&#34;1&#34;
-    data-emit-metadata=&#34;0&#34;
-    data-input-position=&#34;bottom&#34;
-    data-theme=&#34;dark&#34;
-    data-lang=&#34;zh-CN&#34;
-    crossorigin=&#34;anonymous&#34;
-    async&gt;
-&lt;/script&gt;</description>
+&lt;/ul&gt;</description>
       <link>https://doc.ccsyue.com/flinks/</link>
       <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
@@ -5375,20 +4852,7 @@ BMI数值范围 BMI数值范围
       
       
       
-      <description>&lt;p&gt;关于本站的留言&lt;/p&gt;
-&lt;script src=&#34;https://giscus.app/client.js&#34;
-    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
-    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
-    data-mapping=&#34;number&#34;
-    data-term=&#34;4&#34;
-    data-reactions-enabled=&#34;1&#34;
-    data-emit-metadata=&#34;0&#34;
-    data-input-position=&#34;bottom&#34;
-    data-theme=&#34;dark&#34;
-    data-lang=&#34;zh-CN&#34;
-    crossorigin=&#34;anonymous&#34;
-    async&gt;
-&lt;/script&gt;</description>
+      <description>&lt;p&gt;关于本站的留言&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/message/</link>
       <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
@@ -5408,20 +4872,7 @@ BMI数值范围 BMI数值范围
       
       
       <description>&lt;h2 id=&#34;目的&#34;&gt;目的&lt;a class=&#34;headerlink&#34; href=&#34;#目的&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;分享学习资料&lt;/p&gt;
-&lt;script src=&#34;https://giscus.app/client.js&#34;
-    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
-    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
-    data-mapping=&#34;number&#34;
-    data-term=&#34;3&#34;
-    data-reactions-enabled=&#34;1&#34;
-    data-emit-metadata=&#34;0&#34;
-    data-input-position=&#34;bottom&#34;
-    data-theme=&#34;dark&#34;
-    data-lang=&#34;zh-CN&#34;
-    crossorigin=&#34;anonymous&#34;
-    async&gt;
-&lt;/script&gt;</description>
+&lt;p&gt;分享学习资料&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/readme/</link>
       <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
