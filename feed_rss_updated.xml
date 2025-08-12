@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Tue, 12 Aug 2025 05:08:05 -0000</pubDate>
-    <lastBuildDate>Tue, 12 Aug 2025 05:08:05 -0000</lastBuildDate>
+    <pubDate>Tue, 12 Aug 2025 06:04:24 -0000</pubDate>
+    <lastBuildDate>Tue, 12 Aug 2025 06:04:24 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -32,6 +32,21 @@
     
     
     <item>
+      <title>Untitled</title>
+      
+      
+      
+      
+      <description>&lt;p&gt;11&lt;/p&gt;</description>
+      <link>https://doc.ccsyue.com/note/Untitled/</link>
+      <pubDate>Tue, 12 Aug 2025 06:04:25 +0000</pubDate>
+      <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
+      
+      <guid isPermaLink="true">https://doc.ccsyue.com/note/Untitled/</guid>
+      
+    </item>
+    
+    <item>
       <title>Index</title>
       
       
@@ -39,7 +54,7 @@
       
       <description></description>
       <link>https://doc.ccsyue.com/note/</link>
-      <pubDate>Tue, 12 Aug 2025 05:07:29 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 06:03:35 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/note/</guid>
@@ -97,7 +112,7 @@
 &lt;p&gt;国内虽然不少人都在使用 Gitee，但 Gitee 时不时恶心你一下（前不久就无缘无故把我的 oschina 的账号封了，而且要加 QQ 群去申诉，最后我是直接通过邮件反馈解封了），而且有时候有些资源用起来限制太多，很麻烦。&lt;/p&gt;
 &lt;p&gt;极狐从 2024 年 1 月 2 日起要付费才能使用，1898元/人/年的价格估计会劝退 90% 的个人用户吧！&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/readme/res/</link>
-      <pubDate>Tue, 12 Aug 2025 05:07:29 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 06:03:35 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/readme/res/</guid>
@@ -136,7 +151,7 @@
     &lt;img style=&#34;max-widrh:600px&#34; src=&#34;https://slab-1251708715.cos.ap-guangzhou.myqcloud.com/website/portfolio/webstack-hugo.jpg&#34; alt=&#34;WebStack-Hugo&#34;&gt;
 &lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/readme/work/</link>
-      <pubDate>Tue, 12 Aug 2025 05:07:29 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 06:03:35 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/readme/work/</guid>
@@ -1819,155 +1834,6 @@ SCREEGO_TLS_KEY_FILE=/root/screego-demo/server.key
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/discussions-29/</guid>
-      
-    </item>
-    
-    <item>
-      <title>学业水平测试题1解析</title>
-      
-      
-        
-      <author>tarenaexit</author>
-        
-      
-      
-      
-      <description>&lt;p&gt;&lt;img alt=&#34;1&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/06/1.1aov7l53gl.jpg&#34; /&gt;&lt;/p&gt;
-&lt;h2 id=&#34;一-选择题每小题2分共30分&#34;&gt;一、 选择题(每小题2分，共30分)&lt;a class=&#34;headerlink&#34; href=&#34;#一-选择题每小题2分共30分&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;解析：智能家居是指利用网络技术、物联网技术、人工智能技术等，将家庭中的各种设备连接起来，实现智能化控制和管理的系统。智能家居应用主要包括安防、照明、空调、娱乐、健康等方面。选项A、B、C都是智能家居应用的例子，而选项D是网上购物平台系统的应用，与智能家居无关。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;解析：声音编码是将声音信号转换为数字信号的过程，其中采样是将连续的声音信号分割为离散的数据点。采样率是指每秒钟采样的次数，采样位数是指每次采样用多少位二进制数表示。声音文件的大小可以根据以下公式计算：文件大小=采样率×采样时间×采样位数×声道数÷8÷1024÷1024（单位为MB）。因此，选项A是正确的计算公式，其他选项都缺少或多余了一些因素。
-对于音频信号，常用的采样频率有三种：44.1 kHz、22.05 kHz和11.025 kHz
-声音存储空间（B）=采样频率（Hz）×量化位数（个）×声道数（个）×时间（秒）÷8
-1M=1024KB=1024&lt;em&gt;1024&lt;/em&gt;B&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;解析：《中华人民共和国网络安全法》是我国第一部专门针对网络安全领域立法的法律，旨在规范网络行为，保障网络安全，维护国家利益和社会秩序。该法总则第一条规定了立法目的和原则，其中提到了社会公共利益作为一项重要内容。社会公共利益是指与社会成员共同生存和发展有关的利益，包括社会稳定、公共秩序、环境保护等方面。因此，选项C是正确答案。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;解析：数据是对客观事物的符号表示，是未经加工的原始材料，如数字、文字、图像等。信息是经过处理和解释的有意义的数据，是对某一问题或现象的描述或说明。知识是人们对信息的理解和总结，是对事物本质和规律的认识。根据这些定义，可以判断(1)是数据，因为它只是对某同学身高和体重的量化表示，没有提供任何额外的含义；(2)是信息，因为它是对(1)的数据进行了处理和解释，给出了一个判断；(3)是知识，因为它是对体重指数这一概念的定义和公式，反映了人们对身体健康的认识；(4)也是知识，因为它是对中国人体重指数的标准和影响的总结，反映了人们对超重问题的规律。因此，选项C是正确答案。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;解析：数据库应用软件是一种用于存储、管理和查询大量数据的软件，可以实现数据的增删改查、统计分析、报表生成等功能。数据库应用软件适合用于管理选修课程信息，因为选修课程信息涉及到多个字段（如课程名称、教师姓名、上课时间、选修人数等），需要进行有效的组织和检索。图像处理软件是一种用于编辑和处理图像文件的软件，如Photoshop等；字处理软件是一种用于编辑和排版文本文件的软件，如Word等；多媒体制作软件是一种用于制作和播放包含声音、图像、动画等多种媒体元素的文件的软件，如PowerPoint等。这些软件都不适合用于管理选修课程信息。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;解析：这些语句是使用Python语言编写的，Python语言是一种解释型、面向对象、高级程序设计语言。Python语言有以下特点：使用缩进来表示代码块；使用冒号来开始一个代码块；使用for循环来遍历一个序列；使用range函数来生成一个整数序列；使用print函数来输出内容到屏幕。根据这些特点，可以判断正确的语句顺序是：先初始化s为0（③），然后使用for循环遍历从1到25（不包括26）每隔3个数的序列（①），每次循环将s加上当前数（④），最后输出s的值（②）。因此，选项C是正确答案。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;解析：程序设计语言按照其与计算机硬件的接近程度可以分为机器语言、汇编语言和高级语言。机器语言是计算机能够直接识别和执行的二进制代码，汇编语言是用助记符表示的指令和操作数，高级语言是用人类自然语言或数学符号表示的指令和数据。Python是一种高级语言，它具有简洁、易读、跨平台、可扩展等特点。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;解析：计算机病毒是一种能够自我复制并感染其他程序或文件的恶意代码，它通常会对计算机系统或数据造成不同程度的损害。计算机病毒不是有错误的、设计不完善的或被破坏的计算机程序，而是有意制造的特殊计算机程序。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;解析：信息安全与网络道德是指在网络环境中保护信息不被非法获取、篡改或泄露，以及遵守网络规范和尊重他人隐私权的原则。为节省上网流量，把手机设置为自动连接无线Wi-Fi可能会导致信息被窃取或篡改；随意扫描公共场所中的二维码可能会遭遇诈骗或恶意软件；在朋友圈中转发未经核实的传闻可能会造成谣言的传播或侵犯他人名誉权。只有经对方许可，将含有对方信息的照片分享到朋友圈中才符合信息安全与网络道德的要求。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;解析：物联网是指通过无线通信技术将各种物体连接起来，实现智能化管理和服务的网络系统。RFID（Radio Frequency Identification）是一种无线电频率识别技术，它利用无线电波在读写器和电子标签之间进行数据传输，实现对物体的自动识别和跟踪。RFID主要用于物联网中的感知识别层，负责收集物体的基本信息，并将其传送到网络层。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;解析：虚拟现实（Virtual Reality）是一种利用计算机生成模拟环境，让用户通过视觉、听觉、触觉等感官体验到仿真的现实世界。3D电影《美人鱼》使用了虚拟现实技术，通过特殊的眼镜或头盔，让观众感受到电影中的场景和人物就在眼前，产生一种沉浸式的观影效果。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;解析：信息系统是指由人、硬件、软件、数据和网络等组成的，能够收集、处理、存储和传输信息的系统。网上银行是一种利用互联网技术，提供金融服务的信息系统，它可以让用户通过电脑或手机等终端，实现账户查询、转账汇款、理财投资等功能。如果要进行网上转账交易，就需要选择网上银行这种信息系统。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;解析：信息是指对事物的认识或描述，它是客观存在的事物在人类意识中的反映。信息必须依附于某种载体才能存在和传播，例如文字、声音、图像等。无线电技术并不能使信息不依附载体存在，它只是利用电磁波作为载体，将信息从一个地点传送到另一个地点。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;解析：HTTP是超文本传输协议，它是一种用于在浏览器和Web务器之间交换信息的协议。SMTP是简单邮件传输协议，它是一种用于发送和接收电子邮件的协议。APP是应用程序的简称，它是一种为特定目的而设计的软件。FTP是文件传输协议，它是一种用于在网络上上传和下载文件的协议。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;解析：信息系统的基本组成元素包括硬件、软件、数据、通信方式和人员。硬件是指物理设备，如计算机、打印机、扫描仪等。软件是指指令集合，如操作系统、应用程序、数据库等。数据是指信息的原始形式，如数字、文字、图像等。通信方式是指数据传输的手段，如网络、电话、电视等。人员是指信息系统的使用者和管理者，如用户、程序员、管理员等。价格是指商品或务的价值，它与信息系统的基本组成元素无关。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;二填空题每小题2分共20分&#34;&gt;二、填空题(每小题2分，共20分)&lt;a class=&#34;headerlink&#34; href=&#34;#二填空题每小题2分共20分&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;解析：答案是 存储 。数据存储（Data storage）是指将数据保存在某种介质中，以便于后续的使用或传输。公交IC卡收费系统需要将卡内余额等数据存储在卡片或POS机中，以便于进行消费或查询等操作。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;解析：答案是 饼图 。饼图（Pie chart）是一种用圆形的扇形区域来表示数据的图形，每个扇形区域的大小与数据的比例成正比。饼图可以直观地展示数据的分布情况，适合用于显示部分所占整体的比例。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;解析：云存储（Cloud storage）是一种利用互联网将数据存储在远程服务器上的服务，用户可以通过网络随时随地访问、分享数据，而不需要携带物理介质。云存储具有容量大、安全性高、成本低等优点。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;解析：信息（Information）是指对人或事物有用的知识或消息，是经过加工和解释后的数据。例如，“小王百米跑步成绩是14秒”这句话就是对“14秒”这个数据进行了解释和赋予了意义，从而成为了信息。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;解析：二进制数（Binary number）是一种只使用0和1两个数字来表示数值的进制系统，它是计算机中最基本和最常用的数制。二进制数可以通过位运算进行加减乘除等运算。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;解析： 信息技术涵盖了获取、表示、传输、存储和加工信息在内的各种技术。自电子计算机问世以来，信息技术沿着以计算机为核心、到以互联网为核心、再到以数据为核心的发展脉络， 深刻影响着社会的经济结构和生产方式，加快了全球范围内的 知识更新和技术创新，推动了社会信息化、智能化的建设与发展，催生出现实空间与虚拟空间并存的信息社会，并逐步构建出智慧社会。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;解析：射频识别（Radio frequency identification，RFID）是一种利用无线电波进行数据通信的技术，它可以通过射频信号自动识别目标对象并获取相关数据。射频识别技术广泛应用于交通、物流、安防等领域，如身份证、公交卡、电子标签等。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;解析：量化（Quantization）是指将连续变化的模拟信号分割成有限个离散的数值，以便于用二进制数表示。量化的精度取决于量化的级数，级数越多，精度越高，误差越小。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;解析：双引号（Double quotation mark）是一种用于表示字符串的符号，与单引号（Single quotation mark）功能相同。Python语言中的字符串可以使用单引号或双引号来表示，如&amp;rdquo;Hello&amp;rdquo;和&amp;rsquo;Hello&amp;rsquo;都是有效的字符串。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;解析该程序段的功能是计算并打印表达式4+A/B的值，其中A和B分别赋值为15和4。根据运算符的优先级，先计算A/B，得到3.75，再加上4，得到7.75。因此，程序段的运行结果是7.75。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;三判断题正确的错误的画x每小题1分共10分&#34;&gt;三、判断题(正确的“√”，错误的画“x”，每小题1分，共10分)&lt;a class=&#34;headerlink&#34; href=&#34;#三判断题正确的错误的画x每小题1分共10分&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;img alt=&#34;image&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/06/image.6t6znpyp4n.webp&#34; /&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;解析：虚拟现实技术（Virtual Reality，VR）是一种利用计算机生成模拟环境，让用户感觉自己身处其中的技术。它可以模拟各种复杂的场景，如深海、太空等，为用户提供逼真的体验和交互。我国“蛟龙”号深潜器操作员就是利用虚拟现实技术进行深潜作业训练，提高安全性和效率。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;解析：欧姆定律（Ohm&amp;rsquo;s law）是电学中的一个基本定律，它描述了电流、电压和电阻之间的关系。欧姆定律的实验数据可以用Python工具进行分析、建模和验证，例如使用numpy、matplotlib等库进行数值计算和可视化，从而能够比较精确地发现规律，从而获得知识。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;解析：数据（Data）是对客观事物的符号表示，在计算机科学中，数据是计算机处理的对象，是计算机程序操作的输入和输出。人们用数据记录自然现象与社会发展，例如温度、湿度、人口、经济等，数据可以用来描述不同事物的特征，例如平均值、方差、相关性等。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;解析：大数据（Big data）是指在传统数据处理应用软件不足以处理的大或复杂的数据集的术语。大数据具有四个特点：海量（Volume）、多样（Variety）、快速（Velocity）和价值（Value）。由于数据量大，服务器一般采用分布式文件存储或数据库存储，例如Hadoop Distributed File System（HDFS）或MongoDB等。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;解析：Python中“/”表示除法运算，即求商。例如3/2=1.5。Python中求余运算符是“%”，即求余数。例如3%2=1。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;解析：数据字典（Data dictionary）是一种用于描述数据的元数据（Metadata），它记录了数据的名称、类型、结构、来源、用途等信息，是对数据流程图中的各元素的补充说明。数据字典可以帮助用户和开发者更好地理解和使用数据，提高数据的质量和一致性。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;解析：黑客入侵信息系统属于主动攻击（Active attack），即攻击者主动地修改或破坏信息系统的正常功能或数据，例如病毒、木马、拒绝服务等。被动攻击（Passive attack）是指攻击者只是监听或窃取信息系统的数据，而不改变其内容或状态，例如嗅探、监听等。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;解析：某电子设备的电路板上有一个4位的“跳板开关”，此开关每一位都只有“打开”和“闭合”两种状态，这个“跳板开关”最多可以表示的状态数是2^4=16。这是因为每一位开关都可以用二进制数0或1表示，而4位开关就可以组成一个4位二进制数，从0000到1111共有16种可能。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;解析：智能安防技术（Intelligent security technology）是一种利用人工智能（Artificial intelligence，AI）对视频、图像进行存储和分析，从中识别安全隐患并对其进行处理的技术。它可以应用于交通监控、人脸识别、异常行为检测等领域，提高安防效率和水平。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;script src=&#34;https://giscus.app/client.js&#34;
-    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
-    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
-    data-mapping=&#34;number&#34;
-    data-term=&#34;24&#34;
-    data-reactions-enabled=&#34;1&#34;
-    data-emit-metadata=&#34;0&#34;
-    data-input-position=&#34;bottom&#34;
-    data-theme=&#34;light&#34;
-    data-lang=&#34;zh-CN&#34;
-    crossorigin=&#34;anonymous&#34;
-    async&gt;
-&lt;/script&gt;</description>
-      <link>https://doc.ccsyue.com/discussions-24/</link>
-      <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
-      <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
-      
-      <guid isPermaLink="true">https://doc.ccsyue.com/discussions-24/</guid>
       
     </item>
     
