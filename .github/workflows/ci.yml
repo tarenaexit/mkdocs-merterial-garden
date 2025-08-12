@@ -43,22 +43,6 @@ jobs:
       #     SOURCE_DIR: 'docs/note'
       #     DEST_DIR: 'note'
 
-      - name: 下载到本地
-        uses: luxl/download-s3-with-endpoint@v0.2.2
-        with:
-          aws_access_key_id: ${{ secrets.STORAGE_KEY_ID }}
-          aws_secret_access_key: ${{ secrets.STORAGE_SECRET }}
-          aws_region: 'auto'
-          aws_bucket: ${{ secrets.STORAGE_BUCKET }}
-          endpoint: ${{ secrets.STORAGE_ENDPOINT }}
-          source: 'note'
-          target: 'docs/note'
-
-      - name: has Number of successful files
-        if: ${{ success() }}
-        run: |
-          echo "DIFF_CONTENT='NOT NULL'" >> $GITHUB_ENV
-
       - name: 获取并保存所有 Discussions content+meta 信息
         run: |
           ls -al docs
@@ -113,7 +97,22 @@ jobs:
             echo -e "提示: 没有比较文件."
             echo "DIFF_CONTENT=" >> $GITHUB_ENV
           fi 
+      - name: 下载到本地
+        uses: luxl/download-s3-with-endpoint@v0.2.2
+        with:
+          aws_access_key_id: ${{ secrets.STORAGE_KEY_ID }}
+          aws_secret_access_key: ${{ secrets.STORAGE_SECRET }}
+          aws_region: 'auto'
+          aws_bucket: ${{ secrets.STORAGE_BUCKET }}
+          endpoint: ${{ secrets.STORAGE_ENDPOINT }}
+          source: 'note'
+          target: 'docs/note'
 
+      - name: has Number of successful files
+        if: ${{ success() }}
+        run: |
+          echo "DIFF_CONTENT='NOT NULL'" >> $GITHUB_ENV
+          
       - name: 执行 Push 提交(当 metadata.old/new 内容不一致时)
         if: env.DIFF_CONTENT != '' 
         uses: ad-m/github-push-action@master
