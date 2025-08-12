@@ -7,19 +7,19 @@
     zoom: 1.1;
   } */
   html {
-    font-size: 150%;
+    font-size: 200%;
   }
 }
 
 @media screen and (min-width: 100em) {
   html {
-    font-size: 1505%;
+    font-size: 200%;
   }
 }
 
 @media screen and (min-width: 125em) {
   html {
-    font-size: 150%;
+    font-size: 200%;
   }
 }
 /* Light mode */
