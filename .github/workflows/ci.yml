@@ -31,17 +31,39 @@ jobs:
       - name: Install requirements
         run: pip3 install requests python-slugify pytz PyYaml
       
-      - uses: FugaCloud/s3-sync-action@2.0.0
+      # - uses: FugaCloud/s3-sync-action@2.0.0
+      #   with:
+      #     args: --s3-acl private -v -i --links --metadata
+      #   env:
+      #     ACCESS_KEY_ID: ${{ secrets.STORAGE_KEY_ID }}
+      #     SECRET_ACCESS_KEY: ${{ secrets.STORAGE_SECRET }}
+      #     ENDPOINT: ${{ secrets.STORAGE_ENDPOINT }}
+      #     BUCKET: ${{ secrets.STORAGE_BUCKET }}
+      #     REGION: 'auto'
+      #     SOURCE_DIR: 'docs/note'
+      #     DEST_DIR: 'note'
+
+      - name: 同步图片到 R2
+        uses: DullJZ/sync-r2-action@v1
         with:
-          args: --s3-acl private -v -i --links --metadata
-        env:
-          ACCESS_KEY_ID: ${{ secrets.STORAGE_KEY_ID }}
-          SECRET_ACCESS_KEY: ${{ secrets.STORAGE_SECRET }}
-          ENDPOINT: ${{ secrets.STORAGE_ENDPOINT }}
-          BUCKET: ${{ secrets.STORAGE_BUCKET }}
-          REGION: 'auto'
-          SOURCE_DIR: 'docs/note'
-          DEST_DIR: 'note'
+          # 使用 Secrets 传递凭证
+          r2_access_key_id: ${{ secrets.STORAGE_KEY_ID }}
+          r2_secret_access_key: ${{ secrets.STORAGE_SECRET }}
+          r2_endpoint: ${{ secrets.STORAGE_ENDPOINT }} # 也将你的 R2 endpoint 作为 Secret 存储
+          r2_bucket_name: ${{ secrets.STORAGE_BUCKET }}
+
+          # 可选：指定源和目标目录
+          source_dir: 'docs/note'
+          destination_dir: 'note' # 上传到存储桶内的 'website-images/' 前缀下
+
+          # 可选：使用 sync 模式替代 copy
+          sync_mode: 'bisync'
+
+          # 可选：自定义包含过滤器 (如果不仅仅是图片)
+          # include_filter: '*.jpg *.png *.css'
+
+          # 可选：添加额外的 rclone 标志
+          # rclone_flags: '--dry-run --verbose'
 
       - name: 获取并保存所有 Discussions content+meta 信息
         run: |
