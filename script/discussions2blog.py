@@ -44,6 +44,9 @@ def __main__():
         blogPostsDir.mkdir(parents=True, exist_ok=True)
 
     # 处理所有的 discussions
+    year_blogs_dict = {}
+    
+    # 处理所有的 discussions
     if 'nodes' in discussionsDict.keys():
         discussionsList = discussionsDict['nodes']
         for discussion in discussionsList:
