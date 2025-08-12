@@ -6,9 +6,9 @@ sort:
 
 nav:
     - 主页: index.md
-    - 记录: note
     - 技术: tech
     - 博客: blog
+    - 记录: note
     - 专题: topic
     - 留言: message
     - 关于: readme

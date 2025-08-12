@@ -93,7 +93,7 @@ jobs:
 
       - name: 检测 metadata.old/new 内容是否有变更
         run: |
-          if [ -f "docs/metadata.old.txt" ] && [ -f "docs/metadata.new.txt" ]; then
+          if ([ -f "docs/metadata.old.txt" ] && [ -f "docs/metadata.new.txt" ]) || [ "$DOWNLOAD_CONTENT" ]; then
             CONTENT=$(diff docs/metadata.old.txt docs/metadata.new.txt || true)
             echo -e "$CONTENT" > docs/diff.txt
             if [ "$CONTENT" ] || [ "$DOWNLOAD_CONTENT" ]; then
