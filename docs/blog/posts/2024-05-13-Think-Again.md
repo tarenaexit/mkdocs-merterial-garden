@@ -11,7 +11,7 @@ tags: ['2.1.1-科学素养']
 ---
 
 ![image](https://cdn.ccsyue.com/picx-images-hosting/master/20240513/image.7awzfnzd1s.webp)
-
+<!-- more -->
 ## MENTAL FLEXIBILITY
 Thinking again can help you generate new solutions to old problems and revisit old solutions to new problems.
 

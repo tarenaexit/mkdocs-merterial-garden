@@ -17,7 +17,7 @@ tags: ['2.1.1-科学素养']
 The SIFT method is an evaluation strategy developed by digital literacy expert, Mike Caulfield, to help determine whether online content can be trusted for credible or reliable sources of information. All SIFT information on this page is adapted from his materials with a [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
 
 Determining if resources are credible is challenging. Use the SIFT method to help you analyze information, especially news or other online media.
-
+<!-- more -->
 ## S - Stop
 
 **Before you read or share an article or video, STOP!​**
