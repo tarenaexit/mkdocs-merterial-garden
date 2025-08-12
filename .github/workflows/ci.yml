@@ -17,7 +17,7 @@ jobs:
 
       - name: Git config
         run: |
-          git config --global user.name "shenweiyan"
+          git config --global user.name "tarenaexit"
           git config --global user.email "weiyanshum@gmail.com"
 
       - name: Git Pull
