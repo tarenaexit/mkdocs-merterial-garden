@@ -28,6 +28,7 @@ theme:
     - navigation.instant
     - navigation.tracking
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.indexes
     - navigation.top
     - navigation.sections
@@ -55,6 +56,8 @@ markdown_extensions:
     - pymdownx.details
     - md_in_html
     - pymdownx.superfences
+    - pymdownx.tabbed:
+        alternate_style: true
     - smarty
     - toc:
         permalink: True
@@ -93,6 +96,7 @@ plugins:
       exclude:
           - blog/archive/*
           - blog/category/*
+  - awesome-nav
   - awesome-pages:
       order: desc
       sort_type: natural
