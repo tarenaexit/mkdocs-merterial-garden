@@ -113,7 +113,7 @@ jobs:
           ACCESS_KEY_ID: ${{ secrets.STORAGE_KEY_ID }}
           SECRET_ACCESS_KEY: ${{ secrets.STORAGE_SECRET }}
           ENDPOINT: ${{ secrets.STORAGE_ENDPOINT }}
-          BUCKET: ${{ secrets.STORAGE_BUCKET }}
+          BUCKET: https://${{ secrets.STORAGE_BUCKET }}
           REGION: 'us-east-1'
           SOURCE_DIR: 'docs/note'
           DEST_DIR: 'note'
