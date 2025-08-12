@@ -22,7 +22,7 @@ theme:
   favicon: assets/logo.ico
   logo: assets/octocat.png
   font:
-    text: "Microsoft Yahei"
+    text: "'Open Sans', 'Helvetica Neue', Arial, 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif"
     code: "Consolas,Courier,courier new,stkaiti,kaiti,simkai,monospace"
   features:
     - navigation.instant
@@ -123,6 +123,7 @@ extra:
 extra_css:
   - css/extra.css
   - css/interactive_graph.css
+  - css/obsidian_tags.css
 
 extra_javascript:
     - js/mathjax.js
@@ -131,3 +132,4 @@ extra_javascript:
     - https://cdn.bootcdn.net/ajax/libs/jquery/3.7.1/jquery.min.js
     - https://cdn.bootcdn.net/ajax/libs/echarts/5.6.0/echarts.common.min.js
     - js/interactive_graph.js
+    - js/obsidian_tags.js
