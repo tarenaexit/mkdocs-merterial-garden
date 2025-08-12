@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Tue, 12 Aug 2025 03:23:39 -0000</pubDate>
-    <lastBuildDate>Tue, 12 Aug 2025 03:23:39 -0000</lastBuildDate>
+    <pubDate>Tue, 12 Aug 2025 04:19:30 -0000</pubDate>
+    <lastBuildDate>Tue, 12 Aug 2025 04:19:30 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,21 @@
     
 
     
+    
+    <item>
+      <title>Index</title>
+      
+      
+      
+      
+      <description></description>
+      <link>https://doc.ccsyue.com/note/</link>
+      <pubDate>Tue, 12 Aug 2025 04:18:48 +0000</pubDate>
+      <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
+      
+      <guid isPermaLink="true">https://doc.ccsyue.com/note/</guid>
+      
+    </item>
     
     <item>
       <title>常用资源</title>
@@ -82,7 +97,7 @@
 &lt;p&gt;国内虽然不少人都在使用 Gitee，但 Gitee 时不时恶心你一下（前不久就无缘无故把我的 oschina 的账号封了，而且要加 QQ 群去申诉，最后我是直接通过邮件反馈解封了），而且有时候有些资源用起来限制太多，很麻烦。&lt;/p&gt;
 &lt;p&gt;极狐从 2024 年 1 月 2 日起要付费才能使用，1898元/人/年的价格估计会劝退 90% 的个人用户吧！&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/readme/res/</link>
-      <pubDate>Tue, 12 Aug 2025 03:22:56 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 04:18:48 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/readme/res/</guid>
@@ -121,7 +136,7 @@
     &lt;img style=&#34;max-widrh:600px&#34; src=&#34;https://slab-1251708715.cos.ap-guangzhou.myqcloud.com/website/portfolio/webstack-hugo.jpg&#34; alt=&#34;WebStack-Hugo&#34;&gt;
 &lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/readme/work/</link>
-      <pubDate>Tue, 12 Aug 2025 03:22:56 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 04:18:48 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/readme/work/</guid>
@@ -1953,39 +1968,6 @@ SCREEGO_TLS_KEY_FILE=/root/screego-demo/server.key
       <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/discussions-24/</guid>
-      
-    </item>
-    
-    <item>
-      <title>学业水平测试题2答案</title>
-      
-      
-        
-      <author>tarenaexit</author>
-        
-      
-      
-      
-      <description>&lt;p&gt;&lt;img alt=&#34;2-1&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/06/2-1.39l1xxxhqw.webp&#34; /&gt;
-&lt;img alt=&#34;2-2&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/06/2-2.7p5wpwa28.webp&#34; /&gt;&lt;/p&gt;
-&lt;script src=&#34;https://giscus.app/client.js&#34;
-    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
-    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
-    data-mapping=&#34;number&#34;
-    data-term=&#34;25&#34;
-    data-reactions-enabled=&#34;1&#34;
-    data-emit-metadata=&#34;0&#34;
-    data-input-position=&#34;bottom&#34;
-    data-theme=&#34;light&#34;
-    data-lang=&#34;zh-CN&#34;
-    crossorigin=&#34;anonymous&#34;
-    async&gt;
-&lt;/script&gt;</description>
-      <link>https://doc.ccsyue.com/discussions-25/</link>
-      <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
-      <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
-      
-      <guid isPermaLink="true">https://doc.ccsyue.com/discussions-25/</guid>
       
     </item>
     
