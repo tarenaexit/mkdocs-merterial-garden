@@ -110,6 +110,8 @@ plugins:
   - tags:
       listings: true
   - obsidian-interactive-graph
+  - obsidian-support
+  - obsidian-bridge
 
 hooks:
   - hooks.py
