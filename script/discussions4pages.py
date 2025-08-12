@@ -79,11 +79,12 @@ def __main__():
                                f'author: 天边飘过一行字\n'
                                f'date: 2023-07-24\n'
                                f'updated: 2024-03-21\n'
+                               f'comments: true\n'
                                f'---\n\n')
                 with open(flinks_md, "w") as FMD:
                     FMD.write(f_metadata)
                     FMD.write(discussion_body)
-                    FMD.write(comments)
+                #    FMD.write(comments)
 
             elif int(discussion_number) == 4:
                 #留言
@@ -96,11 +97,12 @@ def __main__():
                                f'author: 天边飘过一行字\n'
                                f'date: 2023-07-24\n'
                                f'updated: 2024-03-21\n'
+                               f'comments: true\n'
                                f'---\n\n')
                 with open(message_md, "w") as MMD:
                     MMD.write(m_metadata)
                     MMD.write(discussion_body)
-                    MMD.write(comments)
+                    # MMD.write(comments)
             
             elif int(discussion_number) == 3:
                 #关于
@@ -113,11 +115,12 @@ def __main__():
                                f'author: 天边飘过一行字\n'
                                f'date: 2023-07-24\n'
                                f'updated: 2024-03-21\n'
+                               f'comments: true\n'
                                f'---\n\n')
                 with open(readme_md, "w") as RMD:
                     RMD.write(r_metadata)
                     RMD.write(discussion_body)
-                    RMD.write(comments)
+                    # RMD.write(comments)
             else:
                 continue
 

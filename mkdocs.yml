@@ -107,6 +107,7 @@ plugins:
       post_url_date_format: ""
       pagination_if_single_page: true
       tags: true
+  
   - tags:
       listings: true
 

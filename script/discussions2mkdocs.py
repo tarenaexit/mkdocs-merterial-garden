@@ -74,6 +74,7 @@ def __main__():
                             f'authors: [{discussion_author}]\n'
                             f'categories: \n'
                             f'  - {discussion_category}\n'
+                            f'comments: true\n'
                             f'tags: {discussion_labels}\n'
                             f'---\n\n')
             
@@ -116,7 +117,7 @@ def __main__():
                 with open(savedPostFile, "w") as MD:
                     MD.write(metadata)
                     MD.write(discussion_body)
-                    MD.write(comments)
+                    # MD.write(comments)
             else:
                 continue
 

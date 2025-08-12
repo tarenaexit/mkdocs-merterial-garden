@@ -81,6 +81,7 @@ def __main__():
                             f'authors: [{discussion_author}]\n'
                             f'categories: \n'
                             f'  - {category_name}\n'
+                            f'comments: true\n'
                             f'tags: {discussion_labels}\n'
                             f'---\n\n')
             
@@ -104,7 +105,7 @@ def __main__():
             with open(savedBlogFile, "w") as MD:
                 MD.write(metadata)
                 MD.write(discussion_body)
-                MD.write(comments)
+                # MD.write(comments)
 
             create_year   = discussion_createdAt[0:4]
             blog_full_url = f'../{slug_name}'
