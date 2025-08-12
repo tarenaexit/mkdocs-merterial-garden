@@ -1,4 +1,1 @@
-26c26
-< {'title': '食谱', 'number': 22, 'url': 'https://github.com/tarenaexit/mkdocs-merterial-garden/discussions/22', 'createdAt': '2024-06-04T01:27:45Z', 'lastEditedAt': '2025-08-12T09:37:22Z', 'updatedAt': '2025-08-12T09:37:22Z', 'author': {'login': 'tarenaexit'}, 'category': {'name': '2.3-健康'}, 'labels': {'nodes': []}}
----
-> {'title': '食谱', 'number': 22, 'url': 'https://github.com/tarenaexit/mkdocs-merterial-garden/discussions/22', 'createdAt': '2024-06-04T01:27:45Z', 'lastEditedAt': '2025-08-12T12:33:21Z', 'updatedAt': '2025-08-12T12:33:21Z', 'author': {'login': 'tarenaexit'}, 'category': {'name': '2.3-健康'}, 'labels': {'nodes': []}}
+
