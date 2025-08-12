@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Tue, 12 Aug 2025 07:42:34 -0000</pubDate>
-    <lastBuildDate>Tue, 12 Aug 2025 07:42:34 -0000</lastBuildDate>
+    <pubDate>Tue, 12 Aug 2025 08:03:44 -0000</pubDate>
+    <lastBuildDate>Tue, 12 Aug 2025 08:03:44 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -32,17 +32,17 @@
     
     
     <item>
-      <title>Index2</title>
+      <title>Untitled</title>
       
       
       
       
-      <description>&lt;p&gt;22&lt;/p&gt;</description>
-      <link>https://doc.ccsyue.com/note/index2/</link>
-      <pubDate>Tue, 12 Aug 2025 07:42:35 +0000</pubDate>
+      <description>&lt;p&gt;11&lt;/p&gt;</description>
+      <link>https://doc.ccsyue.com/note/Untitled/</link>
+      <pubDate>Tue, 12 Aug 2025 08:03:34 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
       
-      <guid isPermaLink="true">https://doc.ccsyue.com/note/index2/</guid>
+      <guid isPermaLink="true">https://doc.ccsyue.com/note/Untitled/</guid>
       
     </item>
     
@@ -54,7 +54,7 @@
       
       <description>&lt;p&gt;test&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/note/index1/</link>
-      <pubDate>Tue, 12 Aug 2025 07:42:35 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 08:03:34 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/note/index1/</guid>
@@ -62,17 +62,17 @@
     </item>
     
     <item>
-      <title>Untitled</title>
+      <title>Index2</title>
       
       
       
       
-      <description>&lt;p&gt;11&lt;/p&gt;</description>
-      <link>https://doc.ccsyue.com/note/Untitled/</link>
-      <pubDate>Tue, 12 Aug 2025 07:42:35 +0000</pubDate>
+      <description>&lt;p&gt;22&lt;/p&gt;</description>
+      <link>https://doc.ccsyue.com/note/index2/</link>
+      <pubDate>Tue, 12 Aug 2025 08:03:34 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
       
-      <guid isPermaLink="true">https://doc.ccsyue.com/note/Untitled/</guid>
+      <guid isPermaLink="true">https://doc.ccsyue.com/note/index2/</guid>
       
     </item>
     
@@ -84,7 +84,7 @@
       
       <description></description>
       <link>https://doc.ccsyue.com/note/</link>
-      <pubDate>Tue, 12 Aug 2025 07:41:55 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 08:03:02 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/note/</guid>
@@ -92,7 +92,7 @@
     </item>
     
     <item>
-      <title>常用资源</title>
+      <title>资源</title>
       
       
       
@@ -142,7 +142,7 @@
 &lt;p&gt;国内虽然不少人都在使用 Gitee，但 Gitee 时不时恶心你一下（前不久就无缘无故把我的 oschina 的账号封了，而且要加 QQ 群去申诉，最后我是直接通过邮件反馈解封了），而且有时候有些资源用起来限制太多，很麻烦。&lt;/p&gt;
 &lt;p&gt;极狐从 2024 年 1 月 2 日起要付费才能使用，1898元/人/年的价格估计会劝退 90% 的个人用户吧！&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/readme/res/</link>
-      <pubDate>Tue, 12 Aug 2025 07:41:55 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 08:03:02 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/readme/res/</guid>
@@ -150,7 +150,7 @@
     </item>
     
     <item>
-      <title>开源作品</title>
+      <title>推荐</title>
       
       
       
@@ -181,7 +181,7 @@
     &lt;img style=&#34;max-widrh:600px&#34; src=&#34;https://slab-1251708715.cos.ap-guangzhou.myqcloud.com/website/portfolio/webstack-hugo.jpg&#34; alt=&#34;WebStack-Hugo&#34;&gt;
 &lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/readme/work/</link>
-      <pubDate>Tue, 12 Aug 2025 07:41:55 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 08:03:02 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/readme/work/</guid>
