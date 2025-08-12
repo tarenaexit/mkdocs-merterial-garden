@@ -80,12 +80,22 @@ def __main__():
     parser = optparse.OptionParser(usage=usage)
     parser.add_option('-r', '--github_repo', help="GitHub repository name with namespace.")
     parser.add_option('-t', '--github_token', help='GitHub access token.')
-    parser.add_option('-o', '--output', default='Discussions.txt', help='Output txt file (%default).')
+    parser.add_option('-m', '--mode', default="both", help='Result mode (meta|content|both).')
+    parser.add_option('-o', '--outdir', default='docs', help='Output dir (%default).')
 
     opts, args = parser.parse_args()
     gh_token   = opts.github_token
     gh_repo    = opts.github_repo
-    outfile    = opts.output
+    mtype      = opts.mode
+    outdir     = opts.outdir
+
+    # 判断目录是否存在并创建
+    outpath = Path(outdir)
+    if not outpath.exists():
+        outpath.mkdir(parents=True, exist_ok=True)  # 递归创建，忽略已存在错误
+
+    content_file  = Path(outdir).joinpath("Discussions.txt")
+    metadata_file = Path(outdir).joinpath("metadata.new.txt")
 
     # 获取一个时区对象（例如，北京的时区）
     beijing_timezone = pytz.timezone('Asia/Shanghai')
@@ -110,9 +120,18 @@ def __main__():
         allDiscussions = allDiscussions + discussions
 
     # 保存所有的 Discussions 为 txt 格式
-    discussionsDict = {'date': str(beijing_time), 'nodes': allDiscussions}
-    with open(outfile, "w") as OUT:
-        OUT.write(str(discussionsDict))
+    #discussionsDict = {'date': str(beijing_time), 'nodes': allDiscussions}
+    discussionsDict = {'nodes': allDiscussions}
+    if mtype == "both" or mtype == "content":
+        with open(content_file, "w") as COUT:
+            COUT.write(str(discussionsDict))
+    if mtype == "both" or mtype == "meta":
+        keys_to_remove = ['body', 'bodyText', 'bodyHTML', 'comments']
+        with open(metadata_file, "w") as MOUT:
+            for each_discussion in allDiscussions:
+                for key in keys_to_remove:
+                    each_discussion.pop(key, None)  # 安全删除多个键
+                MOUT.write(str(each_discussion)+"\n")
        
 if __name__ == "__main__":
     __main__()

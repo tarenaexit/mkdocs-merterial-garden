@@ -43,18 +43,48 @@ jobs:
       - name: Generate mkdocs special pages
         run: python3 script/discussions4pages.py -i docs/Discussions.txt
 
-      - name: Commit files
+      # - name: Commit files
+      #   run: |
+      #     current="`TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S'`"
+      #     message="Add Changes By GitHub Actions: $current (CST/UTC-8)"
+      #     echo "$message" > update.log          
+      #     git add --all
+      #     git commit -a -m "$message" 
+
+      # - name: Generate cache_id
+      #   run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV
+
+      # - name: Push Changes
+      #   uses: ad-m/github-push-action@master
+      #   with:
+      #     github_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+      #     branch: main
+
+      - name: 检测 metadata.old/new 内容是否有变更
         run: |
-          current="`TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S'`"
-          message="Add Changes By GitHub Actions: $current (CST/UTC-8)"
-          echo "$message" > update.log          
-          git add --all
-          git commit -a -m "$message" 
+          if [ -f "docs/metadata.old.txt" ] && [ -f "docs/metadata.new.txt" ]; then
+            CONTENT=$(diff docs/metadata.old.txt docs/metadata.new.txt || true)
+            echo -e "$CONTENT" > docs/diff.txt
+            if [ "$CONTENT" ]; then
+              echo -e "提示: 文件内容不一致, 参考 docs/diff.txt 文件."
+              echo "DIFF_CONTENT='NOT NULL'" >> $GITHUB_ENV
+              mv docs/metadata.new.txt docs/metadata.old.txt
+              echo -e "提示: 使用 docs/metadata.new.txt 的内容覆盖 docs/metadata.old.txt."
+              current="`TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S'`"
+              message="Add Changes By GitHub Actions: $current (CST/UTC-8)"
+              git add --all
+              git commit -a -m "$message"
+            else
+              echo -e "提示: CONTENT 内容为空."
+              echo "DIFF_CONTENT=" >> $GITHUB_ENV
+            fi
+          else
+            echo -e "提示: 没有比较文件."
+            echo "DIFF_CONTENT=" >> $GITHUB_ENV
+          fi 
 
-      - name: Generate cache_id
-        run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV
-
-      - name: Push Changes
+      - name: 执行 Push 提交(当 metadata.old/new 内容不一致时)
+        if: env.DIFF_CONTENT != '' 
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
@@ -66,5 +96,8 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
+      - run: echo ${{ env.DIFF_CONTENT }}
       - run: pip install -r requirements.txt
+        if: env.DIFF_CONTENT != '' || github.ref == 'refs/heads/main'
       - run: mkdocs gh-deploy --force
+        if: env.DIFF_CONTENT != '' || github.ref == 'refs/heads/main'
