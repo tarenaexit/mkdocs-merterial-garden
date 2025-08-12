@@ -33,7 +33,7 @@ jobs:
       
       - uses: FugaCloud/s3-sync-action@2.0.0
         with:
-          args: --s3-acl private -v -i --hash --links --metadata
+          args: --s3-acl private -v -i--links --metadata --hash h 
         env:
           ACCESS_KEY_ID: ${{ secrets.STORAGE_KEY_ID }}
           SECRET_ACCESS_KEY: ${{ secrets.STORAGE_SECRET }}
