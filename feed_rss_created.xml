@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Tue, 12 Aug 2025 11:47:08 -0000</pubDate>
-    <lastBuildDate>Tue, 12 Aug 2025 11:47:08 -0000</lastBuildDate>
+    <pubDate>Tue, 12 Aug 2025 12:06:17 -0000</pubDate>
+    <lastBuildDate>Tue, 12 Aug 2025 12:06:17 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -39,7 +39,7 @@
       
       <description></description>
       <link>https://doc.ccsyue.com/note/</link>
-      <pubDate>Tue, 12 Aug 2025 11:46:24 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 12:05:38 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/note/</guid>
@@ -54,7 +54,7 @@
       
       <description>&lt;p&gt;11&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/note/Untitled/</link>
-      <pubDate>Tue, 12 Aug 2025 11:46:24 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 12:05:38 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/note/Untitled/</guid>
@@ -70,7 +70,7 @@
       <description>&lt;p&gt;test
 test&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/note/index1/</link>
-      <pubDate>Tue, 12 Aug 2025 11:46:24 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 12:05:38 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/note/index1/</guid>
@@ -86,7 +86,7 @@ test&lt;/p&gt;</description>
       <description>&lt;p&gt;22
 [[index1]]&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/note/index2/</link>
-      <pubDate>Tue, 12 Aug 2025 11:46:24 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 12:05:38 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/note/index2/</guid>
@@ -144,7 +144,7 @@ test&lt;/p&gt;</description>
 &lt;p&gt;国内虽然不少人都在使用 Gitee，但 Gitee 时不时恶心你一下（前不久就无缘无故把我的 oschina 的账号封了，而且要加 QQ 群去申诉，最后我是直接通过邮件反馈解封了），而且有时候有些资源用起来限制太多，很麻烦。&lt;/p&gt;
 &lt;p&gt;极狐从 2024 年 1 月 2 日起要付费才能使用，1898元/人/年的价格估计会劝退 90% 的个人用户吧！&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/readme/res/</link>
-      <pubDate>Tue, 12 Aug 2025 11:46:24 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 12:05:38 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/readme/res/</guid>
@@ -183,7 +183,7 @@ test&lt;/p&gt;</description>
     &lt;img style=&#34;max-widrh:600px&#34; src=&#34;https://slab-1251708715.cos.ap-guangzhou.myqcloud.com/website/portfolio/webstack-hugo.jpg&#34; alt=&#34;WebStack-Hugo&#34;&gt;
 &lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/readme/work/</link>
-      <pubDate>Tue, 12 Aug 2025 11:46:24 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 12:05:38 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/readme/work/</guid>
@@ -218,7 +218,7 @@ test&lt;/p&gt;</description>
     data-reactions-enabled=&#34;1&#34;
     data-emit-metadata=&#34;0&#34;
     data-input-position=&#34;bottom&#34;
-    data-theme=&#34;light&#34;
+    data-theme=&#34;dark&#34;
     data-lang=&#34;zh-CN&#34;
     crossorigin=&#34;anonymous&#34;
     async&gt;
@@ -302,7 +302,7 @@ test&lt;/p&gt;</description>
     data-reactions-enabled=&#34;1&#34;
     data-emit-metadata=&#34;0&#34;
     data-input-position=&#34;bottom&#34;
-    data-theme=&#34;light&#34;
+    data-theme=&#34;dark&#34;
     data-lang=&#34;zh-CN&#34;
     crossorigin=&#34;anonymous&#34;
     async&gt;
@@ -339,7 +339,7 @@ test&lt;/p&gt;</description>
     data-reactions-enabled=&#34;1&#34;
     data-emit-metadata=&#34;0&#34;
     data-input-position=&#34;bottom&#34;
-    data-theme=&#34;light&#34;
+    data-theme=&#34;dark&#34;
     data-lang=&#34;zh-CN&#34;
     crossorigin=&#34;anonymous&#34;
     async&gt;
@@ -553,7 +553,7 @@ test&lt;/p&gt;</description>
     data-reactions-enabled=&#34;1&#34;
     data-emit-metadata=&#34;0&#34;
     data-input-position=&#34;bottom&#34;
-    data-theme=&#34;light&#34;
+    data-theme=&#34;dark&#34;
     data-lang=&#34;zh-CN&#34;
     crossorigin=&#34;anonymous&#34;
     async&gt;
@@ -599,7 +599,7 @@ test&lt;/p&gt;</description>
     data-reactions-enabled=&#34;1&#34;
     data-emit-metadata=&#34;0&#34;
     data-input-position=&#34;bottom&#34;
-    data-theme=&#34;light&#34;
+    data-theme=&#34;dark&#34;
     data-lang=&#34;zh-CN&#34;
     crossorigin=&#34;anonymous&#34;
     async&gt;
@@ -1200,7 +1200,7 @@ test&lt;/p&gt;</description>
     data-reactions-enabled=&#34;1&#34;
     data-emit-metadata=&#34;0&#34;
     data-input-position=&#34;bottom&#34;
-    data-theme=&#34;light&#34;
+    data-theme=&#34;dark&#34;
     data-lang=&#34;zh-CN&#34;
     crossorigin=&#34;anonymous&#34;
     async&gt;
@@ -1251,7 +1251,7 @@ test&lt;/p&gt;</description>
     data-reactions-enabled=&#34;1&#34;
     data-emit-metadata=&#34;0&#34;
     data-input-position=&#34;bottom&#34;
-    data-theme=&#34;light&#34;
+    data-theme=&#34;dark&#34;
     data-lang=&#34;zh-CN&#34;
     crossorigin=&#34;anonymous&#34;
     async&gt;
@@ -1306,7 +1306,7 @@ test&lt;/p&gt;</description>
     data-reactions-enabled=&#34;1&#34;
     data-emit-metadata=&#34;0&#34;
     data-input-position=&#34;bottom&#34;
-    data-theme=&#34;light&#34;
+    data-theme=&#34;dark&#34;
     data-lang=&#34;zh-CN&#34;
     crossorigin=&#34;anonymous&#34;
     async&gt;
@@ -1381,7 +1381,7 @@ test&lt;/p&gt;</description>
     data-reactions-enabled=&#34;1&#34;
     data-emit-metadata=&#34;0&#34;
     data-input-position=&#34;bottom&#34;
-    data-theme=&#34;light&#34;
+    data-theme=&#34;dark&#34;
     data-lang=&#34;zh-CN&#34;
     crossorigin=&#34;anonymous&#34;
     async&gt;
@@ -1501,7 +1501,7 @@ test&lt;/p&gt;</description>
     data-reactions-enabled=&#34;1&#34;
     data-emit-metadata=&#34;0&#34;
     data-input-position=&#34;bottom&#34;
-    data-theme=&#34;light&#34;
+    data-theme=&#34;dark&#34;
     data-lang=&#34;zh-CN&#34;
     crossorigin=&#34;anonymous&#34;
     async&gt;
@@ -1538,7 +1538,7 @@ test&lt;/p&gt;</description>
     data-reactions-enabled=&#34;1&#34;
     data-emit-metadata=&#34;0&#34;
     data-input-position=&#34;bottom&#34;
-    data-theme=&#34;light&#34;
+    data-theme=&#34;dark&#34;
     data-lang=&#34;zh-CN&#34;
     crossorigin=&#34;anonymous&#34;
     async&gt;
@@ -1572,7 +1572,7 @@ test&lt;/p&gt;</description>
     data-reactions-enabled=&#34;1&#34;
     data-emit-metadata=&#34;0&#34;
     data-input-position=&#34;bottom&#34;
-    data-theme=&#34;light&#34;
+    data-theme=&#34;dark&#34;
     data-lang=&#34;zh-CN&#34;
     crossorigin=&#34;anonymous&#34;
     async&gt;
@@ -1626,7 +1626,7 @@ IFS=&amp;quot;$OIFS&amp;quot;
     data-reactions-enabled=&#34;1&#34;
     data-emit-metadata=&#34;0&#34;
     data-input-position=&#34;bottom&#34;
-    data-theme=&#34;light&#34;
+    data-theme=&#34;dark&#34;
     data-lang=&#34;zh-CN&#34;
     crossorigin=&#34;anonymous&#34;
     async&gt;
@@ -1701,7 +1701,7 @@ ForwardToSyslog=no
     data-reactions-enabled=&#34;1&#34;
     data-emit-metadata=&#34;0&#34;
     data-input-position=&#34;bottom&#34;
-    data-theme=&#34;light&#34;
+    data-theme=&#34;dark&#34;
     data-lang=&#34;zh-CN&#34;
     crossorigin=&#34;anonymous&#34;
     async&gt;
@@ -1745,7 +1745,7 @@ ForwardToSyslog=no
     data-reactions-enabled=&#34;1&#34;
     data-emit-metadata=&#34;0&#34;
     data-input-position=&#34;bottom&#34;
-    data-theme=&#34;light&#34;
+    data-theme=&#34;dark&#34;
     data-lang=&#34;zh-CN&#34;
     crossorigin=&#34;anonymous&#34;
     async&gt;
@@ -1868,7 +1868,7 @@ SCREEGO_TLS_KEY_FILE=/root/screego-demo/server.key
     data-reactions-enabled=&#34;1&#34;
     data-emit-metadata=&#34;0&#34;
     data-input-position=&#34;bottom&#34;
-    data-theme=&#34;light&#34;
+    data-theme=&#34;dark&#34;
     data-lang=&#34;zh-CN&#34;
     crossorigin=&#34;anonymous&#34;
     async&gt;
@@ -2017,7 +2017,7 @@ SCREEGO_TLS_KEY_FILE=/root/screego-demo/server.key
     data-reactions-enabled=&#34;1&#34;
     data-emit-metadata=&#34;0&#34;
     data-input-position=&#34;bottom&#34;
-    data-theme=&#34;light&#34;
+    data-theme=&#34;dark&#34;
     data-lang=&#34;zh-CN&#34;
     crossorigin=&#34;anonymous&#34;
     async&gt;
@@ -2050,7 +2050,7 @@ SCREEGO_TLS_KEY_FILE=/root/screego-demo/server.key
     data-reactions-enabled=&#34;1&#34;
     data-emit-metadata=&#34;0&#34;
     data-input-position=&#34;bottom&#34;
-    data-theme=&#34;light&#34;
+    data-theme=&#34;dark&#34;
     data-lang=&#34;zh-CN&#34;
     crossorigin=&#34;anonymous&#34;
     async&gt;
@@ -2120,7 +2120,7 @@ SCREEGO_TLS_KEY_FILE=/root/screego-demo/server.key
     data-reactions-enabled=&#34;1&#34;
     data-emit-metadata=&#34;0&#34;
     data-input-position=&#34;bottom&#34;
-    data-theme=&#34;light&#34;
+    data-theme=&#34;dark&#34;
     data-lang=&#34;zh-CN&#34;
     crossorigin=&#34;anonymous&#34;
     async&gt;
@@ -2191,7 +2191,7 @@ SCREEGO_TLS_KEY_FILE=/root/screego-demo/server.key
     data-reactions-enabled=&#34;1&#34;
     data-emit-metadata=&#34;0&#34;
     data-input-position=&#34;bottom&#34;
-    data-theme=&#34;light&#34;
+    data-theme=&#34;dark&#34;
     data-lang=&#34;zh-CN&#34;
     crossorigin=&#34;anonymous&#34;
     async&gt;
@@ -2261,7 +2261,7 @@ SCREEGO_TLS_KEY_FILE=/root/screego-demo/server.key
     data-reactions-enabled=&#34;1&#34;
     data-emit-metadata=&#34;0&#34;
     data-input-position=&#34;bottom&#34;
-    data-theme=&#34;light&#34;
+    data-theme=&#34;dark&#34;
     data-lang=&#34;zh-CN&#34;
     crossorigin=&#34;anonymous&#34;
     async&gt;
@@ -2416,7 +2416,7 @@ cat videos.txt &amp;gt; /home/yetpage/videotxt/videois.txt
     data-reactions-enabled=&#34;1&#34;
     data-emit-metadata=&#34;0&#34;
     data-input-position=&#34;bottom&#34;
-    data-theme=&#34;light&#34;
+    data-theme=&#34;dark&#34;
     data-lang=&#34;zh-CN&#34;
     crossorigin=&#34;anonymous&#34;
     async&gt;
@@ -3397,7 +3397,7 @@ cat videos.txt &amp;gt; /home/yetpage/videotxt/videois.txt
     data-reactions-enabled=&#34;1&#34;
     data-emit-metadata=&#34;0&#34;
     data-input-position=&#34;bottom&#34;
-    data-theme=&#34;light&#34;
+    data-theme=&#34;dark&#34;
     data-lang=&#34;zh-CN&#34;
     crossorigin=&#34;anonymous&#34;
     async&gt;
@@ -3479,7 +3479,7 @@ ffmpeg -i &lt;span class=&#34;s2&#34;&gt;&amp;quot;in.mp4&amp;quot;&lt;/span&gt;
     data-reactions-enabled=&#34;1&#34;
     data-emit-metadata=&#34;0&#34;
     data-input-position=&#34;bottom&#34;
-    data-theme=&#34;light&#34;
+    data-theme=&#34;dark&#34;
     data-lang=&#34;zh-CN&#34;
     crossorigin=&#34;anonymous&#34;
     async&gt;
@@ -3511,7 +3511,7 @@ ffmpeg -i &lt;span class=&#34;s2&#34;&gt;&amp;quot;in.mp4&amp;quot;&lt;/span&gt;
     data-reactions-enabled=&#34;1&#34;
     data-emit-metadata=&#34;0&#34;
     data-input-position=&#34;bottom&#34;
-    data-theme=&#34;light&#34;
+    data-theme=&#34;dark&#34;
     data-lang=&#34;zh-CN&#34;
     crossorigin=&#34;anonymous&#34;
     async&gt;
@@ -3548,7 +3548,7 @@ ffmpeg -i &lt;span class=&#34;s2&#34;&gt;&amp;quot;in.mp4&amp;quot;&lt;/span&gt;
     data-reactions-enabled=&#34;1&#34;
     data-emit-metadata=&#34;0&#34;
     data-input-position=&#34;bottom&#34;
-    data-theme=&#34;light&#34;
+    data-theme=&#34;dark&#34;
     data-lang=&#34;zh-CN&#34;
     crossorigin=&#34;anonymous&#34;
     async&gt;
@@ -3584,7 +3584,7 @@ ffmpeg -i &lt;span class=&#34;s2&#34;&gt;&amp;quot;in.mp4&amp;quot;&lt;/span&gt;
     data-reactions-enabled=&#34;1&#34;
     data-emit-metadata=&#34;0&#34;
     data-input-position=&#34;bottom&#34;
-    data-theme=&#34;light&#34;
+    data-theme=&#34;dark&#34;
     data-lang=&#34;zh-CN&#34;
     crossorigin=&#34;anonymous&#34;
     async&gt;
@@ -3617,7 +3617,7 @@ ffmpeg -i &lt;span class=&#34;s2&#34;&gt;&amp;quot;in.mp4&amp;quot;&lt;/span&gt;
     data-reactions-enabled=&#34;1&#34;
     data-emit-metadata=&#34;0&#34;
     data-input-position=&#34;bottom&#34;
-    data-theme=&#34;light&#34;
+    data-theme=&#34;dark&#34;
     data-lang=&#34;zh-CN&#34;
     crossorigin=&#34;anonymous&#34;
     async&gt;
@@ -3680,7 +3680,7 @@ ffmpeg -i &lt;span class=&#34;s2&#34;&gt;&amp;quot;in.mp4&amp;quot;&lt;/span&gt;
     data-reactions-enabled=&#34;1&#34;
     data-emit-metadata=&#34;0&#34;
     data-input-position=&#34;bottom&#34;
-    data-theme=&#34;light&#34;
+    data-theme=&#34;dark&#34;
     data-lang=&#34;zh-CN&#34;
     crossorigin=&#34;anonymous&#34;
     async&gt;
@@ -3750,7 +3750,7 @@ ffmpeg -i &lt;span class=&#34;s2&#34;&gt;&amp;quot;in.mp4&amp;quot;&lt;/span&gt;
     data-reactions-enabled=&#34;1&#34;
     data-emit-metadata=&#34;0&#34;
     data-input-position=&#34;bottom&#34;
-    data-theme=&#34;light&#34;
+    data-theme=&#34;dark&#34;
     data-lang=&#34;zh-CN&#34;
     crossorigin=&#34;anonymous&#34;
     async&gt;
@@ -3912,7 +3912,7 @@ ffmpeg -i &lt;span class=&#34;s2&#34;&gt;&amp;quot;in.mp4&amp;quot;&lt;/span&gt;
     data-reactions-enabled=&#34;1&#34;
     data-emit-metadata=&#34;0&#34;
     data-input-position=&#34;bottom&#34;
-    data-theme=&#34;light&#34;
+    data-theme=&#34;dark&#34;
     data-lang=&#34;zh-CN&#34;
     crossorigin=&#34;anonymous&#34;
     async&gt;
@@ -3996,7 +3996,7 @@ Performance Culture, short-term result, but people stop innovating, making mista
     data-reactions-enabled=&#34;1&#34;
     data-emit-metadata=&#34;0&#34;
     data-input-position=&#34;bottom&#34;
-    data-theme=&#34;light&#34;
+    data-theme=&#34;dark&#34;
     data-lang=&#34;zh-CN&#34;
     crossorigin=&#34;anonymous&#34;
     async&gt;
@@ -4033,7 +4033,7 @@ Performance Culture, short-term result, but people stop innovating, making mista
     data-reactions-enabled=&#34;1&#34;
     data-emit-metadata=&#34;0&#34;
     data-input-position=&#34;bottom&#34;
-    data-theme=&#34;light&#34;
+    data-theme=&#34;dark&#34;
     data-lang=&#34;zh-CN&#34;
     crossorigin=&#34;anonymous&#34;
     async&gt;
@@ -4073,7 +4073,7 @@ Performance Culture, short-term result, but people stop innovating, making mista
     data-reactions-enabled=&#34;1&#34;
     data-emit-metadata=&#34;0&#34;
     data-input-position=&#34;bottom&#34;
-    data-theme=&#34;light&#34;
+    data-theme=&#34;dark&#34;
     data-lang=&#34;zh-CN&#34;
     crossorigin=&#34;anonymous&#34;
     async&gt;
@@ -4189,7 +4189,7 @@ Performance Culture, short-term result, but people stop innovating, making mista
     data-reactions-enabled=&#34;1&#34;
     data-emit-metadata=&#34;0&#34;
     data-input-position=&#34;bottom&#34;
-    data-theme=&#34;light&#34;
+    data-theme=&#34;dark&#34;
     data-lang=&#34;zh-CN&#34;
     crossorigin=&#34;anonymous&#34;
     async&gt;
@@ -4229,7 +4229,7 @@ Performance Culture, short-term result, but people stop innovating, making mista
     data-reactions-enabled=&#34;1&#34;
     data-emit-metadata=&#34;0&#34;
     data-input-position=&#34;bottom&#34;
-    data-theme=&#34;light&#34;
+    data-theme=&#34;dark&#34;
     data-lang=&#34;zh-CN&#34;
     crossorigin=&#34;anonymous&#34;
     async&gt;
@@ -4901,7 +4901,7 @@ BMI数值范围 BMI数值范围
     data-reactions-enabled=&#34;1&#34;
     data-emit-metadata=&#34;0&#34;
     data-input-position=&#34;bottom&#34;
-    data-theme=&#34;light&#34;
+    data-theme=&#34;dark&#34;
     data-lang=&#34;zh-CN&#34;
     crossorigin=&#34;anonymous&#34;
     async&gt;
@@ -5100,7 +5100,7 @@ BMI数值范围 BMI数值范围
     data-reactions-enabled=&#34;1&#34;
     data-emit-metadata=&#34;0&#34;
     data-input-position=&#34;bottom&#34;
-    data-theme=&#34;light&#34;
+    data-theme=&#34;dark&#34;
     data-lang=&#34;zh-CN&#34;
     crossorigin=&#34;anonymous&#34;
     async&gt;
@@ -5270,7 +5270,7 @@ BMI数值范围 BMI数值范围
     data-reactions-enabled=&#34;1&#34;
     data-emit-metadata=&#34;0&#34;
     data-input-position=&#34;bottom&#34;
-    data-theme=&#34;light&#34;
+    data-theme=&#34;dark&#34;
     data-lang=&#34;zh-CN&#34;
     crossorigin=&#34;anonymous&#34;
     async&gt;
@@ -5352,7 +5352,7 @@ BMI数值范围 BMI数值范围
     data-reactions-enabled=&#34;1&#34;
     data-emit-metadata=&#34;0&#34;
     data-input-position=&#34;bottom&#34;
-    data-theme=&#34;light&#34;
+    data-theme=&#34;dark&#34;
     data-lang=&#34;zh-CN&#34;
     crossorigin=&#34;anonymous&#34;
     async&gt;
@@ -5384,7 +5384,7 @@ BMI数值范围 BMI数值范围
     data-reactions-enabled=&#34;1&#34;
     data-emit-metadata=&#34;0&#34;
     data-input-position=&#34;bottom&#34;
-    data-theme=&#34;light&#34;
+    data-theme=&#34;dark&#34;
     data-lang=&#34;zh-CN&#34;
     crossorigin=&#34;anonymous&#34;
     async&gt;
@@ -5417,7 +5417,7 @@ BMI数值范围 BMI数值范围
     data-reactions-enabled=&#34;1&#34;
     data-emit-metadata=&#34;0&#34;
     data-input-position=&#34;bottom&#34;
-    data-theme=&#34;light&#34;
+    data-theme=&#34;dark&#34;
     data-lang=&#34;zh-CN&#34;
     crossorigin=&#34;anonymous&#34;
     async&gt;
