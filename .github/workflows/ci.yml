@@ -31,7 +31,6 @@ jobs:
       - name: Install requirements
         run: pip3 install requests python-slugify pytz PyYaml
       
-      - name: syn S3
       - uses: FugaCloud/s3-sync-action@2.0.0
         with:
           args: --s3-acl public-read -v --links
@@ -40,6 +39,9 @@ jobs:
           SECRET_ACCESS_KEY: ${{ secrets.STORAGE_SECRET }}
           ENDPOINT: ${{ secrets.STORAGE_ENDPOINT }}
           BUCKET: ${{ secrets.STORAGE_BUCKET }}
+          REGION: 'us-east-1'
+          SOURCE_DIR: 'docs/note'
+          DEST_DIR: 'note'
 
       - name: 获取并保存所有 Discussions content+meta 信息
         run: |
@@ -114,6 +116,3 @@ jobs:
         if: env.DIFF_CONTENT != '' || github.ref == 'refs/heads/main'
       - run: mkdocs gh-deploy --force
         if: env.DIFF_CONTENT != '' || github.ref == 'refs/heads/main'
-          REGION: 'us-east-1'
-          SOURCE_DIR: 'docs/note'
-          DEST_DIR: 'note'
