@@ -44,7 +44,7 @@ jobs:
       #     DEST_DIR: 'note'
 
       - name: 同步图片到 R2
-        uses: luxl/download-s3-with-endpoint@v0.2
+        uses: luxl/download-s3-with-endpoint@v0.2.2
         with:
           aws_access_key_id: ${{ secrets.STORAGE_KEY_ID }}
           aws_secret_access_key: ${{ secrets.STORAGE_SECRET }}
