@@ -21,9 +21,9 @@ theme:
   custom_dir: overrides
   favicon: assets/logo.ico
   logo: assets/octocat.png
-  font:
-    text: "'Open Sans', 'Helvetica Neue', Arial, 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif"
-    code: "Consolas,Courier,courier new,stkaiti,kaiti,simkai,monospace"
+  # font:
+  #   text: "'Open Sans', 'Helvetica Neue', Arial, 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif"
+  #   code: "Consolas,Courier,courier new,stkaiti,kaiti,simkai,monospace"
   features:
     - navigation.instant
     - navigation.tracking
@@ -120,6 +120,8 @@ extra:
     property: foobar
 
 extra_css:
+  - https://nce.ccsyue.com/jbmono/jetbrainsmono.css
+  - https://nce.ccsyue.com/lxgw/lxgwscreen.css
   - css/extra.css
 
 extra_javascript:
