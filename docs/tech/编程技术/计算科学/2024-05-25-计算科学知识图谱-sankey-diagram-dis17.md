@@ -7,7 +7,7 @@ date: 2024-05-25
 authors: [tarenaexit]
 categories: 
   - 1.1-信息
-labels: ['1.2.3-计算科学']
+tags: ['1.2.3-计算科学']
 ---
 
 ![cn](https://cdn.ccsyue.com/picx-images-hosting/master/sankeymatic_20240327_210033_5600x16000.9nzlpikim8.webp)

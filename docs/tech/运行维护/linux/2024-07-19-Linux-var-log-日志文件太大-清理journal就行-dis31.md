@@ -7,7 +7,7 @@ date: 2024-07-19
 authors: [tarenaexit]
 categories: 
   - 1.3-运维
-labels: ['1.3.3-linux']
+tags: ['1.3.3-linux']
 ---
 
 [Linux /var/log/日志文件太大，清理journal就行](https://www.uedbox.com/post/58901/)

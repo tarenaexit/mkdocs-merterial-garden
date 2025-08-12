@@ -7,7 +7,7 @@ date: 2024-07-06
 authors: [tarenaexit]
 categories: 
   - 1.3-运维
-labels: ['1.3.2-工具']
+tags: ['1.3.2-工具']
 ---
 
 [搭建局域网 https](https://sanyers.github.io/blog/web/webrtc/%E6%90%AD%E5%BB%BA%E5%B1%80%E5%9F%9F%E7%BD%91https.html)

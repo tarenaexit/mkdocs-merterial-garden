@@ -7,7 +7,7 @@ date: 2024-05-14
 authors: [tarenaexit]
 categories: 
   - 3.1-哲学
-labels: ['3.1.1-罗素']
+tags: ['3.1.1-罗素']
 ---
 
 ## PREFACE 

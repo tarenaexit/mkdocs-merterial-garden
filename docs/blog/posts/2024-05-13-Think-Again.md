@@ -7,7 +7,7 @@ date: 2024-05-13
 authors: [tarenaexit]
 categories: 
   - 科学
-labels: ['2.1.1-科学素养']
+tags: ['2.1.1-科学素养']
 ---
 
 ![image](https://cdn.ccsyue.com/picx-images-hosting/master/20240513/image.7awzfnzd1s.webp)

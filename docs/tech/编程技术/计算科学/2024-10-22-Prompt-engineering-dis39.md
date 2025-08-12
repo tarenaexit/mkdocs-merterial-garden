@@ -7,7 +7,7 @@ date: 2024-10-22
 authors: [tarenaexit]
 categories: 
   - 1.2-编程
-labels: ['1.2.3-计算科学']
+tags: ['1.2.3-计算科学']
 ---
 
 [awesome-chatgpt-zh](https://github.com/EmbraceAGI/awesome-chatgpt-zh)

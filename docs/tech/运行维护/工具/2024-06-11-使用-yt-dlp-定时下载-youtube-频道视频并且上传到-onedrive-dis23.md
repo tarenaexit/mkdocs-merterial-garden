@@ -7,7 +7,7 @@ date: 2024-06-11
 authors: [tarenaexit]
 categories: 
   - 1.3-运维
-labels: ['1.3.2-工具']
+tags: ['1.3.2-工具']
 ---
 
 > 来源：[使用 yt-dlp 定时下载 youtube 频道视频并且上传到 onedrive](https://www.yetpage.com/archives/229)

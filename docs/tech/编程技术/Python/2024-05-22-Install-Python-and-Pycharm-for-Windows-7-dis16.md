@@ -7,7 +7,7 @@ date: 2024-05-22
 authors: [tarenaexit]
 categories: 
   - 1.2-编程
-labels: ['1.2.1-Python']
+tags: ['1.2.1-Python']
 ---
 
 ## 一、首先安装python，打开网址：python.org，点击“windows”
