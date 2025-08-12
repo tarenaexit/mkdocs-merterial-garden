@@ -97,10 +97,6 @@ plugins:
           - blog/archive/*
           - blog/category/*
   - awesome-nav
-  - awesome-pages:
-      order: desc
-      sort_type: natural
-      order_by: filename
   - blog:
       blog_dir: blog
       post_dir: "{blog}/posts"
