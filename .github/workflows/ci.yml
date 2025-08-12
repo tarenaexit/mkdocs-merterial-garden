@@ -44,7 +44,7 @@ jobs:
       #     DEST_DIR: 'note'
 
       - name: 下载到本地
-        uses: joutvhu/download-s3@v1.0.0
+        uses: luxl/download-s3-with-endpoint@v0.2.2
         with:
           aws_access_key_id: ${{ secrets.STORAGE_KEY_ID }}
           aws_secret_access_key: ${{ secrets.STORAGE_SECRET }}
