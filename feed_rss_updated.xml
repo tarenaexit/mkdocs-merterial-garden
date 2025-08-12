@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Tue, 12 Aug 2025 07:10:38 -0000</pubDate>
-    <lastBuildDate>Tue, 12 Aug 2025 07:10:38 -0000</lastBuildDate>
+    <pubDate>Tue, 12 Aug 2025 07:42:34 -0000</pubDate>
+    <lastBuildDate>Tue, 12 Aug 2025 07:42:34 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -32,6 +32,36 @@
     
     
     <item>
+      <title>Index2</title>
+      
+      
+      
+      
+      <description>&lt;p&gt;22&lt;/p&gt;</description>
+      <link>https://doc.ccsyue.com/note/index2/</link>
+      <pubDate>Tue, 12 Aug 2025 07:42:35 +0000</pubDate>
+      <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
+      
+      <guid isPermaLink="true">https://doc.ccsyue.com/note/index2/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Index1</title>
+      
+      
+      
+      
+      <description>&lt;p&gt;test&lt;/p&gt;</description>
+      <link>https://doc.ccsyue.com/note/index1/</link>
+      <pubDate>Tue, 12 Aug 2025 07:42:35 +0000</pubDate>
+      <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
+      
+      <guid isPermaLink="true">https://doc.ccsyue.com/note/index1/</guid>
+      
+    </item>
+    
+    <item>
       <title>Untitled</title>
       
       
@@ -39,7 +69,7 @@
       
       <description>&lt;p&gt;11&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/note/Untitled/</link>
-      <pubDate>Tue, 12 Aug 2025 07:10:39 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 07:42:35 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/note/Untitled/</guid>
@@ -54,7 +84,7 @@
       
       <description></description>
       <link>https://doc.ccsyue.com/note/</link>
-      <pubDate>Tue, 12 Aug 2025 07:09:57 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 07:41:55 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/note/</guid>
@@ -112,7 +142,7 @@
 &lt;p&gt;国内虽然不少人都在使用 Gitee，但 Gitee 时不时恶心你一下（前不久就无缘无故把我的 oschina 的账号封了，而且要加 QQ 群去申诉，最后我是直接通过邮件反馈解封了），而且有时候有些资源用起来限制太多，很麻烦。&lt;/p&gt;
 &lt;p&gt;极狐从 2024 年 1 月 2 日起要付费才能使用，1898元/人/年的价格估计会劝退 90% 的个人用户吧！&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/readme/res/</link>
-      <pubDate>Tue, 12 Aug 2025 07:09:57 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 07:41:55 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/readme/res/</guid>
@@ -151,7 +181,7 @@
     &lt;img style=&#34;max-widrh:600px&#34; src=&#34;https://slab-1251708715.cos.ap-guangzhou.myqcloud.com/website/portfolio/webstack-hugo.jpg&#34; alt=&#34;WebStack-Hugo&#34;&gt;
 &lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/readme/work/</link>
-      <pubDate>Tue, 12 Aug 2025 07:09:57 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 07:41:55 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/readme/work/</guid>
@@ -1667,173 +1697,6 @@ ForwardToSyslog=no
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/discussions-31/</guid>
-      
-    </item>
-    
-    <item>
-      <title>学生及家长填报高考志愿三种选择</title>
-      
-      
-        
-      <author>tarenaexit</author>
-        
-      
-      
-      
-      <description>&lt;div class=&#34;admonition abstract&#34;&gt;
-&lt;p class=&#34;admonition-title&#34;&gt;高考志愿填报的成本和注意事项&lt;/p&gt;
-&lt;p&gt;商业数据成本；生涯规划的学习成本；沟通成本；其他软硬件成本。&lt;/p&gt;
-&lt;p&gt;有没有靠谱的历年录取数据？
-自我定位和人生规划是否明确？
-考生和家长是否能较好沟通？
-填报结束之前是否能对填报方案保密？（形成和填报方案场相对清净）&lt;/p&gt;
-&lt;/div&gt;
-&lt;ol&gt;
-&lt;li&gt;不花钱，全靠学生自己和父母研究和填报，数据和建议一般来自短视频平台和网络资源。适合经济条件有限，报考需求比较确定，对自己定位准确的考生。缺点：网络资源质量参差不齐，若理解错误，或看到了虚假或不准确的信息，自认倒霉。&lt;/li&gt;
-&lt;li&gt;花一百到五百元不等，购买志愿填报卡，利用商业数据生成志愿填报方案，再结合自己的想法进行筛选。适合报考需求比较确定，对自己定位准确的考生。缺点：对自身定位不准确或对院校专业理解有偏差，都会导致不浪费分，但浪费考生的结果。&lt;/li&gt;
-&lt;li&gt;最后，不花钱到花上万不等请人帮忙。适合对报考院校专业或自己定位不准确的考生。缺点：若请来的人若无科学素养，没有人文精神，或者对专业或行业趋势妄下结论，也容易费考生。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;script src=&#34;https://giscus.app/client.js&#34;
-    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
-    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
-    data-mapping=&#34;number&#34;
-    data-term=&#34;30&#34;
-    data-reactions-enabled=&#34;1&#34;
-    data-emit-metadata=&#34;0&#34;
-    data-input-position=&#34;bottom&#34;
-    data-theme=&#34;light&#34;
-    data-lang=&#34;zh-CN&#34;
-    crossorigin=&#34;anonymous&#34;
-    async&gt;
-&lt;/script&gt;</description>
-      <link>https://doc.ccsyue.com/discussions-30/</link>
-      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
-      <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
-      
-      <guid isPermaLink="true">https://doc.ccsyue.com/discussions-30/</guid>
-      
-    </item>
-    
-    <item>
-      <title>screego &amp; 搭建局域网 https</title>
-      
-      
-        
-      <author>tarenaexit</author>
-        
-      
-      
-      
-      <description>&lt;p&gt;&lt;a href=&#34;https://sanyers.github.io/blog/web/webrtc/%E6%90%AD%E5%BB%BA%E5%B1%80%E5%9F%9F%E7%BD%91https.html&#34;&gt;搭建局域网 https&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;screego[1] 是一个由 Golang 开发的屏幕共享工具，我实际测试下来发现显示效果非常好，和大家分享下。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;1. 安装&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;screego 目前最新的版本为 v1.07，选择并下载系统对应的安装包：&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;[root@localhost ~]# wget https://github.com/screego/server/releases/download/v1.0.7/screego_1.0.7_linux_amd64.tar.gz
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;解压后可以得到二进制文件以及示例文件 screego.config.example，将文件重命名为 screego.config。目前目录文件如下：&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;screego-demo
-├── LICENSE
-├── README.md
-├── screego
-└── screego.config
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;2. 配置&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;出于安全考虑，screego 会要求以 HTTPS 协议进行访问，所以在修改配置前，需要先生成下证书。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;2.1 生成 HTTPS 证书&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;执行以下命令生成密钥 server.key，过程中会要求设置密码，按提示输入即可。&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;[root@localhost screego-demo]# openssl genrsa -des3 -out server.key 2048
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;接下来执行以下命令去除刚刚设置的密码：&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;[root@localhost screego-demo]# openssl rsa -in server.key -out server.key
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;为什么要去除密码呢？我测试过配置带有密码的密钥，结果服务无法正常启动，提示如下：&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;FTL http server error=&amp;quot;tls: failed to parse private key&amp;quot;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;使用密钥创建服务器证书的申请文件 server.csr，过程中会要求输入一些信息，不填也可。&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;[root@localhost screego-demo]# openssl req -new -key server.key -out server.csr
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;创建 CA 证书 ca.crt:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;[root@localhost screego-demo]# openssl req -new -x509 -key server.key -out ca.crt -days 3650
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;创建服务器证书 server.crt:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;[root@localhost screego-demo]# openssl x509 -req -days 3650 -in server.csr -CA ca.crt -CAkey server.key -CAcreateserial -out server.crt
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;目前目录文件如下：&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;screego-demo
-├── ca.crt
-├── ca.srl
-├── LICENSE
-├── README.md
-├── screego
-├── screego.config
-├── server.crt
-├── server.csr
-└── server.key
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;密钥 server.key 和服务器证书 server.crt 已经创建，接下来就可以修改配置了。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;2.2 修改配置&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;编辑配置文件 screego.config，这里仅列出我修改的配置项。&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;SCREEGO_EXTERNAL_IP=192.168.128.128
-SCREEGO_SERVER_TLS=true
-SCREEGO_TLS_CERT_FILE=/root/screego-demo/server.crt
-SCREEGO_TLS_KEY_FILE=/root/screego-demo/server.key
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;说明：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;SCREEGO_EXTERNAL_IP：访问地址，配置服务器的 IP 地址，以实际为准。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;SCREEGO_SERVER_TLS：TLS 开关。由于之前已配置了 HTTPS 的证书，这里改为 true。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;SCREEGO_TLS_CERT_FILE：指定证书。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;SCREEGO_TLS_KEY_FILE：指定密钥。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;修改以上配置项后，服务就可以启动了。如果需要了解更多细节，可以查阅官方文档[2] 获取帮助。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;3.启动&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;运行以下命令启动 screego：&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;[root@localhost screego-demo]# ./screego serve
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;没有报错的话，访问 https://192.168.128.128:5050 就可以看到建房页面了，如下图所示。这里的 IP 是我虚拟机的地址，大家以自己实际配置的为准。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;screego 安装配置教程：一款简单易用的屏幕共享工具&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/07/image.7p3hckit4s.webp&#34; title=&#34;screego 安装配置教程：一款简单易用的屏幕共享工具&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;点击 CREATE ROOM 按钮创建房间，再点击 Start Presentation，其他人通过访问相同的 URL 就可以看到共享的屏幕了。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;screego 安装配置教程：一款简单易用的屏幕共享工具&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/07/image.3k7w0go1aq.webp&#34; title=&#34;screego 安装配置教程：一款简单易用的屏幕共享工具&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;4. 总结&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;+ 开源的多用户屏幕共享工具，安装方便，使用简单&lt;/p&gt;
-&lt;p&gt;+ 实测效果不错，屏幕显示清晰，无卡顿延迟现象&lt;/p&gt;
-&lt;p&gt;+ 安全性&lt;/p&gt;
-&lt;p&gt;– 暂不支持快捷键操作&lt;/p&gt;
-&lt;h3 id=&#34;references&#34;&gt;References&lt;a class=&#34;headerlink&#34; href=&#34;#references&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;[1]``&lt;/code&gt;
-&lt;em&gt;&lt;strong&gt;screego: https://github.com/screego/server&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;[2]&lt;/code&gt;&lt;em&gt;&lt;em&gt;官方文档&lt;/em&gt;__:&lt;/em&gt; &lt;em&gt;https://screego.net/#/&lt;/em&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;原文始发于微信公众号（阿拉平平）：&lt;a href=&#34;http://mp.weixin.qq.com/s/kTAnZaS0omDJuNNoMclmpg&#34;&gt;screego 安装配置教程：一款简单易用的屏幕共享工具&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;script src=&#34;https://giscus.app/client.js&#34;
-    data-repo=&#34;tarenaexit/mkdocs-merterial-garden&#34;
-    data-repo-id=&#34;RR_kgDOL4wNPw&#34;
-    data-mapping=&#34;number&#34;
-    data-term=&#34;29&#34;
-    data-reactions-enabled=&#34;1&#34;
-    data-emit-metadata=&#34;0&#34;
-    data-input-position=&#34;bottom&#34;
-    data-theme=&#34;light&#34;
-    data-lang=&#34;zh-CN&#34;
-    crossorigin=&#34;anonymous&#34;
-    async&gt;
-&lt;/script&gt;</description>
-      <link>https://doc.ccsyue.com/discussions-29/</link>
-      <pubDate>Sat, 06 Jul 2024 00:00:00 +0000</pubDate>
-      <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
-      
-      <guid isPermaLink="true">https://doc.ccsyue.com/discussions-29/</guid>
       
     </item>
     
