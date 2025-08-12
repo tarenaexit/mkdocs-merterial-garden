@@ -41,7 +41,7 @@ def gen_discussions_query(owner, repo_name, perPage, endCursor, first_n_threads)
                         category {{
                             name
                         }}
-                        labels (first: 100) {{
+                        tags (first: 100) {{
                             nodes {{
                                 name
                             }}
