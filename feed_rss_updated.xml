@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Tue, 12 Aug 2025 12:31:32 -0000</pubDate>
-    <lastBuildDate>Tue, 12 Aug 2025 12:31:32 -0000</lastBuildDate>
+    <pubDate>Tue, 12 Aug 2025 12:35:06 -0000</pubDate>
+    <lastBuildDate>Tue, 12 Aug 2025 12:35:06 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -39,7 +39,7 @@
       
       <description></description>
       <link>https://doc.ccsyue.com/note/</link>
-      <pubDate>Tue, 12 Aug 2025 12:30:53 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 12:34:13 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/note/</guid>
@@ -54,7 +54,7 @@
       
       <description>&lt;p&gt;11&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/note/Untitled/</link>
-      <pubDate>Tue, 12 Aug 2025 12:30:53 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 12:34:13 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/note/Untitled/</guid>
@@ -70,7 +70,7 @@
       <description>&lt;p&gt;test
 test&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/note/index1/</link>
-      <pubDate>Tue, 12 Aug 2025 12:30:53 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 12:34:13 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/note/index1/</guid>
@@ -86,7 +86,7 @@ test&lt;/p&gt;</description>
       <description>&lt;p&gt;22
 [[index1]]&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/note/index2/</link>
-      <pubDate>Tue, 12 Aug 2025 12:30:53 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 12:34:13 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/note/index2/</guid>
@@ -144,7 +144,7 @@ test&lt;/p&gt;</description>
 &lt;p&gt;国内虽然不少人都在使用 Gitee，但 Gitee 时不时恶心你一下（前不久就无缘无故把我的 oschina 的账号封了，而且要加 QQ 群去申诉，最后我是直接通过邮件反馈解封了），而且有时候有些资源用起来限制太多，很麻烦。&lt;/p&gt;
 &lt;p&gt;极狐从 2024 年 1 月 2 日起要付费才能使用，1898元/人/年的价格估计会劝退 90% 的个人用户吧！&lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/readme/res/</link>
-      <pubDate>Tue, 12 Aug 2025 12:30:53 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 12:34:13 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/readme/res/</guid>
@@ -183,7 +183,7 @@ test&lt;/p&gt;</description>
     &lt;img style=&#34;max-widrh:600px&#34; src=&#34;https://slab-1251708715.cos.ap-guangzhou.myqcloud.com/website/portfolio/webstack-hugo.jpg&#34; alt=&#34;WebStack-Hugo&#34;&gt;
 &lt;/p&gt;</description>
       <link>https://doc.ccsyue.com/readme/work/</link>
-      <pubDate>Tue, 12 Aug 2025 12:30:53 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 12:34:13 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_updated.xml">知识花园</source>
       
       <guid isPermaLink="true">https://doc.ccsyue.com/readme/work/</guid>
@@ -2152,10 +2152,10 @@ cat videos.txt &amp;gt; /home/yetpage/videotxt/videois.txt
       
       
       
-      <description>&lt;p&gt;&lt;img alt=&#34;image&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/06/image.1020cw03ob.webp&#34; /&gt;
-&lt;img alt=&#34;image&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/06/image.1e8g3r8wli.webp&#34; /&gt;
-&lt;img alt=&#34;image&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/06/image.1ov9wyldav.webp&#34; /&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img alt=&#34;image&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/06/image.1020cw03ob.webp&#34; /&gt;&lt;/p&gt;
 &lt;!-- more --&gt;
+&lt;p&gt;&lt;img alt=&#34;image&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/06/image.1e8g3r8wli.webp&#34; /&gt;
+&lt;img alt=&#34;image&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/2024/06/image.1ov9wyldav.webp&#34; /&gt;&lt;/p&gt;
 &lt;h3 id=&#34;主要食材传入中国一览表&#34;&gt;主要食材传入中国一览表&lt;a class=&#34;headerlink&#34; href=&#34;#主要食材传入中国一览表&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;1,数据来源:1整理于网络:2,按引进朝代顺序从左往右排序,条形越长表示引进时间越早,不同颜色表示不同原产地。&lt;/p&gt;
