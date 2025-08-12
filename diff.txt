@@ -1,1 +1,4 @@
-
+6c6
+< {'title': '数学和物理常用思想及方法', 'number': 42, 'url': 'https://github.com/tarenaexit/mkdocs-merterial-garden/discussions/42', 'createdAt': '2024-12-03T22:40:21Z', 'lastEditedAt': '2025-05-25T20:33:12Z', 'updatedAt': '2025-05-25T20:33:12Z', 'author': {'login': 'tarenaexit'}, 'category': {'name': '2.1-科学'}, 'labels': {'nodes': []}}
+---
+> {'title': '数学和物理常用思想及方法', 'number': 42, 'url': 'https://github.com/tarenaexit/mkdocs-merterial-garden/discussions/42', 'createdAt': '2024-12-03T22:40:21Z', 'lastEditedAt': '2025-08-12T08:17:12Z', 'updatedAt': '2025-08-12T08:17:12Z', 'author': {'login': 'tarenaexit'}, 'category': {'name': '2.1-科学'}, 'labels': {'nodes': []}}
