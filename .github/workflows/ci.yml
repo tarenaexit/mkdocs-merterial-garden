@@ -12,19 +12,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
-      - uses: FugaCloud/s3-sync-action@2.0.0
-        with:
-          args: --s3-acl public-read -v --links
-        env:
-          ACCESS_KEY_ID: ${{ secrets.STORAGE_KEY_ID }}
-          SECRET_ACCESS_KEY: ${{ secrets.STORAGE_SECRET }}
-          ENDPOINT: ${{ secrets.STORAGE_ENDPOINT }}
-          BUCKET: ${{ secrets.STORAGE_BUCKET }}
-          REGION: 'us-east-1'
-          SOURCE_DIR: 'docs/note'
-          DEST_DIR: 'note'
-          
       - name: 检查分支
         uses: actions/checkout@v4
 
@@ -117,3 +104,16 @@ jobs:
         if: env.DIFF_CONTENT != '' || github.ref == 'refs/heads/main'
       - run: mkdocs gh-deploy --force
         if: env.DIFF_CONTENT != '' || github.ref == 'refs/heads/main'
+      
+      - uses: actions/checkout@v4
+      - uses: FugaCloud/s3-sync-action@2.0.0
+        with:
+          args: --s3-acl public-read -v --links
+        env:
+          ACCESS_KEY_ID: ${{ secrets.STORAGE_KEY_ID }}
+          SECRET_ACCESS_KEY: ${{ secrets.STORAGE_SECRET }}
+          ENDPOINT: ${{ secrets.STORAGE_ENDPOINT }}
+          BUCKET: ${{ secrets.STORAGE_BUCKET }}
+          REGION: 'us-east-1'
+          SOURCE_DIR: 'docs/note'
+          DEST_DIR: 'note'
