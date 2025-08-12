@@ -86,7 +86,7 @@ def __main__():
                          f'\tdata-reactions-enabled="1"\n'
                          f'\tdata-emit-metadata="0"\n'
                          f'\tdata-input-position="bottom"\n'
-                         f'\tdata-theme="light"\n'
+                         f'\tdata-theme="dark"\n'
                          f'\tdata-lang="zh-CN"\n'
                          f'\tcrossorigin="anonymous"\n'
                          f'\tasync>\n'
