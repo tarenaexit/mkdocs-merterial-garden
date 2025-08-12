@@ -165,13 +165,13 @@
     {
       "id": "27",
       "name": "Index2",
-      "symbolSize": 0,
+      "symbolSize": 1,
       "value": "/note/index2/"
     },
     {
       "id": "28",
       "name": "Index1",
-      "symbolSize": 0,
+      "symbolSize": 1,
       "value": "/note/index1/"
     },
     {
@@ -241,5 +241,10 @@
       "value": "/flinks/"
     }
   ],
-  "links": []
+  "links": [
+    {
+      "source": "27",
+      "target": "28"
+    }
+  ]
 }
