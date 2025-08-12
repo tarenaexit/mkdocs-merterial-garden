@@ -31,8 +31,11 @@ jobs:
       - name: Install requirements
         run: pip3 install requests python-slugify pytz PyYaml
 
-      - name: Get All Discussions
-        run: python3 script/getAllDiscussions.py -r tarenaexit/mkdocs-merterial-garden -t ${{ secrets.PERSONAL_ACCESS_TOKEN }} -o docs/Discussions.txt
+      - name: 获取并保存所有 Discussions content+meta 信息
+        run: |
+          ls -al docs
+          python3 script/getAllDiscussions.py -r shenweiyan/Digital-Garden -t ${{ secrets.PERSONAL_ACCESS_TOKEN }} -m both
+          ls -al docs
 
       - name: Generate blog posts 
         run: python3 script/discussions2blog.py -i docs/Discussions.txt
