@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Wed, 13 Aug 2025 19:16:54 -0000</pubDate>
-    <lastBuildDate>Wed, 13 Aug 2025 19:16:54 -0000</lastBuildDate>
+    <pubDate>Wed, 13 Aug 2025 20:41:32 -0000</pubDate>
+    <lastBuildDate>Wed, 13 Aug 2025 20:41:32 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -32,112 +32,6 @@
     
     
     <item>
-      <title>❗信息</title>
-      
-      
-      
-      
-      <description>&lt;h1 id=&#34;信息&#34;&gt;❗信息&lt;a class=&#34;headerlink&#34; href=&#34;#信息&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;与::替换文件名有关有关
-标签:: &lt;/p&gt;
-&lt;h1 id=&#34;应用程序---&#34;&gt;💻应用程序 - &amp;gt;&lt;a class=&#34;headerlink&#34; href=&#34;#应用程序---&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h1&gt;
-&lt;h2 id=&#34;描述&#34;&gt;🧾描述&lt;a class=&#34;headerlink&#34; href=&#34;#描述&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;在 Windows 环境下，使用批处理（BAT）文件来实现文件和文件夹的批量重命名是一个常见的自动化任务。以下是一些基本的步骤和示例，帮助你完成这个任务。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;批量替换文件名字符串
-&lt;span class=&#34;p&#34;&gt;@&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;echo&lt;/span&gt; off
-chcp 65001
-&lt;span class=&#34;k&#34;&gt;title&lt;/span&gt; 文件名字符替换
-mode con cols=60 lines=20
-&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;:文件要是重名，会提示错误。&lt;/span&gt;
-&lt;span class=&#34;k&#34;&gt;setlocal&lt;/span&gt; EnableDelayedExpansion &lt;span class=&#34;p&#34;&gt;&amp;amp;&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;color&lt;/span&gt; 0a
-&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;nl&#34;&gt;1&lt;/span&gt;
-&lt;span class=&#34;k&#34;&gt;set&lt;/span&gt; &lt;span class=&#34;nv&#34;&gt;a&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;
-&lt;span class=&#34;k&#34;&gt;set&lt;/span&gt; &lt;span class=&#34;nv&#34;&gt;b&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;
-&lt;span class=&#34;k&#34;&gt;set&lt;/span&gt; &lt;span class=&#34;nv&#34;&gt;c&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;
-&lt;span class=&#34;k&#34;&gt;cls&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;echo&lt;/span&gt;.
-&lt;span class=&#34;k&#34;&gt;set&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;/p&lt;/span&gt; &lt;span class=&#34;nv&#34;&gt;a&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt; 请输入要被替换的字符:
-&lt;span class=&#34;k&#34;&gt;cls&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;echo&lt;/span&gt;.
-&lt;span class=&#34;k&#34;&gt;set&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;/p&lt;/span&gt; &lt;span class=&#34;nv&#34;&gt;b&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt; 请输入替换“!a!”的字符，若要去掉“!a!”，请直接回车:
-&lt;span class=&#34;k&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;/f&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;quot;delims=&amp;quot;&lt;/span&gt; &lt;span class=&#34;se&#34;&gt;%%&lt;/span&gt;a &lt;span class=&#34;k&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;dir /b /a /a-d&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;do&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;
-&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;quot;&lt;/span&gt;&lt;span class=&#34;se&#34;&gt;%%&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;~fa&amp;quot;&lt;/span&gt; &lt;span class=&#34;ow&#34;&gt;neq&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;quot;&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;%~0&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;
-&lt;span class=&#34;k&#34;&gt;set&lt;/span&gt; &lt;span class=&#34;nv&#34;&gt;xz&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;se&#34;&gt;%%&lt;/span&gt;~na
-&lt;span class=&#34;k&#34;&gt;ren&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;quot;&lt;/span&gt;&lt;span class=&#34;se&#34;&gt;%%&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;~fa&amp;quot;&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;quot;&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;!xz:%a%=%b%!&lt;/span&gt;&lt;span class=&#34;se&#34;&gt;%%&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;~xa&amp;quot;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;))&lt;/span&gt;
-&lt;span class=&#34;k&#34;&gt;cls&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;echo&lt;/span&gt;.&lt;span class=&#34;p&#34;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;set&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;/p&lt;/span&gt; &lt;span class=&#34;nv&#34;&gt;c&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt; 操作完成，输入 0 返回，输入其它任意字符退出
-&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;quot;&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;!c!&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;==&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;quot;0&amp;quot;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;goto&lt;/span&gt; &lt;span class=&#34;nl&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;else&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;exit&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;span class=&#34;k&#34;&gt;GOTO&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;nl&#34;&gt;EOF&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2 id=&#34;链接&#34;&gt;🌐链接&lt;a class=&#34;headerlink&#34; href=&#34;#链接&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.bilibili.com/opus/952364240050585605&#34;&gt;BAT 文件与文件夹批量重命名实用技巧 - 哔哩哔哩&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <link>https://doc.ccsyue.com/note/Sources/11-%E5%BA%94%E7%94%A8/windows%E6%9B%BF%E6%8D%A2%E6%96%87%E4%BB%B6%E5%90%8D%E6%89%B9%E5%A4%84%E7%90%86/</link>
-      <pubDate>Wed, 13 Aug 2025 19:16:54 +0000</pubDate>
-      <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
-      
-      <guid isPermaLink="true">https://doc.ccsyue.com/note/Sources/11-%E5%BA%94%E7%94%A8/windows%E6%9B%BF%E6%8D%A2%E6%96%87%E4%BB%B6%E5%90%8D%E6%89%B9%E5%A4%84%E7%90%86/</guid>
-      
-    </item>
-    
-    <item>
-      <title>膳食平衡</title>
-      
-      
-      
-      
-      <description>&lt;p&gt;&lt;a href=&#34;http://xys.org/xys/netters/Fang-Zhouzi/kexueshijie/yunwuxin2.txt&#34;&gt;膳食平衡不是“什么都吃，什么都不多吃”&lt;/a&gt;
-&lt;strong&gt;全文摘要&lt;/strong&gt;
-本文是方舟子对“食品泡泡博士”云无心推崇的“平衡膳食宝塔以及居民膳食指南”中三个要点的批判性分析。方舟子认为“吃动平衡”用词不当，“什么都吃，什么都不多吃”存在误导性，而“减盐、减糖、减油”在当下已过时，应更精准地提出减反式和饱和脂肪酸。他主张应准确掌握健康饮食知识，不轻信伪专家。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;关键段落&lt;/strong&gt;
-- &lt;strong&gt;对“吃动平衡”的质疑&lt;/strong&gt;
-方舟子指出“吃动平衡”用词奇怪，质疑其含义，不知是根据吃的多少决定活动量还是相反，认为这种表述不清晰。
-- &lt;strong&gt;对“什么都吃，什么都不多吃”的批判&lt;/strong&gt;
-方舟子认为该说法大有问题，并非所有东西都该吃，像含致癌物的蕨菜、高盐高糖食品等应尽量避免。同时，现实中一些有益健康的食物人们普遍吃得太少，应强调多吃，而非笼统地说“什么都不多吃”。
-- &lt;strong&gt;对“减盐、减糖、减油”的过时性分析&lt;/strong&gt;
-方舟子指出，生物医学界对油（脂肪）有了新认识，危害健康的是反式脂肪酸和饱和脂肪酸，不饱和脂肪酸有益。若一味提倡减油，人们可能用碳水化合物取代，反而不利健康。所以应改为减反式和饱和脂肪酸，以不饱和脂肪酸取代。
-- &lt;strong&gt;正确的健康饮食建议&lt;/strong&gt;
-方舟子认为应将三句话改为：“1、吃动结合。2、膳食平衡。3、减盐、减糖、减反式和饱和脂肪酸。”并强调在健康饮食方面要掌握准确知识，不轻信伪专家。&lt;/p&gt;</description>
-      <link>https://doc.ccsyue.com/note/Sources/09-%E9%A5%AE%E9%A3%9F/%E8%86%B3%E9%A3%9F%E5%B9%B3%E8%A1%A1/</link>
-      <pubDate>Wed, 13 Aug 2025 19:16:54 +0000</pubDate>
-      <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
-      
-      <guid isPermaLink="true">https://doc.ccsyue.com/note/Sources/09-%E9%A5%AE%E9%A3%9F/%E8%86%B3%E9%A3%9F%E5%B9%B3%E8%A1%A1/</guid>
-      
-    </item>
-    
-    <item>
-      <title>地中海饮食</title>
-      
-      
-      
-      
-      <description>&lt;hr /&gt;
-&lt;p&gt;created:
-  - &amp;ldquo;2025-08-14 03:16&amp;rdquo;
-tags:
-  - Inbox/card
-- public: false&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2 id=&#34;方舟子2024-世界上最健康的饮食&#34;&gt;&lt;a href=&#34;http://xys.org/xys/netters/Fang-Zhouzi/kexueshijie/dietary2.txt&#34;&gt;方舟子2024-世界上最健康的饮食&lt;/a&gt;&lt;a class=&#34;headerlink&#34; href=&#34;#方舟子2024-世界上最健康的饮食&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;全文摘要&lt;/strong&gt;
-本文介绍了地中海饮食，由美国明尼苏达大学生物学家基斯在上世纪五十年代提出，源于其对意大利那不勒斯劳工健康状况的研究，并通过“七国项目”深入探究传统饮食与心血管疾病发病率的关系。地中海饮食以植物性食物为基础，适量摄入动物性食物，使用橄榄油烹饪，少用盐。研究表明，它能降低多种疾病风险，被认为是世界上最健康的饮食。但需注意，地中海饮食特指地中海个别地区五六十年代的传统饮食，与现在的饮食有差异。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;关键段落&lt;/strong&gt;
-- &lt;strong&gt;起源与研究&lt;/strong&gt;：基斯在上世纪五十年代去意大利那不勒斯访问，发现当地劳工身体很健康，心血管疾病发病率低，于是开展“七国项目”研究传统饮食与心血管疾病发病率的关系。
-- &lt;strong&gt;研究成果与推广&lt;/strong&gt;：上世纪七十年代基斯发表研究结果，发现意大利、希腊乡村地区心血管疾病发病率低，与当地传统饮食有关，将其命名为“地中海饮食”。九十年代被美国媒体炒热，大量研究发现其能降低多种疾病风险。
-- &lt;strong&gt;概念辨析&lt;/strong&gt;：地中海饮食和地中海烹饪不同，饮食关注健康，烹饪关注美味。地中海饮食仅指地中海个别地区传统饮食，不包括整个地中海地区，且是五六十年代的农村饮食，现在当地饮食已发生变化。
-- &lt;strong&gt;饮食特点&lt;/strong&gt;：以植物性食物为基础，吃谷物、蔬菜、水果；适量吃动物性食物，包括鱼、白肉、奶制品，少红肉；适量喝红葡萄酒；烹饪用橄榄油。
-- &lt;strong&gt;饮食计划&lt;/strong&gt;：每顿正餐吃1～2份全谷物、2份蔬菜、1份水果，零食吃橄榄、坚果等，每天2次奶制品，适量红葡萄酒。蛋白质食品多样化，每周吃2次以上鱼、2次白肉、2次豆类、2～4次鸡蛋，少红肉和加工肉制品，少甜食。烹饪用橄榄油，少盐。
-- &lt;strong&gt;与中餐对比及启示&lt;/strong&gt;：地中海饮食与中国饮食差别大，中国人难以坚持，但可从中得到启发，如用富含单不饱和脂肪酸的植物油炒菜，少用盐，用香料等代替盐来调味。&lt;/p&gt;</description>
-      <link>https://doc.ccsyue.com/note/Sources/09-%E9%A5%AE%E9%A3%9F/%E5%9C%B0%E4%B8%AD%E6%B5%B7%E9%A5%AE%E9%A3%9F/</link>
-      <pubDate>Wed, 13 Aug 2025 19:16:54 +0000</pubDate>
-      <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
-      
-      <guid isPermaLink="true">https://doc.ccsyue.com/note/Sources/09-%E9%A5%AE%E9%A3%9F/%E5%9C%B0%E4%B8%AD%E6%B5%B7%E9%A5%AE%E9%A3%9F/</guid>
-      
-    </item>
-    
-    <item>
       <title>🍽 [[膳食平衡]] -&amp;gt;</title>
       
       
@@ -148,80 +42,11 @@ tags:
 &lt;!-- more --&gt;
 &lt;h1 id=&#34;-地中海饮食--&#34;&gt;🍽 [[地中海饮食]] -&amp;gt;&lt;a class=&#34;headerlink&#34; href=&#34;#-地中海饮食--&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h1&gt;
 &lt;p&gt;&lt;img alt=&#34;地中海饮食食谱&#34; src=&#34;https://cdn.ccsyue.com/picx-images-hosting/master/20250813/image.491ljrz5rw.webp&#34; /&gt;&lt;/p&gt;</description>
-      <link>https://doc.ccsyue.com/note/Cards/%E9%A3%9F%E8%B0%B1/</link>
-      <pubDate>Wed, 13 Aug 2025 19:16:54 +0000</pubDate>
+      <link>https://doc.ccsyue.com/note/%E9%A3%9F%E8%B0%B1/</link>
+      <pubDate>Wed, 13 Aug 2025 20:41:33 +0000</pubDate>
       <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
       
-      <guid isPermaLink="true">https://doc.ccsyue.com/note/Cards/%E9%A3%9F%E8%B0%B1/</guid>
-      
-    </item>
-    
-    <item>
-      <title>📅每日日志{{date：dd-mm-yyyy}}}</title>
-      
-      
-      
-      
-      <description>&lt;h1 id=&#34;每日日志datedd-mm-yyyy&#34;&gt;📅每日日志{{date：dd-mm-yyyy}}}&lt;a class=&#34;headerlink&#34; href=&#34;#每日日志datedd-mm-yyyy&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h1&gt;
-&lt;hr /&gt;
-&lt;h2 id=&#34;日常任务&#34;&gt;🔷日常任务&lt;a class=&#34;headerlink&#34; href=&#34;#日常任务&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;[ ] 早餐&lt;/li&gt;
-&lt;li&gt;[ ] 研究一些东西&lt;/li&gt;
-&lt;li&gt;[ ] 从事个人项目&lt;/li&gt;
-&lt;li&gt;[ ] 锻炼&lt;ul&gt;
-&lt;li&gt;[ ] 俯卧撑&lt;/li&gt;
-&lt;li&gt;[ ] 坐下&lt;/li&gt;
-&lt;li&gt;[ ] 深处&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;业务&#34;&gt;🕴业务&lt;a class=&#34;headerlink&#34; href=&#34;#业务&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h1&gt;
-&lt;h2 id=&#34;目标&#34;&gt;🎯目标&lt;a class=&#34;headerlink&#34; href=&#34;#目标&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;工作&#34;&gt;🚀工作&lt;a class=&#34;headerlink&#34; href=&#34;#工作&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;提醒&#34;&gt;📕提醒&lt;a class=&#34;headerlink&#34; href=&#34;#提醒&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;阅读&#34;&gt;📚阅读&lt;a class=&#34;headerlink&#34; href=&#34;#阅读&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;挥之不去的感觉观察和思想&#34;&gt;💬挥之不去的感觉，观察和思想&lt;a class=&#34;headerlink&#34; href=&#34;#挥之不去的感觉观察和思想&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;挥之不去的感觉&lt;ol&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;观察&lt;ol&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;想法&lt;ol&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;反思&#34;&gt;🔃反思&lt;a class=&#34;headerlink&#34; href=&#34;#反思&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
-&lt;h2 id=&#34;1&#34;&gt;1.&lt;a class=&#34;headerlink&#34; href=&#34;#1&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
-&lt;h2 id=&#34;今天的笔记&#34;&gt;📅今天的笔记&lt;a class=&#34;headerlink&#34; href=&#34;#今天的笔记&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;🕛9:00 &lt;ul&gt;
-&lt;li&gt;沃克和&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <link>https://doc.ccsyue.com/note/0Inbox/2025%E5%B9%B48%E6%9C%8814%E6%97%A5/</link>
-      <pubDate>Wed, 13 Aug 2025 19:16:54 +0000</pubDate>
-      <source url="https://doc.ccsyue.com/feed_rss_created.xml">知识花园</source>
-      
-      <guid isPermaLink="true">https://doc.ccsyue.com/note/0Inbox/2025%E5%B9%B48%E6%9C%8814%E6%97%A5/</guid>
+      <guid isPermaLink="true">https://doc.ccsyue.com/note/%E9%A3%9F%E8%B0%B1/</guid>
       
     </item>
     
