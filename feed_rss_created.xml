@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Tue, 13 Oct 2026 01:07:54 -0000</pubDate>
-    <lastBuildDate>Tue, 13 Oct 2026 01:07:54 -0000</lastBuildDate>
+    <pubDate>Tue, 13 Oct 2026 23:11:41 -0000</pubDate>
+    <lastBuildDate>Tue, 13 Oct 2026 23:11:41 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -1601,7 +1601,7 @@ SCREEGO_TLS_KEY_FILE=/root/screego-demo/server.key
 &lt;h3 id=&#34;references&#34;&gt;References&lt;a class=&#34;headerlink&#34; href=&#34;#references&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;code&gt;[1]``&lt;/code&gt;
 &lt;em&gt;&lt;strong&gt;screego: https://github.com/screego/server&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;[2]&lt;/code&gt;&lt;em&gt;&lt;em&gt;官方文档&lt;/em&gt;__:&lt;/em&gt; &lt;em&gt;https://screego.net/#/&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;[2]&lt;/code&gt;_&lt;em&gt;官方文档&lt;/em&gt;__:_ &lt;em&gt;https://screego.net/#/&lt;/em&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;原文始发于微信公众号（阿拉平平）：&lt;a href=&#34;http://mp.weixin.qq.com/s/kTAnZaS0omDJuNNoMclmpg&#34;&gt;screego 安装配置教程：一款简单易用的屏幕共享工具&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;</description>
@@ -1843,7 +1843,7 @@ SCREEGO_TLS_KEY_FILE=/root/screego-demo/server.key
 &lt;p&gt;2.程序的三种基本控制结构是顺序结构、选择结构和循环结构。&amp;rdquo;一般结构&amp;rdquo;不是程序设计中的标准控制结构。因此，正确答案是 D.一般结构。&lt;/p&gt;
 &lt;p&gt;3.IP地址中，前三个十进制数表示网络地址，最后一个表示主机地址。小杰家中的宽带路由器的IP地址为192.168.1.1，这意味着网络地址是192.168.1，而1已经被路由器使用。因此，电脑不能使用192.168.1.1，因为它会与路由器的IP地址冲突。192.168.1.256是无效的，因为256超出了单个字节的范围。192.168.2.1属于另一个网络。因此，正确答案是 B.192.168.1.10。&lt;/p&gt;
 &lt;p&gt;4.音频文件的大小可以通过以下公式计算：
-声音存储空间（B）=采样频率（Hz）&lt;em&gt;量化位数(bits)&lt;/em&gt;声道数&lt;em&gt;时间（s）/8
+声音存储空间（B）=采样频率（Hz）&lt;em&gt;量化位数(bits)&lt;em&gt;声道数&lt;/em&gt;时间（s）/8
 1字节 = 8位(1B=8bits)
 1 KB= 1024 B 
 由于量化位数是以位为单位，我们需要将其转换为字节（1字节 = 8位）。因此，计算如下：
@@ -3921,7 +3921,7 @@ Performance Culture, short-term result, but people stop innovating, making mista
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
 &lt;h3 id=&#34;提示_2&#34;&gt;提示&lt;a class=&#34;headerlink&#34; href=&#34;#提示_2&#34; title=&#34;Permanent link&#34;&gt;&amp;para;&lt;/a&gt;&lt;/h3&gt;
 &lt;ol&gt;
-&lt;li&gt;请注意，代码中的if t%53=0:应该是if t%53 == 0:，因为在Python中，==用于比较操作符，而=用于赋值操作。此外，for循环的范围&lt;strong&gt;&lt;em&gt;需要根据实际情况来确定，例如，如果要检查从65206到65306之间的车牌号码，可以将&lt;/em&gt;&lt;/strong&gt;替换为1。如果要检查更大范围内的车牌号码，可以相应地增加这个数字。&lt;/li&gt;
+&lt;li&gt;请注意，代码中的if t%53=0:应该是if t%53 == 0:，因为在Python中，==用于比较操作符，而=用于赋值操作。此外，for循环的范围___需要根据实际情况来确定，例如，如果要检查从65206到65306之间的车牌号码，可以将___替换为1。如果要检查更大范围内的车牌号码，可以相应地增加这个数字。&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;table class=&#34;highlighttable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;linenos&#34;&gt;&lt;div class=&#34;linenodiv&#34;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&#34;normal&#34;&gt;1&lt;/span&gt;
 &lt;span class=&#34;normal&#34;&gt;2&lt;/span&gt;
