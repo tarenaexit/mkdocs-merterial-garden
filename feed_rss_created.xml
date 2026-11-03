@@ -13,12 +13,12 @@
     <language>zh</language>
 
     
-    <pubDate>Sun, 01 Nov 2026 22:35:47 -0000</pubDate>
-    <lastBuildDate>Sun, 01 Nov 2026 22:35:47 -0000</lastBuildDate>
+    <pubDate>Tue, 03 Nov 2026 01:27:35 -0000</pubDate>
+    <lastBuildDate>Tue, 03 Nov 2026 01:27:35 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
-    <generator>MkDocs RSS plugin - v1.19.0</generator>
+    <generator>MkDocs RSS plugin - v1.20.0</generator>
 
     
     
@@ -133,7 +133,7 @@
       
       
         
-      <author>天边飘过一行字</author>
+      <dc:creator>天边飘过一行字</dc:creator>
         
       
       
@@ -161,7 +161,7 @@
       
       
         
-      <author>天边飘过一行字</author>
+      <dc:creator>天边飘过一行字</dc:creator>
         
       
       
@@ -232,7 +232,7 @@
       
       
         
-      <author>tarenaexit</author>
+      <dc:creator>tarenaexit</dc:creator>
         
       
       
@@ -256,7 +256,7 @@
       
       
         
-      <author>tarenaexit</author>
+      <dc:creator>tarenaexit</dc:creator>
         
       
       
@@ -458,7 +458,7 @@
       
       
         
-      <author>天边飘过一行字</author>
+      <dc:creator>天边飘过一行字</dc:creator>
         
       
       
@@ -493,7 +493,7 @@
       
       
         
-      <author>天边飘过一行字</author>
+      <dc:creator>天边飘过一行字</dc:creator>
         
       
       
@@ -1081,7 +1081,7 @@
       
       
         
-      <author>tarenaexit</author>
+      <dc:creator>tarenaexit</dc:creator>
         
       
       
@@ -1119,7 +1119,7 @@
       
       
         
-      <author>tarenaexit</author>
+      <dc:creator>tarenaexit</dc:creator>
         
       
       
@@ -1161,7 +1161,7 @@
       
       
         
-      <author>天边飘过一行字</author>
+      <dc:creator>天边飘过一行字</dc:creator>
         
       
       
@@ -1223,7 +1223,7 @@
       
       
         
-      <author>天边飘过一行字</author>
+      <dc:creator>天边飘过一行字</dc:creator>
         
       
       
@@ -1330,7 +1330,7 @@
       
       
         
-      <author>天边飘过一行字</author>
+      <dc:creator>天边飘过一行字</dc:creator>
         
       
       
@@ -1354,7 +1354,7 @@
       
       
         
-      <author>天边飘过一行字</author>
+      <dc:creator>天边飘过一行字</dc:creator>
         
       
       
@@ -1374,7 +1374,7 @@
       
       
         
-      <author>tarenaexit</author>
+      <dc:creator>tarenaexit</dc:creator>
         
       
       
@@ -1415,7 +1415,7 @@ IFS=&#34;$OIFS&#34;
       
       
         
-      <author>tarenaexit</author>
+      <dc:creator>tarenaexit</dc:creator>
         
       
       
@@ -1477,7 +1477,7 @@ ForwardToSyslog=no
       
       
         
-      <author>tarenaexit</author>
+      <dc:creator>tarenaexit</dc:creator>
         
       
       
@@ -1508,7 +1508,7 @@ ForwardToSyslog=no
       
       
         
-      <author>tarenaexit</author>
+      <dc:creator>tarenaexit</dc:creator>
         
       
       
@@ -1618,7 +1618,7 @@ SCREEGO_TLS_KEY_FILE=/root/screego-demo/server.key
       
       
         
-      <author>tarenaexit</author>
+      <dc:creator>tarenaexit</dc:creator>
         
       
       
@@ -1754,7 +1754,7 @@ SCREEGO_TLS_KEY_FILE=/root/screego-demo/server.key
       
       
         
-      <author>tarenaexit</author>
+      <dc:creator>tarenaexit</dc:creator>
         
       
       
@@ -1774,7 +1774,7 @@ SCREEGO_TLS_KEY_FILE=/root/screego-demo/server.key
       
       
         
-      <author>tarenaexit</author>
+      <dc:creator>tarenaexit</dc:creator>
         
       
       
@@ -1831,7 +1831,7 @@ SCREEGO_TLS_KEY_FILE=/root/screego-demo/server.key
       
       
         
-      <author>tarenaexit</author>
+      <dc:creator>tarenaexit</dc:creator>
         
       
       
@@ -1889,7 +1889,7 @@ SCREEGO_TLS_KEY_FILE=/root/screego-demo/server.key
       
       
         
-      <author>tarenaexit</author>
+      <dc:creator>tarenaexit</dc:creator>
         
       
       
@@ -1946,7 +1946,7 @@ SCREEGO_TLS_KEY_FILE=/root/screego-demo/server.key
       
       
         
-      <author>tarenaexit</author>
+      <dc:creator>tarenaexit</dc:creator>
         
       
       
@@ -2088,7 +2088,7 @@ cat videos.txt &amp;gt; /home/yetpage/videotxt/videois.txt
       
       
         
-      <author>天边飘过一行字</author>
+      <dc:creator>天边飘过一行字</dc:creator>
         
       
       
@@ -3056,7 +3056,7 @@ cat videos.txt &amp;gt; /home/yetpage/videotxt/videois.txt
       
       
         
-      <author>tarenaexit</author>
+      <dc:creator>tarenaexit</dc:creator>
         
       
       
@@ -3125,7 +3125,7 @@ ffmpeg -i &lt;span class=&#34;s2&#34;&gt;&#34;in.mp4&#34;&lt;/span&gt; -c:v libx
       
       
         
-      <author>tarenaexit</author>
+      <dc:creator>tarenaexit</dc:creator>
         
       
       
@@ -3144,7 +3144,7 @@ ffmpeg -i &lt;span class=&#34;s2&#34;&gt;&#34;in.mp4&#34;&lt;/span&gt; -c:v libx
       
       
         
-      <author>tarenaexit</author>
+      <dc:creator>tarenaexit</dc:creator>
         
       
       
@@ -3168,7 +3168,7 @@ ffmpeg -i &lt;span class=&#34;s2&#34;&gt;&#34;in.mp4&#34;&lt;/span&gt; -c:v libx
       
       
         
-      <author>tarenaexit</author>
+      <dc:creator>tarenaexit</dc:creator>
         
       
       
@@ -3191,7 +3191,7 @@ ffmpeg -i &lt;span class=&#34;s2&#34;&gt;&#34;in.mp4&#34;&lt;/span&gt; -c:v libx
       
       
         
-      <author>tarenaexit</author>
+      <dc:creator>tarenaexit</dc:creator>
         
       
       
@@ -3211,7 +3211,7 @@ ffmpeg -i &lt;span class=&#34;s2&#34;&gt;&#34;in.mp4&#34;&lt;/span&gt; -c:v libx
       
       
         
-      <author>tarenaexit</author>
+      <dc:creator>tarenaexit</dc:creator>
         
       
       
@@ -3261,7 +3261,7 @@ ffmpeg -i &lt;span class=&#34;s2&#34;&gt;&#34;in.mp4&#34;&lt;/span&gt; -c:v libx
       
       
         
-      <author>天边飘过一行字</author>
+      <dc:creator>天边飘过一行字</dc:creator>
         
       
       
@@ -3318,7 +3318,7 @@ ffmpeg -i &lt;span class=&#34;s2&#34;&gt;&#34;in.mp4&#34;&lt;/span&gt; -c:v libx
       
       
         
-      <author>tarenaexit</author>
+      <dc:creator>tarenaexit</dc:creator>
         
       
       
@@ -3467,7 +3467,7 @@ ffmpeg -i &lt;span class=&#34;s2&#34;&gt;&#34;in.mp4&#34;&lt;/span&gt; -c:v libx
       
       
         
-      <author>天边飘过一行字</author>
+      <dc:creator>天边飘过一行字</dc:creator>
         
       
       
@@ -3538,7 +3538,7 @@ Performance Culture, short-term result, but people stop innovating, making mista
       
       
         
-      <author>tarenaexit</author>
+      <dc:creator>tarenaexit</dc:creator>
         
       
       
@@ -3562,7 +3562,7 @@ Performance Culture, short-term result, but people stop innovating, making mista
       
       
         
-      <author>tarenaexit</author>
+      <dc:creator>tarenaexit</dc:creator>
         
       
       
@@ -3589,7 +3589,7 @@ Performance Culture, short-term result, but people stop innovating, making mista
       
       
         
-      <author>tarenaexit</author>
+      <dc:creator>tarenaexit</dc:creator>
         
       
       
@@ -3692,7 +3692,7 @@ Performance Culture, short-term result, but people stop innovating, making mista
       
       
         
-      <author>tarenaexit</author>
+      <dc:creator>tarenaexit</dc:creator>
         
       
       
@@ -3719,7 +3719,7 @@ Performance Culture, short-term result, but people stop innovating, making mista
       
       
         
-      <author>tarenaexit</author>
+      <dc:creator>tarenaexit</dc:creator>
         
       
       
@@ -4378,7 +4378,7 @@ BMI数值范围 BMI数值范围
       
       
         
-      <author>tarenaexit</author>
+      <dc:creator>tarenaexit</dc:creator>
         
       
       
@@ -4563,7 +4563,7 @@ BMI数值范围 BMI数值范围
       
       
         
-      <author>tarenaexit</author>
+      <dc:creator>tarenaexit</dc:creator>
         
       
       
@@ -4719,7 +4719,7 @@ BMI数值范围 BMI数值范围
       
       
         
-      <author>天边飘过一行字</author>
+      <dc:creator>天边飘过一行字</dc:creator>
         
       
       
@@ -4791,7 +4791,7 @@ BMI数值范围 BMI数值范围
       
       
         
-      <author>天边飘过一行字</author>
+      <dc:creator>天边飘过一行字</dc:creator>
         
       
       
@@ -4810,7 +4810,7 @@ BMI数值范围 BMI数值范围
       
       
         
-      <author>天边飘过一行字</author>
+      <dc:creator>天边飘过一行字</dc:creator>
         
       
       
